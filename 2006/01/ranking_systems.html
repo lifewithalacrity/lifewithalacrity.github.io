@@ -183,8 +183,8 @@ This time we&#39;re going to dig more into comparison ranking systems, by focusi
 
 <body class="layout-two-column-right post">
 	
-	<div class=container id=container>
-		<div class=pkg id=container-inner>
+	<div id=container class=container>
+		<div id=container-inner class=pkg>
 			
                 <div class=row>
      
@@ -195,7 +195,7 @@ This time we&#39;re going to dig more into comparison ranking systems, by focusi
 
 <!-- banner -->
 <div id=banner>
-	<div class=pkg id=banner-inner>
+	<div id=banner-inner class=pkg>
 		
 		<h1 id=banner-header><a href=../.. accesskey=1>Life With Alacrity</a></h1>
 		<h2 id=banner-description>
@@ -224,9 +224,9 @@ This time we&#39;re going to dig more into comparison ranking systems, by focusi
 			<div id=pagebody>
 
 
-				<div class=pkg id=pagebody-inner>
+				<div id=pagebody-inner class=pkg>
                                         <div id=alpha>
-						<div class=pkg id=alpha-inner>
+						<div id=alpha-inner class=pkg>
 							<!-- the plain version removes the extra jquery -->
 <!-- content nav -->
 <p class=content-nav>
@@ -252,7 +252,7 @@ This time we&#39;re going to dig more into comparison ranking systems, by focusi
 	<h2 class=date-header>January 03, 2006</h2>
 
 
-<div id=entry-8200239 class="entry-category-social_software entry-category-user_interface entry-category-webtech entry-author-christophera entry-type-post entry">
+<div class="entry-category-social_software entry-category-user_interface entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-8200239>
    <div class=entry-inner>
 			<h3 class=entry-header>Collective Choice: Competitive Ranking Systems</h3>
 	
@@ -273,8 +273,8 @@ This time we&#39;re going to dig more into comparison ranking systems, by focusi
 
 <p>In our original article we discussed <a href=../../2005/12/collective_choi.html>rating systems</a> as being largely subjective and ranking systems as being objective, but the situation isn't nearly as simple as that. In truth, there's a clear spectrum of ratings and rankings with varying amounts of subjectivity and objectivity in each collective choice system. </p>
 
-<p><a href=http://www.bcsfootball.org/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/bcs_1.png style="margin: 0px 5px 5px 0px; float: left;" title=Bcs_1 alt=Bcs_1></a>
-<a href=http://www.officialworldgolfranking.com/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/golfrankings_1.png style="margin: 0px 0px 5px 5px; float: right;" title=Golfrankings_1 alt=Golfrankings_1></a>
+<p><a href=http://www.bcsfootball.org/><img border=0 src=../../photos/uncategorized/bcs_1.png alt=Bcs_1 title=Bcs_1 style="margin: 0px 5px 5px 0px; float: left;"></a>
+<a href=http://www.officialworldgolfranking.com/><img border=0 src=../../photos/uncategorized/golfrankings_1.png alt=Golfrankings_1 title=Golfrankings_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 
 The <a href=http://en.wikipedia.org/wiki/Bowl_Championship_Series>Bowl Championship Series</a> (BCS) for college football is a good example of a ranking system that explicitly allows a subjective component. It involves a complex mathematical formula that includes things like win/loss ratios, but also sportswriters' and coaches' ratings. </p>
 
@@ -284,7 +284,7 @@ The <a href=http://en.wikipedia.org/wiki/Bowl_Championship_Series>Bowl Champions
 
 <h3><a name=algorithmic_rankings></a>Algorithmic Rankings</h3>
 
-<p><a href=http://www.kosteniuk.com/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/wcsrating_2.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Wcsrating_2 alt=Wcsrating_2></a>
+<p><a href=http://www.kosteniuk.com/><img border=0 src=../../photos/uncategorized/wcsrating_2.jpg alt=Wcsrating_2 title=Wcsrating_2 style="margin: 0px 0px 5px 5px; float: right;"></a>
 This brings us back to the <a href=http://en.wikipedia.org/wiki/ELO_rating_system>ELO system</a>, a ranking system originally designed for chess which is fairly well-known and well-understood. As we said in our overview article, "[ELO] builds a simple distribution of player ratings around a norm (typically 1500 points), then awards or deducts points based upon wins and losses, with the total sum of all points in the system staying constant. Players are then ranked according to their comparative scores."</p>
 
 <p>The big difference between this and the previously discussed systems is that it's almost entirely objective; in fact it uses a statistical basis to create an underlying mathematical model for rankings, rather than allowing human subjectivity to get in the way.<br>
@@ -326,7 +326,7 @@ R' = 1900 + 32 * (1 - .91)<br>R' = 1900 + 32 * .09<br>R' = 1900 + 2.88<br>R' = 1
 
 <h3><a name=days_of_wonder></a>Variations of a Theme: Days of Wonder</h3>
 
-<p><a href=http://www.daysofwonder.com/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/dowlogo_1.gif style="margin: 0px 0px 5px 5px; float: right;" title=Dowlogo_1 alt=Dowlogo_1></a>
+<p><a href=http://www.daysofwonder.com/><img border=0 src=../../photos/uncategorized/dowlogo_1.gif alt=Dowlogo_1 title=Dowlogo_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 ELO is probably the most used ranking system in the world. You can find it in use for Go, <em>Tantrix</em>, and many other games. Days of Wonder, producers of <em>Gang of Four</em>, <em>Ticket to Ride</em>, and many other games use a variant of the system which they describe on <a href="http://www.gangoffour.com/index.php?t=content&amp;sub=ranking">their website</a>.</p>
 
 <p>They identify three core problems with ELO: </p>
@@ -345,7 +345,7 @@ ELO is probably the most used ranking system in the world. You can find it in us
 
 <p>(It should be pointed out that using the number "20" to define a provisional player, and making a player less provisional in clean 5% steps, inevitably offers yet another small, subjective element into this mathematical formula; as we'll see momentarily Microsoft has more recently incorporated the idea of provisional uncertainty into their core mathematical model, much as the whole ELO system originally turned subjective win and loss statistics into tighter mathematics.)</p>
 
-<p><a href=http://www.skotos.net/games/wonder/TT/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/ttrskotosrankings.png style="margin: 0px 5px 5px 0px; float: left;" title=Ttrskotosrankings alt=Ttrskotosrankings></a>
+<p><a href=http://www.skotos.net/games/wonder/TT/><img border=0 src=../../photos/uncategorized/ttrskotosrankings.png alt=Ttrskotosrankings title=Ttrskotosrankings style="margin: 0px 5px 5px 0px; float: left;"></a>
 Finally, to resolve the situation of multiple players, Days of Wonder considers each game to be a set of duels, as described here:</p>
 
 <blockquote><p><em>
@@ -359,12 +359,12 @@ There are 4 players in a </em><em>Gang of Four game. Let's name A the winning pl
 
 <h3><a name=xbox_360_live></a>Variations on a Theme: XBox 360 Live</h3>
 
-<p><a href=http://www.research.microsoft.com/mlp/trueskill/default.aspx><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/trueskillxbox360.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Trueskillxbox360 alt=Trueskillxbox360></a>
+<p><a href=http://www.research.microsoft.com/mlp/trueskill/default.aspx><img border=0 src=../../photos/uncategorized/trueskillxbox360.jpg alt=Trueskillxbox360 title=Trueskillxbox360 style="margin: 0px 0px 5px 5px; float: right;"></a>
 An even more recent large-scale ranking system is the <a href="http://research.microsoft.com/displayArticle.aspx?id=1361">TrueSkill</a> system developed by Microsoft for use with the XBox 360. It appears to be an expanded variant of the <a href=http://math.bu.edu/people/mg/glicko/glicko.doc/glicko.html>glicko</a> ranking system used by the <a href=http://www.freechess.org/>free internet chess server</a>.</p>
 
 <p>Many of the problems identified by Microsoft were the same as those already noted by Days of Wonder and others, including: the uncertainty of provisional ratings and the need to rank players in multiplayer games. However, the TrueSkill system notably expands both issues. Ranking uncertainty is now defined as a mathematical concept and the rankings now support not just multiple players, but also multiple teams.</p>
 
-<p><a href=http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/trueskill.gif onclick="window.open(this.href, '_blank', 'width=430,height=324,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src=../../images/trueskill.gif alt=Trueskill height=150 style="margin: 0px 5px 5px 0px; float: left;" border=0 width=200 title=Trueskill></a>TrueSkill explicitly includes two values in any ranking: a skill level and an uncertainty level. The first, like the more common ELO ranking, tells how good a player is. The second states how sure that ranking is. The uncertainty rating is effectively a margin of error, similar to those we saw in <em>polling systems</em>. If a first-time player has a skill rating of 25 with an uncertainty rating of 8.3 that means that his skill is probably somewhere in the range of 16.7 to 33.3, a pretty wide range, but then this is a totally untested player. According to benchmarks that Microsoft produced, 99.99% of actual skill levels were within 3x of the uncertainty rating, and 100% were within 4x.</p>
+<p><a href=../../.shared/image.html?/photos/uncategorized/trueskill.gif onclick="window.open(this.href, '_blank', 'width=430,height=324,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src=../../images/trueskill.gif alt=Trueskill height=150 style="margin: 0px 5px 5px 0px; float: left;" border=0 width=200 title=Trueskill></a>TrueSkill explicitly includes two values in any ranking: a skill level and an uncertainty level. The first, like the more common ELO ranking, tells how good a player is. The second states how sure that ranking is. The uncertainty rating is effectively a margin of error, similar to those we saw in <em>polling systems</em>. If a first-time player has a skill rating of 25 with an uncertainty rating of 8.3 that means that his skill is probably somewhere in the range of 16.7 to 33.3, a pretty wide range, but then this is a totally untested player. According to benchmarks that Microsoft produced, 99.99% of actual skill levels were within 3x of the uncertainty rating, and 100% were within 4x.</p>
 
 <p>The rest of TrueSkill's innovations are built around this model of uncertainty. All players win or lose skill points, based upon how many players they beat or lose to, and they also decrease their uncertainty rating as they play more games. However, uncertainty is decreased more for players toward the middle of a pack within a game than those around the edges (because on the edges the players could actually be much better or much worse than it is possible to see from a specific game). In addition, TrueSkill is only a zero-sum ranking system for players at the exact same level of uncertainty. The more uncertainty that an opponent possesses, the smaller the weighting of any gain or loss (much like the simpler system that Days of Wonder uses, which bases weightings of games against provisional players as <code>n/20</code>).</p>
 
@@ -375,12 +375,12 @@ An even more recent large-scale ranking system is the <a href="http://research.m
 <li><p>Incorporating the uncertainty of ratings further into the core mathematical model, rather than using a somewhat more subjective model such as that described by Days of Wonder for provisional players.</li>
 </ul>
 
-<p><a href=http://www.research.microsoft.com/mlp/trueskill/RankCalculator.aspx><img src=http://lifewithalacrity.blogs.com/photos/uncategorized/trueskillcalculator_1.png alt=Trueskillcalculator_1 style="margin: 0px 0px 5px 5px; float: right;" class=image-full border=0 title=Trueskillcalculator_1></a>
+<p><a href=http://www.research.microsoft.com/mlp/trueskill/RankCalculator.aspx><img src=../../photos/uncategorized/trueskillcalculator_1.png alt=Trueskillcalculator_1 style="margin: 0px 0px 5px 5px; float: right;" class=image-full border=0 title=Trueskillcalculator_1></a>
 The TrueSkill calculations are a bit complex. In general, that's not a problem for a computer-based ranking model because you can have a computer doing all the computations, and players only need to understand the results. However the two-part ranking system used by TrueSkill, which notes both skill level and uncertainty, does offer a potential problem on this latter point. <em>Can players understand it?</em> In general, the concept of uncertainty will not be understood by people other that statisticians, thus raising a real user-interface question with the TrueSkill system -- and the exact sort of thing that designers of new ranking systems will need to consider.</p>
 
 <h3><a name=a_tale_in_the_desert></a>Variations on a Theme: A Tale in the Desert</h3>
 
-<p><a href=http://www.atid.com><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/a_tale_in_the_desert_logo_1.jpg style="margin: 0px 0px 5px 5px; float: right;" title=A_tale_in_the_desert_logo_1 alt=A_tale_in_the_desert_logo_1></a>
+<p><a href=http://www.atid.com><img border=0 src=../../photos/uncategorized/a_tale_in_the_desert_logo_1.jpg alt=A_tale_in_the_desert_logo_1 title=A_tale_in_the_desert_logo_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
  The online game, <a href=http://www.atitd.com>A Tale in the Desert</a>, identified a different problem with the ELO system: <em>cheating</em>. This is a uniquely Internet-based problem, because there users can create fake accounts, then defeat those accounts to win points. This can also be done more subtly, by having multiple additional accounts build up the rating of that fake account before the fake account is defeated. So a totally new ranking system, called the <a href=http://wiki.atitd.net/tale1/EGenesis_Ranking_System>eGenesis Ranking System</a>, was created.</p>
 
 <p>Each player is ranked through a 256-bit vector, half of which is initially set to 0 and half of which is set to 1 (therefore creating an average ranking of 128). Whenever a match occurs between players a hash function based on the players' names mathematically selects 32 of those bits, 8 of which are then randomly selected. Among those bits, any 1s in the loser's vector which correspond to 0s in the winner's vector are "transferred".</p>
@@ -389,7 +389,7 @@ The TrueSkill calculations are a bit complex. In general, that's not a problem f
 
 <p>However, the system also prevents the collusion earlier noted. Statistically, a single player will only ever gain 8 ranking points from another new player, since out of the 32 bit hash only eight of those will, on average, be in the correct 0-1 configuration. Expanding a group of players expands the number of points that can potentially be gained, but within real limits.</p>
 
-<p><a href=../../2005/10/dunbar_group_co.html><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/wowsocialmap_1.png style="margin: 0px 0px 5px 5px; float: right;" title=Wowsocialmap_1 alt=Wowsocialmap_1></a>
+<p><a href=../../2005/10/dunbar_group_co.html><img border=0 src=../../photos/uncategorized/wowsocialmap_1.png alt=Wowsocialmap_1 title=Wowsocialmap_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 In fact, the eGenesis system prevents cheating by measuring the size of social networks, then limiting the number of ranking points that can be earned within a social network. It's not necessarily the only way to measure social network size, but its methodology points toward social software as an interesting area for additional study of ranking systems.</p>
 
 <p>As with XBox's TrueSkill, the eGenesis algorithms are overall fairly sophisticated and confusing, perhaps more so than TrueSkill itself. However, unlike TrueSkill the output is very simple: a skill number between 0 and 255. The intricacies are hidden by the system.</p>
@@ -420,17 +420,17 @@ In fact, the eGenesis system prevents cheating by measuring the size of social n
 
 <h3><a name=tourneys></a>Different Themes: Tourneys</h3>
 
-<p><a href=http://www2.kumc.edu/itc/staff/rknight/tourneys.htm><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/tournament_1.png style="margin: 0px 0px 5px 5px; float: right;" title=Tournament_1 alt=Tournament_1></a>
+<p><a href=http://www2.kumc.edu/itc/staff/rknight/tourneys.htm><img border=0 src=../../photos/uncategorized/tournament_1.png alt=Tournament_1 title=Tournament_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 There are a number of well-known tournament types which can be used to create a "King of the Hill" ranking.</p>
 
 <p>The simplest is the <a href=http://en.wikipedia.org/wiki/Single-elimination_tournament>single-elimination tournament,</a> where the winner of each competition moves on to compete with other winners, until there is only one. However, this style of tournament is quite cut-throat and is not suited very well to events where the competition may result in a draw, or where chance is a notable factor in the competition. It also has a very subjective factor in the initial <a href=http://en.wikipedia.org/wiki/Single-elimination_tournament#Seeding>seeding</a> of the rounds. The single-elimination tournament also does not rank the losers. However, by having the losers compete with each other in a <a href=http://en.wikipedia.org/wiki/Swiss_system_tournament>Swiss-style tournament</a>, the relative strengths of the players can be ranked.</p>
 
-<p><a href=http://jsoo.home.mindspring.com/articles/formats/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/pseudodoubleelimination_1.png style="margin: 0px 0px 5px 5px; float: right;" title=Pseudodoubleelimination_1 alt=Pseudodoubleelimination_1></a>
+<p><a href=http://jsoo.home.mindspring.com/articles/formats/><img border=0 src=../../photos/uncategorized/pseudodoubleelimination_1.png alt=Pseudodoubleelimination_1 title=Pseudodoubleelimination_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 An improvement is the <a href=http://en.wikipedia.org/wiki/Double-elimination>double-elimination tournament</a> which is now one of the best known tournament systems in sports. Players compete in series of two-player matches, and a player has to lose twice before he's eliminated. This is done through a system of winner and loser brackets, wherein people drop from the winners' brackets to the losers' brackets when they lose once, and drop out altogether when they lose twice.</p>
 
 <p>One problem with standard double-elimination is that there are unusual situations where a significantly inferior player can still make it to the final round, or the last player to remain undefeated can lose only once and still be eliminated. These can be addressed through variants such as face-off (requiring the last two remaining competitors to compete <em>again</em> if the undefeated team is defeated for the first time in the finals) or by <a href=http://jsoo.home.mindspring.com/articles/formats/>reconfiguring the loser's brackets</a>.</p> 
 
-<p><a href=http://www.wscgames.com/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/wsc_1.png style="margin: 0px 5px 5px 0px; float: left;" title=Wsc_1 alt=Wsc_1></a>
+<p><a href=http://www.wscgames.com/><img border=0 src=../../photos/uncategorized/wsc_1.png alt=Wsc_1 title=Wsc_1 style="margin: 0px 5px 5px 0px; float: left;"></a>
 <a href=http://en.wikipedia.org/wiki/Round-robin_tournament>Round-robin tournaments</a>, such as official <a href=http://www.wscgames.com/2005/build/standing/1/topten.html>Scrabble Tournaments</a> involve every player playing a set number of games (24 in the 2005 World Scrabble Championship), facing opponents with similar win-lose records. They then ultimately rank players by their win-lose ratios.</p>
 
 <p>The advantage of these sorts of tournament over an ELO-style ranking is that they're easily understandable and seem fair. In addition, they measure ranking in a much more topical manner: how well someone is playing during a singular instant, rather than over a longer career. As a result they work much better for a live tournament.</p>
@@ -439,13 +439,13 @@ An improvement is the <a href=http://en.wikipedia.org/wiki/Double-elimination>do
 
 <p>As we discussed in our original article on Collective Choice, thresholds are ranking barriers above which members get a special ability--or alternatively levels below which members lose a special ability. They can also act as another goal for a ranking system.</p>
 
-<p><a href=http://www.usgo.org/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/gosmall.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Gosmall alt=Gosmall></a>
+<p><a href=http://www.usgo.org/><img border=0 src=../../photos/uncategorized/gosmall.jpg alt=Gosmall title=Gosmall style="margin: 0px 0px 5px 5px; float: right;"></a>
 In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_and_ratings#Pro_and_amateur_ranks>amateur</a> and <a href=http://en.wikipedia.org/wiki/Go_ranks_and_ratings#Professional_strength>professional</a> players. Although they aren't technically in the same <a href=http://www.cns.nyu.edu/~mechner/go/kyu.html>hierarchy of rankings</a>, the highest Go amateur ranking  (7 dan) is approximately equal to the lowest Go professional ranking (1 dan), forming a de facto threshold.</p>
 
-<p><a href=http://www.uschess.org/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/uscf_1.png style="margin: 0px 5px 5px 0px; float: left;" title=Uscf_1 alt=Uscf_1></a>
+<p><a href=http://www.uschess.org/><img border=0 src=../../photos/uncategorized/uscf_1.png alt=Uscf_1 title=Uscf_1 style="margin: 0px 5px 5px 0px; float: left;"></a>
  Likewise the United States Chess Federation uses their ELO rankings to denote <a href=http://en.wikipedia.org/wiki/Chess_master>Chess Masters</a>. Anyone who achieves 2200 UCSF is given a National Master threshold ranking and anyone who maintains it for 300 games is given a Life Master threshold ranking.</p>
 
-<p><a href=http://www.acbl.org/><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/acblopt2_1.gif style="margin: 0px 0px 5px 5px; float: right;" title=Acblopt2_1 alt=Acblopt2_1></a>
+<p><a href=http://www.acbl.org/><img border=0 src=../../photos/uncategorized/acblopt2_1.gif alt=Acblopt2_1 title=Acblopt2_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
  The <a href=http://www.acbl.org/>American Contract Bridge Association</a> uses a threshold system where you have to win a certain number of tournaments and thus earn <a href=http://www.acbl.org/about/honorTitles.html>masterpoints</a> in order achieve official rankings such as "section master". Furthermore, players may earn different "colors" of masterpoints depending the difficulty of the tournament, and some ranks require that you earn at least some specific colored masterpoints in order to meet the requirements for the next threshold.</p>
 
 <p>These thresholds are fairly explicitly based on other hierarchical ranking systems, but this doesn't need to be the case. Since determining the purpose of a ranking system is often the first step in designing it, as we delve further into the area of thresholds we may well find that systems specifically dedicated toward measuring thresholds are more likely to do so well.</p>
@@ -520,62 +520,62 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
         
         
         <a id=comments></a>
-	<div id=all-comments class=comments>
+	<div class=comments id=all-comments>
 		<h3 class=comments-header>Comments</h3>
 					<div class=comments-info>
-				<p><a href=ranking_systems/comments/atom.xml><img width=10 alt=Feed height=10 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/images/feed.png></a> You can follow this conversation by subscribing to the <a href=ranking_systems/comments/atom.xml>comment feed</a> for this post.</p>
+				<p><a href=ranking_systems/comments/atom.xml><img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/images/feed.png alt=Feed height=10 width=10></a> You can follow this conversation by subscribing to the <a href=ranking_systems/comments/atom.xml>comment feed</a> for this post.</p>
 			</div>
 		
-		<div id=comments-content class=comments-content>
+		<div class=comments-content id=comments-content>
                 <!-- comment list --><a id=c12595969></a>
-<div id=comment-12595969 class="comment font-entrybody comment-odd comment-has-avatar">
+<div class="comment font-entrybody comment-odd comment-has-avatar" id=comment-12595969>
 	<div class=comment-avatar>
-		<img width=50 alt="F. Randall Farmer" height=50 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/16-50si.gif id=comment-6a00d8341d8bc053ef00d8346f0b3253ef-avatarimg>
+		<img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/16-50si.gif alt="F. Randall Farmer" height=50 width=50 id=comment-6a00d8341d8bc053ef00d8346f0b3253ef-avatarimg>
 	</div>
-	<div id=comment-12595969-content class="comment-content font-entrybody">
+	<div class="comment-content font-entrybody" id=comment-12595969-content>
 		<span id=comment-12595969-content><p>A data point on ELO cheating for you: Yahoo! Games uses ELO rankings for several their two-player games. Before recent abuse mitigation changes, some people used robot to accumulate scores in excess of 6,000,000 points. The abuse-the-ranking game had become a totally seperate competition.</p>
 
-<p>For now, Yahoo! has capped the ELO scores at 3,000 (I think.) This removed most of the cheating incentive.</span>
-	</div>
+<p>For now, Yahoo! has capped the ELO scores at 3,000 (I think.) This removed most of the cheating incentive.
+	</span></div>
 	<p class="comment-footer font-entryfooter">
 		Posted by:
 		<a href=http://www.fudco.com/habitat title=http://www.fudco.com/habitat target=_blank rel=nofollow>F. Randall Farmer</a> |
 		<a href="ranking_systems.html?cid=12595969#comment-6a00d8341d8bc053ef00d8346f0b3253ef" rel=nofollow>January 05, 2006 at 01:46 PM</a>
 	</p>
 </div><a id=c12860194></a>
-<div id=comment-12860194 class="comment font-entrybody comment-even comment-has-avatar">
+<div class="comment font-entrybody comment-even comment-has-avatar" id=comment-12860194>
 	<div class=comment-avatar>
-		<img width=50 alt="Christopher Allen" height=50 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/08-50si.gif id=comment-6a00d8341d8bc053ef00d834704a4353ef-avatarimg>
+		<img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/08-50si.gif alt="Christopher Allen" height=50 width=50 id=comment-6a00d8341d8bc053ef00d834704a4353ef-avatarimg>
 	</div>
-	<div id=comment-12860194-content class="comment-content font-entrybody">
+	<div class="comment-content font-entrybody" id=comment-12860194-content>
 		<span id=comment-12860194-content><p>In the slashdot discussion of this blog entry http://games.slashdot.org/comments.pl?sid=173988&amp;threshold=0&amp;mode=flat   there was an interesting link to beatpaths.com, which is sort of a tourney system for when you can't complete a full set of round-robin or double-elimination competitions, as what happens in NFL during the fall season.</p>
 
-<p>What is also interesting to me is that it introduces a goal for ranking systems that I'd not thought of before -- prediction. The purpose of the beatpath systems is actually focused on predicting the outcome the next set of the weekend games.</span>
-	</div>
+<p>What is also interesting to me is that it introduces a goal for ranking systems that I'd not thought of before -- prediction. The purpose of the beatpath systems is actually focused on predicting the outcome the next set of the weekend games.
+	</span></div>
 	<p class="comment-footer font-entryfooter">
 		Posted by:
 		<a href=http://www.LifeWithAlacrity.com title=http://www.LifeWithAlacrity.com target=_blank rel=nofollow>Christopher Allen</a> |
 		<a href="ranking_systems.html?cid=12860194#comment-6a00d8341d8bc053ef00d834704a4353ef" rel=nofollow>January 14, 2006 at 02:31 PM</a>
 	</p>
 </div><a id=c12882765></a>
-<div id=comment-12882765 class="comment font-entrybody comment-odd comment-has-avatar">
+<div class="comment font-entrybody comment-odd comment-has-avatar" id=comment-12882765>
 	<div class=comment-avatar>
-		<img width=50 alt="Stephen Waits" height=50 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/01-50si.gif id=comment-6a00d8341d8bc053ef00d83470a47f53ef-avatarimg>
+		<img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/01-50si.gif alt="Stephen Waits" height=50 width=50 id=comment-6a00d8341d8bc053ef00d83470a47f53ef-avatarimg>
 	</div>
-	<div id=comment-12882765-content class="comment-content font-entrybody">
-		<span id=comment-12882765-content><p>No mention of Glicko and Glicko2?</span>
-	</div>
+	<div class="comment-content font-entrybody" id=comment-12882765-content>
+		<span id=comment-12882765-content><p>No mention of Glicko and Glicko2?
+	</span></div>
 	<p class="comment-footer font-entryfooter">
 		Posted by:
 		<a href=http://swaits.com/ title=http://swaits.com/ target=_blank rel=nofollow>Stephen Waits</a> |
 		<a href="ranking_systems.html?cid=12882765#comment-6a00d8341d8bc053ef00d83470a47f53ef" rel=nofollow>January 15, 2006 at 08:57 AM</a>
 	</p>
 </div><a id=c13594898></a>
-<div id=comment-13594898 class="comment font-entrybody comment-even comment-has-avatar">
+<div class="comment font-entrybody comment-even comment-has-avatar" id=comment-13594898>
 	<div class=comment-avatar>
-		<img width=50 alt="Edward Vielmetti" height=50 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/19-50si.gif id=comment-6a00d8341d8bc053ef00d834aaa94a69e2-avatarimg>
+		<img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/19-50si.gif alt="Edward Vielmetti" height=50 width=50 id=comment-6a00d8341d8bc053ef00d834aaa94a69e2-avatarimg>
 	</div>
-	<div id=comment-13594898-content class="comment-content font-entrybody">
+	<div class="comment-content font-entrybody" id=comment-13594898-content>
 		<span id=comment-13594898-content><p>There's a ranking scheme that Mark Newman from the U of Michigan did for college football, which Yahoo Search turned up a pointer to here:</p>
 
 <p>http://www.sciencenews.org/articles/20051112/mathtrek.asp</p>
@@ -586,23 +586,23 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 
 <p>(end quote)</p>
 
-<p>You end up with a directed graph of teams as nodes and games as edges, and compute a function of that graph that is related to a centrality metric.</span>
-	</div>
+<p>You end up with a directed graph of teams as nodes and games as edges, and compute a function of that graph that is related to a centrality metric.
+	</span></div>
 	<p class="comment-footer font-entryfooter">
 		Posted by:
 		<a href=http://vielmetti.typepad.com title=http://vielmetti.typepad.com target=_blank rel=nofollow>Edward Vielmetti</a> |
 		<a href="ranking_systems.html?cid=13594898#comment-6a00d8341d8bc053ef00d834aaa94a69e2" rel=nofollow>February 02, 2006 at 10:18 PM</a>
 	</p>
 </div><a id=c99389292></a>
-<div id=comment-99389292 class="comment font-entrybody comment-odd comment-has-avatar">
+<div class="comment font-entrybody comment-odd comment-has-avatar" id=comment-99389292>
 	<div class=comment-avatar>
-		<img width=50 alt="Matthew Weigel" height=50 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/10-50si.gif id=comment-6a00d8341d8bc053ef00e5501a73828834-avatarimg>
+		<img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/default-userpics/10-50si.gif alt="Matthew Weigel" height=50 width=50 id=comment-6a00d8341d8bc053ef00e5501a73828834-avatarimg>
 	</div>
-	<div id=comment-99389292-content class="comment-content font-entrybody">
+	<div class="comment-content font-entrybody" id=comment-99389292-content>
 		<span id=comment-99389292-content><p>This article is a great survey of the subject!  I'm working on the PvP ranking system for another game with some unique problems, because the teams in a PvP match can be of disparate size and widely differing power levels, which are then balanced so that wildly mismatched teams (ignoring relative rank at PvP for the moment) are actually reasonably matched.</p>
 
-<p>It starts here: http://ncanson.livejournal.com/3938.html</span>
-	</div>
+<p>It starts here: http://ncanson.livejournal.com/3938.html
+	</span></div>
 	<p class="comment-footer font-entryfooter">
 		Posted by:
 		<a href=http://ncanson.livejournal.com/ title=http://ncanson.livejournal.com/ target=_blank rel=nofollow>Matthew Weigel</a> |
@@ -624,12 +624,12 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 	
 <div id=atp-comments>
     
-        <div class=hiddenBox id=comment-preview>
-	<h3 class="comments-header font-entryheader  hiddenBox" id=header-verify-comment>Verify your Comment</h3>
-    <h3 class="comments-header font-entryheader  hiddenBox" id=header-preview-comment>Previewing your Comment</h3>
+        <div id=comment-preview class=hiddenBox>
+	<h3 id=header-verify-comment class="comments-header font-entryheader  hiddenBox">Verify your Comment</h3>
+    <h3 id=header-preview-comment class="comments-header font-entryheader  hiddenBox">Previewing your Comment</h3>
 	<div class="comments-content font-entrybody">
 		<div class="comment comment-has-avatar">
-			<div class=comment-content id=comment-preview-content>
+			<div id=comment-preview-content class=comment-content>
 			</div>
 			<p class=comment-footer>
 				Posted by: 
@@ -638,28 +638,28 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 		</div>
 	</div>
 </div>
-<div class="font-entrybody hiddenBox yellowBox" id=comment-preview-confirmation>
+<div id=comment-preview-confirmation class="font-entrybody hiddenBox yellowBox">
     <p>This is only a preview. Your comment has not yet been posted.</p>
-        <form onsubmit="atpComments.interceptPost(1); return false;" method=post id=comment-preview-form>
+        <form onsubmit="atpComments.interceptPost(1); return false;" id=comment-preview-form method=post>
                 <input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-confirm-post name=post>
                 <input value=  Edit   class="form-control font-entrybody" onclick="atpComments.previewOnly(2); return false;" type=submit id=comment-edit name=edit>
-        <span class=hiddenBox id=previewFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+        <span id=previewFormSpinner class=hiddenBox><img src=../../.shared/images/spinner.gif alt=Working...></span>
         </form>
 </div>
 
-<div class="hiddenBox font-entrybody redBox" id=comment-error>	    
+<div id=comment-error class="hiddenBox font-entrybody redBox">	    
    Your comment could not be posted. Error type: <span id=comment-error-msg></span> 
 </div>	
-<div class="hiddenBox font-entrybody  redBox" id=comment-complete>
+<div id=comment-complete class="hiddenBox font-entrybody  redBox">
     Your comment has been saved. Comments are moderated and will not appear until approved by the author. <a href="javascript:void 0;" onclick="window.location.hash='#comment-form';window.location.reload(false)">Post another comment</a>
 </div>	
-<div class="hiddenBox yellowBox font-entrybody" id=comment-captcha>	
+<div id=comment-captcha class="hiddenBox yellowBox font-entrybody">	
     <div id=captchaText>
-	    <p class="captchaErrorText hiddenBox" id=captchaFailMsg>The letters and numbers you entered did not match the image. Please try again.</p>	    	        
+	    <p id=captchaFailMsg class="captchaErrorText hiddenBox">The letters and numbers you entered did not match the image. Please try again.</p>	    	        
 	    <p>As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents automated programs from posting comments.</p>
 	    <p><span id=comment-captcha-viewalt>Having trouble reading this image? <a href=#comment-captcha onclick=atpComments.generateReCaptcha();>View an alternate.</a></span></p>
     </div>
-    <form onsubmit="atpComments.submitWithReCaptcha(); return false;" method=post id=comment-captcha-form>
+    <form onsubmit="atpComments.submitWithReCaptcha(); return false;" id=comment-captcha-form method=post>
     <div id=recaptcha_content>
       <noscript>
         <iframe src="6Ldg1s4SAAAAAEvvZX2ILFkWp7KB-jjdL4v0JV2e" height="300" width="500" frameborder="0"></iframe><br />
@@ -678,19 +678,19 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
   </script>
         <p>
             <input type=submit name=continue id=captcha-continue value= Continue >
-            <span class="commentSpinner hiddenBox" id=captchaFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+            <span id=captchaFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
         </p>
     </form>
 </div>
 
     
-	<div class=comment-form id=primary-comment-form>
+	<div id=primary-comment-form class=comment-form>
 	    
 	    <script type=text/javascript>document.write(ffe51c373e0873b7778b6324a0b5533+bad4dd7c10b264b7d90174cd4d55dc00+c943723d42e77e9214eb884a1d898za);</script>
 	    
     		<div class=comments-open>
-    		<i class="fa fa-comment"></i><h2 id=comment-title class="comments-open-header font-entryheader">Post a comment</h2>
-    			<div class="comments-open-content font-entrybody" id=comments-open-content>
+    		<i class="fa fa-comment"></i><h2 class="comments-open-header font-entryheader" id=comment-title>Post a comment</h2>
+    			<div id=comments-open-content class="comments-open-content font-entrybody">
     									
     				    <p class="comments-open-moderated font-entrybody">
     						Comments are moderated, and will not appear until the author has approved them.
@@ -713,14 +713,14 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
             				</p>			
             				                    					
         				</div>
-    				    <div class=font-entrybody id=comments-open-data>
+    				    <div id=comments-open-data class=font-entrybody>
                             <p>Your Information</p>
                             <p>
                                 (Name and email address are required. Email address will not be displayed with the comment.)
@@ -729,24 +729,24 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 			    
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value=Name onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-author name=author at:default=Name>
-    							<label class="comment-error hiddenBox" id=comment-author-error for=comment-author>Name is required to post a comment</label>
+    							<label id=comment-author-error class="comment-error hiddenBox" for=comment-author>Name is required to post a comment</label>
     						</p>
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value="Email Address" onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-email name=email at:default="Email Address">
-    							<label class="comment-error hiddenBox" id=comment-email-error for=comment-email>Please enter a valid email address</label>
+    							<label id=comment-email-error class="comment-error hiddenBox" for=comment-email>Please enter a valid email address</label>
     						</p>
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value="Web Site URL" onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-url name=url at:default="Web Site URL">
-    							<label class="comment-error hiddenBox" id=comment-url-error for=comment-url>Invalid URL</label>
+    							<label id=comment-url-error class="comment-error hiddenBox" for=comment-url>Invalid URL</label>
     						</p>
 
     					</div>
     		    </div>
-                <div style=display:none; class="comments-open-footer font-entrybody" id=comments-open-footer>
-    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
-    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
+                <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post id=comment-post-button>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview id=comment-preview-button>
 
-    				<span class="commentSpinner hiddenBox" id=commentEntryFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+    				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>
     		</div>
 	    		
@@ -773,7 +773,7 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 						</div>
 					</div>
                                         <div id=beta>
-						<div class=pkg id=beta-inner>
+						<div id=beta-inner class=pkg>
 							
 <!-- sidebar -->
 
@@ -788,12 +788,12 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 <div class=module-content>
 
 
-<img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
+<img src=../../.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
 
 
 </div></div>
 
-<div class="module-typelist module" id=about_me_written_by_me>
+<div id=about_me_written_by_me class="module-typelist module">
 <h2 class=module-header>About Me / Written by Me</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -831,7 +831,7 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 		</ul>
 	</div>
 </div>
-<div class="module-typelist module" id=popular_posts>
+<div id=popular_posts class="module-typelist module">
 <h2 class=module-header>Popular Posts</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -982,7 +982,7 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 		</div>
 	</div>
 
-<div class="module-typelist module" id=blogroll>
+<div id=blogroll class="module-typelist module">
 <h2 class=module-header>Blogroll</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -1002,7 +1002,7 @@ In the game of Go there are both <a href=http://en.wikipedia.org/wiki/Go_ranks_a
 	</div>
 </div>
 
-<div class="module-typelist module" id=social_networks>
+<div id=social_networks class="module-typelist module">
 <h2 class=module-header>Social Networks</h2>
 	<div class=module-content>
 		<ul class=module-list>

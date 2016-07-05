@@ -71,8 +71,8 @@ ga('Typepad.send', 'pageview');
 
 <body class="layout-two-column-right post">
 	
-	<div class=container id=container>
-		<div class=pkg id=container-inner>
+	<div id=container class=container>
+		<div id=container-inner class=pkg>
 			
                 <div class=row>
      
@@ -83,7 +83,7 @@ ga('Typepad.send', 'pageview');
 
 <!-- banner -->
 <div id=banner>
-	<div class=pkg id=banner-inner>
+	<div id=banner-inner class=pkg>
 		
 		<h1 id=banner-header><a href=../.. accesskey=1>Life With Alacrity</a></h1>
 		<h2 id=banner-description>
@@ -112,9 +112,9 @@ ga('Typepad.send', 'pageview');
 			<div id=pagebody>
 
 
-				<div class=pkg id=pagebody-inner>
+				<div id=pagebody-inner class=pkg>
                                         <div id=alpha>
-						<div class=pkg id=alpha-inner>
+						<div id=alpha-inner class=pkg>
 							<!-- the plain version removes the extra jquery -->
 <!-- content nav -->
 <p class=content-nav>
@@ -140,7 +140,7 @@ ga('Typepad.send', 'pageview');
 	<h2 class=date-header>September 07, 2015</h2>
 
 
-<div id=entry-6a00d8341d8bc053ef01b8d15462a7970c class="entry-category-business entry-category-security entry-category-webtech entry-author-christophera entry-type-post entry">
+<div class="entry-category-business entry-category-security entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01b8d15462a7970c>
    <div class=entry-inner>
 			<h3 class=entry-header>Speaking at Consensus 2015</h3>
 	
@@ -149,7 +149,7 @@ ga('Typepad.send', 'pageview');
 
 	<div class=entry-content>
 		<div class=entry-body>
-			<p><a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d15461c9970c-pi style="display: inline;" class=asset-img-link><img border=0 src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d15461c9970c-800wi alt="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" title="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d15461c9970c image-full img-responsive"></a></p>
+			<p><a href=../../.a/6a00d8341d8bc053ef01b8d15461c9970c-pi style="display: inline;" class=asset-img-link><img border=0 src=../../.a/6a00d8341d8bc053ef01b8d15461c9970c-800wi alt="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" title="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d15461c9970c image-full img-responsive"></a></p>
 <p>I'm heading out today to New York City to speak at <a href=http://www.coindesk.com/events/consensus-2015/>Consensus 2015</a>, where I am speaking on the panel <em>‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’</em>:</p>
 <blockquote>Bitcoin is far from the first attempt at creating a form of digital money with the potential to upend existing systems. Our panelists will look at bitcoin's predecessors and close cousins. Nathaniel Popper wrote the book Digital Gold, which delves into bitcoin's genesis; Christopher Allen is an internet security expert who has been involved in digital cash systems including Digicash for decades, while Garrick Hileman is CoinDesk's lead analyst and an economic historian at the LSE, specializing in alternative and private monies.</blockquote>
 <p>This invite probably came about from an extended interview that Tim Swanson, author of the blockchain book and blog <a href=http://www.ofnumbers.com>The Great Wall of Numbers</a>, shared with his readers. Tim wrote me saying <em>“There is some dispute, apparently, of the history and precursors of distributed computing / consensus before Bitcoin<em>”</em></em>, and and asked me if I would share my <em>“own view of what a blockchain is defined as, what Nakamoto consensus is relative to other 'solutions' to Byzantine faults, triple entry accounting, etc.”</em> He published my answers in his post <a href=http://www.ofnumbers.com/2015/07/09/a-blockchain-with-emphasis-on-the-a/>A blockchain with emphasis on the ‘a’</a>. For posterity, I thought I'd also share my part of the interview here:</p>
@@ -157,7 +157,7 @@ ga('Typepad.send', 'pageview');
 <p>However, in the end, I don’t think any thing I did actually went anywhere, either technically or as a business, other than maybe getting some other technologists interested. So in the end I’m more of a witness to the birth of these technologies than a creator.</p>
 <p>History in this area is distorted by software patents—there are a number of innovative approaches that would be scrapped because of awareness of litigious patent holders. I distinctly remember when I first heard about some innovative hash chain ideas that a number of us wanted to use hash trees with it, but we couldn’t figure out how to avoid the 1979 Merkle Hash Tree patent whose base patent wouldn’t expire until ’96, as well as some other subsidiary hash tree and time stamp patents that wouldn’t expire until early 2000s.</p>
 <p>As I recall, at the time were we all trying to inspired solve the micropayment problem. Digicash had used cryptography for larger-sized cash transactions, whereas First Virtual, Cybercash and others were focused on securing the ledger side and needed larger transaction fees and thus larger amounts of money to function. To scale down we were all looking at hash chain ideas from Lamport’s S/KEY from the late 80’s and distributed transactional ledgers from X/Open’s DTP from the early 90s as inspirations. DEC introduced Millicent during this period, and I distinctly remember people saying “this will not work, it requires consumers to hold keys in a electronic wallet”. On the cryptographic hash side of this problem Adam Back did Hashcash, Rivest and his crew introduced PayWord and Micromint. On the transaction side CMU introduced <a href=http://www.informedia.cs.cmu.edu/documents/netbill.pdf>NetBill</a>.</p>
-<p>Nick Szabo wrote using hashes for post-unforgeable transaction logs in his original <a href=http://szabo.best.vwh.net/formalize.html>smart contract paper</a> in ’97, in which he referred to <a href="../Surety’s work">Surety’s work</a> (and they held the Merkle hash tree and other time signature patents), but in that original paper he did not look at Proof-of-Work at all. It was another year before he, Wei Dai, and Hal Finney started talking about using proof-of-work as a possible foundational element for smart contracts. I remember some discussions over beer in Palo Alto circa ’99 with Nick after I became CTO of Certicom about creating dedicated proof-of-work secure hardware that would create tokens that could be used as an underlying basis for his smart contract ideas. This was interesting to Certicom as we had very good connections into cryptographic hardware industry, and I recommended that we should hire him. Nick eventually joined Certicom, but by that point they had cancelled my advanced cryptography group to raise profits in order to go public in the US (causing me to resign), and then later ceased all work in that area when the markets fell in 2001.</p>
+<p>Nick Szabo wrote using hashes for post-unforgeable transaction logs in his original <a href=http://szabo.best.vwh.net/formalize.html>smart contract paper</a> in ’97, in which he referred to <a href="Surety’s work">Surety’s work</a> (and they held the Merkle hash tree and other time signature patents), but in that original paper he did not look at Proof-of-Work at all. It was another year before he, Wei Dai, and Hal Finney started talking about using proof-of-work as a possible foundational element for smart contracts. I remember some discussions over beer in Palo Alto circa ’99 with Nick after I became CTO of Certicom about creating dedicated proof-of-work secure hardware that would create tokens that could be used as an underlying basis for his smart contract ideas. This was interesting to Certicom as we had very good connections into cryptographic hardware industry, and I recommended that we should hire him. Nick eventually joined Certicom, but by that point they had cancelled my advanced cryptography group to raise profits in order to go public in the US (causing me to resign), and then later ceased all work in that area when the markets fell in 2001.</p>
 <p>I truly believe that would could have had cryptographic smart contracts by ’04 if Certicom had not focused on short-profits (see Solution #3 at bottom of <a href=../../2004/02/security_crypto.html>this post</a> for my thoughts back in 2004 after a 3-year non-compete and NDA)…</p>
 <blockquote>What is required, I believe, is a major paradigm shift. We need to leave the whole business of fear behind and instead embrace a new model: using cryptography to enable business rather than to prevent harm. We need to add value by making it possible to do profitable business in ways that are impossible today. There are, fortunately, many cryptographic opportunities, if we only consider them. Cryptography can be used to make business processes faster and more efficient. With tools derived from cryptography, executives can delegate more efficiently and introduce better checks and balances. They can implement improved decision systems. Entrepreneurs can create improved auction systems.</blockquote>
 <blockquote>Nick Szabo is one of the few developers who has really investigated this area, through his work on Smart Contracts. He has suggested ways to create digital bearer certificates, and has contemplated some interesting secure auctioning techniques and even digital liens. Expanding upon his possibilities we can view the ultimate Smart Contract as a sort of Smart Property. Why not form a corporation on the fly with digital stock certificates, allow it to engage in its creative work, then pay out its investors and workers and dissolve? With new security paradigms, this is all possible.</blockquote>
@@ -203,13 +203,13 @@ ga('Typepad.send', 'pageview');
         
         
         <a id=comments></a>
-	<div id=all-comments class=comments>
+	<div class=comments id=all-comments>
 		<h3 class=comments-header>Comments</h3>
 					<div class=comments-info>
-				<p><a href=speaking-at-consensus-2015/comments/atom.xml><img width=10 alt=Feed height=10 src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/images/feed.png></a> You can follow this conversation by subscribing to the <a href=speaking-at-consensus-2015/comments/atom.xml>comment feed</a> for this post.</p>
+				<p><a href=speaking-at-consensus-2015/comments/atom.xml><img src=http://static.typepad.com/.shared:v76191bf:typepad:en_us/images/feed.png alt=Feed height=10 width=10></a> You can follow this conversation by subscribing to the <a href=speaking-at-consensus-2015/comments/atom.xml>comment feed</a> for this post.</p>
 			</div>
 		
-		<div id=comments-content class=comments-content>
+		<div class=comments-content id=comments-content>
                 <!-- comment list -->
 
 		</div>
@@ -226,12 +226,12 @@ ga('Typepad.send', 'pageview');
 	
 <div id=atp-comments>
     
-        <div class=hiddenBox id=comment-preview>
-	<h3 class="comments-header font-entryheader  hiddenBox" id=header-verify-comment>Verify your Comment</h3>
-    <h3 class="comments-header font-entryheader  hiddenBox" id=header-preview-comment>Previewing your Comment</h3>
+        <div id=comment-preview class=hiddenBox>
+	<h3 id=header-verify-comment class="comments-header font-entryheader  hiddenBox">Verify your Comment</h3>
+    <h3 id=header-preview-comment class="comments-header font-entryheader  hiddenBox">Previewing your Comment</h3>
 	<div class="comments-content font-entrybody">
 		<div class="comment comment-has-avatar">
-			<div class=comment-content id=comment-preview-content>
+			<div id=comment-preview-content class=comment-content>
 			</div>
 			<p class=comment-footer>
 				Posted by: 
@@ -240,28 +240,28 @@ ga('Typepad.send', 'pageview');
 		</div>
 	</div>
 </div>
-<div class="font-entrybody hiddenBox yellowBox" id=comment-preview-confirmation>
+<div id=comment-preview-confirmation class="font-entrybody hiddenBox yellowBox">
     <p>This is only a preview. Your comment has not yet been posted.</p>
-        <form onsubmit="atpComments.interceptPost(1); return false;" method=post id=comment-preview-form>
+        <form onsubmit="atpComments.interceptPost(1); return false;" id=comment-preview-form method=post>
                 <input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-confirm-post name=post>
                 <input value=  Edit   class="form-control font-entrybody" onclick="atpComments.previewOnly(2); return false;" type=submit id=comment-edit name=edit>
-        <span class=hiddenBox id=previewFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+        <span id=previewFormSpinner class=hiddenBox><img src=../../.shared/images/spinner.gif alt=Working...></span>
         </form>
 </div>
 
-<div class="hiddenBox font-entrybody redBox" id=comment-error>	    
+<div id=comment-error class="hiddenBox font-entrybody redBox">	    
    Your comment could not be posted. Error type: <span id=comment-error-msg></span> 
 </div>	
-<div class="hiddenBox font-entrybody  redBox" id=comment-complete>
+<div id=comment-complete class="hiddenBox font-entrybody  redBox">
     Your comment has been saved. Comments are moderated and will not appear until approved by the author. <a href="javascript:void 0;" onclick="window.location.hash='#comment-form';window.location.reload(false)">Post another comment</a>
 </div>	
-<div class="hiddenBox yellowBox font-entrybody" id=comment-captcha>	
+<div id=comment-captcha class="hiddenBox yellowBox font-entrybody">	
     <div id=captchaText>
-	    <p class="captchaErrorText hiddenBox" id=captchaFailMsg>The letters and numbers you entered did not match the image. Please try again.</p>	    	        
+	    <p id=captchaFailMsg class="captchaErrorText hiddenBox">The letters and numbers you entered did not match the image. Please try again.</p>	    	        
 	    <p>As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents automated programs from posting comments.</p>
 	    <p><span id=comment-captcha-viewalt>Having trouble reading this image? <a href=#comment-captcha onclick=atpComments.generateReCaptcha();>View an alternate.</a></span></p>
     </div>
-    <form onsubmit="atpComments.submitWithReCaptcha(); return false;" method=post id=comment-captcha-form>
+    <form onsubmit="atpComments.submitWithReCaptcha(); return false;" id=comment-captcha-form method=post>
     <div id=recaptcha_content>
       <noscript>
         <iframe src="6Ldg1s4SAAAAAEvvZX2ILFkWp7KB-jjdL4v0JV2e" height="300" width="500" frameborder="0"></iframe><br />
@@ -280,19 +280,19 @@ ga('Typepad.send', 'pageview');
   </script>
         <p>
             <input type=submit name=continue id=captcha-continue value= Continue >
-            <span class="commentSpinner hiddenBox" id=captchaFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+            <span id=captchaFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
         </p>
     </form>
 </div>
 
     
-	<div class=comment-form id=primary-comment-form>
+	<div id=primary-comment-form class=comment-form>
 	    
 	    <script type=text/javascript>document.write(ffe51c373e0873b7778b6324a0b5533+bad4dd7c10b264b7d90174cd4d55dc00+c943723d42e77e9214eb884a1d898za);</script>
 	    
     		<div class=comments-open>
-    		<i class="fa fa-comment"></i><h2 id=comment-title class="comments-open-header font-entryheader">Post a comment</h2>
-    			<div class="comments-open-content font-entrybody" id=comments-open-content>
+    		<i class="fa fa-comment"></i><h2 class="comments-open-header font-entryheader" id=comment-title>Post a comment</h2>
+    			<div id=comments-open-content class="comments-open-content font-entrybody">
     									
     				    <p class="comments-open-moderated font-entrybody">
     						Comments are moderated, and will not appear until the author has approved them.
@@ -315,14 +315,14 @@ ga('Typepad.send', 'pageview');
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
             				</p>			
             				                    					
         				</div>
-    				    <div class=font-entrybody id=comments-open-data>
+    				    <div id=comments-open-data class=font-entrybody>
                             <p>Your Information</p>
                             <p>
                                 (Name and email address are required. Email address will not be displayed with the comment.)
@@ -331,24 +331,24 @@ ga('Typepad.send', 'pageview');
 			    
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value=Name onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-author name=author at:default=Name>
-    							<label class="comment-error hiddenBox" id=comment-author-error for=comment-author>Name is required to post a comment</label>
+    							<label id=comment-author-error class="comment-error hiddenBox" for=comment-author>Name is required to post a comment</label>
     						</p>
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value="Email Address" onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-email name=email at:default="Email Address">
-    							<label class="comment-error hiddenBox" id=comment-email-error for=comment-email>Please enter a valid email address</label>
+    							<label id=comment-email-error class="comment-error hiddenBox" for=comment-email>Please enter a valid email address</label>
     						</p>
     						<p>
     							<input onfocus="if(this.value==this.getAttribute('at:default')) this.value='';" value="Web Site URL" onblur="if(this.value=='') this.value=this.getAttribute('at:default');" class=grayText size=30 id=comment-url name=url at:default="Web Site URL">
-    							<label class="comment-error hiddenBox" id=comment-url-error for=comment-url>Invalid URL</label>
+    							<label id=comment-url-error class="comment-error hiddenBox" for=comment-url>Invalid URL</label>
     						</p>
 
     					</div>
     		    </div>
-                <div style=display:none; class="comments-open-footer font-entrybody" id=comments-open-footer>
-    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
-    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
+                <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post id=comment-post-button>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview id=comment-preview-button>
 
-    				<span class="commentSpinner hiddenBox" id=commentEntryFormSpinner><img src=../../.shared/images/spinner.gif alt=Working...></span>
+    				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>
     		</div>
 	    		
@@ -375,7 +375,7 @@ ga('Typepad.send', 'pageview');
 						</div>
 					</div>
                                         <div id=beta>
-						<div class=pkg id=beta-inner>
+						<div id=beta-inner class=pkg>
 							
 <!-- sidebar -->
 
@@ -390,12 +390,12 @@ ga('Typepad.send', 'pageview');
 <div class=module-content>
 
 
-<img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
+<img src=../../.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
 
 
 </div></div>
 
-<div class="module-typelist module" id=about_me_written_by_me>
+<div id=about_me_written_by_me class="module-typelist module">
 <h2 class=module-header>About Me / Written by Me</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -433,7 +433,7 @@ ga('Typepad.send', 'pageview');
 		</ul>
 	</div>
 </div>
-<div class="module-typelist module" id=popular_posts>
+<div id=popular_posts class="module-typelist module">
 <h2 class=module-header>Popular Posts</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -584,7 +584,7 @@ ga('Typepad.send', 'pageview');
 		</div>
 	</div>
 
-<div class="module-typelist module" id=blogroll>
+<div id=blogroll class="module-typelist module">
 <h2 class=module-header>Blogroll</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -604,7 +604,7 @@ ga('Typepad.send', 'pageview');
 	</div>
 </div>
 
-<div class="module-typelist module" id=social_networks>
+<div id=social_networks class="module-typelist module">
 <h2 class=module-header>Social Networks</h2>
 	<div class=module-content>
 		<ul class=module-list>

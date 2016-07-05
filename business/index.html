@@ -53,8 +53,8 @@ ga('Typepad.send', 'pageview');
 
 <body class="layout-two-column-right category">
 	
-	<div class=container id=container>
-		<div class=pkg id=container-inner>
+	<div id=container class=container>
+		<div id=container-inner class=pkg>
 			
                 <div class=row>
      
@@ -65,7 +65,7 @@ ga('Typepad.send', 'pageview');
 
 <!-- banner -->
 <div id=banner>
-	<div class=pkg id=banner-inner>
+	<div id=banner-inner class=pkg>
 		
 		<h1 id=banner-header><a href=.. accesskey=1>Life With Alacrity</a></h1>
 		<h2 id=banner-description>
@@ -94,9 +94,9 @@ ga('Typepad.send', 'pageview');
 			<div id=pagebody> 
 
 
-				<div class=pkg id=pagebody-inner>
+				<div id=pagebody-inner class=pkg>
                                         <div id=alpha>
-						<div class=pkg id=alpha-inner>
+						<div id=alpha-inner class=pkg>
 							<!-- Category -->
 							<!-- archive header -->
 
@@ -110,7 +110,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>September 07, 2015</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01b8d15462a7970c class="entry-category-business entry-category-security entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-security entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01b8d15462a7970c>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2015/09/speaking-at-consensus-2015.html>Speaking at Consensus 2015</a></h3>
 		
@@ -121,7 +121,7 @@ ga('Typepad.send', 'pageview');
                 <input type=hidden name=zemanta-related val="">
 
                         <div class=entry-body>
-                                <p><a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d15461c9970c-pi style="display: inline;" class=asset-img-link><img border=0 src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d15461c9970c-800wi alt="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" title="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d15461c9970c image-full img-responsive"></a></p>
+                                <p><a href=../.a/6a00d8341d8bc053ef01b8d15461c9970c-pi style="display: inline;" class=asset-img-link><img border=0 src=../.a/6a00d8341d8bc053ef01b8d15461c9970c-800wi alt="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" title="Christopher Allen Internet Security Pioneer Speaking at Consensus 10 Sep NYC" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d15461c9970c image-full img-responsive"></a></p>
 <p>I'm heading out today to New York City to speak at <a href=http://www.coindesk.com/events/consensus-2015/>Consensus 2015</a>, where I am speaking on the panel <em>‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’</em>:</p>
 <blockquote>Bitcoin is far from the first attempt at creating a form of digital money with the potential to upend existing systems. Our panelists will look at bitcoin's predecessors and close cousins. Nathaniel Popper wrote the book Digital Gold, which delves into bitcoin's genesis; Christopher Allen is an internet security expert who has been involved in digital cash systems including Digicash for decades, while Garrick Hileman is CoinDesk's lead analyst and an economic historian at the LSE, specializing in alternative and private monies.</blockquote>
 <p>This invite probably came about from an extended interview that Tim Swanson, author of the blockchain book and blog <a href=http://www.ofnumbers.com>The Great Wall of Numbers</a>, shared with his readers. Tim wrote me saying <em>“There is some dispute, apparently, of the history and precursors of distributed computing / consensus before Bitcoin<em>”</em></em>, and and asked me if I would share my <em>“own view of what a blockchain is defined as, what Nakamoto consensus is relative to other 'solutions' to Byzantine faults, triple entry accounting, etc.”</em> He published my answers in his post <a href=http://www.ofnumbers.com/2015/07/09/a-blockchain-with-emphasis-on-the-a/>A blockchain with emphasis on the ‘a’</a>. For posterity, I thought I'd also share my part of the interview here:</p>
@@ -129,7 +129,7 @@ ga('Typepad.send', 'pageview');
 <p>However, in the end, I don’t think any thing I did actually went anywhere, either technically or as a business, other than maybe getting some other technologists interested. So in the end I’m more of a witness to the birth of these technologies than a creator.</p>
 <p>History in this area is distorted by software patents—there are a number of innovative approaches that would be scrapped because of awareness of litigious patent holders. I distinctly remember when I first heard about some innovative hash chain ideas that a number of us wanted to use hash trees with it, but we couldn’t figure out how to avoid the 1979 Merkle Hash Tree patent whose base patent wouldn’t expire until ’96, as well as some other subsidiary hash tree and time stamp patents that wouldn’t expire until early 2000s.</p>
 <p>As I recall, at the time were we all trying to inspired solve the micropayment problem. Digicash had used cryptography for larger-sized cash transactions, whereas First Virtual, Cybercash and others were focused on securing the ledger side and needed larger transaction fees and thus larger amounts of money to function. To scale down we were all looking at hash chain ideas from Lamport’s S/KEY from the late 80’s and distributed transactional ledgers from X/Open’s DTP from the early 90s as inspirations. DEC introduced Millicent during this period, and I distinctly remember people saying “this will not work, it requires consumers to hold keys in a electronic wallet”. On the cryptographic hash side of this problem Adam Back did Hashcash, Rivest and his crew introduced PayWord and Micromint. On the transaction side CMU introduced <a href=http://www.informedia.cs.cmu.edu/documents/netbill.pdf>NetBill</a>.</p>
-<p>Nick Szabo wrote using hashes for post-unforgeable transaction logs in his original <a href=http://szabo.best.vwh.net/formalize.html>smart contract paper</a> in ’97, in which he referred to <a href="../Surety’s work">Surety’s work</a> (and they held the Merkle hash tree and other time signature patents), but in that original paper he did not look at Proof-of-Work at all. It was another year before he, Wei Dai, and Hal Finney started talking about using proof-of-work as a possible foundational element for smart contracts. I remember some discussions over beer in Palo Alto circa ’99 with Nick after I became CTO of Certicom about creating dedicated proof-of-work secure hardware that would create tokens that could be used as an underlying basis for his smart contract ideas. This was interesting to Certicom as we had very good connections into cryptographic hardware industry, and I recommended that we should hire him. Nick eventually joined Certicom, but by that point they had cancelled my advanced cryptography group to raise profits in order to go public in the US (causing me to resign), and then later ceased all work in that area when the markets fell in 2001.</p>
+<p>Nick Szabo wrote using hashes for post-unforgeable transaction logs in his original <a href=http://szabo.best.vwh.net/formalize.html>smart contract paper</a> in ’97, in which he referred to <a href="Surety’s work">Surety’s work</a> (and they held the Merkle hash tree and other time signature patents), but in that original paper he did not look at Proof-of-Work at all. It was another year before he, Wei Dai, and Hal Finney started talking about using proof-of-work as a possible foundational element for smart contracts. I remember some discussions over beer in Palo Alto circa ’99 with Nick after I became CTO of Certicom about creating dedicated proof-of-work secure hardware that would create tokens that could be used as an underlying basis for his smart contract ideas. This was interesting to Certicom as we had very good connections into cryptographic hardware industry, and I recommended that we should hire him. Nick eventually joined Certicom, but by that point they had cancelled my advanced cryptography group to raise profits in order to go public in the US (causing me to resign), and then later ceased all work in that area when the markets fell in 2001.</p>
 <p>I truly believe that would could have had cryptographic smart contracts by ’04 if Certicom had not focused on short-profits (see Solution #3 at bottom of <a href=../2004/02/security_crypto.html>this post</a> for my thoughts back in 2004 after a 3-year non-compete and NDA)…</p>
 <blockquote>What is required, I believe, is a major paradigm shift. We need to leave the whole business of fear behind and instead embrace a new model: using cryptography to enable business rather than to prevent harm. We need to add value by making it possible to do profitable business in ways that are impossible today. There are, fortunately, many cryptographic opportunities, if we only consider them. Cryptography can be used to make business processes faster and more efficient. With tools derived from cryptography, executives can delegate more efficiently and introduce better checks and balances. They can implement improved decision systems. Entrepreneurs can create improved auction systems.</blockquote>
 <blockquote>Nick Szabo is one of the few developers who has really investigated this area, through his work on Smart Contracts. He has suggested ways to create digital bearer certificates, and has contemplated some interesting secure auctioning techniques and even digital liens. Expanding upon his possibilities we can view the ultimate Smart Contract as a sort of Smart Property. Why not form a corporation on the fly with digital stock certificates, allow it to engage in its creative work, then pay out its investors and workers and dissolve? With new security paradigms, this is all possible.</blockquote>
@@ -181,7 +181,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>March 24, 2015</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01b8d0f43e66970c class="entry-category-business entry-category-security entry-category-social_software entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-security entry-category-social_software entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01b8d0f43e66970c>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2015/03/10-design-principles-for-governing-the-commons.html>10 Design Principles for Governing the Commons</a></h3>
 		
@@ -192,7 +192,7 @@ ga('Typepad.send', 'pageview');
                 <input type=hidden name=zemanta-related val="">
 
                         <div class=entry-body>
-                                <p><a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-pi style="float: right;" class=asset-img-link><img alt="Resource Sharing" src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-250wi style="width: 250px; margin: 0px 0px 5px 5px;" title="Resource Sharing" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b7c76aaed3970b img-responsive"></a>In 2009, <a href=http://en.wikipedia.org/wiki/Elinor_Ostrom title="Wikipedia Page on Elinor Ostrom" target=_self>Elinor Ostrom</a> received the Nobel Prize in Economics for her <em>“analysis of economic governance, especially <a href=http://en.wikipedia.org/wiki/Commons title="Wikipedia Page on The Commons" target=_self>the commons</a>”</em>.</p>
+                                <p><a href=../.a/6a00d8341d8bc053ef01b7c76aaed3970b-pi style="float: right;" class=asset-img-link><img alt="Resource Sharing" src=../.a/6a00d8341d8bc053ef01b7c76aaed3970b-250wi style="width: 250px; margin: 0px 0px 5px 5px;" title="Resource Sharing" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b7c76aaed3970b img-responsive"></a>In 2009, <a href=http://en.wikipedia.org/wiki/Elinor_Ostrom title="Wikipedia Page on Elinor Ostrom" target=_self>Elinor Ostrom</a> received the Nobel Prize in Economics for her <em>“analysis of economic governance, especially <a href=http://en.wikipedia.org/wiki/Commons title="Wikipedia Page on The Commons" target=_self>the commons</a>”</em>.</p>
 <p>Since then I've seen a number of different versions of her list of the 8 principles for effectively managing against <a href=http://en.wikipedia.org/wiki/Tragedy_of_the_commons title="Wikipedia Page for The Tragedy of the Commons" target=_self>the tragedy of the commons</a>. However, I've found her original words — as well as many adaptions I've seen since — to be not very accessible. Also, since the original release of the list of 8 principles there has been some research resulting in updates and clarifications to her original list.</p>
 <p>This last weekend, at two very different events — one on the <a href=http://www.futureofworking.org title="Future of Working Summit" target=_self>future of working</a> and the other on the <a href="http://crypto.sabir.cc/?page_id=237" target=_self>future of the block chain</a> (used by technologies like bitcoin) — I wanted to share these principles. However, I was unable to effectively articulate them.</p>
 <p>So I decided to take an afternoon to re-read the original, as well as more contemporary adaptions, to see if I could summarize this into a list of effective design principles. I also wanted to generalize them for broader use as I often apply them to everything from how to manage an online community to how a business should function with competitors.</p>
@@ -252,7 +252,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>March 22, 2015</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01b7c7690c38970b class="entry-category-business entry-category-entrepreneuring entry-category-social_software entry-category-social_web_for_social_change_sw4sx entry-category-user_interface entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-entrepreneuring entry-category-social_software entry-category-social_web_for_social_change_sw4sx entry-category-user_interface entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01b7c7690c38970b>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2015/03/mini-resume-card-for-conference-season.html>Mini Resume Card for Conference Season</a></h3>
 		
@@ -265,7 +265,7 @@ ga('Typepad.send', 'pageview');
                         <div class=entry-body>
                                 <p>Between the business of the March/April conference season and leaving Blackphone, I've run out of business cards. Rather than rush to print a bunch of new ones, I'm created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.</p>
 <p>Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.</p>
-<p><a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d0f2961e970c-pi style="display: inline; border-style: solid; border-width: 2px; border-color: black;" class=asset-img-link><img border=0 src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d0f2961e970c-800wi alt="Christopher Allen Micro Resume" title="Christopher Allen Micro Resume" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d0f2961e970c image-full img-responsive"></a></p>
+<p><a href=../.a/6a00d8341d8bc053ef01b8d0f2961e970c-pi style="display: inline; border-style: solid; border-width: 2px; border-color: black;" class=asset-img-link><img border=0 src=../.a/6a00d8341d8bc053ef01b8d0f2961e970c-800wi alt="Christopher Allen Micro Resume" title="Christopher Allen Micro Resume" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d0f2961e970c image-full img-responsive"></a></p>
 <p>As someone who teaches Personal Branding in my courses at BGI@Pinchot.edu, I always find it hard to practice as I preach to ask for advice and suggestions. In this case I'm trying to tame my three-headed Cerebus of a profession with Privacy/Crypto/Developer Community, an Innovative Business Educator/Instructional Designer head, and my Collaborative Tools, Processes, Games and Play head. All come tied together in my body as ultimately being about collaboration, but it is hard to explain some of the correspondences.</p>
                         </div>
                         
@@ -311,7 +311,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>June 18, 2014</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01a73ddbfc4c970d class="entry-category-business entry-category-commentary entry-category-social_software entry-category-social_web_for_social_change_sw4sx entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-commentary entry-category-social_software entry-category-social_web_for_social_change_sw4sx entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01a73ddbfc4c970d>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2014/06/deep-context-shared-languages.html>Deep Context Shared Languages</a></h3>
 		
@@ -322,14 +322,14 @@ ga('Typepad.send', 'pageview');
                 <input type=hidden name=zemanta-related val="">
 
                         <div class=entry-body>
-                                <p class=p1><span class=s1> <a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d1e21095970c-pi style="float: right;" class=asset-img-link><img alt="Opening Scene of Darmok, STtNG S05E02" src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d1e21095970c-320wi style="margin: 0px 0px 5px 5px;" title="Opening Scene of Darmok, STtNG S05E02" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d1e21095970c img-responsive"></a>If you consider yourself a futurist or an agent of change, you should read this article from The Atlantic <a href=http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/>"Shaka, When the Walls Fall"</a>. Yes, it uses a <a href=https://en.wikipedia.org/wiki/Darmok>Star Trek episode</a> as an allegory, it is a bit confusing and has a lot of complexity and depth, but it is a good introduction to a topic I care about — <em><strong>Deep Context Shared Languages</strong></em>.</span></p>
+                                <p class=p1><span class=s1> <a href=../.a/6a00d8341d8bc053ef01b8d1e21095970c-pi style="float: right;" class=asset-img-link><img alt="Opening Scene of Darmok, STtNG S05E02" src=../.a/6a00d8341d8bc053ef01b8d1e21095970c-320wi style="margin: 0px 0px 5px 5px;" title="Opening Scene of Darmok, STtNG S05E02" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d1e21095970c img-responsive"></a>If you consider yourself a futurist or an agent of change, you should read this article from The Atlantic <a href=http://www.theatlantic.com/entertainment/archive/2014/06/star-trek-tng-and-the-limits-of-language-shaka-when-the-walls-fell/372107/>"Shaka, When the Walls Fall"</a>. Yes, it uses a <a href=https://en.wikipedia.org/wiki/Darmok>Star Trek episode</a> as an allegory, it is a bit confusing and has a lot of complexity and depth, but it is a good introduction to a topic I care about — <em><strong>Deep Context Shared Languages</strong></em>.</span></p>
 <p class=p1><span class=s1>I consider one of my missions in life to be to "create tools that allow people to communicate about complexity". There are many problems to address and many possible solutions to those problems. My <span class=s2><a href=https://www.facebook.com/InfiniteCanvasSuite/>Infinite Canvas Suite</a> </span>app tries to address problems of linearity. Another way to manage complexity is facilitating the creation and learning of <a href=../2009/09/creating-shared-language-and-shared-artiifacts.html>Shared Languages</a>.</span></p>
 <p class=p1><span class=s1>Some of what Shared Language is is tribal — it has an elemental power to help a group form. But what a shared language also does is allow a group to take shortcuts. For instance, with the <a href=https://www.facebook.com/GroupWorksDeck/><span class=s2>Group Works Deck</span></a> Pattern Language, I can say the phrase "Viewpoint Shift" and practitioners know that I mean <em>"Step from your usual perspective into another in order to better understand someone, shift energy, reframe meanings, open up new ideas, or simply see a situation with new eyes."</em> But they also know more than that — they can connect that concept to their own experience of doing this practice.</span></p>
 <p class=p1><span class=s1>The first time I was introduced to this concept was by expert facilitator and futurist <a href=https://www.facebook.com/RMattTaylor><span class=s2>Matt Taylor</span></a>, who has in his communities a Shared Language concept called a "Glass Bead Game", which is from a story by Herman Hess. As <a href=https://en.wikipedia.org/wiki/The_Glass_Bead_Game>Wikipedia cites it</a>:</span></p>
 <blockquote>
 <p class=p1><span class=s1>"The Glass Bead Game is "a kind of synthesis of human learning" in which themes, such as a musical phrase or a philosophical thought, are stated. As the Game progresses, associations between the themes become deeper and more varied."</span></p>
 </blockquote>
-<p class=p1><span class=s1> <a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d1e211d8970c-pi style="float: right;" class=asset-img-link><img alt="Solution Box, Insight, Philosophy, Schematic Design" src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b8d1e211d8970c-75wi style="width: 60px; margin: 0px 0px 5px 5px;" title="Solution Box, Insight, Philosophy, Schematic Design" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d1e211d8970c img-responsive"></a>When you know the shared language of Matt's community, you can express concisely "In the SOLUTION BOX I am at INSIGHT, PHILOSOPHY and SCHEMATIC DESIGN." Which means, in other words, <em>"I have a mature idea that I feel is a synthesis of all the challenges inherent in the project, I can talk about it with some clarity and express it as a visual solution. I have done a lot of work yet I do not have a buildable design."</em> Someone familiar with the language can then respond in kind, rather than coming from a different perspective in the solution box and think that I have built something that is ready for production.</span></p>
+<p class=p1><span class=s1> <a href=../.a/6a00d8341d8bc053ef01b8d1e211d8970c-pi style="float: right;" class=asset-img-link><img alt="Solution Box, Insight, Philosophy, Schematic Design" src=../.a/6a00d8341d8bc053ef01b8d1e211d8970c-75wi style="width: 60px; margin: 0px 0px 5px 5px;" title="Solution Box, Insight, Philosophy, Schematic Design" class="asset  asset-image at-xid-6a00d8341d8bc053ef01b8d1e211d8970c img-responsive"></a>When you know the shared language of Matt's community, you can express concisely "In the SOLUTION BOX I am at INSIGHT, PHILOSOPHY and SCHEMATIC DESIGN." Which means, in other words, <em>"I have a mature idea that I feel is a synthesis of all the challenges inherent in the project, I can talk about it with some clarity and express it as a visual solution. I have done a lot of work yet I do not have a buildable design."</em> Someone familiar with the language can then respond in kind, rather than coming from a different perspective in the solution box and think that I have built something that is ready for production.</span></p>
 <p class=p1><span class=s1>Sometimes hash tags are a more contemporary expression that there may exist a Deep Context. For instance, just saying <a href="https://www.facebook.com/hashtag/glassbeadgame?source=feed_text&amp;story_id=10152490318630540"><span class=s3>#‎</span><span class=s4>GlassBeadGame</span></a> is a challenge for someone to respond in kind with a model of their own. Hash tags like <a href="https://www.facebook.com/hashtag/intrapreneuring?source=feed_text&amp;story_id=10152490318630540"><span class=s3>#‎</span><span class=s4>Intrapreneuring</span></a> or <a href="https://www.facebook.com/hashtag/freedomtofail?source=feed_text&amp;story_id=10152490318630540"><span class=s3>#‎</span><span class=s4>FreedomToFail</span></a> also have Deep Contexts with different communities. If someone says to me <a href="https://www.facebook.com/hashtag/cynefin?source=feed_text&amp;story_id=10152490318630540"><span class=s3>#‎</span><span class=s4>Cynefin</span></a> I know that we share an understanding with me about the difference between <a href=https://en.wikipedia.org/wiki/Cynefin_Framework>"complicated" vs "complex" </a>and how to work with each.</span></p>
 <p class=p1><span class=s1>So what makes for great deep context shared languages? I don't know, but this article touches on it. It is more than just metaphor, more than allegory, more than meme. But if we can figure out how to create and teach it, it may be a powerful tool for communicating about complexity.</span></p>
 <blockquote>
@@ -385,7 +385,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>June 05, 2014</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01a73dd2a492970d class="entry-category-business entry-category-commentary entry-category-security entry-category-social_web_for_social_change_sw4sx entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-commentary entry-category-security entry-category-social_web_for_social_change_sw4sx entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01a73dd2a492970d>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend.html>Freedom to Fail &amp; Freakonomics podcast "Failure is Your Friend"</a></h3>
 		
@@ -443,7 +443,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>March 08, 2014</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef01a73dbc89a7970d class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef01a73dbc89a7970d>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2014/03/second-gov-the-consensus-project.html>Second Gov &amp; The Consensus Project</a></h3>
 		
@@ -501,7 +501,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>April 04, 2013</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef017d4287db67970c class="entry-category-business entry-category-community_by_the_numbers entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-community_by_the_numbers entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef017d4287db67970c>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2013/04/dyads-triads-the-smallest-teams.html>Dyads &amp; Triads — The Smallest Teams</a></h3>
 		
@@ -518,9 +518,9 @@ ga('Typepad.send', 'pageview');
 <p>My expertise with group dynamics comes from professional experience as an entrepreneur and from considerable experience both building online communities and helping others to do the same. Through these processes, I've seen how groups of people act differently at different sizes. As I discussed in my previous blog post on Group Thresholds [<a href=#Allen>Allen</a>], there are pros and cons associated with different group sizes. However, the smallest group that I spoke of in that article was the 'working team size', which is a group of four to nine members (but ideally about seven). I didn't talk about groups consisting of less than four members-specifically dyads (a group of two people) and triads (a group of three people)-and that was what the BGIedu faculty was now interested in learning more about.</p>
 <p>My first inclination when considering BGIedu's request was to say that triads would be the best size for study groups, but I wasn't sure. I knew from my past research on group size that a dyad has a significantly different behavior than any other small groups. However, I wasn't certain if triads should also be considered on their own, or if they were just the low end of one of those 'work teams', which I'd always thought of as containing four to nine members. Triads were a hole in my research.</p>
 <p>I decided to dig deeper into this question by engaging my teaching assistant Elyn Andersson and my writing partner Shannon Appelcline to help me investigate further. This post is the fruit of our research and our discussions about dyads and triads. We hope it might help you decide whether a dyad or a triad is the better team size for groups that you are working in.</p>
-<h1><a name=choosing id=choosing></a>Choosing between Dyads and Triads</h1>
+<h1><a id=choosing name=choosing></a>Choosing between Dyads and Triads</h1>
 <p>
-<a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef017c3859329f970b-pi style="float: right;" class=asset-img-link><img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef017c3859329f970b-800wi alt="Pythagorian Dyad - Public Domain" style="margin: 0px 0px 5px 5px;" class="asset  asset-image at-xid-6a00d8341d8bc053ef017c3859329f970b" border=0 title="Pythagorian Dyad - Public Domain"></a>Before I share with you the details of our investigation, I want to be clear that dyads, triads, and small 'working team' groups can all be effective. Any challenge faced by groups of these sizes can be overcome by a good process, teamwork, training, or just positive energy. However, my thesis is that certain sizes of groups are better for certain purposes-and when a group size is selected appropriately it will require less energy and thus be more likely to be productive when the inevitable group challenges occur. When choosing among a dyad, a triad, or a working team, the important thing to focus on is thus the intent in forming the group.</p>
+<a href=../.a/6a00d8341d8bc053ef017c3859329f970b-pi style="float: right;" class=asset-img-link><img src=../.a/6a00d8341d8bc053ef017c3859329f970b-800wi alt="Pythagorian Dyad - Public Domain" style="margin: 0px 0px 5px 5px;" class="asset  asset-image at-xid-6a00d8341d8bc053ef017c3859329f970b" border=0 title="Pythagorian Dyad - Public Domain"></a>Before I share with you the details of our investigation, I want to be clear that dyads, triads, and small 'working team' groups can all be effective. Any challenge faced by groups of these sizes can be overcome by a good process, teamwork, training, or just positive energy. However, my thesis is that certain sizes of groups are better for certain purposes-and when a group size is selected appropriately it will require less energy and thus be more likely to be productive when the inevitable group challenges occur. When choosing among a dyad, a triad, or a working team, the important thing to focus on is thus the intent in forming the group.</p>
 <p>For the groups being considered by BGIedu, the faculty felt that the students taking the new curriculum needed three things:</p>
 <ul>
 <li>
@@ -536,11 +536,11 @@ ga('Typepad.send', 'pageview');
 <p>The last requirement - that members of these study teams would be accountable to each other without one student just taking up the slack of another - was the toughest one.</p>
 <p>Clearly, working teams of 4-9 people were too large for our purposes. Teams this size are rarely intimate enough to support the needs of individuals. In addition, research shows that they are poor at supporting accountability. That's because working teams of 4-9 are very vulnerable to social loafing (i.e., slackers)-except when the tasks assigned to these working teams are highly independent (i.e. an entrepreneurial team that has different members focused on different topics, such as management, development, operations, marketing and sales) or when they require high diversity. An upcoming blog will cover this topic in more depth.</p>
 <p>
-<a href=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef017c38593410970b-pi style="float: right;" class=asset-img-link><img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef017c38593410970b-800wi alt="Pythagorian Triad - Public Domain" style="margin: 0px 0px 5px 5px;" class="asset  asset-image at-xid-6a00d8341d8bc053ef017c38593410970b" border=0 title="Pythagorian Triad - Public Domain"></a>Removing working teams left the question of dyad vs. triad - which our research would show were both very different from working teams. Triads ultimately fit BGIedu's particular need better. That was primarily due to advantages of accountability and cohesion, combined with some emotional support. However, some simple numerical properties of triads also prove useful: they have elemental diversity because they're up to 50% more diverse than dyads; and if someone misses a team meeting the other two-thirds of the team can still benefit. For all of these reasons, my recommendation to the BGIedu faculty was that these formal study teams be formed in triads.</p>
+<a href=../.a/6a00d8341d8bc053ef017c38593410970b-pi style="float: right;" class=asset-img-link><img src=../.a/6a00d8341d8bc053ef017c38593410970b-800wi alt="Pythagorian Triad - Public Domain" style="margin: 0px 0px 5px 5px;" class="asset  asset-image at-xid-6a00d8341d8bc053ef017c38593410970b" border=0 title="Pythagorian Triad - Public Domain"></a>Removing working teams left the question of dyad vs. triad - which our research would show were both very different from working teams. Triads ultimately fit BGIedu's particular need better. That was primarily due to advantages of accountability and cohesion, combined with some emotional support. However, some simple numerical properties of triads also prove useful: they have elemental diversity because they're up to 50% more diverse than dyads; and if someone misses a team meeting the other two-thirds of the team can still benefit. For all of these reasons, my recommendation to the BGIedu faculty was that these formal study teams be formed in triads.</p>
 <p>Dyads, however, are quite appropriate for a variety of other purposes, and should not be dismissed. I'll be talking of some of their advantages before proceeding on to the lessons learned about triads themselves.</p>
-<h1><a name=dyad id=dyad></a>The Dyad</h1>
+<h1><a id=dyad name=dyad></a>The Dyad</h1>
 <p>Everyone has had experience with dyads. The first social experience of anyone's life is a dyadic relationship - that between a mother and her unborn child. This parent-child relationship continues once the child is born. Overall, dyads are the most common social group; they are seen everywhere, in personal, academic and business relationships.</p>
-<p><a href=http://www.flickr.com/photos/94611163@N00/683866337/ style="float: right;"><img border=0 src=http://farm2.staticflickr.com/1108/683866337_4dd654b650_n.jpg style="margin: 0px 0px 5px 5px;" alt="Great Guitar Duo — Photo by Tom706 CC-BY-NC-ND"></a>To decide if a dyad is the best group size for your needs, it is again important to focus on the purpose of the group. A number of interesting characteristics of dyads - some benefits and some limitations - make them unique from triads and other larger group sizes, among them:</p>
+<p><a href=http://www.flickr.com/photos/94611163@N00/683866337/ style="float: right;"><img border=0 src=http://farm2.staticflickr.com/1108/683866337_4dd654b650_n.jpg alt="Great Guitar Duo — Photo by Tom706 CC-BY-NC-ND" style="margin: 0px 0px 5px 5px;"></a>To decide if a dyad is the best group size for your needs, it is again important to focus on the purpose of the group. A number of interesting characteristics of dyads - some benefits and some limitations - make them unique from triads and other larger group sizes, among them:</p>
 <ul>
 <li>
 <p>Emotional Support</p>
@@ -558,31 +558,31 @@ ga('Typepad.send', 'pageview');
 <p>Group Accountability</p>
 </li>
 </ul>
-<h2><a name=emotional_support id=emotional_support></a>Emotional Support</h2>
+<h2><a id=emotional_support name=emotional_support></a>Emotional Support</h2>
 <p>There have been some academic studies [<a href=#Taylor>Taylor</a>] that suggest that it's easier to be open and share within dyads. The research has shown that people feel safer about revealing personal and intimate information in a dyad than they do when a third person is added to the group. As a result, disclosure rates increase when people are put into dyads as compared to triads. Furthermore, adding a third person to a group causes its members to be more socially conscious, making it harder for members to listen to the conversation and at the same time be aware of their own thoughts.</p>
 <p>Together it's this trust level (allowing for disclosure) and this focus level (allowing for better listening) that make dyads much stronger for emotional support than triads or larger teams. If the intent of a group is to have an intimate and fully open space, or if the work of the group is emotional in nature, this might make dyads a better choice.</p>
 <p>Though dyads are clearly more effective for providing emotional support, triads can still offer that as well under the right conditions.</p>
-<h2><a name=commitment id=commitment></a>Commitment</h2>
+<h2><a id=commitment name=commitment></a>Commitment</h2>
 <p>This intimacy and confidentiality of a dyad helps its members to build strong team dynamics relatively quickly. The two individuals not only will have formed a trust bond more easily than three or more individuals could, but they generally will have a better ratio of time to performance outcomes compared to groups of larger sizes, in part because less time is spent maintaining the team relationship itself.</p>
 <p>In a triad or larger group, the group would need to put effort towards team work over task work and thus less time is put towards performing the task. In other words, more resources would be spent on relating to a teammate than on finishing a project.</p>
-<h2><a name=reasoned_agreement id=reasoned_agreement></a>Reasoned Agreement</h2>
+<h2><a id=reasoned_agreement name=reasoned_agreement></a>Reasoned Agreement</h2>
 <p>The most unique element of dyads is that they are the only group size in which one voice is paired against another voice equally.</p>
 <p>When was the last time you were in dyad in which you did not agree on an issue? Most likely, you and the other individual spent some considerable time trying to convince the other of your reasons, and the outcome was one of two things: you either both stuck with your opinion and walked away, or one of you changed your mind after hearing the other's ideas and opinions.</p>
 <p>Because members can't 'vote', a dyad is either in agreement or disagreement, which forces a longer deliberation for tasks when consensus is required. There are times when you want a small group to deliberate deeply, and dyads are ideal for this.</p>
-<h2><a name=power_inequality id=power_inequality></a>Power Inequality</h2>
+<h2><a id=power_inequality name=power_inequality></a>Power Inequality</h2>
 <p>Though dyads have several advantages, they can also bring with them a few additional problems - one of which is a power inequality of knowledge that would be detrimental within some teams. For some tasks, this could offset the benefits of having a more intimate small group. For my BGIedu groups, I was concerned that it might prevent some students from benefiting academically from the study exercise.</p>
 <p>This topic has been addressed in a study <a href=http://www.sciencedirect.com/science/article/pii/S0160289604000972>[</a><a href=#Day title=Day target=_self>Day</a>] that compared homogeneous teams that were entirely high-ability or low-ability to heterogeneous dyads of mixed abilities. The study found that while high-ability people tested better individually after learning the material in a dyad with another high-ability team mate, low-ability people did not gain much benefit from studying in a dyad with a high-ability team member.</p>
 <p>This was somewhat surprising. A student with more knowledge of a subject should be able to mentor a student with less knowledge, therefore creating a true dyad study partner. However, this study showed that this was not the case.</p>
 <p>The study also argued against another common conception. One might assume that two high-ability team members could learn more together, when they could bounce ideas off of each other, than they could alone. However, this was again not the case: high-ability individuals performed better after learning alone than after learning with another high-ability team member! Only homogeneous low-ability teammates performed better after being in a dyad than alone.</p>
 <p>This study pushed me toward triads for study teams at BGIedu, as dyads would not be large enough to guarantee high performance outcomes; the teams would always consist of one higher performing student and one lower performing student.</p>
-<h2><a name=group_accountability id=group_accountability></a>Group Accountability</h2>
+<h2><a id=group_accountability name=group_accountability></a>Group Accountability</h2>
 <p>Another disadvantage of dyads shows up in the area of accountability. The simplest version of this issue can be shown in this question: if one teammate says she did the majority of the work, while the other teammate says the work was shared 50/50, who was correct? A tougher question: if they both say that the work was shared 50/50, how is a third party able to determine if this actually was true?</p>
 <p>Elyn, my teaching assistant, interned in a high school in Seattle while working towards her Master's in Teaching. Her experiences highlight this problem. In today's educational model, collaborative learning is highly valued, and Elyn worked to incorporate in-class group work into many of her lessons. When assessing the students' group projects, however, she found that it was difficult to determine if the students shared the work equitably or if some of the students rode on the hard work of their partners. In some cases, Elyn doubted that the work was split equally. In particular, she found that if she let the students choose their own partners, the students were more likely to say that 'both' did the work, rather than tell the teacher their friend slacked off on the assignment.</p>
 <p>A recent study [<a href=#Alkaslassy target=_self>Alkaslassy</a>] supports Elyn's experience. In it, students working on a paired group assignment were asked to allocate the percent of work done between the pair. 86% of the students assigned equal credit between the two individuals in the group. At a surface level, one could presume that each party performed half the work and was honest in their assignment of credit. However, Elyn and I believe that in some dyadic relationships, friendship can become an overriding factor and that in those situations, students are more likely to allocate equal credit because of this friendship, not because of true equity.</p>
 <p>In the psychological field, this relates to a well-known cognitive bias called the <a href=http://en.wikipedia.org/wiki/Egocentric_bias title="Wikipedia: Egocentric Bias" target=_self>egocentric bias</a>, where an individual will claim more responsibility for group action then an independent observer would credit them. Although this is most often discussed for larger groups, in dyads a member might rate their own efforts as being half of the effort when in fact is it is less. Thus in academic group projects, it can sometimes be more effective to have the students rate their peer rather than themselves.</p>
 <p>Though group accountability can be a disadvantage for dyads, it improves when you have triads, thanks in part to a triad's inability to devolve. This, as it turns out, would be another comparative advantage that helped me choose triads over dyads for BGIedu.</p>
-<h1><a name=triads id=triads></a>Triads</h1>
-<p><a href=http://www.flickr.com/photos/yaketyyakyak/5991422366/in/photostream/ style="float: right;"><img border=0 src=http://farm7.staticflickr.com/6123/5991422366_6301a83c43_n.jpg style="margin: 0px 0px 5px 5px;" alt="Fernando's Kitchen, Cambridge 30-07-11 — Photo by Dave Catchpole CC-BY"></a>There are a number of interesting characteristics of triads that make them different from dyads and also from small 'working team' groups. I'll talk about three of them in this article:</p>
+<h1><a id=triads name=triads></a>Triads</h1>
+<p><a href=http://www.flickr.com/photos/yaketyyakyak/5991422366/in/photostream/ style="float: right;"><img border=0 src=http://farm7.staticflickr.com/6123/5991422366_6301a83c43_n.jpg alt="Fernando's Kitchen, Cambridge 30-07-11 — Photo by Dave Catchpole CC-BY" style="margin: 0px 0px 5px 5px;"></a>There are a number of interesting characteristics of triads that make them different from dyads and also from small 'working team' groups. I'll talk about three of them in this article:</p>
 <ul>
 <li>
 <p>Inability to Devolve</p>
@@ -594,11 +594,11 @@ ga('Typepad.send', 'pageview');
 <p>Elemental Diversity</p>
 </li>
 </ul>
-<h2><a name=inability_to_devolve id=inability_to_devolve></a>Inability to Devolve</h2>
+<h2><a id=inability_to_devolve name=inability_to_devolve></a>Inability to Devolve</h2>
 <p>We all have experienced what happens when a party gets too busy or too noisy - the size of the conversation groups get smaller. If you are having an informal dinner for seven, sometimes the conversation will include the entire table. However while people are eating the conversation will typically devolve into smaller groups: four people at one end of the table will being having one conversation, while the remaining three will be talking at the end other. Sometimes one person will be left out of any conversation, but studies show that with small groups this is less likely to happen. We have a natural tendency not to want to exclude or reject individuals unjustly, so such a singleton will usually find a place in one conversation or another.</p>
 <p>Working teams also have this natural tendency to devolve when confronted with external challenges (of which noise is one of the simpler ones) or internal challenges (such as differences of opinion), only reuniting when those challenges are resolved. A team of six can devolve gracefully a number of different ways: a three and a three; a four and a two; or three groups of two. Teams of five can devolve into teams of two and three. A team of four can devolve into two teams of two. In all of these cases the devolution does not exclude any individual's voice.</p>
 <p>However, a triad can not devolve without excluding someone. Triads thus have a lot of subtle pressure to try to keep the group together, so that no individual is explicitly rejected - except for a good reason. This leads to more accountability for the individuals in the group, compared to teams of two where the dyadic nature of the group can override liability.</p>
-<h2><a name=voting id=voting></a>Unconscious Voting</h2>
+<h2><a id=voting name=voting></a>Unconscious Voting</h2>
 <p>A dyad's inability to vote was an advantage of that group size, and thus issues that require deeper deliberation are often better with dyads. However, you sometimes don't want as much deliberation. You want fast action.</p>
 <p>I find that we unconsciously gauge each others' opinions in a small group very quickly, and even more so with a triad. This means that a triad seems to be able to come to at least some decision very fast. There are many cases where this can be very useful - if that is the intent of your team.</p>
 <p>As an personal example, I saw a presentation in the early 1990s from the Apple Human Interface Group (HIG) about their survey of how users colored "folders" on the Macintosh. The result was that there was little commonality - everyone colored folders differently for different reasons. Afterward, I met with the team and suggested that that if they instead asked teams of three to decide how to color code folders that they used together, then the results from all the different teams would have much more commonality. This suggestion ended up getting me a consulting job with Apple HIG, and shows how a triad can quickly create successful performance outcomes.</p>
@@ -607,11 +607,11 @@ ga('Typepad.send', 'pageview');
 <p>However, when I worked with them on this product line, I saw that I'd changed their very successful dyad to a triad, and I thus became a tiebreaker in many of their business decisions - including business decisions on issues that had nothing to do with our joint product. This was caused by a shift in power: one partner might ask me a question about marketing rather than asking his partner (who knew marketing), and then it would become our opinion against the remaining partner's. Conversely, I found the marketing partner asking me to side with him on development questions.</p>
 <p>I found this quite troubling; a more manipulative person could have controlled or broken that relationship by always breaking the ties in their own favor. In our case, we never shipped the product line and went our separate ways. I couldn't help but think it might have been because my unofficial "vote" was causing problems in their partnership.</p>
 <p>When getting a result is the purpose of a team, a triad is better than a dyad as it allows for this voting to take place. As I mentioned to BGIedu, a triad can have a two-to-one vote, allowing a better chance at task accomplishment. Task accomplishment is also achieved because triads stay on topic better than dyads due of this voting ratio: if one member of a dyad decides to go off topic, it is easy for the other to follow his or her lead. In a a triad, two out of the three members would need to 'agree' to follow an unrelated discussion.</p>
-<h2><a name=elemental_diversity id=elemental_diversity></a>Elemental Diversity</h2>
+<h2><a id=elemental_diversity name=elemental_diversity></a>Elemental Diversity</h2>
 <p>One final advantage of triads when compared to dyads is that the knowledge base of the group is larger. I saw this issue clearly in my recent Social Web for Social Change class at BGIedu, where I changed the team size from two to three, and immediately saw a growth in elemental diversity that benefited the groups.</p>
 <p>In this class, I have the students participate in an exercise on personal branding. I originally had the students pair up in teams of two, effectively giving each student a 'branding buddy' to help them form their personal brand and to give and receive feedback. In the last year, however, I decided to change this dyad to a triad.</p>
 <p>At first, these groups followed the same methods I used for dyads: one person would self-brand themselves to a second person in the group, who would then echo back what they thought they heard the first person say, using their own words. However, it is difficult for two people to really hear the similarities and differences between what they said and what they heard. The third person thus became a neutral sounding board who told both individuals that spoke what they said. Together, all three could figure out the similarities and differences between the statements. After consensus is reached, all three students switch roles. I call this the Echo Exercise, and it shows how triads can be beneficial at times when the natural characteristics of dyads don't lead to optimum results.</p>
-<h1><a name=finalnotes id=finalnotes></a>Final Notes</h1>
+<h1><a id=finalnotes name=finalnotes></a>Final Notes</h1>
 <p><a href=http://commons.wikimedia.org/wiki/File:Triple-Spiral-Symbol-filled.svg style="float: right;"><img src=http://upload.wikimedia.org/wikipedia/commons/c/c2/Triple-Spiral-Symbol-filled.svg alt="Tripal Spiral — from Wikimedia Commons, Public Domain" height=150 style="margin: 0px 0px 5px 5px;" border=0 width=160></a>As it happens, this article was created by a triad. It wasn't purposeful, nor was it meant to show off the findings of this article. Instead, the triad evolved naturally because it proved the best group size for writing this piece.</p>
 <p>I came up with the initial concept for the article and wrote out the problem and introduction. Elyn then did considerable research and wrote up a rough draft of her findings. To that point, we were a committed dyad, working together in an organic way. However, we also had an article that felt like it was in two parts. That's when I had Shannon join us. He reorganized the article, unified its voice, and produced a final draft.</p>
 <p>Though it wasn't purposeful, you can see the advantages of triads just from this example. Most notably, our triad made great use of elemental diversity. Though I held the core ideas and concepts for the article, Elyn provided the research expertise and Shannon provided the editorial expertise that were required to complete it. Voting also came into the equation (in the unconscious way that it tends to in triads) when Shannon effectively "broke the tie" of two different writing styles.</p>
@@ -681,7 +681,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>November 22, 2009</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef0120a6a07b03970b class="entry-category-business entry-category-entrepreneuring entry-category-film entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-entrepreneuring entry-category-film entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef0120a6a07b03970b>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2009/11/paying-for-favors.html>Paying for Favors</a></h3>
 		
@@ -696,7 +696,7 @@ ga('Typepad.send', 'pageview');
 
 <p>The real value of participating in this exchange is in the reciprocity and the social capital, but if the indie project is financially successful some ill will can arise about who really owes whom. One way that some creative producers deal with this is to have in effect two budgets, the real budget, and the virtual budget. Joss Whedon (creator and producer of <em>Buffy the Vampire Slayer</em>, <em>Serenity</em>, <em>Firefly</em>, <em>Dollhouse</em>, etc.) describes how he did this for his recent successful internet project <a href=http://www.drhorrible.com/><em>Dr. Horrible's Sing-Along Blog</em></a> in a recent <a href="http://knowledge.wharton.upenn.edu/article.cfm?articleid=2152">interview</a> at the Wharton business school:</p>
 
-<blockquote><p><em><strong><a href=http://www.flickr.com/photos/jdlasica/2858261316/ style=" float: right;"><img border=0 src=http://farm4.static.flickr.com/3133/2858261316_40a63f6dd5_m.jpg style="margin: 0px 0px 5px 5px;" alt="Joss Whedon photo"></a>Whedon:</strong> We got so much of this done through people doing us favors — department heads and people who have access to things. But you've got to pay your day-to-day crew. The actors all did it for nothing. And we all did it for nothing. So, the production costs alone — the basic costs of filming the thing, and getting the locations, props and everything — ran a little over $200,000.</em></p>
+<blockquote><p><em><strong><a href=http://www.flickr.com/photos/jdlasica/2858261316/ style=" float: right;"><img border=0 src=http://farm4.static.flickr.com/3133/2858261316_40a63f6dd5_m.jpg alt="Joss Whedon photo" style="margin: 0px 0px 5px 5px;"></a>Whedon:</strong> We got so much of this done through people doing us favors — department heads and people who have access to things. But you've got to pay your day-to-day crew. The actors all did it for nothing. And we all did it for nothing. So, the production costs alone — the basic costs of filming the thing, and getting the locations, props and everything — ran a little over $200,000.</em></p>
 
 <p><em>We had a secondary budget drawn up in case of a profit, wherein we were trying to find rates for Internet materials. In some cases they didn't exist. We used models that had been created by the guild for repurposed, or reused, material that we used for original [content], because this had never come up before.</em></p>
 
@@ -724,7 +724,7 @@ ga('Typepad.send', 'pageview');
 
 <p>I suspect that many other industries may have interesting creative ideas on how to monetize favor if an outcome is good, but otherwise give out reciprocity of favors or social capital in the common good. Do you know of any of these?</p>
 <hr>
-<p><font size=-2><em><strong>Credits:</strong> Joss Whedon photo CC-NC licensed by JD Lasica / <a href=../SocialMedia.biz>SocialMedia.biz</a>.</em></font></p>
+<p><font size=-2><em><strong>Credits:</strong> Joss Whedon photo CC-NC licensed by JD Lasica / <a href=SocialMedia.biz>SocialMedia.biz</a>.</em></font></p>
                         </div>
                         
 
@@ -773,7 +773,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>September 27, 2009</h2>
 
 	
-	<div id=entry-6a00d8341d8bc053ef0120a5f5a77f970c class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-6a00d8341d8bc053ef0120a5f5a77f970c>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2009/09/facilitating-small-gatherings-using-the-braid.html>Facilitating Small Gatherings Using "The Braid"</a></h3>
 		
@@ -784,7 +784,7 @@ ga('Typepad.send', 'pageview');
                 <input type=hidden name=zemanta-related val="">
 
                         <div class=entry-body>
-                                <p><a href=http://www.theworldcafe.com/bank_book.htm style="float: right; margin: 0px 0px 5px 5px;"><img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef0120a5f61c98970c-320wi alt="Power of Conversation" class="at-xid-6a00d8341d8bc053ef0120a5f61c98970c "></a> I was musing as I was preparing for next week's Intensive at <a href=../2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html>BGI</a> that I have 21 students in my class, an uncomfortable size. That's because it lies between a smaller size where good conversations naturally occur, and a larger size where you can take full advantage of different activities that work well for larger groups.</p>
+                                <p><a href=http://www.theworldcafe.com/bank_book.htm style="float: right; margin: 0px 0px 5px 5px;"><img src=../.a/6a00d8341d8bc053ef0120a5f61c98970c-320wi alt="Power of Conversation" class="at-xid-6a00d8341d8bc053ef0120a5f61c98970c "></a> I was musing as I was preparing for next week's Intensive at <a href=../2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html>BGI</a> that I have 21 students in my class, an uncomfortable size. That's because it lies between a smaller size where good conversations naturally occur, and a larger size where you can take full advantage of different activities that work well for larger groups.</p>
 
 <p>I talk about this a bit in my <a href=../2008/09/group-threshold.html>Group Threshold</a> and <a href=../2004/03/the_dunbar_numb.html>Dunbar Number</a> posts, where I call the group threshold size of between 10 and 24 people the <a href=../2008/09/group-threshold.html#Judas_Number>“Judas Number”</a> nadir, or low point. These group threshold nadirs exist when groups are too large for some processes to function effectively, but too small for others to work.</p>
 
@@ -792,25 +792,25 @@ ga('Typepad.send', 'pageview');
 
 <p>I've also seen this at business meetings. When my entrepreneurial companies were small an “all hands” meeting could be incredibly effective. All the issues and ideas got brought up, and everyone felt committed to our decisions. However, as these meeting grew, at some point the “all hands” meeting took too long and started requiring process and rules to be effective. The energy this consumed also diminished much of the efficacy of the meeting.</p>
 
-<p><a href=http://lifewithalacrity.blogs.com/files/Four%20Table%20Braid.pdf style="float: left; margin: 0px 5px 5px 0px; border=1" title="Four Table Braid"><img src=http://farm3.static.flickr.com/2434/3959741597_77ffe2ca15_m.jpg alt="Four Table Braid" height=137 style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; " width=240 title="Card from Four Table Braid"></a>One tool that I've used to manage these odd-sized groups in the past is what I call “The Braid”. It is derived from a group process called the Café Method, of which <a href=http://www.theworldcafe.com/>The World Café</a> and <a href=""></a><a href=http://www.conversationcafe.org/>Conversation Café</a> are excellent examples. In The Café Method, people meet in smaller groups around tables, and then flow from table to table sharing ideas, but ideally keeping each table at 4-7 people. There is an excellent free PDF guide to the Café Method offered by The World Café called <a href=http://www.theworldcafe.com/articles/cafetogo.pdf>Cafe To Go</a>.</p>
+<p><a href=../files/Four%20Table%20Braid.pdf style="float: left; margin: 0px 5px 5px 0px; border=1" title="Four Table Braid"><img src=http://farm3.static.flickr.com/2434/3959741597_77ffe2ca15_m.jpg alt="Four Table Braid" height=137 style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: black; border-right-color: black; border-bottom-color: black; border-left-color: black; " width=240 title="Card from Four Table Braid"></a>One tool that I've used to manage these odd-sized groups in the past is what I call “The Braid”. It is derived from a group process called the Café Method, of which <a href=http://www.theworldcafe.com/>The World Café</a> and <a href=""></a><a href=http://www.conversationcafe.org/>Conversation Café</a> are excellent examples. In The Café Method, people meet in smaller groups around tables, and then flow from table to table sharing ideas, but ideally keeping each table at 4-7 people. There is an excellent free PDF guide to the Café Method offered by The World Café called <a href=http://www.theworldcafe.com/articles/cafetogo.pdf>Cafe To Go</a>.</p>
 
 <p>The Braid is a little more organized then the more ad-hoc Café Method. When you start a meeting you are given a small card that tells you which table to sit at for each round. Each table is assigned a scribe for each round to take notes at the table, and to report out the notes to everyone who arrives for the next round.</p>
 
 <p>One nice thing about the organization of The Braid is that over the course of a number of rounds you'll have a brand new group of people to talk to during each round. Thus over the course of an hour or so you'll actually get to have a relatively short yet rich conversation with almost everyone in the room, rather than with just a few.</p>
 
-<p><a href="http://spreadsheets.google.com/pub?key=tSZvgWmkax0xsBfKY3Lj69Q&amp;gid=0" style="float: right; margin: 0px 0px 5px 5px;" title="Four Table Braid"><img width=433 alt="Four Table Braid" height=453 src=http://farm3.static.flickr.com/2622/3960601974_652a29b96f.jpg></a> There are different forms of The Braid for different numbers of tables and sizes of groups, but my favorite is the Four Table Braid for groups of a minimum of 16 to a maximum of 28 people. One of the peculiar things about this Braid is that it seems to function well if people arrive at different times. The Braid fills first table A with 4 people so that they can begin talking, then fills table B, C, and D the same way. Once those tables are full, new arrivals are woven into The Braid one at a time until all tables have 5 people, then 6, then the max of 7 for a total of 28 people.</p>
+<p><a href="http://spreadsheets.google.com/pub?key=tSZvgWmkax0xsBfKY3Lj69Q&amp;gid=0" style="float: right; margin: 0px 0px 5px 5px;" title="Four Table Braid"><img src=http://farm3.static.flickr.com/2622/3960601974_652a29b96f.jpg alt="Four Table Braid" height=453 width=433></a> There are different forms of The Braid for different numbers of tables and sizes of groups, but my favorite is the Four Table Braid for groups of a minimum of 16 to a maximum of 28 people. One of the peculiar things about this Braid is that it seems to function well if people arrive at different times. The Braid fills first table A with 4 people so that they can begin talking, then fills table B, C, and D the same way. Once those tables are full, new arrivals are woven into The Braid one at a time until all tables have 5 people, then 6, then the max of 7 for a total of 28 people.</p>
 
 <p>Another nice thing about the Four Table Braid is that no one needs to be the scribe more then once; the task is equally shared among all but the last 8 to arrive in a group of 28. Also, in just 4 rounds with 16 people, 90%+ of the participants have met. With 28 people, you simply only need 5 rounds to match the same 90%+ meeting percentage.</p>
 
 <p>I find The Braid useful for a variety of different situations. The simplest usage is as a group warming and introduction exercise. You need not do more then two or three rounds in order for more than half of the people to have met each other. The Braid is also useful with a focused objective. For instance, I once used it after a game designers' conference, with each table having a list of "game design laws" where the participants were asked to either give an example that was in favor of the law or contradicted the law. It also can be useful in combination with a variety of other group process techniques, for instance after an MG Taylor Take-A-Panel, where each participant first creates a page telling a story about themselves 15 years in the future and then the group uses The Braid to discover common insights. The Braid can also be good before an Open Space or other unconference event.</p>
 
-<p>I am including here my templates for a <a href=http://lifewithalacrity.blogs.com/files/Four%20Table%20Braid.pdf>Four Table Braid</a>. It includes 28 cards for printing on Avery business card paper, 4 table pages with instructions for participants, and 1 page with instructions for the host. I make these available as <a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ rel=license>CC-BY-NC-SA</a> license. I welcome any DTP folks out there who would like to make these documents more functional or more attractive.</p>
+<p>I am including here my templates for a <a href=../files/Four%20Table%20Braid.pdf>Four Table Braid</a>. It includes 28 cards for printing on Avery business card paper, 4 table pages with instructions for participants, and 1 page with instructions for the host. I make these available as <a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ rel=license>CC-BY-NC-SA</a> license. I welcome any DTP folks out there who would like to make these documents more functional or more attractive.</p>
 
 <p>A Three Table Braid is easy to figure out by hand, but larger Braids are more difficult. I've never figured out an algorithm for designing these quickly (any math wizzes out there?) so I've posted my <a href="http://spreadsheets.google.com/pub?key=tSZvgWmkax0xsBfKY3Lj69Q&amp;gid=0">spreadsheet</a> for the Four Table Braid for those of you who might wish to figure out how to implement larger numbers of tables. I would love to have a Ten Table Braid as a warm up exercise for a small unconference.</p>
 
 <hr>
 
-<p><a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ style=" float: right;" rel=license><img alt="Creative Commons License" src=http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png style=border-width:0 title="Creative Commons License"></a><br><span property=dc:title xmlns:dc=http://purl.org/dc/elements/1.1/>Four Table Braid</span> by <a property=cc:attributionName href=http://www.LifeWithAlacrity.com xmlns:cc=http://creativecommons.org/ns# rel=cc:attributionURL>Christopher Allen</a> is licensed under a <a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ rel=license>Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>. Based on a work at <a href="http://www.LifeWithAlacrity.com/2009/09/facilitating-small-gatherings-using-the-braid.html " xmlns:dc=http://purl.org/dc/elements/1.1/ rel=dc:source>www.LifeWithAlacrity.com</a>. Permissions beyond the scope of this license may be available at <a href=http://ChristopherA.LifeWithAlacrity.com xmlns:cc=http://creativecommons.org/ns# rel=cc:morePermissions>ChristopherA.LifeWithAlacrity.com</a>. The Power of Conversation graphic is used with permission from <a href=http://www.theworldcafe.com/bank_book.htm>The World Cafe Image Bank</a>.</p>
+<p><a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ style=" float: right;" rel=license><img src=http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png alt="Creative Commons License" title="Creative Commons License" style=border-width:0></a><br><span property=dc:title xmlns:dc=http://purl.org/dc/elements/1.1/>Four Table Braid</span> by <a href=http://www.LifeWithAlacrity.com property=cc:attributionName xmlns:cc=http://creativecommons.org/ns# rel=cc:attributionURL>Christopher Allen</a> is licensed under a <a href=http://creativecommons.org/licenses/by-nc-sa/3.0/us/ rel=license>Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>. Based on a work at <a href="http://www.LifeWithAlacrity.com/2009/09/facilitating-small-gatherings-using-the-braid.html " xmlns:dc=http://purl.org/dc/elements/1.1/ rel=dc:source>www.LifeWithAlacrity.com</a>. Permissions beyond the scope of this license may be available at <a href=http://ChristopherA.LifeWithAlacrity.com xmlns:cc=http://creativecommons.org/ns# rel=cc:morePermissions>ChristopherA.LifeWithAlacrity.com</a>. The Power of Conversation graphic is used with permission from <a href=http://www.theworldcafe.com/bank_book.htm>The World Cafe Image Bank</a>.</p>
                         </div>
                         
 
@@ -857,7 +857,7 @@ ga('Typepad.send', 'pageview');
 			<h2 class=date-header>January 31, 2006</h2>
 
 	
-	<div id=entry-8697309 class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry">
+	<div class="entry-category-business entry-category-social_software entry-category-webtech entry-author-christophera entry-type-post entry" id=entry-8697309>
             <div class=entry-inner>
 					<h3 class=entry-header><a href=../2006/01/on_being_an_ang.html>On Being an Angel</a></h3>
 		
@@ -868,11 +868,11 @@ ga('Typepad.send', 'pageview');
                 <input type=hidden name=zemanta-related val="">
 
                         <div class=entry-body>
-                                <p><a href=http://www.alumni.unh.edu/connection/archives/12_03_04.html><img border=0 src=http://www.alumni.unh.edu/connection/images/12_03_04/angel_investor.gif style="margin: 0px 0px 5px 5px; float: right;" title=Wcsrating_2 alt=Wcsrating_2></a> In the last month or so I've received a number of links to <a href=http://www.LifeWithAlacrity.com>Life With Alacrity</a> as a <a href=http://www.ventureblogs.com/>venture capital blog</a>, and to myself as a <a href=http://www.siliconbeat.com/entries/2006/01/09/two_more_silicon_valley_vc_bloggers_guy_kawasaki_christopher_allen.html>venture capitalist</a>.</p>
+                                <p><a href=http://www.alumni.unh.edu/connection/archives/12_03_04.html><img border=0 src=http://www.alumni.unh.edu/connection/images/12_03_04/angel_investor.gif alt=Wcsrating_2 title=Wcsrating_2 style="margin: 0px 0px 5px 5px; float: right;"></a> In the last month or so I've received a number of links to <a href=http://www.LifeWithAlacrity.com>Life With Alacrity</a> as a <a href=http://www.ventureblogs.com/>venture capital blog</a>, and to myself as a <a href=http://www.siliconbeat.com/entries/2006/01/09/two_more_silicon_valley_vc_bloggers_guy_kawasaki_christopher_allen.html>venture capitalist</a>.</p>
 
 <p> However, I don't consider myself a venture capitalist. Instead, I am what is known as an "angel investor".</p>
 
-<p>This week has also seen a new topic enter the blog zeitgeist: the topic of reforming or reinventing venture capital. This topic was initially raised by <a href=http://scripting.wordpress.com/2006/01/28/how-to-reform-the-vc-industry-in-five-easy-steps/>Dave Winer</a>, followed by <a href=http://scobleizer.wordpress.com/2006/01/28/the-ventures-we-need/>Robert Scoble</a>, <a href=http://www.itgarage.com/node/737>Doc Searls</a>, <a href=http://sapventures.typepad.com/main/2006/01/the_broken_vc_m.html>Jeff Nolan</a>, <a href="http://www.ensight.org/archives/2006/01/28/disrupting-venture-capital/>Jeremy Wright</a>, <a href=" www.crunchnotes.com="" ?p=134 http:="">Michael Arrington</a>, <a href=http://www.thatedeguy.com/archives/2006/01/the-future-of-vc>Thatedeguy</a> and <a href=http://www.technorati.com/search/scripting.wordpress.com%2F2006%2F01%2F28%2Fhow-to-reform-the-vc-industry-in-five-easy-steps%2F>many more</a>.</p>
+<p>This week has also seen a new topic enter the blog zeitgeist: the topic of reforming or reinventing venture capital. This topic was initially raised by <a href=http://scripting.wordpress.com/2006/01/28/how-to-reform-the-vc-industry-in-five-easy-steps/>Dave Winer</a>, followed by <a href=http://scobleizer.wordpress.com/2006/01/28/the-ventures-we-need/>Robert Scoble</a>, <a href=http://www.itgarage.com/node/737>Doc Searls</a>, <a href=http://sapventures.typepad.com/main/2006/01/the_broken_vc_m.html>Jeff Nolan</a>, <a href="http://www.ensight.org/archives/2006/01/28/disrupting-venture-capital/>Jeremy Wright</a>, <a href=" www.crunchnotes.com="" http:="" ?p=134>Michael Arrington</a>, <a href=http://www.thatedeguy.com/archives/2006/01/the-future-of-vc>Thatedeguy</a> and <a href=http://www.technorati.com/search/scripting.wordpress.com%2F2006%2F01%2F28%2Fhow-to-reform-the-vc-industry-in-five-easy-steps%2F>many more</a>.</p>
 
 <p>All types of venture investment -- seed, angel, venture, and institutional alike -- carry with it great risks and great rewards. But before we can reinvent venture capital and related venture funding methods like angel capital, we need to understand how it works.</p>
 
@@ -900,7 +900,7 @@ ga('Typepad.send', 'pageview');
 
 <h3>Gifford Pinchot -- Partner Angel</h3>
 
-<p><a href=http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/gif_and_libba.jpg onclick="window.open(this.href, '_blank', 'width=640,height=467,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src=../images/gif_and_libba.jpg alt=Gif_and_libba height=145 style="margin: 0px 0px 5px 5px; float: right;" border=0 width=200 title=Gif_and_libba></a>
+<p><a href=../.shared/image.html?/photos/uncategorized/gif_and_libba.jpg onclick="window.open(this.href, '_blank', 'width=640,height=467,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src=../images/gif_and_libba.jpg alt=Gif_and_libba height=145 style="margin: 0px 0px 5px 5px; float: right;" border=0 width=200 title=Gif_and_libba></a>
 Gifford Pinchot, with his wife Libba, was my first angel investor in Consensus Development. We met at a Maxis meeting where Gifford had been asked to facilitate the formation of a new startup to create simulation software. At the end of the meeting we left frustrated with the results of the meeting, but Gifford liked what he heard about my broader vision. Gifford flew me to San Diego, where we walked the beach and discussed my vision for collaborative software. He liked what he heard, and later in the month flew me to his home in Connecticut, where I stayed for a month in a barn guest house near his home while we worked on our first business plan.</p>
 
 <p>Gifford only invested a low 5 figures, which got me started. However, it wasn't his money that was his most valuable contribution -- it was his time. Over the years he probably put 5-10% of his into time as Chairman of Consensus Development working with me, talking to me, advising me, and coached me. When our first software effort, InfoLog (a folksonomy tagging program like del.icio.us that was a decade too early) failed, he didn't walk away and instead encouraged me to continue. I dug deeper into the problem, discovered that trust and security were a key obstacle, and created a profitable consulting business. But Gifford encouraged me when I said we were going to take the risk of dropping all of our profitable consulting and focusing on a product, SSL Plus. Later, when this company was being shopped around to various buyers, Gifford spent lots of time doing due diligence, and ultimately came on half-time as CEO so that I could concentrate on selling the business.</p>
@@ -909,7 +909,7 @@ Gifford Pinchot, with his wife Libba, was my first angel investor in Consensus D
 
 <h3>Scott Loftesness -- Seed Angel</h3>
 
-<p><a href=http://www.sjl.us><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/people_scott.jpg style="margin: 0px 5px 5px 0px; float: left;" title=People_scott alt=People_scott></a>
+<p><a href=http://www.sjl.us><img border=0 src=../photos/uncategorized/people_scott.jpg alt=People_scott title=People_scott style="margin: 0px 5px 5px 0px; float: left;"></a>
 I met <a href=http://www.sjl.us/>Scott Loftesness</a> when he was the executive vice president at <a href=http://corporate.visa.com>Visa International</a>. We learned of each other through CompuServe, where we both were sysops in the 80s. I did some consulting for him at Visa in the groupware area over a couple of years and we grew to respect and trust each other. I came to him when I branched out from groupware consulting and began to include consulting on cryptographic security. I'd seen an opportunity--I had a potential contract from <a href=http://www.rsasecurity.com>RSA Data Security</a> to be a distributor of <a href=http://www.csm.ornl.gov/~dunigan/rsaref.txt>RSAREF</a>--but in order to take advantage of this opportunity I needed some seed capital.</p>
 
 <p>Scott invested over twice what Gifford invested, but still 5 figures. However, like Gifford, what I gained from my association with Scott was a lot more then the seed capital. He had a respected name in the industry -- a friend at Visa USA told me "Scott is where all innovation at Visa flows from." He joined my board of directors, supported our risky choice to drop all groupware and cryptographic consulting to focus on our SSL project, helped tremendously in doing due diligence on potential buyers, and was pivotal to the negotiations to close our final sale of Consensus Development.</p>
@@ -918,7 +918,7 @@ I met <a href=http://www.sjl.us/>Scott Loftesness</a> when he was the executive 
 
 <h3>Jim Bidzos -- Hands-Off Angel</h3>
 
-<p><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/bidzos.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Bidzos alt=Bidzos>
+<p><img border=0 src=../photos/uncategorized/bidzos.jpg alt=Bidzos title=Bidzos style="margin: 0px 0px 5px 5px; float: right;">
 Jim Bidzos was the CEO of RSA Data Security, whose firm had a critical patent on almost all meaningful cryptographic security. Over the years I did a lot of consulting for him to support various projects like RSAREF in standards, to create client tools for their Certificate Services Division, and to help with the founding of <a href=http://www.verisign.com>Verisign</a>.</p>
 
 <p>One day I told Jim that RSAREF would never be successful in his goal of promoting the RSA algorithm in security standards as long as it could only be sold through RSA salespeople. They preferred to sell RSA's premiere toolkit, BSAFE. I somewhat jokingly proposed that maybe Consensus Development should sell it instead. To my surprise, he agreed.</p>
@@ -941,7 +941,7 @@ Jim Bidzos was the CEO of RSA Data Security, whose firm had a critical patent on
 
 <p>The third problem was my time. Most angels still work for a living -- being an angel investor is part-time, a venture capitalist typically works full-time. If only 1 in 20 investments "make the fund", but I could at most manage 7 investments, that meant that I had a 2/3rd's chance of losing my entire investment. I might be able to argue that for some kinds of businesses I might more informed than the average VC, and thus might be able to make better choices, but not <strong><em>that</em></strong> much better.</p>
 
-<p><img border=0 src=http://lifewithalacrity.blogs.com/photos/uncategorized/harold.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Harold alt=Harold>
+<p><img border=0 src=../photos/uncategorized/harold.jpg alt=Harold title=Harold style="margin: 0px 0px 5px 5px; float: right;">
 The key, I decided, was to work with at least 2 other angel investors. That would theoretically allow us to invest in 21 companies, diversify our portfolios, and split the work. I approached my first angel investor, Gifford Pinchot, and he agreed to be one of the partners. The second was <a href=http://www.alacrityventures.com/shattuck.html>Harold Shattuck</a>, who had done some due diligence and operations consulting for Consensus Development, and had been VC once before, but enjoyed being closer to the actual building of a new company with some operating interaction. I was the managing partner for files and accounting, but we all brought to the table our "deal flow", performed due diligence together, and worked closely with each other.</p>
 
 <h3>Lessons from Alacrity Ventures</h3>
@@ -1082,7 +1082,7 @@ The key, I decided, was to work with at least 2 other angel investors. That woul
 						</div>
 					</div>
                                         <div id=beta>
-						<div class=pkg id=beta-inner>
+						<div id=beta-inner class=pkg>
 							
 <!-- sidebar -->
 
@@ -1097,12 +1097,12 @@ The key, I decided, was to work with at least 2 other angel investors. That woul
 <div class=module-content>
 
 
-<img src=http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
+<img src=../.a/6a00d8341d8bc053ef01bb080e9d45970d-150wi alt="My Photo" class=img-responsive>
 
 
 </div></div>
 
-<div class="module-typelist module" id=about_me_written_by_me>
+<div id=about_me_written_by_me class="module-typelist module">
 <h2 class=module-header>About Me / Written by Me</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -1140,7 +1140,7 @@ The key, I decided, was to work with at least 2 other angel investors. That woul
 		</ul>
 	</div>
 </div>
-<div class="module-typelist module" id=popular_posts>
+<div id=popular_posts class="module-typelist module">
 <h2 class=module-header>Popular Posts</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -1291,7 +1291,7 @@ The key, I decided, was to work with at least 2 other angel investors. That woul
 		</div>
 	</div>
 
-<div class="module-typelist module" id=blogroll>
+<div id=blogroll class="module-typelist module">
 <h2 class=module-header>Blogroll</h2>
 	<div class=module-content>
 		<ul class=module-list>
@@ -1311,7 +1311,7 @@ The key, I decided, was to work with at least 2 other angel investors. That woul
 	</div>
 </div>
 
-<div class="module-typelist module" id=social_networks>
+<div id=social_networks class="module-typelist module">
 <h2 class=module-header>Social Networks</h2>
 	<div class=module-content>
 		<ul class=module-list>
