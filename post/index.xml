@@ -6,16 +6,246 @@
     <description>Recent content in Posts on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2016 00:19:24 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jun 2016 17:20:54 +0000</lastBuildDate>
     <atom:link href="https://lifewithalacrity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello World</title>
-      <link>https://lifewithalacrity.github.io/2016/07/hello-world/</link>
-      <pubDate>Sat, 16 Jul 2016 00:19:24 -0700</pubDate>
+      <title>Smarter Signatures: Experiments in Verifications</title>
+      <link>https://lifewithalacrity.github.io/2016/06/smarter-signatures-experiments-in-verifications/</link>
+      <pubDate>Tue, 28 Jun 2016 17:20:54 +0000</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2016/07/hello-world/</guid>
-      <description>&lt;p&gt;Hello 🌎&lt;/p&gt;
+      <guid>https://lifewithalacrity.github.io/2016/06/smarter-signatures-experiments-in-verifications/</guid>
+      <description>
+
+&lt;h1 id=&#34;smarter-signatures-experiments-in-verifications&#34;&gt;Smarter Signatures: Experiments in Verifications&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;By Christopher Allen &amp;amp; Shannon Appelcline&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;A White Paper from Rebooting the Web of Trust II: The ID2020 Designshop&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Technologies like the Web of Trust and PKI lay the foundation for &lt;em&gt;identity&lt;/em&gt; on the internet: they map a human persona to a cryptographic construct that is represented by a public key and protected by a private key. &lt;em&gt;Digital signatures&lt;/em&gt; are fundamental to these digital identities and have been widely used in a variety of applications. They’re the heart of SSH, the foundation of certificates, and even the core of newer technologies like blockchain.&lt;/p&gt;
+
+&lt;p&gt;However, today’s simplistic signatures are just the start; they can be improved, to create more powerful and more complex signatures that can truly be better and &lt;em&gt;smarter&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now is the time to begin experimenting with these possibilities.&lt;/p&gt;
+
+&lt;h2 id=&#34;an-overview-of-signatures&#34;&gt;An Overview of Signatures&lt;/h2&gt;
+
+&lt;p&gt;The traditional usage of digital signatures is quite straightforward. The owner of a cryptographic identity signs a message (or a certificate) with his private key; a recipient can then use the related public key to verify the message.&lt;/p&gt;
+
+&lt;p&gt;Bitcoin is one of the few technologies that offers something more: multisignatures. Transactions can be signed by up to N different people, of whom M are required; for example a 2 of 3 multi-sig would require two people from a group of three to sign a transaction.&lt;/p&gt;
+
+&lt;p&gt;However, Bitcoin multi-sigs are just a first step. Even if the simple signatures of the modern day were expanded to include multisignatures of any size, they still wouldn’t support the full richness of business and computer logic that is becoming a part of our digital life. Simple signatures can’t offer the flexibility that is required for modern enterprises, and they can’t offer the reliability that is required for modern finances.&lt;/p&gt;
+
+&lt;p&gt;To support these needs requires a new kind of signature — a &lt;em&gt;smarter signature&lt;/em&gt; that increases options while still meeting the responsibilities of a robust and trusted signature system.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-uses-of-smart-signatures&#34;&gt;The Uses of Smart Signatures&lt;/h3&gt;
+
+&lt;p&gt;The core use of signatures is &lt;em&gt;verification&lt;/em&gt;: they must ensure that the authorization conditions required for a task are met. In the world of simple signatures, that meant verifying that the right person signed a message. However smart signatures have a wider scope, supporting many more use cases.&lt;/p&gt;
+
+&lt;p&gt;Some examples follow. They should be considered a starting point, enumerating some of the needs for smart signatures, without being a be-all or end-all.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multifactor Expressions.&lt;/em&gt;&lt;/strong&gt; A smart signature should support the inclusion of multiple elements within a single signature.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multisignature Expressions.&lt;/em&gt;&lt;/strong&gt; A smart signature should support the inclusion of multiple signatures via a logical AND operator. They signatures would &lt;em&gt;all&lt;/em&gt; be required for verification, forming an N of N multisignature, such as joint homeowners who all need to sign over a deed.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multisignature Subsets.&lt;/em&gt;&lt;/strong&gt; A smart signature should also support M of N multisignatures where only &lt;em&gt;some&lt;/em&gt; signatures are required for verification, such as a married couple, either of whom can write checks from a bank account.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multisignature Equivalents.&lt;/em&gt;&lt;/strong&gt; A smart signature should support the inclusion of multiple signatures via a logical OR operator, such as when a legacy RSA signature, a current EC signatures, and a future-proof Hash Signature that is quantum resistant but very slow are all included and any of them can be used to verify the signature.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Varied Content.&lt;/em&gt;&lt;/strong&gt; A smart signature should support the inclusion and combination of a variety of different signature elements, including other verification elements like biometric signatures and proof of hardware control, such as a lead developer who requires both his signature and a hardware token to sign off on software releases. It should also support the inclusion of elements helpful to enable delegation and other signature uses, such as timestamps.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;*&lt;strong&gt;Signature Delegation*.&lt;/strong&gt; A key holder should be able to precisely control how his key and his signature are used.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Time-Limited Delegation.&lt;/em&gt;&lt;/strong&gt; A key holder should be able to authorize a person or a device to sign for a limited time, such as when the key holder is on vacation or at a conference.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Time-Expired Delegation.&lt;/em&gt;&lt;/strong&gt; A key holder should be able to automatically authorize a person or a device if their own use of a key goes inactive for an extended amount of time, such as when a key holder dies, and their successor needs to take over signatures.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Use-Limited Delegation.&lt;/em&gt;&lt;/strong&gt; A key holder should be able to authorize a person to sign only in limited situations, such as a software team that can sign a development version of software, but not a stable version.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Content-Limited Delegation.&lt;/em&gt;&lt;/strong&gt; A key holder should be able to authorize a person to sign messages with specific content, such as a financial department that can sign to issue bonds with a maximum amount and a bounded interest rate.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Non-Signature Delegation.&lt;/em&gt;&lt;/strong&gt; A key holder should be able to authorize a person to use a key in certain instances, such as to revoke a key or to revoke a previously signed certificate, but not to sign documents.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Internal Depth.&lt;/em&gt;&lt;/strong&gt; A smart signature should support internal depth by combining these different possibilities, such as a development release of software that includes both multifactoring and delegation by requiring 3-of-5 signatures, where one signer has authorized his assistant because he’s on leave, and another signer requires 2-of-2 keys for his signature, one of which is stored on a hardware token. Because this depth is created through internal links, the requirements are all evaluated synchronously.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Transactional Support&lt;/em&gt;&lt;/strong&gt;. A smart signature &lt;em&gt;system&lt;/em&gt; should support external depth by being able to prove that specific states have been reached in a larger state machine through the chaining of multiple signatures, such as when an art dealer needs to examine the transactional history of a painting to ensure that he’s not purchasing stolen goods. Because this depth is created through external links, the requirements tend to be evaluated asynchronously: one smart signature at a time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These use cases all focus on the &lt;em&gt;creation&lt;/em&gt; of signatures, providing functionality that signers need. However, there are actually two users for any signature: the signer and the verifier. Additional verifier-focused use cases may illuminate UI and UX requirements for a smart signature system.&lt;/p&gt;
+
+&lt;p&gt;Some of these use cases obviously will require some calculation. However, smart signatures are ultimately about verification, not computation. In fact, our suggested requirements for smart signatures do their best to minimize computation as a factor for any verifying user.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-requirements-of-smart-signatures&#34;&gt;The Requirements of Smart Signatures&lt;/h3&gt;
+
+&lt;p&gt;Because smart signatures offer increased complexity over simple signatures, care must be taken to ensure that the complexity does not overpower the security of either the signatures or the systems that they’re running upon. To ensure this, we list six suggested requirements that must be met by smart signature systems:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Composable.&lt;/em&gt;&lt;/strong&gt; The increased complexity of smart signatures requires that they be built using some sort of programming language. However, the language itself must remain simple, with complexity built up from a constrained set of operations. This ensures the security of the signature language.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Inspectable.&lt;/em&gt;&lt;/strong&gt; Signatures must be easily understandable by a qualified programmer, so that any sophisticated user can readily evaluate the elements of a signature and how they will be verified. This requirement often emerges naturally from composability; it ensures the security of the signatures, with a focus on human-driven security.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Provable.&lt;/em&gt;&lt;/strong&gt; Signatures must be formally analyzable, so that they can support logical reasoning and so that sophisticated users and expert computer tools can have foreknowledge of the requirements of verification. This further supports the security of the signatures and also foreshadows support for the security and stability of the computer systems.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Deterministic.&lt;/em&gt;&lt;/strong&gt; Signatures must always produce the same results, even when run on different machines or different operating systems. This also ensures the security of the signatures, but it focuses on machine-driven security.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bounded.&lt;/em&gt;&lt;/strong&gt; Signatures must not be able to exceed appropriate CPU or memory limitations through creation of malicious (or bad) signings. Additionally, enforcement of these limitations must be deterministic. This also ensures the security of the computer system.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Efficient.&lt;/em&gt;&lt;/strong&gt; Though we place no requirements on the difficulty of creating signatures, the cost of verifying them should be very low. This also ensures the stability of the computer system.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A smart signature system that supports the use cases described above and that meets the requirements listed here would add powerful tools to the digital world by meeting the needs of the financial and business worlds.&lt;/p&gt;
+
+&lt;h2 id=&#34;experimenting-with-smart-signatures&#34;&gt;Experimenting with Smart Signatures&lt;/h2&gt;
+
+&lt;p&gt;Fulfilling these uses and meeting these requirements of smart signatures necessitates the creation of better languages and better tools. However, this creation of a new foundation for smart signatures (and eventually smarter contracts) can be tricky and full of pitfalls, as shown by the recent problems plaguing The DAO on Ethereum, where flaws in a contract’s code led to the theft of tens of millions of dollars[1].&lt;/p&gt;
+
+&lt;p&gt;The Ethereum crisis clearly shows that the design of new languages for smart signature systems must be thorough and comprehensive. We must experiment with many options, to ultimately produce something that is stable and trustworthy.&lt;/p&gt;
+
+&lt;p&gt;A few different possibilities are discussed below. They should be considered starting points, not ending points. They are not being offered as standards, nor even as the preferred options for smart signature systems. They are instead offered for discussion and for expansion, in the hope that they will eventually lead the way to a more robust smart signature system and the beginning of a more robust web of trust.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-languages-of-smart-signatures&#34;&gt;The Languages of Smart Signatures&lt;/h3&gt;
+
+&lt;p&gt;Functional programming languages are our preferred choice for creating smart signatures because they meet three of the suggested requirements: they’re composable, they’re provable, and they’re deterministic. The composability and provability emerge from the fact that functional programming languages are built of pure mathematical functions; it’s easy to put them together to create more complex systems and it’s easy to prove what they do. The determinism emerges from the fact that functional programming languages do not support state or mutable data; they guarantee that the same inputs will always produce the same outputs.&lt;/p&gt;
+
+&lt;p&gt;There are a few options for functional languages. Lambda calculus languages are the classic choice, but the Forth-like Bitcoin Script with its stack-driven functionality offers another possibility.&lt;/p&gt;
+
+&lt;h3 id=&#34;experiment-1-bitcoin-script&#34;&gt;Experiment #1: Bitcoin Script&lt;/h3&gt;
+
+&lt;p&gt;One option for building a new smart signature system is to start with something that already exists and that is already being used to safeguard millions of dollars worth of transactions: Bitcoin Script[2].&lt;/p&gt;
+
+&lt;p&gt;Bitcoin Script currently authorizes the spending of Bitcoins. Typically, each Script is linked to either a single signature or else to a M-of-N multi-sig. However, it’s also possible to encode more complex redemption conditions into a Bitcoin Script, and even to keep them secret — allowing a recipient to prove that he met the signing conditions by matching a hash of those conditions.&lt;/p&gt;
+
+&lt;p&gt;Though Bitcoin Script is currently used on the blockchain, this is not a requirement. The robust signing language could be used outside of the blockchain — protecting other sorts of authorization systems and creating a generalized smart signature language.&lt;/p&gt;
+
+&lt;p&gt;Though Bitcoin Script is constrained, the following example shows that it’s nonetheless a robust functional language:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;OP_DUP OP_HASH160 &amp;lt;pubKeyHash&amp;gt; OP_EQUALVERIFY OP_CHECKSIG&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This simple script checks a signature against a public key in order to verify the signature. Much more complexity is possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Advantages:&lt;/em&gt;&lt;/strong&gt; The biggest advantage of the Bitcoin Script approach is that it’s &lt;em&gt;well-tested&lt;/em&gt;. It’s been in use for almost a decade with a focus on authorization, which means that it’s already laid the groundwork for a smart signature system.&lt;/p&gt;
+
+&lt;p&gt;It’s also &lt;em&gt;well-trusted&lt;/em&gt;. Bitcoin Script is the heart of the Bitcoin system, making it the ultimate guardian of a $10 billion market cap. It’s a language that has proven its financial responsibility.&lt;/p&gt;
+
+&lt;p&gt;Finally, it’s &lt;em&gt;constrained&lt;/em&gt;. Though Bitcoin Script contains an extensive menu of operations (opcodes), they’ve been curated: some opcodes were disabled in Bitcoin’s early days to prevent mischief. Because of these constraints, the individual elements of a Bitcoin Script can be examined in isolation, making it easy to see any problems. That’s much of what’s maintained the trust in Bitcoin Script and ensured that there were no DAO-style crises.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disadvantages:&lt;/em&gt;&lt;/strong&gt; The advantageous constraints of Bitcoin Script may also create one of its biggest disadvantages: it’s &lt;em&gt;limited&lt;/em&gt;. In fact, Bitcoin Script may be too limited to offer the full menu of options required for smart signatures. However, there are already Bitcoin Improvement Proposals in place to increase the set of Bitcoin Script opcodes[3] [4], while Bitcoin’s new segregated witness (segwit) support will make future changes to Bitcoin Script even easier[5]. Blockstream’s sidechains[6] offer an alternative: incorporating new operations without changing the original Bitcoin blockchain.&lt;/p&gt;
+
+&lt;p&gt;Removing Bitcoin Script entirely from the blockchain offers another way to enable language updates, but it also raises another issue: Bitcoin Script is currently &lt;em&gt;locked to blockchains.&lt;/em&gt; Though it may be possible to use it independently, this has not been tested and may raise future issues of compatibility.&lt;/p&gt;
+
+&lt;p&gt;Finally, Bitcoin Script is a Forth-derived language, which means that it is &lt;em&gt;stack-oriented.&lt;/em&gt; This requires a particular type of logic that may make it harder for some people to parse or understand — though this may also be the case for fully functional languages like lambda calculuses.&lt;/p&gt;
+
+&lt;h3 id=&#34;experiment-2-dex&#34;&gt;Experiment #2: Dex&lt;/h3&gt;
+
+&lt;p&gt;Peter Todd is working on another possible system for smart signatures, one that he calls Dex, a system of deterministic predicate expressions[7]. Much as in Bitcoin Script, Dex’s predicate expressions evaluate simply to either true or false results. However, the other part of Dex’s name is just as important: it’s deterministic, guaranteed to always return the same result for a specific signature and environment.&lt;/p&gt;
+
+&lt;p&gt;Dex also more fully embraces functional programming: it’s built using lambda calculus. As with Lisp, atoms of numbers, strings, symbols, and cells are recursively built up into s-expressions. (In other words, Dex contains parenthesized lists that regularize and order the evaluation of functions.) These s-expressions are then merkelized (hashed), producing unique digests.&lt;/p&gt;
+
+&lt;p&gt;Dex expressions should look quite familiar to Lisp programmers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(sig_valid &amp;lt;pubkey&amp;gt; &amp;lt;sig&amp;gt; &amp;lt;hash&amp;gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This function might be accessed with a lambda function like the following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(sig_valid &amp;lt;pubkey&amp;gt; (cdr argm) (sha256 (car argm)))&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Which allows a message and its signature to be passed into the sig_valid function:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(sig_valid &amp;lt;pubkey&amp;gt; (cdr &amp;lsquo;(&amp;lt;msg&amp;gt; &amp;lt;sig&amp;gt;)) (sha256 (car &amp;lsquo;(&amp;lt;msg&amp;gt; &amp;lt;sig&amp;gt;))))&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;When the cdr, the car, and the sha256 hash are all evaluated, the sig_valid function can then do its job and determine the validity of the signature. Again, much more complexity is possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Advantages.&lt;/em&gt;&lt;/strong&gt; One of the biggest advantages of Dex is one of its core features, its &lt;em&gt;determinism.&lt;/em&gt; The ability to run code on different computers and get the same results is vital for the consensus of any signature system. With a language like Bitcoin Script, which is not built on an entirely functional language, this sort of determinism was much more difficult to achieve. In Dex, thanks to its basis in lambda calculus, it’s there from the start as an integral feature of the language.&lt;/p&gt;
+
+&lt;p&gt;Dex also has excellent properties of &lt;em&gt;efficiency&lt;/em&gt;. The use of a merkle tree helps Dex to enable pruning: unneeded data in an expression can be cut out and replaced with hash digests, making it easier to use lite clients.&lt;/p&gt;
+
+&lt;p&gt;Finally, Dex is &lt;em&gt;upwardly mobile.&lt;/em&gt; smart signatures can be building blocks for creating full smart contract systems, and this is an option that Todd has considering from the start. He even calls Dex one of the “Building Blocks of the State Machine Approach to Consensus”, with its deterministic expressions being states in the state machine[8].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disadvantages.&lt;/em&gt;&lt;/strong&gt; Lambda Calculus is generally an &lt;em&gt;unusual&lt;/em&gt; sort of programming language. It doesn’t have the same coding styles or the same programming patterns as more common, imperative languages. This is what enables many of its desired features, but it can also prove a disadvantage to some programmers. Further, languages like Common Lisp and Scheme have long been used in entry-level college computer classes, which may create cognitive biases in some.&lt;/p&gt;
+
+&lt;p&gt;Compared to a well-tested language like Bitcoin Script, Dex is quite &lt;em&gt;novel.&lt;/em&gt; It’s not just untested, it’s truly experimental. Though there’s great potential for its expansion, it will have to be thoroughly examined before it can reach that potential.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-security-of-signatures&#34;&gt;The Security of Signatures&lt;/h3&gt;
+
+&lt;p&gt;As the Ethereum crisis showed us, smart signatures and smart contracts won’t be secure until their programming languages are secured and protected against errors. Resolving this problem is just as important as laying the foundations of a smart signature language. Fortunately, a number of people have been tackling this issue.&lt;/p&gt;
+
+&lt;p&gt;Jack Pettersson and Robert Edström of the Chalmers University of Technology have written a thesis on making smart contracts safer[9]. Their approach focuses on Idris, a functional programming language with lambda binding. If uses an advanced type system to offer solutions for several classes of common errors and even provides a backend for Ethereum.&lt;/p&gt;
+
+&lt;p&gt;More broadly, the SecLang taskforce[10] focuses on security in programming languages. They have been writing papers for decades that analyze security, improve privacy, and remove vulnerabilities. Their approaches could be vital to enabling that same security in smart contract languages.&lt;/p&gt;
+
+&lt;p&gt;Both Chalmers and SecLang point us toward options for safety and security in smart signatures languages of all sorts; there are doubtless other possibilities.&lt;/p&gt;
+
+&lt;h3 id=&#34;open-questions&#34;&gt;Open Questions&lt;/h3&gt;
+
+&lt;p&gt;Figuring out how to create and secure a new language for smart signatures is just the first step. There are many other open questions, some of which were raised in an earlier Rebooting the Web of Trust paper[11].&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Context.&lt;/em&gt;&lt;/strong&gt; Though functional languages are stateless, they still require contexts: how do they receive input? Bitcoin provides context through the output script of a previous transaction. Other online tools have internal contexts, external contexts, or run contexts. However, there’s nothing parallel for smart signatures. What contexts are required, and how should they be implemented?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Revocation.&lt;/em&gt;&lt;/strong&gt; How do we allow signers to revoke a signature? Do we need to separate out proof of validation and proof of non-revocation in a script? Is it even possible to &lt;em&gt;prove&lt;/em&gt; non-revocation? Alternatively, should we severely limit the lifespan of signatures to avoid the question of revocation entirely?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Hierarchical Deterministic Keys.&lt;/em&gt;&lt;/strong&gt; Some use cases, such as short-term delegation, could benefit from Hierarchical Deterministic Keys (HDKs), where children key can be created from a parent key. How can these HDKs be incorporated into smart signatures and how can they be secured?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Oracles.&lt;/em&gt;&lt;/strong&gt; A third-party oracle can help with the evaluation of certain conditions such as proof-of-existence and perhaps even proof-of-non-revocation. However, oracles may also be what separates smart signatures from more complex smart contracts. Does a simple subset of oracles have any place in the world of smart signatures? If so, what’s the actual dividing line between a smart signature and a smart contract?&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This paper is meant to be an icebreaker. Though it offers some suggested smart signature use cases and requirements, they’re evolutionary. They were incorporated in part from the Rebooting the Web of Trust I “Smart Signatures” (2015) paper and in part from Peter Todd’s “Dex: Deterministic Predicate Expressions for Smarter Signatures” (2016) paper, then they were expanded and reorganized for this paper. In other words, they’re works in progress that could still benefit from additional input. Similarly, the experiments overviewed in this paper are just two of many. We welcome more possibilities and more discussions.&lt;/p&gt;
+
+&lt;p&gt;Smart signatures are an important tool that could change the way business is done on the internet; they could revamp how we live and even play in electronic communities. As a result, it’s critical that we get them right, that we not repeat the mistakes of The Dao and other sophisticated computer systems that went before us, but which didn’t live up to the rigors of actual usage.&lt;/p&gt;
+
+&lt;p&gt;So we offer this paper as the beginning of a conversation about how to create &lt;em&gt;smarter&lt;/em&gt; signatures.&lt;/p&gt;
+
+&lt;p&gt;What do you suggest?&lt;/p&gt;
+
+&lt;h2 id=&#34;footnotes&#34;&gt;Footnotes&lt;/h2&gt;
+
+&lt;p&gt;[1] Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk. &lt;a href=&#34;http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/&#34;&gt;&lt;em&gt;http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[2] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. &lt;a href=&#34;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&#34;&gt;&lt;em&gt;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[3] Torpey, Kyle. 2016. “New BIP Would Enable Better Privacy, CrossBlockChain Exchange, TrustFree Betting, and More for Bitcoin”. CoinJournal. &lt;a href=&#34;http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/&#34;&gt;&lt;em&gt;http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[4] Lau, Johnson. 2016. “BIP 114. Merkelized Abstract Syntax Tree”. GitHub. &lt;a href=&#34;https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki&#34;&gt;&lt;em&gt;https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[5] Bitcoin Core. 2016. “Segregated Witness: The Next Steps”. Bitcoin Core. &lt;a href=&#34;https://bitcoincore.org/en/2016/06/24/segwit-next-steps/&#34;&gt;&lt;em&gt;https://bitcoincore.org/en/2016/06/24/segwit-next-steps/&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[6] Maxwell, Gregory. 2015. “Extending Bitcoin with Sidechains”. Blockstream. &lt;a href=&#34;https://blockstream.com/developers/&#34;&gt;&lt;em&gt;https://blockstream.com/developers/&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[7] Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. &lt;a href=&#34;https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md&#34;&gt;&lt;em&gt;https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[8] Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. &lt;a href=&#34;https://petertodd.org/2016/state-machine-consensus-building-blocks&#34;&gt;&lt;em&gt;https://petertodd.org/2016/state-machine-consensus-building-blocks&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[9] Edström, Robert and Jack Pettersson. 2016. “Safer Smart Contracts through Type-Driven Development”. Chalmers University of Technology. &lt;a href=&#34;http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf&#34;&gt;&lt;em&gt;http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[10] SecLang Taskforce. 2016. “Security: Programming Languages”. DistriNet. &lt;a href=&#34;https://distrinet.cs.kuleuven.be/research/taskforces/showTaskforce.do?taskforceID=seclang&#34;&gt;&lt;em&gt;https://distrinet.cs.kuleuven.be/research/taskforces/showTaskforce.do?taskforceID=seclang&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[11] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. &lt;a href=&#34;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&#34;&gt;&lt;em&gt;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;major-references&#34;&gt;Major References&lt;/h2&gt;
+
+&lt;p&gt;Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. &lt;a href=&#34;https://petertodd.org/2016/state-machine-consensus-building-blocks&#34;&gt;&lt;em&gt;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Edström, Robert and Jack Pettersson. 2016. “Safer Smart Contracts through Type-Driven Development”. Chalmers University of Technology. &lt;a href=&#34;https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf&#34;&gt;&lt;em&gt;http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Todd, Peter. 2016. “Closed Seal Sets and Truth Lists for Better Privacy and Censorship Resistance”. Peter Todd. &lt;a href=&#34;http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf&#34;&gt;&lt;em&gt;https://petertodd.org/2016/closed-seal-sets-and-truth-lists-for-privacy&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. &lt;a href=&#34;https://distrinet.cs.kuleuven.be/research/taskforces/showTaskforce.do?taskforceID=seclang&#34;&gt;&lt;em&gt;https://petertodd.org/2016/state-machine-consensus-building-blocks&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. &lt;a href=&#34;https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki&#34;&gt;&lt;em&gt;https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
