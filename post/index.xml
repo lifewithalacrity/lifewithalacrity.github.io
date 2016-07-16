@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Life With Alacrity </title>
+    <title>Posts on Life With Alacrity</title>
     <link>https://lifewithalacrity.github.io/post/</link>
+    <description>Recent content in Posts on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Alexander Ivanov</author>
-    <updated>2016-07-16 00:19:24 -0700 PDT</updated>
+    <lastBuildDate>Sat, 16 Jul 2016 00:19:24 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
       <link>https://lifewithalacrity.github.io/2016/07/hello-world/</link>
-      <pubDate>Sat, 16 Jul 2016 00:19:24 PDT</pubDate>
-      <author>Alexander Ivanov</author>
+      <pubDate>Sat, 16 Jul 2016 00:19:24 -0700</pubDate>
+      
       <guid>https://lifewithalacrity.github.io/2016/07/hello-world/</guid>
       <description>&lt;p&gt;Hello 🌎&lt;/p&gt;
 </description>
@@ -20,8 +22,8 @@
     <item>
       <title>The Path to Self-Sovereign Identity</title>
       <link>https://lifewithalacrity.github.io/2016/04/the-path-to-self-soverereign-identity.html</link>
-      <pubDate>Mon, 25 Apr 2016 17:00:23 PDT</pubDate>
-      <author>Alexander Ivanov</author>
+      <pubDate>Mon, 25 Apr 2016 17:00:23 -0700</pubDate>
+      
       <guid>https://lifewithalacrity.github.io/2016/04/the-path-to-self-soverereign-identity.html</guid>
       <description>&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c848c7a7970b-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Identity-510866&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c848c7a7970b img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c848c7a7970b-320wi&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; title=&#34;Identity-510866&#34; /&gt;&lt;/a&gt;Today I head out to a month-long series of events associated with identity: I’m starting with the 22st (!) &lt;a href=&#34;http://www.internetidentityworkshop.com/&#34;&gt;Internet Identity Workshop&lt;/a&gt; next week; then I’m speaking at the blockchain conference &lt;a href=&#34;http://www.coindesk.com/events/consensus-2016/&#34;&gt;Consensus&lt;/a&gt; about identity; next I am part of the team putting together the first &lt;a href=&#34;http://id2020summit.org/&#34;&gt;ID2020 Summit&lt;/a&gt; on Digital Identity at the United Nations; and finally I&amp;#39;m hosting the second &lt;a href=&#34;http://www.weboftrust.info/&#34;&gt;#RebootingWebOfTrust&lt;/a&gt; design workshop on decentralized identity.&lt;/p&gt;
 
@@ -244,8 +246,8 @@
     <item>
       <title>Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!</title>
       <link>https://lifewithalacrity.github.io/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html</link>
-      <pubDate>Tue, 05 Apr 2016 23:07:58 PDT</pubDate>
-      <author>Alexander Ivanov</author>
+      <pubDate>Tue, 05 Apr 2016 23:07:58 -0700</pubDate>
+      
       <guid>https://lifewithalacrity.github.io/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html</guid>
       <description>&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c82f02ac970b-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Little Men Circle&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c82f02ac970b img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c82f02ac970b-320wi&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; title=&#34;Little Men Circle&#34; /&gt;&lt;/a&gt;As part of being a&amp;#0160;member of the sustainable MBA community at &lt;a href=&#34;http://pinchot.edu/&#34;&gt;Pinchot University&lt;/a&gt;, I have been trying to articulate what I like about the kinds of collaboration that are possible even inside a competitive industry. In our MBA program, we don&amp;#39;t just teach about competitive strategy&amp;#0160;(using classic&amp;#39;s like &lt;a href=&#34;http://www.amazon.com/On-Competition-Michael-E-Porter/dp/0875847951&#34;&gt;Porter&amp;#39;s book&lt;/a&gt;), but we also teach about the nature of&amp;#0160;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coopetition&#34; title=&#34;Wikipedia link to Coopetition&#34;&gt;coopetition&lt;/a&gt;. These practices&amp;#0160;are more&amp;#0160;likely to lead to sustainable businesses (not only sustainable=green, but sustainable=enduring).&lt;/p&gt;
 
@@ -281,7 +283,7 @@
       <title>A Revised “Ostrom’s Design Principles for Collective Governance of the Commons”</title>
       <link>https://lifewithalacrity.github.io/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html</link>
       <pubDate>Thu, 05 Nov 2015 15:23:09 -0700</pubDate>
-      <author>Alexander Ivanov</author>
+      
       <guid>https://lifewithalacrity.github.io/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html</guid>
       <description>&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Resource Sharing&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c76aaed3970b img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-250wi&#34; style=&#34;width: 250px; margin: 0px 0px 5px 5px;&#34; title=&#34;Resource Sharing&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
