@@ -222,10 +222,10 @@ In this article we&#39;re going to step through the data we&#39;ve collected fro
 
 <h3>The RPGnet Reviews System</h3>
 
-<p><a href=http://www.rpg.net><img alt=Rpgnetlogo_1 border=0 src=../../photos/uncategorized/rpgnetlogo_1.gif style="margin: 0px 5px 5px 0px; float: left;" title=Rpgnetlogo_1></a>
+<p><a href=http://www.rpg.net><img border=0 src=../../photos/uncategorized/rpgnetlogo_1.gif alt=Rpgnetlogo_1 title=Rpgnetlogo_1 style="margin: 0px 5px 5px 0px; float: left;"></a>
 RPGnet is our gaming site for tabletop roleplaying—games like <em>Dungeons &amp; Dragons</em> and <em>Vampire: The Masquerade</em>. We purchased it in 2001 from the original owners. One of the benefits of RPGnet was that it had a very large community. As of today it sports one of the top-100 forums on the Internet, with over 1000 simultaneous users regularly logging in. However, because of its maturity, we also inherited many existing systems.</p>
 
-<p><a href=http://www.rpg.net/reviews/archive/9/9971.phtml><img alt=Rpgnet_review_summary_1 border=0 src=../../photos/uncategorized/rpgnet_review_summary_1.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Rpgnet_review_summary_1></a>
+<p><a href=http://www.rpg.net/reviews/archive/9/9971.phtml><img border=0 src=../../photos/uncategorized/rpgnet_review_summary_1.jpg alt=Rpgnet_review_summary_1 title=Rpgnet_review_summary_1 style="margin: 0px 0px 5px 5px; float: right;"></a>
 One of these was the <a href=http://www.rpg.net/reviews/>RPGnet Reviews System</a> which gave individual users the ability to review gaming products—mostly role-playing games, but also board games, books, DVDs, and a smattering of related products.</p>
 
 <p>Most of these reviews are submitted by average readers who just want to talk about a product that they like (or don't), though a fair percentage are instead submitted by staff reviewers. (Overall at least 26% of our reviews are based on publisher "comp" copies, and thus may be considered largely professional, while the other 74% may or may not be.) The large community size of RPGnet applies to the Reviews System as well: currently it features 8,505 published reviews.</p>
@@ -791,7 +791,7 @@ $rating = average($index-rating*$index-weight)/average($index-weight);
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
@@ -821,8 +821,8 @@ $rating = average($index-rating*$index-weight)/average($index-weight);
     					</div>
     		    </div>
                 <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
-    				<input value= Post  id=comment-post-button onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post class="form-control font-entrybody">
-    				<input value= Preview  id=comment-preview-button onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview class="form-control font-entrybody  preview-button">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
 
     				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>

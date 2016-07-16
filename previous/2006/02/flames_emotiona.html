@@ -163,7 +163,7 @@ ga('Typepad.send', 'pageview');
 
 	<div class=entry-content>
 		<div class=entry-body>
-			<p><img alt=Cycle_of_flames border=0 src=../../photos/uncategorized/cycle_of_flames.jpg style="margin: 0px 0px 5px 5px; float: right;" title=Cycle_of_flames>
+			<p><img border=0 src=../../photos/uncategorized/cycle_of_flames.jpg alt=Cycle_of_flames title=Cycle_of_flames style="margin: 0px 0px 5px 5px; float: right;">
 I've been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.</p>
 
 <p>It is <a href=http://www.internet-guide.co.uk/email-flame.html>commonly thought</a> that flames occur because <em>"there is very little proper policing done on the Internet"</em> but I believe this to be false. Instead, I believe that it is the consequence of the medium primarily existing as text.</p>
@@ -528,7 +528,7 @@ That's our Mr. A, Always six months ahead of the curve!
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
@@ -558,8 +558,8 @@ That's our Mr. A, Always six months ahead of the curve!
     					</div>
     		    </div>
                 <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
-    				<input value= Post  id=comment-post-button onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post class="form-control font-entrybody">
-    				<input value= Preview  id=comment-preview-button onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview class="form-control font-entrybody  preview-button">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
 
     				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>

@@ -155,7 +155,7 @@ ga('Typepad.send', 'pageview');
 
 	<div class=entry-content>
 		<div class=entry-body>
-			<p><a href=http://www.flickr.com/photos/christophera/3055563798/ title="Trust Circle by ChristopherA, on Flickr"><img alt="Trust Circle" src=http://farm4.static.flickr.com/3230/3055563798_5355b9b99c_m.jpg style="margin: 0px 0px 5px 5px; float: right;" height=160 width=240></a>With Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.</p>
+			<p><a href=http://www.flickr.com/photos/christophera/3055563798/ title="Trust Circle by ChristopherA, on Flickr"><img src=http://farm4.static.flickr.com/3230/3055563798_5355b9b99c_m.jpg alt="Trust Circle" height=160 width=240 style="margin: 0px 0px 5px 5px; float: right;"></a>With Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.</p>
 <p>Literally.</p>
 <p>That’s because Circles is the Google+ feature that users are generating the most buzz about. It’s Google’s answer to the problem of organizing your social graph online.</p>
 <p>If you’re not familiar with a <a href=http://en.wikipedia.org/wiki/Social_graph>social graph</a> it’s a map of everyone you know and how they are related to you. Social graphs are tricky; as you try to define them you’ll inevitably run into some complications.</p>
@@ -463,7 +463,7 @@ How, however, do you manage to add people to them, when you have quite so many (
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
@@ -493,8 +493,8 @@ How, however, do you manage to add people to them, when you have quite so many (
     					</div>
     		    </div>
                 <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
-    				<input value= Post  id=comment-post-button onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post class="form-control font-entrybody">
-    				<input value= Preview  id=comment-preview-button onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview class="form-control font-entrybody  preview-button">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
 
     				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>

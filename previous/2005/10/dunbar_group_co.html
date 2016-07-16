@@ -454,7 +454,7 @@ ga('Typepad.send', 'pageview');
     					</div>
     				
                     	<div style=display:none; id=comments-open-text>
-        					<textarea rows=10 class=form-control id=comment-text name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
+        					<textarea rows=10 id=comment-text class=form-control name=text onkeyup="atpComments.maxTextArea(this, 64000);" cols=30></textarea>
             				
             				<p class="comments-open-subtext font-entrybody">
             				    (You can use HTML tags like &lt;b&gt; &lt;i&gt; and &lt;ul&gt; to style your text.)
@@ -484,8 +484,8 @@ ga('Typepad.send', 'pageview');
     					</div>
     		    </div>
                 <div style=display:none; id=comments-open-footer class="comments-open-footer font-entrybody">
-    				<input value= Post  id=comment-post-button onclick="atpComments.interceptPost(1); return false;" type=submit disabled name=post class="form-control font-entrybody">
-    				<input value= Preview  id=comment-preview-button onclick="atpComments.previewOnly(1); return false;" type=submit disabled name=preview class="form-control font-entrybody  preview-button">
+    				<input value= Post  class="form-control font-entrybody" onclick="atpComments.interceptPost(1); return false;" type=submit id=comment-post-button disabled name=post>
+    				<input value= Preview  class="form-control font-entrybody  preview-button" onclick="atpComments.previewOnly(1); return false;" type=submit id=comment-preview-button disabled name=preview>
 
     				<span id=commentEntryFormSpinner class="commentSpinner hiddenBox"><img src=../../.shared/images/spinner.gif alt=Working...></span>
     			</div>
