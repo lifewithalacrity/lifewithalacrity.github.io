@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page History on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/page-history/</link>
+    <description>Recent content in Page History on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Sep 2004 20:28:46 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/page-history/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TiddlyWiki</title>
+      <link>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</link>
+      <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</guid>
+      <description>&lt;p&gt;I keep an eye out for new ideas in Wiki technology (see my post from February &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html&#34;&gt;Looking at Wiki&lt;/a&gt;), and I recently became fascinated by &lt;a href=&#34;http://www.tiddlywiki.com/&#34;&gt;TiddlyWiki&lt;/a&gt;. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my &lt;a href=&#34;http://editthispagephp.sourceforge.net&#34;&gt;EditThisPagePHP&lt;/a&gt;, it appears to be an elegant experiment to look into the future of this medium of user-editable content.&lt;/p&gt;
+&lt;p&gt;The key feature of TiddlyWiki is that instead of &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?WikiName&#34;&gt;WikiName&lt;/a&gt; links leading to new pages, it displays a new set of &lt;a href=&#34;http://www.cmswiki.com/tiki-index.php?page=MicroContent&#34;&gt;microcontent&lt;/a&gt; at the top of the current page, pushing your previous content toward the bottom of the page. Thus your link history is all on a single page rather then through your browser&#39;s back button. You really need to try it out to understand it.&lt;/p&gt;
+&lt;p&gt;In its current form, TiddlyWiki is still really more a technology demonstration than a useful tool, as you can&#39;t save the changes you make. However, there are people that are creating a &lt;a href=&#34;http://www.patrickcurry.com/tiddly/&#34;&gt;PHP TiddlyWink&lt;/a&gt; based on it.&lt;/p&gt;
+&lt;p&gt;There are a number of things about TiddlyWiki that interest me. One is that it is more microcontent focused, rather then page focused. I&#39;ve seen a few attempts to do blogs in Wikis and to date I have been unsatisfied -- part of the reason is that most blogs consist primarily of a chronological series of microcontent, whereas Wikis tend to be more oriented around pages. The ideas in TiddlyWiki may offer an alternative.&lt;/p&gt;
+&lt;p&gt;Another unique aspect of TiddlyWiki is its approach to link history. I&#39;m not sure if new microcontent should appear at the top, as it does in TiddlyWiki, or at the bottom, but it certainly is an useful experiment.&lt;/p&gt;
+&lt;p&gt;TiddlyWiki also seems to also be an interesting way to create hypertext stories -- see for instance see the interactive fiction &lt;a href=&#34;http://scribbling.net/projects/tiddlywiki/BabyDogSitter.html&#34;&gt;Baby Dog Sitter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, I see TiddlyWiki as an encouragement to other Wiki designers to see what can be done with client-side Javascripts. One of the reasons that &lt;a href=&#34;http://www.orkut.com&#34;&gt;Orkut&lt;/a&gt; feels so responsive is due to its use of Javascript, and &lt;a href=&#34;http://www.oddpost.com&#34;&gt;OddPost&lt;/a&gt; does some amazing things emulating the Outlook mail client exclusively using Javascript inside a web page. &lt;a href=&#34;http://www.flexwiki.com&#34;&gt;FlexWiki&lt;/a&gt; is one of the few other Wikis that use Javascript in novel ways; however, they are Microsoft-centric rather than standards-centric, so I&#39;ve heard that some of their features don&#39;t work on Mozilla-family browsers. I&#39;d like to see more experimentation combining Javascript and Wiki.&lt;/p&gt;
+&lt;p&gt;I look forward to seeing what shakes out as this tool matures.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I just posted about TiddlyWiki and found that you did the same.  As I wrote, I think it has some good ideas worth stealing.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.docuverse.com/blog/donpark&#34;&gt;Don Park&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-28T21:21:48-07:00&#34;&gt;2004-09-28T21:21:48-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Did you see the new version? The author of TiddlyWiki has released version 3 with many new features.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Will&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-15T08:33:26-07:00&#34;&gt;2005-04-15T08:33:26-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;In the same vein and for &#34;heavier&#34; stuff: http://www.kevembuangga.com/hwk/
+Alas, still in Beta and Firefox only
+Any comments appreciated anyway
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.kevembuangga.com/hwk/&#34;&gt;Kevembuangga&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-21T21:51:31-07:00&#34;&gt;2005-04-21T21:51:31-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/09/tiddlywiki.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

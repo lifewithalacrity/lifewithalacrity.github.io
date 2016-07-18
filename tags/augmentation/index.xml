@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augmentation on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/augmentation/</link>
+    <description>Recent content in Augmentation on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2005 01:08:16 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/augmentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Future Topics</title>
+      <link>https://lifewithalacrity.github.io/2005/04/future_topics.html</link>
+      <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/04/future_topics.html</guid>
+      <description>&lt;p&gt;I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Office Architecture for Innovation&lt;/em&gt;&lt;/strong&gt; -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses. These include some of the obvious suggestions such as fresh air and natural light, but also include not so obvious ideas such as using magnetic paint and providing a small washer-dryer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Requisite Variety&lt;/em&gt;&lt;/strong&gt; -- This concept from cybernetics applies to social systems as well. &amp;quot;The larger the variety of actions available to a control system, the larger the variety of perturbations it is able to compensate.&amp;quot; More people, as well as a diversity of thinking styles and experience, give social software more &amp;quot;variety of actions&amp;quot;, thus this is part of the reason why social software can be so effective.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Art and Craft of Meme Design&lt;/em&gt;&lt;/strong&gt; -- We are learning more about how to create an effective meme. Creating memes has always been an art performed by publicists, marketers, politicians, the press, and to a lesser extent by scientists and other academics. Have we learned enough to turn this art into an explicit craft?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Wiki Editing Dichotomy&lt;/em&gt;&lt;/strong&gt; -- One interesting possible barrier of entry to active participation in a wiki is what I call the &amp;quot;wiki editing dichotomy&amp;quot;. You have to be proud enough to believe what you are contributing is generally worthwhile to others (or at least worth your effort), but you also have to be humble enough to understand that others can improve it. I don&#39;t know of many other collaborative media that requires both pride and humility.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Choice &amp;amp; Neuroeconomics&lt;/em&gt;&lt;/strong&gt; -- There are some that say at the root of every decision is emotion. Even a &#39;rational&#39; decision appeals to a sense of balance or beauty. Recent studies using PET are establishing a neurological basis for emotions, and some reveal interesting facts about how we make choices.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Assessing Risk&lt;/em&gt;&lt;/strong&gt; -- There are a variety of areas where we as humans have a difficult time being completely rational. One of these is risk assessment. It turns out we may be hard-wired to not be able toeasily understand risk that is greater then one in a hundred or so. Thus a very rare risk, say one in a thousand, will often be emotionally interpreted as having a much higher risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Persuasive Computing&lt;/em&gt;&lt;/strong&gt; -- BJ Fogg&#39;s group at Stanford has done some interesting research on how computers can persuade you to do something. There are a number of useful ideas that come from this research. There are also some ethical considerations that should be discussed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Cognitive Dissonance&lt;/em&gt;&lt;/strong&gt; -- This technique is central to many forms of persuasion intended to change beliefs, values, attitudes and behaviors. It is used by facilitators, businesses, military organizations, and even cults. It can be used positively or negatively. How might it be used in social software?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Dark Side of the Force&lt;/em&gt;&lt;/strong&gt; -- The same social tools that we use for good, can also be used for harm. How do we ethically use what we are learning about social software? Some say that almost by definition social software attracts spammers, trolls, and innappropriate sexuality. What can we do to prevent these misuses of social software?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversation vs Communication&lt;/em&gt;&lt;/strong&gt; -- Update and rewrite of my &lt;a href=&#34;http://www.alacritymanagement.com/GCnC.html&#34;&gt;1990 essay&lt;/a&gt; on how social software design needs to balance conversation vs communication.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Social Emotions&lt;/em&gt;&lt;/strong&gt; -- We appear to have evolved a number of emotions that appear primarily to exist to support a common good, rather then to ensure our individual success. These include schadenfreude, mirth, naches, revenge, shame, pride, outrage, approbation, admiration, elevation, etc. Studies by Eckman on unconscious facial gestures, studies on the neurological basis for emotions, and studies on emotions in games, are proving that these social emotions exist. A number of them have interesting implications on social software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Glances &amp;amp; Strokes&lt;/em&gt;&lt;/strong&gt; -- There is some old work on the amount of eye contact we make with others in small groups, as well as some research from transactional analysis on strokes, which are the amount of recognition given to others through words and deeds. Is there a neurological basis for needing a certain number of glances and strokes each day? How does this concept apply to social software?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Weak Links&lt;/em&gt;&lt;/strong&gt; -- There are some interesting social implications behind what we&#39;ve learned about weak links in social networks. How do we identify and encourage weak links in our social software systems?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Negativity vs Positivity&lt;/em&gt;&lt;/strong&gt; -- It is far easier for someone to respond negativel than positively. In political systems it is far easier to say no rather then yes. What social software encourages positivity, and is it possible to design social software to do so?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Time Economy&lt;/em&gt;&lt;/strong&gt; -- Our ultimate most unrenewable resource is time. How time and attention are a basic economic unit that should be considered when looking at social software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Group Life Cycle&lt;/em&gt;&lt;/strong&gt; -- We often focus on how groups form, emerge, and grow. Yet there are many lessons to be learned from how groups die, including that it isn&#39;t necessarily a bad thing and that keeping a group from death can be dysfunctional.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Groupthink&lt;/em&gt;&lt;/strong&gt; -- What causes groupthink? When is it good and when is it bad?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Two Thresholds in the Value of Knowledge&lt;/em&gt;&lt;/strong&gt; -- In order for knowledge to be valuable, it must at minimum be more valuable then the costs to find and absorb it (costs which include bandwidth and attention). Tools like Google have tremendously increased the amount of knowledge that is worth the time and attention to find it. What types of knowledge fall below this threshold of value? Is there a limit to how much we can lower this line? Furthermore, there is another threshold where the knowledge is significantly more valuable than only bandwidth and attention. How much have internet tools impacted this second threshold? Many internet business models, in particular content models, require some ability to offer value in this upper threshold -- can they survive as this upper threshold changes?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Intimacy and Social Networks&lt;/em&gt;&lt;/strong&gt; -- Social Networks Analysis tends to focus on the connections between people, either explicitly through acknowledgement of connections (LinkedIn, Friendster) or implicitly through analysis of your communication (Spoke). None are able to measure intimacy. Yet our intimate social networks are an important component of our overall happiness and contentment within both our professional and personal lives. How does intimacy work in social networks? Also there are some concepts in psychology known as communal vs exchange relationships by Clark &amp;amp; Mills from late 70&#39;s that may apply here.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Social Games&lt;/em&gt;&lt;/strong&gt; -- A recap of Shannon Appelcline&#39;s and my analysis of the basic forms of social games types. These include relatively well understood ones like majority control, voting, meta-voting (Nomic), auctioning, etc., but also include less well understood games like playing of roles, dominance and submission, etc. There are also links to social emotions, such as mirth and schadenfraude.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from Castle Marrach&lt;/em&gt;&lt;/strong&gt; -- We released the Castle Marrach online game in September of 2000, and it was designed from the beginning to be a game for the Bartle-type known as &amp;quot;the socializer&amp;quot;. What lessons did we learn in the five years since the release of the game? What tools are in my social software toolbox today that might have helped with the design?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from F2F Facilitation&lt;/em&gt;&lt;/strong&gt; -- There are many skilled practitioners of face-to-face facilitation, some of which are paid very high fees for their skills. What lessons can we learn from their experience that we can apply to social software? Why have so many of these facilitators failed to have success online?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;More Human vs More Than Human&lt;/em&gt;&lt;/strong&gt; -- Many futurists seek to offer us augmentation of our minds and bodies through technology. Many of these ideas may fundamentally change what it is to be human, and may even have unforeseen complications unanticipated by their creators. One interesting approach to looking at these technologies is to examine which make us &amp;quot;more human&amp;quot;, rather then &amp;quot;more than human&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from Mental Disorders&lt;/em&gt;&lt;/strong&gt; -- Most, if not all, mental disorders have their roots in survival strategies; however, they are over-expressed because of genetic or other causes. Examining the healthy behaviors hiding behind depression, autism, mania, schizophrenia, paranoia, etc. offer a number of insights on how we think.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Joy of being a Primate&lt;/em&gt;&lt;/strong&gt; -- If you scan the surface of my writing, you may observe that I have a strong belief that our animal nature and genetics form an essential and often unconscious part of what it is to be human. You could interpret these &amp;quot;nature&amp;quot; over &amp;quot;nurture&amp;quot; ideas as limiting us to being just animals. Instead, I believe that by becoming aware of our primate nature, and choosing to leverage it or suppress it by conscious choice rather then letting it drive us unaware, is what makes us more powerful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Smart Contracts&lt;/em&gt;&lt;/strong&gt; -- Nick Szabo popularized the idea of using some of the primitives of cryptography in unique ways to create what he calls &amp;quot;smart contracts&amp;quot;. He hypothesized approaches to cryptographic handling of collateral, bonding, delineation of property, bearer certificates, and much more. Others have proposed various auction protocols using these concepts. One of the fundamental atomic elements of many of these smart contracts is something called a &amp;quot;reusable proof of work&amp;quot;, which Hal Finney recently demoed a version of at CodeCon 2005. What are the possibilities offered by smart contracts? What are the barriers to implementation?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Club System&lt;/em&gt;&lt;/strong&gt; -- In the 80&#39;s, development of Ted Nelson&#39;s Xanadu vision was being financed by Autodesk. Unfortunately, for a variety of reasons Xanadu failed to deliver any technology. However, a couple of their ideas could be valuable today, one of which is the concept of an alternative to the &amp;quot;user and groups&amp;quot; metaphor for computer security. Xanadu turned that idea upside down and called the result the &amp;quot;club system&amp;quot;. The club system approach is particularly suited to the internet based collaboration tools, in particular wikis. I also have some insights to offer a cryptographic approach to the club system, which might allow P2P distribution of collaborative documents, while preserving group privileges.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edges of Cryptographic Security&lt;/em&gt;&lt;/strong&gt; -- The SSL cryptographic protocol offers a choice of a number of security properties: integrity, confidentiality, encryption, one-party authentication, and two-party authentication. But there are a number of security properties that very few deployed cryptographic protocols offer. These include perfect forward secrecy, undeniability, deniability, authorization, delegation, multi-party authentication, shared secrets, etc. What are these security properties and how are they useful? Why have they not been successfully broadly deployed?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The SSL Story&lt;/em&gt;&lt;/strong&gt; -- When SSL was first proposed it was broken within an hour. Even when Netscape fixed those problems, it wasn&#39;t clear that SSL was going to win the battle of security protocols. SSL was competing against SHTTP which had backing of RSA and an industry consortium. The credit card companies merged their standards and were backing SET. The internet community was moving toward SSH. Microsoft was doing its own embrace and extend protocol PCT. So how did SSL win to become the broadest deployed cryptographic security protocol? The answers may surprise you.&lt;/p&gt;
+&lt;p&gt;I welcome any comments or suggestions for links on these topics, or any new topics that you feel are closely related.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Get to work! Soon!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Phil Mitchell&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-05T12:22:04-07:00&#34;&gt;2005-04-05T12:22:04-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+The SSL story would be interesting..
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;cyberhill&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracing the Evolution of Social Software</title>
+      <link>https://lifewithalacrity.github.io/2004/10/tracing_the_evo.html</link>
+      <pubDate>Wed, 13 Oct 2004 23:40:10 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/10/tracing_the_evo.html</guid>
+      <description>&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/evolution.jpg&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;150&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/evolution.jpg&#34; title=&#34;Evolution&#34; alt=&#34;Evolution&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The term &#39;social software&#39;, which is now used to define software that supports group interaction, has only become relatively popular within the last two or more years. However, the core ideas of social software itself enjoy a much longer history, running back to Vannevar Bush&#39;s ideas about &#39;memex&#39; in 1945, and traveling through terms such as Augmentation, Groupware, and CSCW in the 1960s, 70s, 80s, and 90s.&lt;/p&gt;
+&lt;p&gt;By examining the many terms used to describe today&#39;s &#39;social software&#39; we can also explore the origins of social software itself, and see how there exists a very real life cycle concerning the use of technical terminology.&lt;/p&gt;
+&lt;h3&gt;1940s — Memex&lt;/h3&gt;
+&lt;p&gt;The earliest reference that I can find to people using computers to collaborate with one another is from the 1940s.&lt;/p&gt;
+&lt;p&gt;Near the end of World War II, in 1945, Vannevar Bush wrote a seminal article on the future of computing in &lt;a href=&#34;http://www.ps.uni-sb.de/~duchier/pub/vbush/vbush.shtml&#34;&gt;As We May Think&lt;/a&gt;. In it, he conceived of a device he called the &#39;memex&#39;, which today we might call the personal computer:&lt;/p&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=497,height=312,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/memex.jpg&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;125&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/memex.jpg&#34; title=&#34;Memex&#34; alt=&#34;Memex&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;A memex is a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Later on, the article discusses Memex&#39;s further benefits to groups:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;And his trails do not fade. Several years later, his talk with a friend turns to the queer ways in which a people resist innovations, even of vital interest. He has an example, in the fact that the outranged Europeans still failed to adopt the Turkish bow. In fact he has a trail on it. A touch brings up the code book. Tapping a few keys projects the head of the trail. A lever runs through it at will, stopping at interesting items, going off on side excursions. It is an interesting trail, pertinent to the discussion. So he sets a reproducer in action, photographs the whole trail out, and passes it to his friend for insertion in his own memex, there to be linked into the more general trail.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wholly new forms of encyclopedias will appear, ready-made with a mesh of associative trails running through them, ready to be dropped into the memex and there amplified. The lawyer has at his touch the associated opinions and decisions of his whole experience, and of the experience of friends and authorities. The patent attorney has on call the millions of issued patents, with familiar trails to every point of his client&#39;s interest. The physician, puzzled by its patient&#39;s reactions, strikes the trail established in studying an earlier similar case, and runs rapidly through analogous case histories, with side references to the classics for the pertinent anatomy and histology. The chemist, struggling with the synthesis of an organic compound, has all the chemical literature before him in his laboratory, with trails following the analogies of compounds, and side trails to their physical and chemical behavior.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;As far as I can tell, this is also the first mention in literature of what will eventually be called hypertext. However, the term &#39;memex&#39; never caught on - - Vannevar&#39;s ideas were way before their time.&lt;/p&gt;
+&lt;h3&gt;1960&#39;s — ARPA and Licklider&lt;/h3&gt;
+&lt;p&gt;&lt;img width=&#34;160&#34; height=&#34;242&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/licklider.jpg&#34; title=&#34;J.C.R. Licklider&#34; alt=&#34;J.C.R. Licklider&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;It wasn&#39;t until the early 1960s that I find the idea of using computers to collaborate came up again.&lt;/p&gt;
+&lt;p&gt;As a response to the USSR launching Sputnik, the US formed the Advanced Research Projects Agency (ARPA) in 1958. In l8 months, ARPA has developed the first successful satellite. In 1962 Dr. J.C.R. Licklider was appointed to head ARPA, and changed ARPA to offer more research grants to universities. In fact, it was due to his efforts that universities offered their first Ph.D.&#39;s in computer science. It was this research that ultimately led to ARPANET, commercial time-sharing systems, and ultimately to the Internet.&lt;/p&gt;
+&lt;p&gt;Licklider wrote in 1968 in &lt;a href=&#34;ftp://ftp.digital.com/pub/DEC/SRC/research- reports/SRC- 061.pdf#page=26&#34;&gt;The Computer as a Communication Device&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;To appreciate the importance the new computer-aided communication can have, one must consider the dynamics of &#39;critical mass,&#39; as it applies to cooperation in creative endeavor. Take any problem worthy of the name, and you find only a few people who can contribute effectively to its solution. Those people must be brought into close intellectual partnership so that their ideas can come into contact with one another. But bring these people together physically in one place to form a team, and you have trouble, for the most creative people are often not the best team players, and there are not enough top positions in a single organization to keep them all happy. Let them go their separate ways, and each creates his own empire, large or small, and devotes more time to the role of emperor than to the role of problem solver. The principals still get together at meetings. They still visit one another. But the time scale of their communication stretches out, and the correlations among mental models degenerate between meetings so that it may take a year to do a week’s communicating. There has to be some way of facilitating communication among people without bringing them together in one place.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Here you see Licklider really speaking of more than just communication. He also describes about methods of collaboration and how people function in groups.&lt;/p&gt;
+&lt;h3&gt;1960s — Augmentation&lt;/h3&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=410,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/doug_engelbart_collage.jpg&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;128&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/doug_engelbart_collage.jpg&#34; title=&#34;Doug_engelbart_collage&#34; alt=&#34;Doug_engelbart_collage&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of the early ARPA research projects was at SRI, where &lt;a href=&#34;http://www.ibiblio.org/pioneers/englebart.html&#34;&gt;Doug Englebart&lt;/a&gt;, inspired by Vannevar Bush&#39;s vision, set up a research lab that created an elaborate hypermedia system called NLS (oNLine System). This was the first successful implementation of hypertext (though that term was not invented until later), and it was here that the mouse was invented as well as the first on-screen video teleconference.&lt;/p&gt;
+&lt;p&gt;Engelbart&#39;s seminal work was &lt;a href=&#34;http://www.bootstrap.org/augdocs/friedewald030402/augmentinghumanintellect/ahi62index.html&#34;&gt;Augmenting Human Intellect: A Conceptual Framework&lt;/a&gt;, which he wrote in 1962. In it he set out his basic idea of augmentation:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;By &#39;augmenting human intellect&#39; we mean increasing the capability of a man to approach a complex problem situation, to gain comprehension to suit his particular needs, and to derive solutions to problems. Increased capability in this respect is taken to mean a mixture of the following: more-rapid comprehension, better comprehension, the possibility of gaining a useful degree of comprehension in a situation that previously was too complex, speedier solutions, better solutions, and the possibility of finding solutions to problems that before seemed insoluble. And by &#39;complex situations&#39; we include the professional problems of diplomats, executives, social scientists, life scientists, physical scientists, attorneys, designers—whether the problem situation exists for twenty minutes or twenty years. We do not speak of isolated clever tricks that help in particular situations. We refer to a way of life in an integrated domain where hunches, cut-and-try, intangibles, and the human &#39;feel for a situation&#39; usefully co-exist with powerful concepts, streamlined terminology and notation, sophisticated methods, and high-powered electronic aids.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;He was also among the first to say that in order to design such tools, we must:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;integrate psychology and organizational development with all of these advances in computing technology.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Over time this term evolved to become called &#39;office augmentation&#39; -- Englebart preferred the term &#39;augmentation&#39; over almost anywhere that &#39;automation&#39; was used, as automation seem de-personalizing. However, Englebart&#39;s work was ultimately sold by SRI to Tymshare, where they commercialized it under their newly formed &amp;quot;Office Automation Division&amp;quot;. Thus it appears that term &#39;automation&#39; won over the term &#39;augmentation&#39;, and Englebart&#39;s ideas of integrating psychology and organization development were lost.&lt;/p&gt;
+&lt;h3&gt;1970s — Office Automation&lt;/h3&gt;
+&lt;p&gt;IBM coined the term &#39;word processing&#39; in the 1960s, which originally encompassed all business equipment -- including manually operated typewriters -- that was concerned with the handling of text, as opposed to data. By the 70s they were attempting to broaden the scope of their products to all aspects of the office, so they coined the term &#39;office automation&#39;.&lt;/p&gt;
+&lt;p&gt;The use of this term swiftly become quite generic, and was used by all the major computer companies of the time. However, any ideas of collaboration become lost in the ideas of process and automation.&lt;/p&gt;
+&lt;h3&gt;&lt;a name=&#34;EIES&#34;&gt;&lt;/a&gt;1970s — Electronic Information Exchange System (EIES)&lt;/h3&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=269,height=342,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/planet_ti_eies.gif&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;254&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/planet_ti_eies.gif&#34; title=&#34;Planet_ti_eies&#34; alt=&#34;Planet_ti_eies&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yet the number of successful product lines bearing the tag &#39;office automation&#39; did mean that there was increased research money for creating new tools. One of the most important was a project called &lt;a href=&#34;http://www.wikiworld.com/wiki/index.php/EIES%20Legacy&#34;&gt;Electronic Information Exchange System (EIES)&lt;/a&gt;, which had funding from for-profit companies like IBM and AT&amp;amp;T, non-profit foundations like the Annenberg Trust, and governmental agencies like NSF and the New Jersey Commission of Science and Technology.&lt;/p&gt;
+&lt;p&gt;EIES was the first major implementation of collaborative software. In a &lt;a href=&#34;http://eies.njit.edu/~turoff/Papers/DelphiConference.pdf&#34;&gt;paper&lt;/a&gt; from 1972, EIES founder &lt;a href=&#34;http://eies.njit.edu/~turoff/&#34;&gt;Murray Turoff&lt;/a&gt; describes an early version of EIES:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;Basically the Delphi Conference appears to have utility when one or more of the following conditions were met:&lt;/em&gt;&lt;/p&gt;&lt;blockquote&gt;
+&lt;li&gt;&lt;em&gt; the group cannot meet often enough in committee to give adequate timely consideration to the topic because of time or distance constraints&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt; there is a specific reason to preserve the anonymity of the conferees (e.g., refereeing of position papers or a free exchange among different levels in an organizational structure)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt; the group is too large for an effective conference telephone call or committee exchange&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt; the group is interdisciplinary to the extent that a structured or refereed communication mode as opposed to a committee or panel approach is more desirable in promoting an efficient exchange of information&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt; telephone and letter communications, on a one-to-one basis, are insufficient or too cumbersome to augment the particular committee activity&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt; disagreement among members of the group are too severe for a meaningful committee of face-to-face process for the exchange of views and information. &lt;/em&gt;&lt;/li&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;
+&lt;p&gt;You can see from this list that EIES pioneered many of the concepts of BBS- style community software that we see today. Ultimately EIES featured threaded-replies, anonymous messages, polling, etc. Also, note the early importance of trying to understand groups so that you can optimize for the best group process.&lt;/p&gt;
+&lt;p&gt;However, as a generic term, EIES was too cumbersome. I see references from that period to terms like &#39;decision support system&#39;, &#39;computer-mediated communications&#39;, and &#39;collective intelligence&#39;, but none of these were broadly adopted either.&lt;/p&gt;
+&lt;h3&gt;1980s — Groupware (Part 1)&lt;/h3&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ptjl.jpg&#34; title=&#34;Ptjl&#34; alt=&#34;Ptjl&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.awakentech.com/at/Awaken.nsf/d4cbbb795713bdee882564640074729d/8d2c4ffefd30d8b7882564650009851a!OpenDocument&#34;&gt;Peter and Trudy Johnson-Lenz&lt;/a&gt; are credited by many as coining the term &#39;groupware&#39; in &lt;a href=&#34;http://www.context.org/ICLIB/IC23/JnsnLenz.htm&#34;&gt;1978&lt;/a&gt;, after experiencing EIES for the first time. They defined groupware as:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;intentional group processes plus software to support them.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I have long preferred this definition for two reasons -- first, the word intentional implies conscious design. Second, this definition also contains the important distinction that group processes come before the software. I felt that this definition properly excluded multi-user databases and electronic mail that are not designed specifically to enhance the group process. (I wrote about this in an 1990 article called &lt;a href=&#34;http://www.alacritymanagement.com/DoG.html&#34;&gt;Definitions of Groupware&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;There were a number of other definitions during that period:&lt;/p&gt;
+&lt;blockquote&gt;
+&amp;nbsp; &amp;nbsp; &lt;li&gt;&lt;a href=&#34;http://www.ibiblio.org/pioneers/englebart.html&#34;&gt;Doug Engelbart&lt;/a&gt; — &lt;em&gt;&amp;quot;A co-evolving human-tool system.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&amp;nbsp; &amp;nbsp;
+&amp;nbsp; &amp;nbsp; &lt;li&gt;&lt;a href=&#34;http://www.collaborate.com/about/about_david_coleman.html&#34;&gt;David Coleman&lt;/a&gt; — &lt;em&gt;&amp;quot;Computer-mediated collaboration that increases the productivity or functionality of person-to-person processes.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&amp;nbsp; &amp;nbsp;
+&amp;nbsp; &amp;nbsp; &lt;li&gt;&lt;a href=&#34;http://www.cs.colorado.edu/~skip/Home.html&#34;&gt;C.A. &#39;Skip&#39; Ellis&lt;/a&gt; - - &lt;em&gt;&amp;quot;Computer-based systems that support groups of people engaged in a common task (or goal) and that provide an interface to a shared environment.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Very swiftly, the term &#39;groupware&#39; was adopted by the EIES community, as well as many of the spinoff software that was developed in the early 80&#39;s. However, the term was not broadly adopted outside of this community for some time.&lt;/p&gt;
+&lt;h3&gt;1980s — Computer-Supported Collaborative (or sometimes Cooperative) Work (CSCW)&lt;/h3&gt;
+&lt;p&gt;Meanwhile, the academic community was not happy with either the term &#39;office automation&#39; or &#39;groupware&#39; for research into how groups use computers to collaborate.&lt;/p&gt;
+&lt;p&gt;After the failure of an ACM conference on Office Automation, MIT&#39;s &lt;a href=&#34;http://web.mit.edu/invent/iow/greif.html&#34;&gt;Irene Greif&lt;/a&gt; and DEC&#39;s Paul Cashman coined the term CSCW for a workshop held in 1984, which was followed by the first CSCW conference in 1986. There is still an annual &lt;a href=&#34;http://www.acm.org/cscw2004/index.html&#34;&gt;CSCW Conference&lt;/a&gt;, which this year is being held in Chicago on November 6-10th.&lt;/p&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=600,height=400,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/cc.gif&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/cc.gif&#34; title=&#34;Cc&#34; alt=&#34;Cc&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The people initially involved with this conference came from either Human Computer Interaction (HCI) background or Information Systems (IS) background, thus the different definitions for the second &#39;C&#39; in &#39;CSCW&#39;; the HCI people preferred the small team focused &#39;cooperative&#39;, whereas the IS people chose the broader &#39;collaborative&#39;. &lt;a href=&#34;http://www.msu.edu/~schopie1/talk_rosewood_03-04-16.html&#34;&gt;Scott Schopieray&lt;/a&gt; has a nice diagram about this on the right.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.dml.cs.ucf.edu/cybrary/fyi_cscw.html&#34;&gt;Digital Media Laboratory&lt;/a&gt; defines CSCW as:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;a multidisciplinary research field including computer science, economics, sociology, and psychology. CSCW research focuses on developing new theories and technologies for coordination of groups of people who work together.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sigmod.org/sigmod/dblp/db/indices/a-tree/w/Wilson:Brian.html&#34;&gt;Brian Wilson&lt;/a&gt; defined it as:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;CSCW is a generic term which combines the understanding of the way people work in groups with the enabling technologies of computer networking, and associated hardware, software, services and techniques.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;However, most definitions I&#39;ve seen compare it to groupware:&lt;/p&gt;
+&lt;blockquote&gt;
+&amp;nbsp; &amp;nbsp; &lt;li&gt;&lt;a href=&#34;http://www.telekooperation.de/cscw/cscw.html&#34;&gt;Applied Informatics and Distributed Systems Group at Technische Universitat Munchen&lt;/a&gt; — &lt;em&gt;&amp;quot;While Groupware refers to the real computer-based systems, the notion CSCW means the study of tools and techniques of Groupware as well as their psychological, social and organizational effects.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&amp;nbsp; &amp;nbsp;
+&amp;nbsp; &amp;nbsp; &lt;li&gt;&lt;a href=&#34;http://www.infres.enst.fr/~vercken/multicast/cscw.html&#34;&gt;Tom Brink&lt;/a&gt; — &lt;em&gt;&amp;quot;Groupware is often used to specifically denote the technology that people use to work together, whereas CSCW refers to the field that studies the use of that technology.&amp;quot;&lt;/em&gt;&lt;/li&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This term never really was adopted by anyone except the academic community, and even now, there are many that prefer different terms, such as &#39;social computing&#39; or &#39;coordination science&#39;. &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;danah boyd&lt;/a&gt; offered this comment to me in an email:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;In the Computer Supported Cooperative Work (CSCW) space (those who address this area in academia), one switch has been to &#39;social computing&#39; and the move was far more intentional. CSCW comes out of Human-Computer Interaction (HCI) paradigm.&amp;nbsp; By and large, HCI has been strongly associated with quantitative psychology in terms of methods.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Groupware and collaborative software have a heavy handed connotation of &#39;work&#39; (deeply connected to HCI&#39;s emphasis on activity theory).&amp;nbsp; While CSCW has the term work directly embedded in it, there&#39;s a strong push towards other aspects of social life.&amp;nbsp; Qualitative approaches have been infused into HCI and HCI practitioners are drawing heavily from sociology and anthropology, focusing directly on everyday social life. [This move may also be a purposeful move towards Marx, but maybe i&#39;m reading too far into things.]&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt;1990&#39;s — Groupware (Part 2)&lt;/h3&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=558,height=437,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/grove_groupware.gif&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;156&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/grove_groupware.gif&#34; title=&#34;Grove_groupware&#34; alt=&#34;Grove_groupware&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meanwhile, the term &#39;groupware&#39; hit the mainstream in 1988, when Robert Johansen wrote the best-selling business book &lt;a href=&#34;http://www.amazon.com/exec/obidos/ASIN/0029164915/skotos-20/104-8061732- 6194323&#34;&gt;Groupware: Computer Support for Business Teams&lt;/a&gt;. One unique contribution that Johansen&#39;s book offered was a distinction between time and place for different types of collaboration. See the diagram on the right for some detail.&lt;/p&gt;
+&lt;p&gt;Unfortunately, it was this success that was also the downfall of the term &#39;groupware&#39;, for it got co-opted by marketing. Initially the co-opting was done by Lotus Notes, which I personally didn&#39;t feel deserved to be called groupware, as it was really more of a multi-user database that could be used to make groupware, but wasn&#39;t actually groupware. Then Microsoft further corrupted the term when they released Microsoft Exchange Server and Outlook with calendaring features to compete with Lotus Notes, and called that groupware as well.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.fudco.com/chip/&#34;&gt;Chip Morningstar&lt;/a&gt;, an early pioneer in collaboration software and virtual worlds, comments:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;(in the 1990&#39;s) I know that we (the Xanadu/AMIX community) hated the term &#39;groupware&#39;, as would anyone who has any respect for the English language. Also, at the time, the term was generally applied to things like Lotus Notes, which we felt was in a category distinct from what we were doing.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Currently Wikipedia &lt;a href=&#34;http://en.wikipedia.org/wiki/Groupware&#34;&gt;defines groupware&lt;/a&gt; as:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;software that integrates work on a single project by several concurrent users at separated workstations&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Thus today almost any software that supports multiple users can somewhat legitimately say that they are &#39;groupware&#39;.&lt;/p&gt;
+&lt;h3&gt;1990s — Origin of Social Software&lt;/h3&gt;
+&lt;p&gt;While the term &#39;groupware&#39; was slowly losing its meaning, a new phrase, &#39;social software&#39; was beginning to coming into vogue. However, for the first 15 years of its existence, mostly in the 1990s, the term was rarely used outside of very specialized groups.&lt;/p&gt;
+&lt;p&gt;One of the best ways I&#39;ve found to see how words, terms, phrases, and memes spread through culture is looking through Google&#39;s marvelous archive of usenet newsgroups. Searching by date, the earliest reference I can find to the term &#39;social software&#39; is a posting in &lt;a href=&#34;http://groups.google.com/groups?q=%22social+software%22&amp;amp;start=100&amp;amp;hl=en&amp;amp;lr =&amp;amp;ie=UTF- 8&amp;amp;c2coff=1&amp;amp;safe=off&amp;amp;scoring=d&amp;amp;selm=Aug.9.00.45.25.1990.28902%40athos.rutgers.edu &amp;amp;rnum=101&#34;&gt;1990&lt;/a&gt; -- in this newsgroup posting it isn&#39;t really clear what the definition of social software is, only that it is associated with &#39;open hypertext&#39; and a committee in Japan to study &#39;social-hyper computing&#39;. The next mention of social software is in &lt;a href=&#34;http://groups.google.com/groups?q=%22social+software%22&amp;amp;hl=en&amp;amp;lr=&amp;amp;ie=UTF- 8&amp;amp;c2coff=1&amp;amp;safe=off&amp;amp;scoring=d&amp;amp;selm=Feb.12.22.44.50.1992.14723%40planchet.rutgers.edu&amp;amp;rnum=100&#34;&gt;1992&lt;/a&gt; in which Ted Nelson&#39;s Xanadu and Phil Salin&#39;s AMIX are called social software.&lt;/p&gt;
+&lt;p&gt;The next couple of years of usage of the term social software appear to be largely associated with the nanotechnology community and those influenced by them, or by the diaspora of people who left Xanadu and AMIX when they were both closed by Autodesk. Given these references, my first guess was that the term originated within Xanadu/AMIX communities, as they had close connections with many of the people involved with nanotechnology.&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/drexler.jpg&#34; title=&#34;K. Eric Drexler&#34; alt=&#34;K. Eric Drexler&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt; &lt;/p&gt;
+&lt;p&gt;However, after contacting some of my collegues that used to work for Xanadu or AMIX, they say the term probably came from K. Eric Drexler, founder of the &lt;a href=&#34;http://www.foresight.org/&#34;&gt;Foresight Institute&lt;/a&gt;. Drexler is best known for coining the term &lt;a href=&#34;http://en.wikipedia.org/wiki/Nanotechnology&#34;&gt;nanotechnology&lt;/a&gt;, and his interest in hypertext and group augmentation comes from his desire to make sure that we think critically about the technology before we develop it.&lt;/p&gt;
+&lt;p&gt;The earliest reference that I can find to term &#39;social software&#39; in his writings is in &lt;a href=&#34;http://www.islandone.org/Foresight/WebEnhance/HPEK1.html&#34;&gt;Hypertext Publishing and the Evolution of Knowledge&lt;/a&gt;, originally published at the Hypertext &#39;87 Conference, but updated online though 1997), where the term is used three times, in the following contexts:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;KINDS OF HYPERTEXT&lt;br /&gt;...&lt;br /&gt;&lt;strong&gt;Filtered vs. bare hypertext:&lt;/strong&gt; A system that shows users all local links (no matter how numerous or irrelevant) is bare hypertext. A system that enables users to automatically display some links and hide others (based on user-selected criteria) is filtered hypertext. This implies support for what may be termed &lt;strong&gt;social software&lt;/strong&gt;, including voting and evaluation schemes that provide criteria for later filtering.&lt;br /&gt;...&lt;br /&gt;AGENT LEVELS&lt;br /&gt;...&lt;br /&gt;Agents can also implement social software functions - for example, applying voting-and-rating algorithms to sets of reader evaluations and publishing the results.&lt;br /&gt;...&lt;br /&gt;IMPROVING PROBLEM SOLVING&lt;br /&gt;...&lt;br /&gt;A hypertext publishing medium will have abilities beyond supporting improved critical discussion. Since it is computer-based, it can naturally support software for collaborative development of modeling games and simulations [29] (and enable effective criticism of published model structures and parameters). Social software could facilitate group commitment and action: individuals could take unpublicized positions of the form I will publicly commit to X if Y other people do so at the same time. Once Y people take a compatible position, everyone&#39;s commitment (to making a statement, forming a group, making a contribution, etc.) could be automatically published. The possibilities for hypertext-based social software seem broad.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I wrote Eric to find out why he used the term, and this was his reply:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;I don&#39;t recall when I began using it (it wasn&#39;t in Engines of Creation), but it does seem to me, as best I can recall, that I coined it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I used the term &#39;social software&#39; because I am concerned with communication and collaboration on all scales, including the whole of society. Thus, I see media at the scale of the World Wide Web as forms of social software.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We need to make society-scale conflict -- not just group-scale cooperation -- more productive. Better media, better social software, can help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I&#39;d rather see an emphasis on this dimension of social software than on the origin of the name itself.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Drexler&#39;s term &#39;social software&#39; didn&#39;t initially take off. There do not appear to be many consistent mentions of the term in the late 90&#39;s. There continue to be references that I attribute to the term spreading out from the nanotechnology community, but also I see references to the &#39;social software&#39; of the brain. There also seem to be a few consulting companies named Social Software but none appear to have had much success. Wiki was invented in 1995, but I don&#39;t see it, or any of the subsequent wikis defining themselves as social software for a number of years.&lt;/p&gt;
+&lt;h3&gt;2000s — Evolution of Social Software&lt;/h3&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/clayshirky.jpg&#34; title=&#34;Clayshirky&#34; alt=&#34;Clayshirky&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;It isn&#39;t until late 2002 that the term &#39;social software&#39; came into more common usage, probably due to the efforts of &lt;a href=&#34;http://www.shirky.com/&#34;&gt;Clay Shirky&lt;/a&gt; who organized a &amp;quot;Social Software Summit&amp;quot; in November of 2002. He recalls his first usage of the term to be from approximately April of 2002.&lt;/p&gt;
+&lt;p&gt;I asked Clay if it was the loss of meaning in the terms &#39;groupware&#39; that made him choose the term &#39;social software&#39;, and he replied:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;I was looking for something that gathered together all uses of software that supported interacting groups, &lt;strong&gt;even if the interaction was offline&lt;/strong&gt;, e.g. Meetup, nTag, etc. Groupware was the obvious choice, but had become horribly polluted by enterprise groupware work.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I asked him why he didn&#39;t use the term &#39;collaborative software&#39; and he commented:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;...because that seems a sub-set of groupware, leaving out other kinds of group processes such as discussion, mutual advice or favors, and play.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The broader issue is that there was no word or phrase that grouped the CSCW and online community currents together without also including a lot of non-group oriented stuff. CMC (Computer-Mediated Communication) for example, includes broadcast outlets like C|Net, two-person email exchanges, and spam -- much too broad. There was also no word or phrase that called attention to the explosion of interesting software for group activities that fell outside online communities and CSCW, things like Bass-Station (which is for offline community) or &amp;quot;Uncle Roy is All Around You&amp;quot; (which is computer-supported collaborative play.)&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Clay also offered me some interesting commentary on the term &#39;social computing&#39;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;On a side note, there is in the research community a similar phrase, &#39;social computing&#39;, that both MSFT and IBM use. I think this phrase also doesn&#39;t fit the domain well. It seems to suffer from Shannon Envy, where the researchers interested in social effects are trying to convince their colleagues that what they are working on is also computing.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I think the &#39;social computing&#39; phrase is a shame for two reasons. First, there&#39;s no need to apologize for studying social effects by pretending that they are a form of computing (the old argument about computers as computing vs communicating devices goes back to Licklider in the early 60s, and its disheartening to see the communications people agonizing over it 40 years on).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Second, the phrase social computing could describe a really interesting domain, where groups are used to find approximately optimal solutions to hard combinatorial problems.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt;2000s — Changing Definitions of Social Software&lt;/h3&gt;
+&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=579,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;181&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/ryzeblogtribefriends.gif&#34; title=&#34;Ryzeblogtribefriends&#34; alt=&#34;Ryzeblogtribefriends&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;An early definition by Clay for the definition of social software was:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;1. Social software treats triads of people differently than pairs.&lt;br /&gt; 2. Social software treats groups as first-class objects in the system.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;However, Clay more recently prefers the simpler:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;software that supports group interaction&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I note that this is quite a bit closer to the Johnson-Lenz definition of groupware.&lt;/p&gt;
+&lt;p&gt;One of areas of disagreement about the definition of social software is one of scope. &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?SunirShah&#34;&gt;Sunir Shah&lt;/a&gt; host of &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?MeatballWiki&#34;&gt;MeatballWiki&lt;/a&gt; conceives of social software as being mainly about support for online communities, whereas Clay Shirky desires for it to also:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;explicitly try to include online support for both lightweight social value (e.g. del.icio.us) and offline interaction (e.g. Dodgeball, PacManhattan) in the definition.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;There is a long discussion on Meatball Wiki at &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?SocialSoftware&#34;&gt;SocialSoftware&lt;/a&gt; on this topic. One of the more interesting definitions comes from &lt;a href=&#34;http://www.plasticbag.org/archives/2002/12/on_the_augmentation_of_human_social_networking_abilities.shtml&#34;&gt;Tom Coates&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;augmentation of human&#39;s socializing and networking abilities by software, complete with ways of compensating for the overloads this might engender&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I asked &lt;a href=&#34;http://alevin.com/weblog/&#34;&gt;Adina Levin&lt;/a&gt;, of &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;, about her thoughts on why we are now using the term &#39;social software&#39; and not some other term. She said:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;I believe that there are new things in social software, but we&#39;re also compelled to use new words instead of building on the old ones because of the way the discourse works.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;When you talk about &#39;groupware&#39;, people think of the hard-to-use, under-adopted Lotus Notes category. In the mid-90s, groupware and knowledge management were used for software that represented the taylorization of knowledge work – the idea that you can automate knowledge work into pre-defined workflows and &amp;quot;capture the assets&amp;quot; in people&#39;s brains. Often, the ideas sound good to managers, but the tools did little for the people using them. There were fancy schemes intended to &amp;quot;incent participation&amp;quot; because the tools didn&#39;t do much for the people using them without lollipops. Email had massive adoption, and more complex tools often gathered dust.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Meanwhile, the term &#39;virtual community&#39; became associated with discredited ideas about cyberspace as an independent polity, and failed dotcom ideas about assembling community in the shadow of a mass-market brand such as forums on the Coca Cola site.
+&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Several years ago, in the depths of the tech recession, there were signs of creative life in weblog and journal communities, conversation discovery with daypop and then technorati, the growth curve of wikipedia, mobile games, photo and playlist sharing. The liveliness was about the communities, and also about the culture of tool mix&#39;n&#39;match &lt;a href=&#34;http://www.google.com/search?q=define+bricolage&#34;&gt;bricolage&lt;/a&gt;. Many of the attributes of social software -– hyperlinks for naming and reference, weblog conversation discovery, standards-based aggregation -– build on older forms. But the difference in scale, standardization, simplicity, and social incentives provided by web access turn a difference in degree to a difference in kind.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;These forms grew without any forced discussion &amp;quot;how to incent participation&amp;quot;. People are compelled to write blogs and journals to show off and to share, to contribute to wikipedia and open source software projects for the joy of building things with other people. There are some lessons about social patterns and social affordances that this generation of social software communities and tools get right, are worth understanding and building on.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We might be better off as a culture if we used rhetorical techniques from traditional cultures to appropriate the words of the previous generation, but deepen them with new insights from the current generation. But we&#39;re children of the enlightenment, we want progress, and in order to get the (deserved) attention for new generations of real innovation, we need to use new terms.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt;2010 — Future Thoughts on Social Software&lt;/h3&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/vrconf.jpg&#34; title=&#34;VR Conference&#34; alt=&#34;VR Conference&#34; class=&#34;image-full&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;In examining the origins of &#39;social software&#39; we can see the terminology for the field has moved through a sort of life cycle. There have been many terms for this type of software, some of which have taken off, and some of which have not.&lt;/p&gt;
+&lt;p&gt;Typically, a visionary originates a term, and a community around that visionary may (or may not) adopt it. The diaspora of the term from that point can be slow, with 10 or 15 years passing before a term is more generally adopted. Once a term is more broadly adopted, it faces the risk of becoming a marketing term, corrupted into differentiating products rather than explaining ideas.&lt;/p&gt;
+&lt;p&gt;Is &#39;social software&#39;, which just now gaining wide acceptance, destined for the same trash heap of uselessness as groupware? And, if so, what impact does the changing of this terminology have on the field of social software itself? Only the future holds those answers ...&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I made it explicit what I thought the definition should be on the page, which was not at all limited to online communities. I wrote, &#34;software that humans create to ease contacting each other.&#34;
+I could simplify that by &#34;software that facilitates communication.&#34;
+But I also said that I do not find any meaning in this term. While it&#39;s true that software can create value for communication, I don&#39;t think the software just isn&#39;t the driving force. People will warm over the flaws of the worst software to communicate with each other if there is a compelling community. Just look at LiveJournal or even GREX. But there is no such thing as compelling enough software that will cause people to start using it if there is no one on the other end. Even the most wonderful phone system would be useless if you could only get a dialtone but no warm bodies.
+Rather, the artifacts of the software are informed by desires and values and communities that motivate the creation of that software. Spending too much time looking at the software is like trying to analyze a herd migration by the footprints. While no doubt informative, they aren&#39;t as predictive as looking at the elephants stampeding on the plane. Or quite as majestic.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://usemod.com/cgi-bin/mb.pl?SunirShah&#34;&gt;Sunir&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T00:35:33-07:00&#34;&gt;2004-10-14T00:35:33-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I agree with Sunir that this term has little meaning; it is an air tent. When people stop blowing into it, it will collapse.
+The main problem is that it seems to direct attention (as the previous term, groupware, also did) to social process and predesigned &#39;collaborative&#39; activities. No one in his right mind would wish to discuss telephones in so overblown a manner. We pick one up (flip one open) and make a call. Everything starts from the gesture of an individual and it is a gesture outward that immediately invokes and involves another individual. What happens *from there forward* is indeed social, but the tools have nothing to do with it.
+For better or worse, a term like &#39;memex&#39; (or one like &#39;spreadsheet&#39; for that matter) tries to describe an object, a tool. This term, social software, leads directly away from understanding the tool it purports to describe.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.seedwiki.com&#34;&gt;Tom&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T05:47:46-07:00&#34;&gt;2004-10-14T05:47:46-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I might add, btw, and in disagreement with Clay, that the term &#34;social computing&#34; is in fact a useful term -- it is useful in just the ways that terms like &#34;personal computing&#34; and the term of the mini-computer era, &#34;departmental computing&#34;, were useful.
+You might expect me to hold this view, of course: see my site http://www.socialcomputing.org
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.seedwiki.com&#34;&gt;Tom&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T05:50:23-07:00&#34;&gt;2004-10-14T05:50:23-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+There&#39;s also Social Protocols and their history which anticipated SS:
+http://www.w3.org/Talks/980922-MIT6805/SocialProtocols.html
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Jim Pear&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T09:24:06-07:00&#34;&gt;2004-10-14T09:24:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+You might be overlooking some significant milestones in the mid-to-late 90s, especially in the areas of Social Networks, SNA, communities of practice, Knowledge Management, and the &#34;six degrees&#34; folks. In particular, pioneers like Rob Cross (SNA, communities of practice),Larry Prusak (KM, communities of practice), Rob Usey (KnowledgeX, relationship mining) and others really drove many of the basic concepts and practices that these people, in the early 2000s, built upon.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Drew Clark&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T10:32:01-07:00&#34;&gt;2004-10-14T10:32:01-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+One interesting fact is that &#34;groupware&#34; software is often called a &#34;groupware suite&#34; which actually emplies that it is a bundle of related software tools which enable and enhance productivity among and within groups.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Wes&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T10:49:09-07:00&#34;&gt;2004-10-14T10:49:09-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;How could you overlook 25+ years of computer bulletin board software? You, or someone, clearly knew it existed, quoting your own article, &#34;... that EIES pioneered many of the concepts of BBS- style community software that we see today.&#34;
+BBS systems were in use world-wide by the mid-1980&#39;s, with hundreds of thousands of users, very many of them non-technical.
+Why this particular omission?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://wps.com&#34;&gt;tom jennings&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T13:58:12-07:00&#34;&gt;2004-10-14T13:58:12-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Enjoyed your article but it occurred to me, aren&#39;t financial markets also a much older example of social computing? For that matter, elections too. Perhaps any group decision making throughout history is fit for your discussion, regardless of the computation method and algorithm used to process? I would agree that technologies have influenced outcomes however, but where you draw the semantic lines isn&#39;t clear to me...&#34;computing&#34; can be done by an abacus, a scorecard, a machine, an intelligent agent, and the communications element necessary for it to be &#34;social&#34; has many iterations throughout history as well...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;andrew mann&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T16:16:27-07:00&#34;&gt;2004-10-14T16:16:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Tom Jennings wrote: How could you overlook 25+ years of computer bulletin board software?
+Actually, from what I&#39;ve been able to determine, most of the ideas behind all BBS software today derive ultimately from Ward Christianson&#39;s first CBBS in 1975, who turn derived most of his ideas from being exposed to EIES on ARPANET at the time.
+I do believe that that the history of the BBS is very important to the history of the why and how community software exists the way it does today. However, in this article I was trying to more excusively limit myself to people who were more thinking about group process very early on.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.LifeWithAlacrity.com&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T16:38:58-07:00&#34;&gt;2004-10-14T16:38:58-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Great work, or play for that matter, Chris.
+Here&#39;s the link for Clay&#39;s early definition (in comments): http://blackbeltjones.typepad.com/work/2003/01/defining_discus.html
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ross.typepad.com&#34;&gt;Ross Mayfield&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T17:46:54-07:00&#34;&gt;2004-10-14T17:46:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;then there is &#34;Social Software of Accounting and Information Systems&#34;, by Norman B. MacIntosh, Publisher: John Wiley &amp; Sons; (June 1985)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.meskill.net/weblogs/&#34;&gt;judith&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T18:11:54-07:00&#34;&gt;2004-10-14T18:11:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The Memex was more than a dream. It was part of a thriving tradition of information organisation that predated computing, and more importantly, was all but constructed. So to view it as a &#34;first mention&#34; does it a disservice. I quote myself from another site (http://www.digibarn.com/stories/desktop-history/bushytree.html) (recycling!) which has a history of HCI:
+=============================
+Vannevar Bush was already famous as a designer of analog computers, and also an expert in the field of micrographics. He was already aware of the automated electronic information retrieval/control systems in use at places like MIT. Their origins lay in Europe with the coterie gathered around Paul Otlet, and they had a fully functional hypertext system with iconic access in 1912. Despite the War and the Depression, the march of both micrography and automated retrieval proceeded apace, and Bush was involved with their use in documentation during the war. The problem was not with rapid recall - that was well established. It was with the recording side of things. Micrographing and encoding took some time, and a significant part of what he envisaged in the Memex was the instantaneous storage mechanism he hoped would arrive. The significant thing that seems to bypass most histories is the fact that Bush had already built this type of machine at MIT, and perhaps more significantly co-operated with Kodak and NCR to work on the mechanisms that derived in part from his differential analyzer (the Comparator and the Microfilm Rapid Selector).
+As We May Think was actually written in 1939, in secrecy as a Govt report. The Library of Congress and Kodak were very busy with micrographic information retrieval. (One of the best sources on this technology is Jolley&#39;s Data Study from the early 60s. It shows how all of this worked, and worked well). And last but not least there is another connection wth Europe in the form of Emanuel Goldberg of Zeiss Ikon, who had developed the first significant opto-electronical retrieval system for documentation in the 1920s. (it was Goldberg&#39;s work that stopped Bush&#39;s patent application). Goldberg went around the world showing his machine in the middle 1930s, even got kidnapped by Nazi spies (!). It is difficult to know how much of the Work of Otlet, Goldberg and friends influenced the ideas of the MEMEX, but it alters the idea of the lonely visionary and puts this into scope.
+==================
+The Digibarn exhibit on the Bushy Tree is an important resource for this research and is well worth a read for the purposes of investigating social software.
+Perhaps a bushy tree is needed for your page?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://hopl.murdoch.edu.au&#34;&gt;Diarmuid Pigott&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T22:23:59-07:00&#34;&gt;2004-10-14T22:23:59-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The timeline misses Jacques Vallee (http://www.jacquesvallee.com/), who is a direct disciple of Engelbart (in 1971) but who went on the the Institute for the Future (IFTF) and wrote FORUM, an early BBS software. FORUM was the direct inspiration for the development in Sweden of KOM, another BBS system that ran on DEC PDP-10 systems, which was used from dial-in terminals throughout the 1980s.
+Also, the development of the Michigan Terminal System (MTS) at the University of Michigan in the 1960s had important implication on the development of early online communities in the u.s. mid west. The online conferencing system Confer went into production in 1975.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://aronsson.se/hist.html&#34;&gt;Lars Aronsson&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-15T14:27:31-07:00&#34;&gt;2004-10-15T14:27:31-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;A topic that I think should be included is the role of PLATO, as described in David Wooley&#39;s paper here http://www.thinkofit.com/plato/dwplato.htm .  PLATO Notes was developed in 1973, not long after EIES, and it is significant for two reasons.  First, it very quickly became an important part of an ongoing production environment, evolving new features and (unexpectedly) creating an on-line community that flourished for many years.  Secondly, a close examination of the list of &#34;PLATO People&#34; at http://www.platopeople.com/people.html clearly shows that a lot of very influential people in the computer industry were themselves influenced by PLATO, and it is indeed fair to say that many of the systems that truly popularized this technology were direct descendants of PLATO Notes, built by people who had used PLATO Notes.  Three of the four founders of Iris Accociates (the company that build Lotus Notes) were PLATO users, and one of the three had previously written VAX Notes (which was widely used within DEC in the early 80s), and several of the developers of early Usenet tools were also PLATO veterans.  That article linked above lists many more descendants of PLATO Notes.
+-rich
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://smokey.rhs.com/web/blog/rhs.nsf&#34;&gt;Richard Schwartz&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-15T21:01:38-07:00&#34;&gt;2004-10-15T21:01:38-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Excellent research, thanks!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://weblogs.asp.net/alexbarn&#34;&gt;Alex Barnett&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-16T06:23:21-07:00&#34;&gt;2004-10-16T06:23:21-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;See Also:
+http://www.socialtext.net/m2m/index.cgi?social_software_timeline
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ross.typepad.com&#34;&gt;Ross Mayfield&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-16T17:48:40-07:00&#34;&gt;2004-10-16T17:48:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thanks Rich for mentioning PLATO.   I was just about to but am glad to see someone beat me to it.  (I&#39;m the person who runs the PLATOPeople.com website, and am writing a book about the history and significance of the PLATO system, particularly as it pertains to all things &#34;social software&#34;).
+No understanding of the history of social software is complete without a full appreciation of the PLATO phenomenon.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.platopeople.com&#34;&gt;Brian Dear&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-17T23:35:47-07:00&#34;&gt;2004-10-17T23:35:47-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Another big service that was left out was CompuServe  http://en.wikipedia.org/wiki/Compuserve that in the early eights had the one of the largest interactive dialup networks, they had email, online chat, user groups, multiplayer online games, file storage,  stock quotes, news, ecommerce “yes you could buy stuff online back then” software downloads and a lot more. They basically were a mini internet. I played many a person in the multiplayer game “Spacewar”
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Kev&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-18T11:51:23-07:00&#34;&gt;2004-10-18T11:51:23-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+The evolution seems to omit early text environments, MUDs and MOOs, stories of/from PMC MOO, or tribes in the MUD worlds.
+Also missing is the work of Mathew Fuller who presents a compelling definition of social software in Behind the Blip.  Where social software also involves a reflection on the relationship between groups and specific software. Focusing on accessible low threshold social software environments, constructive environments...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Ian Brown&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-19T05:51:53-07:00&#34;&gt;2004-10-19T05:51:53-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;murray leinster, a logic named joe. SF-story (1945) with real personal computers.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://lotman.twoday.net&#34;&gt;jurijmlotman&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-24T15:21:06-07:00&#34;&gt;2004-10-24T15:21:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Very useful review, Christopher. I think one of the main sources of confusion with respect to terminology is that the focus is on trying to marry concepts like group, social, and collaboration to _technology_ instead of to _systems_. To deal with this, we should start thinking in _socio-technical systems_ instead of technologies in isolation. See my &#34;Social Software: What&#39;s in a Name?&#34; post:
+http://growingpains.blogs.com/home/2004/10/social_software.html
+(sorry, trackback doesn&#39;t work properly in TypePad).
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://infolab.uvt.nl/people/ademoor&#34;&gt;Aldo de Moor&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-25T04:24:40-07:00&#34;&gt;2004-10-25T04:24:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+The &#34;Social Software of Accounting and Information Systems&#34; book concentrates on how accounting information systems influence and are influenced by human interaction and organization culture. I think it explores a different notion of social software. A software that is embedded in a social group and thus affects its (the group&#39;s) behaviour.
+The &#34;modern concept&#34; is about facilitating social interaction, intentionally.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;C.L.K.&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-25T09:54:29-07:00&#34;&gt;2004-10-25T09:54:29-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Social software is &#34;software for societies&#34;. It&#39;s purpose is to lubricate and to help the formation of social groups and social relationships.
+Social software recognizes that people are complex and interactions need to allow people to express their full richness as a person, or a human being. Groupware focuses on processes, roles and permissions.
+Here are two example commentaries, guess which one is social software, and which one is groupware.
+a) Further information required: Are we dealing with a problem of customer perception or is this a software issue?
+b) That was a pretty cool feature for the techno-freaks here (hi Mark!). The real problem with the Rollestone account is that the technical manager got rolled over management about the choice of software and he is pretty annoyed about having to deal with us. We should get Peter from accounts management to smooth up the relationship.
+Social software is the equivalent of the water cooler, where the full character of the participants are revealed and facilitated, and fosters better social relationships, in such a way that the group becomes healthier and more robust.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://teyc.editthispage.com/&#34;&gt;Chui&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-27T20:35:27-07:00&#34;&gt;2004-10-27T20:35:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+its a great one to take help i am really satisfy with it and i gave other instructions about this
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Raja&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-11T21:50:46-07:00&#34;&gt;2004-11-11T21:50:46-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Great article, Some peoples comments questioned Social Software use as a term....
+ie from Tom &#34;What happens *from there forward* is indeed social, but the tools have nothing to do with it....For better or worse, a term like &#39;memex&#39; (or one like &#39;spreadsheet&#39; for that matter) tries to describe an object, a tool. This term, social software, leads directly away from understanding the tool it purports to describe.
+I couldnt disagree more - Why should we be forced to only think of tools purely in their most functional form, rather than to wisely see them in their higher order effects, the effects that really matter. Social Software is a great term, because it makes us realize that the importance of these tools is not just in the immediate funtions (eg  easier personal publishing, or lubricating a group conversation) but also in the many higher order effects that emerge downstream from the cross interactions, feedback loops, reinforcement, and new holopticism that becomes. Being unable to see Social Software as more than its components parts is taking a reductionistic approach. Moving forward we need to see the greater whole that is now emerging from the new &#34;Social Softwares&#34; available to us. Social Softwares as an ecology made up of things such as RSS, blogs with trackbacks, the technorati&#39;s and other social analysis tools are now giving us new eyes to see our own collective intelligence, they are massively re-connecting us and giving birth to increasing levels of shared social experience &amp; conciousness.
+Going back to Toms issue, he feels the term Social software doesnt describe the tool, that the tools have nothing to do with socialization. Well I believe that they are absolutely about that, they allow us to take our socialization, group forming, group collaboration, and will eventually help us reach toward a new collective intelligence, that we simply cannot achive without them. They are absolutely &#34;Social&#34; tools. Just as the &#34;Market&#34; is a holopticism for financial people,  del.ici.us &amp; technorati are effectively holopticisms for groupthink on topics &amp;  classifications.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://stratagility.iuplog.com&#34;&gt;Mark Ranford&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-12-08T10:42:33-07:00&#34;&gt;2004-12-08T10:42:33-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Mark makes some pertinent points.  A language that is accessible and describes new ways of working with new types of technology is always a good thing if it gets the masses inspired and excited.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://clairechaundy.typepad.com&#34;&gt;Claire Chaundy&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-12-20T09:56:31-07:00&#34;&gt;2004-12-20T09:56:31-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I would like to thank those that put this website together for its accuracy and for a website I can direct all my students to in order to get an overview of the history of this concept.
+A slightly different perspective I have had from the time we designed EIES and experienced what happened on it and later the WELL is that any systems that allows either direct or indirect communications between the users is a social systems.  Students in HCI and the Design of Information Systems have to be aware of the fact that they are deigning a social system.  The have to realize that this will bring about a negotiation process between the users and the system that creates changes to the existing system.  That the design of such systems can impact on the form of the resulting social system.  The most recent example emerging is the virtual stock markets that allow thousands of people to compare their views about just about anything like movies or presidential candidates.  In my jargon, it is just another scaling method to try and provide everyone a collective feedback of what the group judgment is, as does the Delphi process.  Recently I have been very much involved in using computer based Delphi process as Learning Systems to help groups deal with very complex problems.  The original 1973 Delphi Method book is now free on my website and has many examples of paper and pencil group communication designs.  It also has a little philosophy about it as well.  It also has some insight on early Computer Medidated Communication efforts.
+http://is.njit.edu/turoff.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://is.njit.edu/turoff&#34;&gt;Murray Turoff&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-20T14:41:14-07:00&#34;&gt;2005-01-20T14:41:14-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;It might be worth noting that the screen shot that ends the article is not from an artistic sci-fi depiction, but is a live capture from the immersive chat-world of There.com. (Disclaimer: I worked for There.com.)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://david.weekly.org/&#34;&gt;David E. Weekly&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-02-26T12:08:09-07:00&#34;&gt;2005-02-26T12:08:09-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I would add a few more features to this evolution of Social Software:
+1960s:  Copiers (Xerox) allow mid-casting of
+documents.
+1970s   E-Mail starts to proliferate
+1980&#39;s  Local Printers start to replace copiers
+as Mid-Casting devices
+1990s   Groupware such as Lotus Notes
+Instant Messaging
+Cell Phone Text Messaging
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Alan Blair&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-27T14:33:06-07:00&#34;&gt;2005-07-27T14:33:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;In a way, any sort of computer-mediated communication can be called social software since communication is inherently social, e.g. any sort of groupware educational web-services like LMSs, virtual environments. However, we prefer a more narrow definition of social software that includes applications that add an &#34;extra touch&#34; in the spirit of what some interpret as &#34;web 2.0&#34;.
+Social computing can be described in terms of social software types, for example:
+(1)Social syndication of contents and links
+(2)Social networking (professional, dating)
+dorkey
+Michigan Treatment Centers
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.treatmentcenters.org/michigan&#34;&gt;dorkey&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2008-08-05T05:14:35-07:00&#34;&gt;2008-08-05T05:14:35-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/tracing_the_evo.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

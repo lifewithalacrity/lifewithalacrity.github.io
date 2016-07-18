@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recreation on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/recreation/</link>
+    <description>Recent content in Recreation on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Aug 2005 16:01:19 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/recreation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dunbar &amp; World of Warcraft</title>
+      <link>https://lifewithalacrity.github.io/2005/08/dunbar_world_of.html</link>
+      <pubDate>Wed, 03 Aug 2005 16:01:19 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/08/dunbar_world_of.html</guid>
+      <description>&lt;p&gt;In my initial blog entry on the &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; I presented some statistics on group sizes based on the online game &lt;a href=&#34;http://www.uo.com&#34;&gt;Ultimata Online&lt;/a&gt;. In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;550&#34; src=&#34;http://www.lifewithalacrity.com/UOGuildPowerLaw.jpg&#34; width=&#34;814&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;536&#34; src=&#34;http://www.lifewithalacrity.com/UOGuildHistogram.jpg&#34; width=&#34;829&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More recently, &lt;a href=&#34;http://www.nickyee.com/&#34;&gt;Nick Yee&lt;/a&gt; and other researchers at the &lt;a href=&#34;http://blogs.parc.com/playon/&#34;&gt;PlayOn Blog&lt;/a&gt; have been researching the behaviors of players in the popular &lt;a href=&#34;http://www.worldofwarcraft.com/&#34;&gt;World of Warcraft&lt;/a&gt; online game. At my request, they sampled guild sizes over a one-week period, and prepared &lt;a href=&#34;http://blogs.parc.com/playon/archives/2005/07/guild_size.html&#34;&gt;similar graphs&lt;/a&gt;&amp;#0160;&lt;em&gt;(now 404, use&amp;#0160;&lt;a href=&#34;https://web.archive.org/web/20060205115408/http://blogs.parc.com/playon/archives/2005/07/guild_size.html&#34;&gt;internet archive link&lt;/a&gt;)&lt;/em&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.parc.com/playon/archives/graphs/guildsize.html&#34; onclick=&#34;window.open(&amp;#39;http://blogs.parc.com/playon/archives/graphs/guildsize.html&amp;#39;,&amp;#39;popup&amp;#39;,&amp;#39;width=925,height=348,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39;); return false&#34;&gt;&lt;/a&gt; &lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c8294004970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsize&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294004970b image-full img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c8294004970b-800wi&#34; title=&#34;Guildsize&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c8294012970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsizehisto&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294012970b image-full img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c8294012970b-800wi&#34; title=&#34;Guildsizehisto&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overall, these statistics still support my original hypothesis in my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; post that mean group sizes will be smaller than 150 for non-survival oriented groups:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This all leads me to hypothesize that the optimal size for active group members for creative and technical groups -- as opposed to exclusively survival-oriented groups, such as villages -- hovers somewhere between 25-80, but is best around 45-50. Anything more than this and the group has to spend too much time &amp;quot;grooming&amp;quot; to keep group cohesion, rather then focusing on why the people want to spend the effort on that group in the first place -- say to deliver a software product, learn a technology, promote a meme, or have fun playing a game. Anything less than this and you risk losing critical mass because you don&amp;#39;t have requisite variety.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Interestingly, the diminishing returns for large groups in &lt;em&gt;World of Warcraft&lt;/em&gt; appear to cut off much sooner then they do in &lt;em&gt;Ultima Online&lt;/em&gt;, with the 95th percentile 54 and the 99th percentile being 110. When I asked about why the &amp;#39;knee&amp;#39; was much closer to 50 rather than &lt;em&gt;Ultima Online&amp;#39;s &lt;/em&gt;knee around 150, &lt;a href=&#34;http://www.legendmud.org/raph/&#34;&gt;Raph Koster&lt;/a&gt; (the game designer who gave me the original &lt;em&gt;Ultima Online&lt;/em&gt; data) answered that it might be because &lt;em&gt;Ultima Online&lt;/em&gt; used a &amp;quot;veteran member&amp;quot; method of counting. This could result in under reporting of new users and thus pushing up sizes of more established groups.&lt;/p&gt;
+&lt;p&gt;Also different was the fact that the &lt;em&gt;World of Warcraft&lt;/em&gt; guild sizes display a reverse power-law, with the smallest groups being much more common, rather then the bell curve of &lt;em&gt;Ultima Online&lt;/em&gt;. If one-person guilds are excluded, the average guild size was 16.8, the median was 9. This seems to correspond much closer to my thoughts on a smaller &amp;#39;nodal&amp;#39; threshold for group size that I&amp;#39;ve observed at around 15, which I describe in &lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html&#34;&gt;Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My guess is that there is something about &lt;em&gt;Worlds of Warcraft&lt;/em&gt; such that even participating in very small groups can be useful, whereas for &lt;em&gt;Ultima Online&lt;/em&gt; the utility is gained mainly by sharing the resources earned by larger groups. Thus &lt;em&gt;Worlds of Warcraft&lt;/em&gt; has groups that are &amp;quot;bands&amp;quot; as well as &amp;quot;tribes&amp;quot;, while with &lt;em&gt;Ultima Online&lt;/em&gt; groups are more llikely to be just &amp;quot;tribes&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I&amp;#39;ve not had time to play &lt;em&gt;Worlds of Warcraft&lt;/em&gt; yet, so I&amp;#39;m curious if those who have more experience would agree with my hypothesis.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Some other posts about the Dunbar Number and group size issues:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;2004-03: The Dunbar Number as a Limit to Group Sizes&lt;/a&gt; (also some really good &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#comments&#34;&gt;comments&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/02/dunbar_triage_t.html&#34;&gt;2005-02: Dunbar Triage: Too Many Connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html&#34;&gt;2005-03: Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/07/cheers_belongin.html&#34;&gt;2005-07: Cheers: Belongingness and Para-Social Relationships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/10/dunbar_group_co.html&#34;&gt;2005-10: Dunbar Number &amp;amp; Group Cohesion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I play WoW on a regular basis, and I have to admit that I was a bit surprised by the preponderance of small guilds, as the best high-end gear is available in instances that require raids involving large groups of high-level players (up to 40 people). In fact, this is an oft repeated complaint on the WoW forums: smaller guilds do not have access to this gear unless they can manage to form alliances with other small guilds.
+However, for low and mid-level players, going through instances only requires 5-player groups, and instances are usually the best source for great gear at every level, so for those players who haven&#39;t reached level 60 yet, there is no immediate advantage to joining a large guild.
+I would therefore be curious to see a correlation between player level and guild size.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://charlie.dgrc.crc.ca/~sylvie/Blog/neq1.html&#34;&gt;Sylvie Noel&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-04T06:30:11-07:00&#34;&gt;2005-08-04T06:30:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I play WoW and I&#39;ve never played UO but I&#39;ve heard from many MMORPG veterans that WoW is far too kind in terms of its penalities for death. In fact, there&#39;s little penalty for death besides 10% damage to your equipment (easily repairable) and walking your spirit back your corpse. In other games, things like gold, items, rank and experience can be lost as a result of character death.
+This could mean that there&#39;s simply less of a survival mentality amoungst players and groups are formed for rewards rather than for aversion of penalties.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://boxofjack.com/&#34;&gt;Jack&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-04T20:42:49-07:00&#34;&gt;2005-08-04T20:42:49-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I don&#39;t know about UO, but WoW features individualised gear. Certain gear, once &#34;owned,&#34; simply cannot be passed on to someone else. As such, in the earlier levels, it&#39;s possible that players not even bother to join a guild. It&#39;s entirely viable to solo up until the high level instances. There isn&#39;t as much dependence on grouping.
+My opinion, of course. YMMV.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.cthb.org&#34;&gt;Ian&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-05T11:04:35-07:00&#34;&gt;2005-08-05T11:04:35-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Some sent me an email, asking to be quoted anonymously:
+Some facts about WoW guild sizes:
+What is the point of a guild with one member? Since the guild name is displayed with your character, then it is like a last name for your character ( a further way to show how clever you are) even a guild of one can have it&#39;s own guild tabard
+Guild of less then 5: You can only have 2 professions so it is worthwhile to team up with others that you can trade goods with tailoring/enchanting mining/blacksmithing skinning/leather-working there is also mining/engineering but almost none of the stuff engineers make can be shared so for lower level character a group of 3 can be VERY helpful, also 3 is an easy to maintain group size and obviously the killing/questing goes much faster. This group falls apart for characters higher then 30 (for reason listed below)
+Guilds of around 5+: Most instance dungeons must be done with 5 players, each with a role (tank, healer, damage, off-tank, off-healer), a 3 player guild will need 2 pick-up players.  Pick-up players, as a rule, are used to playing solo and don&#39;t stay in a role as well, leading to lots of problems.
+Guilds of around 40+: High lvl dungeons need 40 players, so I think your results would look extremely different if you only showed lvl 50 or higher characters also blacksmithing splits into 2 specialties and leather-working splits into 3 specialties leading to larger group size.
+Another thing that affects group size is &#34;alts&#34;, if I create a killer guild, I am going to want all my characters to belong to it, even if I don&#39;t play them anymore.  So by looking a just lvl50 or higher characters I think you would strip out a lot of &#34;alts&#34;, and that would give a better &#34;real&#34; group size
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.LifeWithAlacrity.com&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-05T13:23:17-07:00&#34;&gt;2005-08-05T13:23:17-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+WoW has taken a lot of steps to enable players to find players to group with, such as dedicated chat channels and a system allowing players to join a queue and be automatically placed in groups.  Also WoW is incredibly solo-friendly - you never need to group to get to level 60, and even some endgame content is accessible such as the PvP Battlegrounds.  The points already mentioned about the simple tradeskill structure and absence of tradeable &#39;hand-me-downs&#39; are crucial as well, so I&#39;m not too surprised you see a smaller average guild size.
+If WoW incorporated a working formal alliance structure you might see it splinter even more.
+On a more general note, if a guild is being formed for 40-person raids, only the hardest of the hardcore will actually have 40 players - they&#39;d want sufficient numbers to be able to routinely get 40 players of appropriate level and class distribution together.
+My WoW guild has reached sizes where 40-person groups are sometimes possible spontaneously.  In my opinion we&#39;re skirting, and probably have crossed into, the &#39;too-large&#39; realm.  I find I&#39;m more likely to ignore guild chat, simply because there are so many people and things going on.  I also don&#39;t feel as close to guildmates - to the point of not recognizing some - which has never happened to me before.
+I blame the game.  WoW owes much of it&#39;s success to being more casual friendly, and has a tendency to attract and even promote less social playstyles.  I notice my behavior is changed from past MMO&#39;s when I was perfectly happy to just chat for awhile.  In WoW everything is go, less (or no) downtime between fights, more interaction needed during battles (I most often play a rogue, which plays more like a FPS than anything else), less travel time, it all adds up to a game which is very fun, yes, but definatley less social.
+P.S.  Anyone studied the effects of Teamspeak on optimal group/raid/guild sizes?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Staarkhand&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-15T10:54:30-07:00&#34;&gt;2005-08-15T10:54:30-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I play WoW and I played UO in the past but I&#39;ve heard from many MMORPG friends and veterans that WoW is far too kind in terms of its penalities for death. So I agree with Jack
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.1-online-dating.org&#34;&gt;John23&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-09-16T05:29:19-07:00&#34;&gt;2005-09-16T05:29:19-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Well said. I totally agree with you. The point you are making here does make sense. And all those who oppose your views actually lack the basic essence of the subject. You must keep doing the good work.
+Tedd
+http://www.yahoo.com
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://profile.typekey.com/itselect/&#34;&gt;john&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-09-24T04:48:33-07:00&#34;&gt;2005-09-24T04:48:33-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+World of Warcraft is actually quite intricate in its workings. The style of play often changes with the level of the player&#39;s character(s). Also, the ruleset a person is playing on influences how they group and interact with people.
+For instance, on the PvP servers, now that the majority of players have had high level characters for a while, practically no one does low-level instances. People are either busy in battlegrounds (BG&#39;s) or high level instances. So most people who aren&#39;t level 60 end up soloing or grouping with very few people. But a guild is ideal to have, as you can call people in for backup when enemy players are ganking you while levelling up. But this makes the size of these guilds rather arbitrary.
+When a person reaches level 60 on the PvP servers, they tend to join a guild that participates in PvP fairly often. It doesn&#39;t require many people to PvP, as some BG&#39;s only allow 10 people. And those BG&#39;s that allow more are difficult to get into, so people only enter in small groups anyway. Even for the small BG&#39;s it can be difficult to enter the server with a predetermined group, due to the way the queueing system works. So the desire for small groups on PvP servers is high (as it is easier to enter the BG&#39;s). This can make some guilds fairly small.
+It should be noted about the PvE ruleset that a lot of low-level players are able to participate in low-end 5-to-10-man dungeons (almost always done with 5), as the interest in fairly high amongst those levelling up alts and new players. So people new to this low-level content often join small guilds, or guilds with a vast number of low-level alts.
+Now, when people participate in high-level dungeons, things are a little different. Really, there is only one high-level dungeon that is for five people. And there are a few high-level dungeons that allow for 10 or 15 people, but neither they nor the 5-man dungeon offer the best loot. This causes only casual players to really concentrate on that content.
+Sometimes, a player will want to approach the game in a serious, hardcore manner, but because they can&#39;t handle large groups or are generally anti-social, they may end up staying in a smaller guild. I&#39;ve encountered three cases of this, all of which involved personal online gaming friends.
+In terms of hardcore, high-level content, you have three 40-man dungeons (however, I&#39;d classify one of them as a simple encounter), one 20-man dungeon and two outdoor, 40-man encounters that offer the best loot. With the addition of the 20-man raid dungeon, I expect average guild sizes will fall slightly. But I&#39;m sure there will be plenty of guilds concentrating on the 40-man PvE content.
+In order to do the complex 40-man raid dungeons, you need a guild that has at least 40 people that can play regularly, the right class setup, and backups to take the place of crucial missing pieces. However, I have often found that there are &#34;regulars&#34; that show up to almost every raid. This means the number of backups is usually relatively small.
+This explanation is not very eloquent, I realize, but I hope it brings some insight into things. It&#39;s rather a subjective opinion, as well. I don&#39;t have numbers to back this up--it&#39;s all based on personal experience with both rulesets.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Steve&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-09-27T00:11:25-07:00&#34;&gt;2005-09-27T00:11:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I saw your open question as to whether World of Warcraft had some characteristics that caused it to trend towards lower guild sizes.
+I&#39;ve been playing World of Warcraft since release. In short, your answer is &#34;yes&#34;.
+Compared to other MMOs, World of Warcraft is different in significant respects. The level grind to cap (60) is -much- less intense than in comparable games. I believe that the average time to 60 in terms of days played is about 15 days and it can be much less for a veteran player.
+WoW is very quest-oriented and a majority of quests are accomplishable solo. Quests usually fall into the typical categories of kill-quests, loot-quests, and Fedexes. If you want to level quickly, you do this by solo grinding and cherry-picking quests.
+On the path to 60, WoW offers several instanced raid dungeons. On the alliance side, there&#39;s Deadmines, Stockades, Shadowfang Keep, Uldaman, Scarlet Monastery, Zul&#39;Farrak, Maraudon, Sunken Temple. These instances have some quests in them, but, in addition, they&#39;re participant-capped. No more than 5 grouped players can be in the instance parts of these dungeons.
+This has the effect of allowing guilds with less than 5 regular people to successfully reach level cap as a social group.
+Once a player reaches 60, however, things start to change. 60th level players very quickly exhaust the number of quests that are available to them. This leaves only the high-end instances to do:
+Blackrock Depths
+Stratholme
+Scholomance
+Blackrock Spire
+Zul&#39;Gurub
+Molten Core
+The maximum number of players who can participate on these endgame instances increases dramatically. Blackrock Depths is limited to 5 participants. Strat and Scholo are 10, I think. Blackrock Spire is 15. Molten Core is 40. Zul&#39;Gurub is a new &#34;starter&#34; raid instance that requires 20.
+Small guilds who make it to 60 often find that they are &#39;stranded&#39;, without enough critical mass to perform the higher level raid instances but without the connections to join with other guilds to participate in them. This abrupt transition of the gameplay at the end from casual to hardcore is a common player complaint.
+Another factor that may lead to smaller guild sizes in the endgame compared to Ultima Online is that practically all raid content IS instanced. This means that to get the best loot, a guild needs to be able to muster only the raid-limit cap for that particular instance. In contrast, in Ultima Online, my understanding is that many of the end-game bosses are out &#39;in the open&#39; and on long spawns. This means that to achieve success, guilds in that game not only need to be able to muster enough players to defeat the raid encounter but must ALSO achieve enough mass in order to prevent other guilds from dominating the spawn. This becomes a sheer numbers game.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Chris Pearce&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-03T06:50:01-07:00&#34;&gt;2005-10-03T06:50:01-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+While I have not played WOW, in EVE-online another MMPOG, the occurence of corporations smaller than 3 is usually because the members are subverting the rules.
+samll corps exist so that people can play solo, outside of the normal social infrastructure. In dangerous areas the new player corps are normally Kill On Site, so experienced solo players create a corp for the small number of characters that individual person operates.
+small corps exist so that you can declare war and blackmail other corps without your main corp suffering any fallback.
+Or they serve as peoples murderous &#39;alt&#39; characters, again so that you can avoid any come back onto your main character or corp.
+small corps exist so that they can create clones without needing to build high standing of your main corp (a sort of game exploit).
+small corps exist to scam money out of people by creating fake lotteries etc
+small corps exist so that an alt character can run a business away from the normal agreed rules of the corp that the main character is part of.
+If similar things happen in other MMPOGs, it might be worth ignoring the small groups when drawing conclusions about social groups, they usually exist to either be explicitly anti-social or to subvert the game mechanics in some way.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Dave C&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-05-08T04:37:50-07:00&#34;&gt;2006-05-08T04:37:50-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+hi!can you help me with sth?? i want to make faster lvl can you help me plz:(:(
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;oday&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-11-09T06:13:06-07:00&#34;&gt;2006-11-09T06:13:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/08/dunbar_world_of.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cheers: Belongingness and Para-Social Relationships</title>
+      <link>https://lifewithalacrity.github.io/2005/07/cheers_belongin.html</link>
+      <pubDate>Wed, 27 Jul 2005 16:35:17 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/07/cheers_belongin.html</guid>
+      <description>&lt;p&gt;In yesterday&#39;s &lt;a href=&#34;http://www.npr.org/templates/rundowns/rundown.php?prgId=2&#34;&gt;All Things Considered&lt;/a&gt;, NPR commentator &lt;a href=&#34;http://jakehalpern.com/news.html&#34;&gt;Jake Halpern&lt;/a&gt; questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: &amp;quot;That&#39;s because you do.&amp;quot; This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; relationship limits and how they might relate to this concept.&lt;/p&gt;
+&lt;p&gt;In his &lt;a href=&#34;http://www.npr.org/templates/story/story.php?storyId=4772145&#34;&gt;commentary&lt;/a&gt;, Bostonian Jake Halpern considers two academic ideas, &amp;quot;belongingness theory&amp;quot; and &amp;quot;para-social relationships&amp;quot;, and how they affect the relationships we develop with television characters. He puts it all in the context of the 1990s TV show &lt;em&gt;Cheers&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/cheers.jpg&#34; title=&#34;Cheers&#34; alt=&#34;Cheers&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&amp;quot;My preoccupation with &lt;/em&gt;Cheers the Bar&lt;em&gt; puzzled me until I stumbled upon a rather obscure but quite fascinating academic notion called &lt;/em&gt;belongingness theory&lt;em&gt;.The argument goes something like this: in ancient times humans who stuck together increased the chances that they would survive and reproduce. So, when it came time to, say, hunt a large animal, or defend the cave against marauders, groups fared better then the guy on his own. In addition, adults in the group would have been more likely to find mates, reproduce, and raise their children. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The likely result of all this evolutionary selection is the creation of an internal mechanism that makes human beings crave social acceptance. The way I figured it, my irrational fondness for &lt;/em&gt;Cheers the Bar&lt;em&gt; was just my belongingness mechanism kicking. I just wanted to be part of the gang.&amp;quot;&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Belongingness theory seems to have a good scientific basis. In &lt;a href=&#34;http://www.psy.fsu.edu/faculty/baumeist.dp.html&#34;&gt;Baumeister&lt;/a&gt; &amp;amp; Leary&#39;s 1995 paper on Belongingness Theory, &lt;a href=&#34;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;amp;db=PubMed&amp;amp;a mp;list_uids=7777651&amp;amp;dopt=Abstract&#34;&gt;The Need to Belong&lt;/a&gt;, they stated that in order for belongingness to be considered a fundamental human motivation (as opposed to a want), it would have to be universal, affect a broad range of behaviors, lead to ill effects when thwarted, and elicit goal-oriented behavior designed to satisfy it. They found evidence for all of these. &lt;/p&gt;
+&lt;p&gt;Personally, I&#39;m quite comfortable with the idea that evolution has encouraged us to have a number of &amp;quot;social emotions&amp;quot;, and that these may include a strong desire to belong.&lt;/p&gt;
+&lt;p&gt;Halpern continues in his commentary with a discussion of &lt;em&gt;para-social relationships&lt;/em&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&amp;quot;And this brings to yet another academic theory, that of &lt;/em&gt;para-social relationships&lt;em&gt;. According to academics Horton and Wohl, who originated this concept, television gives viewers the &amp;quot;illusion of a face-to-face relationship with the performer&amp;quot;. Gradually over the course of many episodes, viewers come to feel that they &#39;&lt;/em&gt;know&lt;em&gt;&#39; a persona.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I totally buy it. After watching dozens of Cheers episodes, I felt as if I knew the personas in the show intimately. In fact there were times when I had seen more of the characters on Cheers then I seen of the people in my own family. So, yeah, I definitely had some para-social relationships going on.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The truth is, we all yearn for companionship. The only problem is, that for many of us, myself included, the notion of a well-functioning family and a welcoming group of friends and co-workers, is occasionally more easily found on television or in the movies, than in life itself.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;After all, in order to maintain &lt;/em&gt;&#39;real&#39;&lt;em&gt; relationships, you have to put in a tremendous amount of effort: making phone calls; returning emails; planning weekends together; etc. To maintain para-social relationships, however, all you have to do is flick on the TV.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If I&#39;m being honest with myself, I have to admit that at times, Norm, Cliff, Carla, and Sam have formed, well, a kind of para-family to which I yearn to belong. I suppose that hideously hackneyed as it sounds, it&#39;s just like the show&#39;s theme song goes: &lt;/em&gt;&amp;quot;Sometimes you want to go where everybody knows your name, and they&#39;re always glad you came.&amp;quot;&lt;em&gt; Only, they &lt;strong&gt;don&#39;t&lt;/strong&gt; know your name, and they really don&#39;t know you came.&amp;quot;&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt;
+&lt;p&gt;Jake&#39;s description of Horton &amp;amp; Wohl&#39;s theory on &lt;a href=&#34;http://www.aber.ac.uk/media/Modules/TF33120/horton_and_wohl_1956.html&#34;&gt;para-social relationships&lt;/a&gt; definitely parallels my thoughts in a previous post &lt;a href=&#34;http://www.lifewithalacrity.com/2005/02/dunbar_triage_t.html&#34;&gt;Dunbar Triage: Too Many Connections&lt;/a&gt; where I ask &lt;em&gt;&amp;quot;How do I maintain meaningful relationships with over 300 people?&amp;quot;&lt;/em&gt; As Jake said, it&#39;s difficult because you have to make the effort: the phone calls, the emails, meeting in person, and all the rest.&lt;/p&gt;
+&lt;p&gt;However, the concept of having real relationships with television characters might give us enlightenment into some other relationship issues. I personally find it difficult to reconcile the mismatch between my number of connections and my own limits due to the &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt;; intuitively I feel that limiting my television watching can help. This is because these TV relationships are what I call &amp;quot;junk relationships&amp;quot;. Sometimes when I talk about the concept of the &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt;, I said that we may have difficulty even reaching the Dunbar limit of 150 people because of the &amp;quot;junk relationships&amp;quot; we maintain.&lt;/p&gt;
+&lt;p&gt;Does every ongoing para-social relationship with an ongoing series character, such as Cliff on Cheers or Kate on Lost, lower the number of relationships we can have with real people? I believe that this may be so.&lt;/p&gt;
+&lt;p&gt;And, if so, the answer to maintaining more connections with real people may be simply to turn off the television and tune in the real world instead.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Some related posts about group behavior:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;2004-03: The Dunbar Number as a Limit to Group Sizes&lt;/a&gt; (also some really good &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#comments&#34;&gt;comments&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/02/dunbar_triage_t.html&#34;&gt;2005-02: Dunbar Triage: Too Many Connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html&#34;&gt;2005-03: Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/08/dunbar_world_of.html&#34;&gt;2005-08: Dunbar &amp;amp; World of Warcraft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/10/dunbar_group_co.html&#34;&gt;2005-10: Dunbar Number &amp;amp; Group Cohesion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;That does not bode well for those of us with &#34;relationships&#34; to multiple blogs we read regularly.....
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.BenYehudaPress.com&#34;&gt;Reb Yudel&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-04T19:23:31-07:00&#34;&gt;2005-08-04T19:23:31-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;How did the link to this blog get into the blog on server side browser. That blog does not even allow comments so that one can ask questions like that. That blog has given links to some 100 blogs that have nothing to do with server side browsing.
+I hope I&#39;d be in order if I enter a link to one such blog below.
+http://www.newerawisp.blogspot.com
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.livejournal.com/users/fakir005/335.html&#34;&gt;Satish Bhardwaj&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-09-15T13:05:53-07:00&#34;&gt;2005-09-15T13:05:53-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;What about characters in books?  Should I stop reading the Diskworld series?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.lib.umn.edu/denis036/thisweekinevolution/&#34;&gt;Ford&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2008-02-01T10:20:18-07:00&#34;&gt;2008-02-01T10:20:18-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/07/cheers_belongin.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Circus Contraption in SF during August</title>
+      <link>https://lifewithalacrity.github.io/2004/08/circus_contrapt.html</link>
+      <pubDate>Sat, 07 Aug 2004 14:03:41 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/08/circus_contrapt.html</guid>
+      <description>&lt;p&gt;In my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/seven_fingers_o.html&#34;&gt;review&lt;/a&gt; last January of the amazing &lt;a href=&#34;http://www.les7doigtsdelamain.com/menu.html&#34;&gt;Seven Fingers of the Hand Circus&lt;/a&gt; I talk about why I like circuses that are more raw and intimate, i.e. more &#34;human&#34; then the pretentious and distancing style of &lt;a href=&#34;http://www.cirquedusoleil.com/CirqueDuSoleil/en/default.htm&#34;&gt;Cirque du Soleil&lt;/a&gt;. However, I was disappointed that I saw the near-to-last show, so could not send my friends out to go see one of the great performances of the year.&lt;/p&gt;
+&lt;p&gt;Last night at the recommendation of &lt;a href=&#34;http://finnern.com/2004/07/31.html#a714&#34;&gt;Mark Finnern&lt;/a&gt; I went to see &lt;a href=&#34;http://www.circuscontraption.com/&#34;&gt;Circus Contraption&lt;/a&gt;, a marvelous burlesque-style musical comedy circus at the very intimate setting of the &lt;a href=&#34;http://www.cellspace.org/&#34;&gt;CELLspace&lt;/a&gt; warehouse in San Francisco&#39;s Mission district. I arrived early and was able to grab a couch up front to view from (ala the Red Vic or Parkway Speakeasy movie theatres). &lt;/p&gt;
+&lt;p&gt;This year&#39;s show is &#34;Grand American Traveling Dime Museum&#34; which is particularly appropriate theme given the re-opening this month of the &lt;a href=&#34;http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/08/01/PKGHI7U19K1.DTL&#34;&gt;Musee Mechanique&lt;/a&gt; on Fisherman&#39;s Wharf. The show plays at 9pm every Friday, Saturday, and Sunday in August except for August 15th and August 29th, and is only $15!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/images/circus_contraption_1.html&#34; onclick=&#34;window.open(&#39;http://www.lifewithalacrity.com/images/circus_contraption_1.html&#39;,&#39;popup&#39;,&#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img alt=&#34;circus_contraption_1&#34; src=&#34;http://www.lifewithalacrity.com/images/circus_contraption_1-thumb.jpg&#34; width=&#34;100&#34; height=&#34;75&#34; border=&#34;0&#34; style=&#34;float: left; margin: 0px 5px 5px 0px;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The troupe consisted of twelve players, who performed almost two dozen acts (with an intermission in the middle) that ranged from clownwork, trapeze, ropework, tumbling, acrobatics, juggling, skits, stilts, puppets, etc., all set to music. What makes Circus Contraption truly unique is the risque nature of the acts, and the raunchy exuberance of the music numbers. With the Pickles Family Circus and Seven Fingers there is often a subtext of eroticism and sensuality, but as these are family shows these themes are not overt. Circus Contraption is quite overt and fun -- definitely rated R stuff.&lt;/p&gt;
+&lt;p&gt;I&#39;d not put the athletic complexity of the circus acts up there with Seven Fingers or Cirque du Soleil, but that is also part of what makes them so fun. I particularly liked that most of the cast participated as musicians, clowns, and performers at different points of the show, giving a dynamism to the troupe -- you never knew who was going to do what. This also gave some authentic amateurism to the show (&#39;amateur&#39; meaning &#39;to love&#39;) that was delightful.&lt;/p&gt;
+&lt;p&gt;The musicianship of the troupe was superior (&lt;a href=&#34;http://www.circuscontraption.com/audio/come2circus.mp3&#34;&gt;sample&lt;/a&gt;), and was up there with the great acts. I picked up a CD when I left and listened to it on the way home and it was a quality treat. The band is also playing on Monday&#39;s this month at &#34;The Odeon&#34; bar at 3223 Mission (at Valencia).&lt;/p&gt;
+&lt;p&gt;So if you are in the SF Bay Area this month, go run and get yourself a &lt;a href=&#34;http://www.brownpapertickets.com/event/398&#34;&gt;ticket&lt;/a&gt;. I hope to go again on August 27th.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+What type of ropework was done? I am very interested in this.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;arthur binghampton&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-07T14:31:47-07:00&#34;&gt;2004-08-07T14:31:47-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Trackback via comment :-)
+http://finnern.com/2004/08/08.html
+Poetic Beauty with a couple of pictures.
+Loved it, Mark.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://finnern.com/2004/08/08.html&#34;&gt;Mark Finnern&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-09T15:18:22-07:00&#34;&gt;2004-08-09T15:18:22-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Sounds like fun.
+Hmmm, I wonder what they do with all the clueless parents who show up with their 7 year olds?
+Chris is always on the cutting edge of stuff, I expect the rest of the world will be checking this out in 2 months.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://begleyconsulting.com/mediatraininginsights/weblog.php&#34;&gt;steveb&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-27T13:29:23-07:00&#34;&gt;2004-08-27T13:29:23-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/08/circus_contrapt.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seven Fingers of the Hand</title>
+      <link>https://lifewithalacrity.github.io/2004/01/seven_fingers_o.html</link>
+      <pubDate>Fri, 02 Jan 2004 12:15:31 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/01/seven_fingers_o.html</guid>
+      <description>&lt;p&gt;Yesterday I watched the amazing &lt;a href=&#34;http://www.les7doigtsdelamain.com/menu.html&#34;&gt;Seven Fingers of the Hand Circus&lt;/a&gt;. There were parts of it that were so beautiful and meaningful that I cried.&lt;/p&gt;
+&lt;p&gt;I decided to go because 2 of the 7 members have a history with the Bay Area &#34;Pickle&#39;s Family Circus&#34; which was a fabulous intimate circus that disbanded about 10 years ago. I loved the Pickles Family Circus because it was &#34;human&#34; -- I found Cirque de Soleil to be too cold and almost unhuman. What do I mean by this? Cirque de Soleil&#39;s acts have a tendency to try to be high art -- to divorce themselves from real people and become unemotional pure images of beauty -- even the clown acts seem a bit &#39;alien&#39; to me. Every act of Pickle&#39;s, in contrast, was more human, with smiles and grunts and real emotions.&lt;/p&gt;
+&lt;p&gt;My favorite Pickle&#39;s act was a pixie-sized contortionist clown climbing all over a large barrel-chested MC. He would try to push her to the floor and she would keep climbing up on him such that he never succeeds. In spite of his size (and audience expectation) the big MC would do some acrobatic things that you didn&#39;t think a big guy like that could do. This would go on for 3-4 minutes, starting with frustration of the MC and the clowning pixie, and changing to their mutual appreciation of their differences -- the athleticism and largeness of the MC, and the flexibility and smallness of the pixie.&lt;/p&gt;
+&lt;p&gt;Seven Fingers of the Hand was everything that I hoped for, and more. When we arrived, we were led down the side of the theatre and all of a sudden I noticed that it looked like we were were all being led backstage. We curve around and all of a sudden see an entrance -- maybe 5 foot tall requiring most of us to duck. We duck through and to our surprise, we are have walked through a fridgerator, and we are on the stage!&lt;/p&gt;
+&lt;p&gt;One of the 7 players welcomes us, and another offers random people a glass of tea as we walk across the stage to our seats. The stage is set like a city loft, with a tv, some couches, a bed, a bathtub and shower, a kitchen, and of course the fridgerator we entered through. On the stage, and chatting to members of the audience are the 7 cast members, all wearing comfortable looking white shorts or athletic and white t-shirts.&lt;/p&gt;
+&lt;p&gt;The audience arrives over 30 minutes and the 7 players act as if we are guests of their loft, serving some of us tea, chatting, sweeping the floor, etc.  &lt;/p&gt;
+&lt;p&gt;Then as everyone is seated, a fabulous DJ (who besides being able to scratch can also sing and play various instruments) is introduced, and the show begins.&lt;/p&gt;
+&lt;p&gt;It is really difficult for me to describe the show itself -- there were over a dozen &#34;acts&#34; but they were all integrated together in such a way as to introduce the personalities and humanness of the players. I&#39;ll instead point you to these &lt;a href=&#34;http://www.circuscenter.org/7Fingers/Reviews.htm&#34;&gt;reviews&lt;/a&gt; which describe it better then I can.&lt;/p&gt;
+&lt;p&gt;However, I can talk about what moved me -- first off, there was of course the beauty and athleticism of the players. In particular, there was the double &#39;tissu&#39; act, a solo by the contortionist Isabele Chasse, hanging from two red silk curtain 20 feet above the stage, while the DJ played music on the theme of temptation.&lt;/p&gt;
+&lt;p&gt;Next there was the intimacy -- the Palace of Fine Arts is not a small theatre, but it felt intimate because of the way we arrived there and the way they treated us. Entering through the refrigerator door reminded me of the way you enter a Japanese tea house -- it requires to to humble yourself and bow to enter the new space.&lt;/p&gt;
+&lt;p&gt;Finally, there was a subtle theme, not at all obvious, of the &#39;teamness&#39; of the 7 players. This included playfullness, creative conflict, minor jealousy, admiration, copying -- all as if the players lived in this loft together, like a cast of Friends. We were witness this artificact of their collaboration as if we were part of the collaboration.&lt;/p&gt;
+&lt;p&gt;I&#39;m disappointed that they are leaving the Bay Area in a few days so that I can get all my friends to go, but I hope to see them the next time they return to the Bay Area and will drag all of my friends along.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;While looking for show tickets for a present I accidentally found out this troupe is actually from Montreal and doing shows home these days. Went to see the show yesterday. They&#39;re indeed excellent! I think two of the original creators are no longer in the show, though.
+A number of people came in late and entered together about 10min into the show through the fridge door as Patrick (the short, comic guy) was standing on top of it. Coming in on the stage is already disorienting, but seeing them being welcomed by cast members mid-act under the spotlights with everyone else sitting was delightful.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://seb.notlong.com&#34;&gt;Seb&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-29T05:42:28-07:00&#34;&gt;2005-12-29T05:42:28-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/seven_fingers_o.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Holiday Over</title>
+      <link>https://lifewithalacrity.github.io/2003/12/holiday_over.html</link>
+      <pubDate>Tue, 30 Dec 2003 10:00:02 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2003/12/holiday_over.html</guid>
+      <description>&lt;p&gt;I had a nice relaxing five day holiday -- good to get the creative juices flowing again.&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2003/12/holiday_over.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

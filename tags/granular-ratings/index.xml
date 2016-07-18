@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Granular Ratings on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/granular-ratings/</link>
+    <description>Recent content in Granular Ratings on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2005 17:58:34 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/granular-ratings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Collective Choice: Rating Systems</title>
+      <link>https://lifewithalacrity.github.io/2005/12/collective_choi.html</link>
+      <pubDate>Mon, 12 Dec 2005 17:58:34 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/12/collective_choi.html</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;font-size: 0.7em;&#34;&gt;by Christopher Allen &amp;amp; Shannon Appelcline&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;[This is the second of a series of articles on &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;collective choice&lt;/a&gt;, co-written by my collegue &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline&#34;&gt;Shannon Appelcline&lt;/a&gt;. It will be &lt;a href=&#34;http://www.skotos.net/articles/TTnT_179.phtml&#34;&gt;jointly posted&lt;/a&gt; in Shannon&#39;s &lt;a href=&#34;http://www.skotos.net/articles/TTnT.shtml&#34;&gt;Trials, Triumphs &amp;amp; Trivialities&lt;/a&gt; online games column at &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In our previous article we talked about the many systems available for &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;collective choice&lt;/a&gt;. There are &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html#selection_systems&#34;&gt;selection systems&lt;/a&gt;, which are primarily centered on voting and deliberation, &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html#opinion_systems&#34;&gt;opinion systems&lt;/a&gt;, which represent how voting could occur, and finally &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html#comparison_systems&#34;&gt;comparison systems&lt;/a&gt;, which rank or rate different people or things in a simple, comparative manner.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=373,height=239,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;128&#34; border=&#34;0&#34; alt=&#34;Stars_1&#34; title=&#34;Stars_1&#34; src=&#34;http://www.lifewithalacrity.com/images/stars_1.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;One purpose of our previous article was to create a dictionary of terms for talking about these related, but clearly different, systems. Another was to start offering analyses of these systems, many of which had not been well studied before their introduction onto the Internet. &lt;/p&gt;
+&lt;p&gt;However at best our previous article provided an overview of what should be further investigated in each system. This article provides more in-depth coverage of one of the systems we previously outlined: &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html#rating_systems&#34;&gt;rating systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As we wrote in our previous article, in comparison rating systems &lt;em&gt;&amp;quot;the value of individual items (most frequently goods) rise or fall based upon the largely subjective judgment of individual users.&amp;quot;&lt;/em&gt; Ratings systems should be clearly differentiated from the closely related &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html#ranking_systems&#34;&gt;ranking systems&lt;/a&gt;. Ratings systems have a more subjective component, while ranking systems are largely objective. Amazon, Netflix, BoardGameGeek, and even the Stock Market were offered up as examples of ratings systems. Another example of a comparison rating system, and one of the earliest that appeared on the modern Internet, is eBay. The techniques they use are now beginning to show their age.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;eBay: A Failed Rating Experiment&lt;/h3&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; alt=&#34;Ebaysales&#34; title=&#34;Ebaysales&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ebaysales.jpg&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;Most rating systems center around rating content, often user-contributed content, and they frequently help apply community values and acclaim to that content. However, the idea of ratings can go far beyond that narrow niche (though that will doubtless be its greatest use as the Internet continues to expand). Early Internet site, &lt;a href=&#34;http://www.ebay.com&#34;&gt;eBay&lt;/a&gt;, was one of the first to widely use user-submitted ratings, and it used them for a different manner: to determine the good traders on their auction site.&lt;/p&gt;
+&lt;p&gt;Unfortunately, as one of the first in this field, eBay made many mistakes which now leave their ratings system only slightly helpful. However, its failures can also provide us with insights in creating new rating systems on the Internet.&lt;/p&gt;
+&lt;p&gt;eBay allows you to leave positive, negative, or (more recently) neutral feedback for each transaction you conduct in their society. These are aggregated into two numbers. &amp;quot;Feedback Score&amp;quot; is calculated as unique positive feedback received minus unique negative feedback received, and results in a whole number like &amp;quot;32&amp;quot; or &amp;quot;10,302&amp;quot;. &amp;quot;Positive Feedback&amp;quot; is calculated as positive feedback received divided by all feedback received, and results in a percentage like &amp;quot;100%&amp;quot; or &amp;quot;99.8%&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Unfortunately, for reasons discussed below, almost all feedback is positive, and thus the Feedback Score acts almost entirely as a track record of how many trades someone has made. The Feedback Score could be largely replaced by that single number. You can look at a score of &amp;quot;27&amp;quot;, and say, &amp;quot;That&#39;s an amateur trader, or someone just getting started&amp;quot;, at a score of &amp;quot;3&amp;quot;, and say, &amp;quot;That person may or may not know what they&#39;re doing&amp;quot;, at a score of &amp;quot;10,302&amp;quot;, and say, &amp;quot;That person has done a lot of trades.&amp;quot; But you still don&#39;t know how good the trader is.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ebayprofile.jpg&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ebayprofile.jpg&#34; title=&#34;Ebayprofile&#34; alt=&#34;Ebayprofile&#34; class=&#34;image-full&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;Theoretically, the Positive Feedback percentage should give a more meaningful number, but people so infrequently give bad ratings that, even when they do appear, they look like noise. Does a percentage of &amp;quot;99.8%&amp;quot; on a user with a score of &amp;quot;1,762&amp;quot; mean that the seller has a genuine problem or not? Do those 3 unhappy customers really represent another 30 who were unwilling to actually click the negative feedback? And, did those people have slightly bad experience or really bad experiences? It&#39;s pretty hard to say.&lt;/p&gt;
+&lt;p&gt;Overall, eBay has a few major problems with their rating system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;It&#39;s &lt;strong&gt;non-granular&lt;/strong&gt;, with only two options (positive/negative), or more recently three (positive/negative/neutral).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It&#39;s &lt;strong&gt;non-distinct&lt;/strong&gt;, with no useful guidelines on what behaviors should result in each rating.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It&#39;s &lt;strong&gt;non-statistical&lt;/strong&gt;, and thus ends up showing only a gross number of sales, not a real subjective measure.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It&#39;s &lt;strong&gt;bilateral&lt;/strong&gt;, with buyers and sellers rating each other simultaneously, and thus people are afraid to give bad ratings lest they get them in return.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It&#39;s &lt;strong&gt;meaningless&lt;/strong&gt;, because there are no good tools to control who bids on an auction based on Feedback numbers. (Technically it may be legitimate to ban low feedback bidders from an auction, then cancel their bids if they enter the auction, but this is neither obvious, automatic, nor simple.)
+&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;We&#39;re going to address each of these issues in turn, to offer insight into creating new comparison rating systems. The first three topics--granularity, distinction, and a statistical basis--are the most important elements of a good comparison rating system. Bilateral &amp;amp; meaningfulness issues will only be relevant on certain sites.&lt;/p&gt;
+&lt;p&gt;(As a final caveat: in some ways eBay falls closer in ultimate result to a &lt;em&gt;reputation system&lt;/em&gt;, a topic which we&#39;ll be covering more in a few articles down the road, but its lessons learned are still entirely accurate for rating systems of all sorts.)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Granular Ratings&lt;/h3&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; alt=&#34;Smiley&#34; title=&#34;Smiley&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/smiley.png&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;
+In general, &lt;em&gt;people want to be nice&lt;/em&gt;. There are exceptions to that rule, perhaps even great numbers of them, but the average, well-adjusted person would prefer to make other people happy, not sad.&lt;/p&gt;
+&lt;p&gt;This has a notable effect on any comparison rating system, because it means that people are less likely to use the bottom half of any rating scale. If you did a statistical run on eBay, you&#39;d certainly find that more than 99 out of every 100 ratings are positive. This is largely influenced by concerns of bilateral revenge, as discussed below, and the fact that eBay suggests other means of dispute resolution when you try and leave negative feedback. However, &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;, a roleplaying site which reviews games, comics, books, movies, and more shows a similar trend despite the lack of bilaterality.&lt;/p&gt;
+&lt;p&gt;RPGnet uses two 5-points scales for reviews, resulting in a total rating of 2-10. Of all the ratings at RPGnet, 6,983 reviews have a total that&#39;s above average, a total rating of 6 or more, and 795 have a total that&#39;s below average, a total rating of 5 or less. Perhaps there are more people who sit down to write a review because they really like a game than those who do so because they really hated it, but the result of ~90% of reviews being above average is still stunning.&lt;/p&gt;
+&lt;p&gt;The following table shows all the ratings for each of the two categories that RPGnet uses, &amp;quot;Style&amp;quot; and &amp;quot;Substance&amp;quot;:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rpg.net/reviews/archive/9/9971.phtml&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Rpgnetsettlersreview&#34; title=&#34;Rpgnetsettlersreview&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/rpgnetsettlersreview.png&#34; style=&#34;margin: 0px 0px 15px 5px; float: right;&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;table cellpadding=&#34;5&#34;&gt;
+&lt;thead&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;&lt;strong&gt;Rating&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Style&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Substance&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;%&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;73&lt;/td&gt;
+&lt;td&gt;210&lt;/td&gt;
+&lt;td&gt;1.8%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;687&lt;/td&gt;
+&lt;td&gt;590&lt;/td&gt;
+&lt;td&gt;8.2%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;2127&lt;/td&gt;
+&lt;td&gt;1583&lt;/td&gt;
+&lt;td&gt;23.8%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;3337&lt;/td&gt;
+&lt;td&gt;3242&lt;/td&gt;
+&lt;td&gt;42.2%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr align=&#34;right&#34;&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1554&lt;/td&gt;
+&lt;td&gt;2153&lt;/td&gt;
+&lt;td&gt;23.8%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;This evidence confirms what we&#39;d already suspected. Only 10% of raters use the bottom two ratings in a 5-point scale, and only 2% use the bottom rating. The median of the 5-point scale is actually the fourth point, with a neat bell curve arranged around it.&lt;/p&gt;
+&lt;p&gt;Because users are innately unwilling to give bad ratings, as evidenced here, useful comparison ratings truly come about only through fractional differences between good ratings. In this case, the difference between &amp;quot;3&amp;quot;, &amp;quot;4&amp;quot;, and &amp;quot;5&amp;quot; is meaningful, and becomes more meaningful as more ratings are entered. Eventually you can look at a ranked list of ratings and see that &amp;quot;4.2&amp;quot; is a good rating while &amp;quot;3.5&amp;quot; is not.&lt;/p&gt;
+&lt;p&gt;In order to do this, however, you need enough levels of good ratings to be able to distinguish between them. eBay, only offering one positive rating, does not provide enough differentiation. RPGnet, with its three positive ratings, might. However, sites that offer a 10-point scale are the ones that really seem to be able to produce meaningful statistics. On those sites we can expect that 90% of users will choose between six different numbers, from &amp;quot;5&amp;quot; to &amp;quot;10&amp;quot;, and as the number of ratings builds up, this will produce enough differentiation to be meaningful. If you have already adopted a 5-point scale, consider allowing users to select the half-points, giving users a greater ability to differentiate their ratings.&lt;br /&gt; &lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Distinct Ratings&lt;/h3&gt;
+&lt;p&gt;No two users are ever going to rate the same; different rating numbers will mean different things to each person. This can introduce minor discrepencies into ratings, if a single individual rates particularly low or high. However, because most ratings are eventually used for comparisons, if that low- or high-rater rates many different things, the ratings equalize. &amp;quot;Item A&amp;quot; is rated low by this person, but so is &amp;quot;Item B&amp;quot;, and so they end up in the correct positions &lt;em&gt;in relation to each other&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A bigger problem occurs when an individual is inconsistent in his ratings over time. If an individual rates everything low for a while, then rates everything high, then he has a greater chance of biasing the overall rating pool. Worse, his individual ratings aren&#39;t meaningful, because you can&#39;t look at two items, see that one is a &amp;quot;6&amp;quot; and another is an &amp;quot;8&amp;quot;, and truly believe that he likes the &amp;quot;8&amp;quot; a fair amount more than the &amp;quot;6&amp;quot;. This reduces the usability of an individual recommendation system or a friends system where one user might look at what other users thought about products, because their unaggregated numbers are not accurate.&lt;/p&gt;
+&lt;p&gt;You thus want to help individuals to stay consistent, and the best way to do that is to make the criteria for your ratings distinct. &lt;a href=&#34;http://www.boardgamegeek.com&#34;&gt;BoardGameGeek&lt;/a&gt;, a board game web site that supports a 10-point rating system for games, does a good job of offering distinction in its ratings. &lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&#34;http://www.boardgamegeek.com/game/13&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Settlers_rating_1&#34; title=&#34;Settlers_rating_1&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/settlers_rating_1.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;10&lt;/strong&gt; - Outstanding. Always want to play and expect this will never change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;9 &lt;/strong&gt;- Excellent game. Always want to play it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;8 &lt;/strong&gt;- Very good game. I like to play. Probably I&#39;ll suggest it and will never turn down a game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7 &lt;/strong&gt;- Good game, usually willing to play.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6 &lt;/strong&gt;- Ok game, some fun or challenge at least, will play sporadically if in the right mood.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5 &lt;/strong&gt;- Average game, slightly boring, take it or leave it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4 &lt;/strong&gt;- Not so good, it doesn&#39;t get me but could be talked into it on occasion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3 &lt;/strong&gt;- Likely won&#39;t play this again although could be convinced. Bad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2 &lt;/strong&gt;- Extremely annoying game, won&#39;t play this ever again.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1 -&lt;/strong&gt; Defies description of a game. You won&#39;t catch me dead playing this. Clearly broken.&lt;/li&gt;&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you offer a distinct rating listing like this, some users will still come up with their own rating ideas, but if they do, they&#39;re more likely to remember what each number means to them. For everyone else, a very clear, s rating system is the most likely to produce meaningful and consistent results. As long as users aren&#39;t puzzled by the distinction, they&#39;ll be consistent in picking the same numbers for the same rating every time.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Statistical Ratings&lt;/h3&gt;
+&lt;p&gt;The last big topic that you have to think about in creating most comparison rating systems is whether they&#39;re statistically sound. &lt;/p&gt;
+&lt;p&gt;The best way to make your ratings statistically sound is with volume. If you can manage thousands or tens of thousands of ratings for each item, any anomolies are going to become noise. However, the fewer ratings you have, the more likely it is that your ratings are inaccurate in relationship to your database of ratings as a whole. (And thus one of the failures for eBay is that it tries to claim meaningfulness for users with very few ratings, where there&#39;s clearly no statistical basis.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Thomas_Bayes&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Bayes&#34; title=&#34;Bayes&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/bayes.jpeg&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
+Ideally what you want to do is give items with fewer ratings among your collection less weight, and those with more ratings higher weight. One simple way to do this is to apply a &lt;em&gt;bayesian average&lt;/em&gt;. Variants of this are used by the aforementioned BoardGameGeek and by &lt;a href=&#34;http://www.imdb.com&#34;&gt;IMDB&lt;/a&gt;. RPGnet is using it for some unreleased software as well.&lt;/p&gt;
+&lt;p&gt;The idea behind a bayesian average is that you normalize ratings by pushing them toward the average rating for your site, and you do that more for items with fewer ratings than those with more ratings. The basic formula looks like this:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;code&gt; b(r) = [ W(a) * a + W(r) * r ] / (W(a) + W(r)]&lt;/code&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;r&lt;/code&gt; = average rating for an item&lt;br /&gt;&lt;code&gt;W(r)&lt;/code&gt; = weight of that rating, which is the number of ratings&lt;br /&gt;&lt;code&gt; a&lt;/code&gt; = average rating for your collection&lt;br /&gt; &lt;code&gt;W(a)&lt;/code&gt; = weight of that average, which is an arbitrary number, but should be higher if you generally expect to have more ratings for your items; 100 is used here, for a database which expects many ratings per item&lt;br /&gt;&lt;code&gt;b(r)&lt;/code&gt; = new bayesian rating &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Say three &amp;quot;shill&amp;quot; users had come onto your site and rated a brand new indie film a &amp;quot;10&amp;quot; because the producer asked them to. However, you use a bayesian average with a weight of 100, and thus 3 ratings won&#39;t move the movie very far from the average site rating of 6.50:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;code&gt;b(r) = [100 * 6.50 + 3 * 10] / (100 + 3)&lt;br /&gt; b(r) = 680 / 103&lt;br /&gt; b(r) = 6.60&lt;/code&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;WowWebDesigns uses a similar model and even offers a &lt;a href=&#34;http://www.wowwebdesigns.com/formula.php&#34;&gt;good explanation of their methods&lt;/a&gt; on their web site.&lt;a href=&#34;http://www.wowwebdesigns.com/designs/id_242/ratings/&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/wowwebdesignsrating.png&#34; title=&#34;Wowwebdesignsrating&#34; alt=&#34;Wowwebdesignsrating&#34; class=&#34;image-full&#34; halign=&#34;middle&#34; style=&#34;margin: 5px;&#34; /&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;With everything that&#39;s been described thus far, including granularity and distinction, a bayesian average (or some other similiar method) will probably be enough to give your ratings a good, sound statistical basis. However, sites with low volume of ratings may still be concerned with &amp;quot;shills&amp;quot; or &amp;quot;crappers&amp;quot; who come in to your site just to put &amp;quot;10&amp;quot;s on their favorite items on &amp;quot;1&amp;quot;s on their least favorite. RPGnet&#39;s reviews are an example of a site that could experience this issue, because only a few people are going to ever write reviews for an individual item, and this small number of reviews could compromise the nature of any comparisons generated by the ratings sytems.&lt;/p&gt;
+&lt;p&gt;In short summary the following additional methods may help with this issue:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Rate the Raters:&lt;/strong&gt; Reviews are low volume, but presumably readers of those reviews are high volume, and you can take advantage of that to then have your readers rate the reviews. &lt;a href=&#34;http://www.amazon.com&#34;&gt;Amazon&lt;/a&gt; and &lt;a href=&#34;http://www.netflix.com&#34;&gt;Netflix&lt;/a&gt; are two examples of sites which use this method by asking &amp;quot;how many readers found this helpful&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Altruistic Punishment:&lt;/strong&gt; An alternative method for rating raters is to use &lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html#altruistic_punishment&#34;&gt;altruistic punishment&lt;/a&gt;. Herein users can punish someone who does contribute to the community, but at a cost to themselves. So, a reader could flag a poor rating or a poor review at some minor cost to their own rating. Though this method may seems somewhat paradoxical, &lt;a href=&#34;http://en.wikipedia.org/wiki/Game_theory&#34;&gt;game theory&lt;/a&gt;&amp;nbsp; suggests that it is a generally effective technique for improving the commons.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Adjust Ratings Based on Ratings:&lt;/strong&gt; Ratings can be self-adjusted based upon the rater&#39;s own behavior. The simplest method here is to map a rater&#39;s average rating to the average rating for a site. For example, if the average rating of a site is 6.50 and a shill&#39;s average rating is 10.0, then those 10s should be treated as 6.50s. This has the possibility for some intensive calculations, however, and may lead to additional bias in your rating pool if shills figure out the methods you use to adjust ratings.
+&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Allow Editorial Fiat:&lt;/strong&gt; Another method is to allow editorial fiat, where editors are expected to come in and remove bad ratings (or proactively not release them). This clearly results in time issues, but they may not be major since only sites with small numbers of ratings/item will have to do this type of adjusting. Further, automated systems could flag &amp;quot;suspicious&amp;quot; rating patterns which are outside the norms for average, speed of rating, etc. (RPGnet supports editorial fiat by requiring editorial release of all reviews.)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;The idea of adjusting ratings based on ratings bears a bit of additional discussion because it&#39;s somewhat similar to another well-knowing rating system: slashdot. Herein you have both ratings and meta-ratings. People can rate threads and articles, then other people can agree or disagree with those ratings, which in turn makes it more or less likely that the original rater will be allowed to rate in the future (depending on if people agree or disagree with his ratings). Under a more general classification, this is probably a &lt;em&gt;meta-rating system based on a reputation system&lt;/em&gt;, so it&#39;s something we&#39;ll look at further a couple of articles down the road.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Other Issues: Bilateralism &amp;amp; Usefulness&lt;/h3&gt;
+&lt;p&gt;90% of the rating issues that sites will face are covered by the above. However eBay in particular raised two other issues -- bilateralism and usefulness -- that aren&#39;t as generally relevant but do deserve some consideration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ebayfeedback.jpg&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/ebayfeedback.jpg&#34; title=&#34;Ebayfeedback&#34; alt=&#34;Ebayfeedback&#34; class=&#34;image-full&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
+Bilateralism:&lt;/strong&gt; One of the reasons that eBay&#39;s ratings fall apart is that they&#39;re bilateral. Buyers and sellers rate each other simultaneously and thus there&#39;s the fear of revenge if you rate someone badly. It&#39;s a sufficient issue that eBay has a &lt;a href=&#34;http://pages.ebay.com/help/feedback/questions/retaliatory-feedback.html&#34;&gt;FAQ on the topic&lt;/a&gt;, though they don&#39;t offer any good answers. &lt;/p&gt;
+&lt;p&gt;The following solution would address some issues of bilateral revenge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Put a time limit on bilateral ratings&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Release bilateral ratings simultaneously at the end of the time limit&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Don&#39;t allow additional ratings after the time period&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This would work well on an eBay, where you&#39;re unlikely to conclude an additional deal with someone you rated badly, and thus there&#39;s no possibility ever for rating revenge. On a game site, however, where people are arbitrarily put into games with each other, and thus you could end up in a game with someone you rated poorly, there might be room for later revenge, down the road. This would have to be addressed to truly feel comfortable with bilateral ratings. &lt;/p&gt;
+&lt;p&gt;Additional investigation might reveal more variations of this method, or offer good answers for alternatives, like &lt;em&gt;anonymous ratings&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In addition, good privacy restrictions are really needed to make bilateral ratings work, as well as Terms of Service that protect users from lawsuits for ratings. There have already been cases of physical threats based upon eBay ratings. eBay has also produced cases where people threatened slander or libel lawsuits for bad ratings, and this even further chills the possibility of true ratings appearing on the eBay server.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Usefulness:&lt;/strong&gt; Finally, you want to make sure your ratings are useful at your sites. Rankings are a good way to achieve this. You can see the &amp;quot;best games ever&amp;quot; ranked, or you can see the most interesting user content rise to the top of a long listing, and the least interesting sink to the bottom.&lt;/p&gt;
+&lt;p&gt;eBay offers a counter example of frustration with the usefulness of ratings. As already mentioned, you can theoretically ban &amp;quot;bad&amp;quot; users from bidding on your items, and then cancel bids from these users if they appear. However, there are multiple issues with this approach. First, how do you define &amp;quot;bad&amp;quot; users on eBay? Insufficient feedback? Too much negative feedback? Too high a percentage of negative feedback? Second, there is no automated method for doing this, so you must remain ever vigilant on your auctions to make sure that &amp;quot;bad&amp;quot; users aren&#39;t involved. Third, there&#39;s no way to keep a bad bidder from returning after you&#39;ve cancelled his bid. Fourth, these bad bids and cancellations have the possibility of corrupting your auction, as you could lose other bidders who came in, saw the higher bid when the bad bidder was involved, then left before the bid was reduced by his removal. Finally, greed is a powerful motivator on eBay, which might lead to the retention of bad users.&lt;/p&gt;
+&lt;p&gt;You also need to be careful with your user interface for ratings. Here is an example of a poor UI:&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/uselessratingui.jpg&#34; title=&#34;Uselessratingui&#34; alt=&#34;Uselessratingui&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Comparison ratings are going to be an increasingly important force as the Internet continues to mature. To produce meaningful comparison ratings for your site, you need to concentrate on four important factors: granularity, specifity, sound statistics, and usefulness. And, if you offer bilateral ratings, make sure you understand the subtleties of that as well.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_192.phtml&#34;&gt;#192: Managing User Creativity, Part One&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;#193: Managing User Creativity, Part Two&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;#198: Collective Choice: More Thoughts About Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/blockquote&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I&#39;ve ran into my fair share of voting systems, but by far the worst I&#39;ve ever seen is the one used at www.animenfo.com, a database of anime products with user ratings. When giving a product a rating, a user is required to also write a constructive review on the product. However, the reviews are moderated and, often, removed from the database as &#34;unconstructive&#34; by the limited number of moderators. The problem with this approach is that the moderators are inevitably biased. A submitted, bad rating on a product, if reviewed by a moderator who personally likes the show being rated, is often removed from the database with the claim that the review was not constructive. Perhaps not entirely related, but an example of ratings-gone-awry, all the same.
+-Kalle.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.livejournal.com/userinfo.bml?user=kallewooof&#34;&gt;Kalle&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-13T10:42:58-07:00&#34;&gt;2005-12-13T10:42:58-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;It&#39;s rarely used, but asking people to rank from -5 to +5 can be better than ranking from 0 to 10.   You make it very clear that &#34;0&#34; means average/neutral.   You won&#39;t entirely eliminate the positive bias in ratings but you can reduce it.  And you bring everybody closer to the same mean.
+I&#39;ve concluded over time that in fact the response to a negative feedback on eBay should be disabled, as it contains no information.   Who, after all, is going to give a positive feedback to somebody after they have slapped a negative on you?  The likely choices there are no-feedback or neutral from a charitable person and of course a revenge negative.
+So they could make it simpler.  If the first person gives a negative, the transaction is considered sour.  In your stats it would list the number of first-negatives you left for others.  (The number of negs you leave for others is already visible but harder to find.)  Ideally split buyer/seller.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ideas.4brad.com&#34;&gt;Brad Templeton&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-13T13:11:31-07:00&#34;&gt;2005-12-13T13:11:31-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;An interesting point missing from this good summary:
+Many huge ratings sites see a clear bimodal distribution of scores when rating products(movies, cds, books, etc.)  with a simple scoring scheme, such as a single 5-star scale: The nodes are at 1 and 5 stars, with the love-or-hate scores making up more than 80% of all scores.
+Clearly, some of that is a function of the intrinsic cost vs. incentive structures of completing ratings and reviews. When there is a clear direct benifit to the user (such as Netflix, Slashdot, or Yahoo! Music&#39;s Launchcast) ratings tend to distribute a bit more evenly (but just a bit.)
+My point is that the actual end-user application of the rating has a large effect on the nature of the scores that will be created.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.fudco.com/habitat&#34;&gt;F. Randall Farmer&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-14T16:13:25-07:00&#34;&gt;2005-12-14T16:13:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I find when people give a bad rating on anything from eBay to those hotel and restaurant review sites its usually as a result of an extremely negative personal experience therefore the rating tends to be exagerated and totally not objective.
+A blind system like the porposed solution to eBay bilateralism issue is probably best.
+I&#39;ve been a mystery shopper for a handful of restaurants and the system works quite well. In this system the purpose is to behave exactly like a regular consumer. You sit down, ask about the specials, take mental note of everything from the bathroom sink to the temperature of the food (and a hundred other details), but you don&#39;t behave in any way that would alter the staff you are a mystery shopper (for example writing things down is strickly prohibited).
+Upon returning home you complete a lengthy questionnare about all the details you were supposed to notice. In this system the rewards is for a thorough assesment, regardless of its positive or negative slant. The more detail you provide the better assignments you get next time around. Even if you totally slam a place, but you provide substantial detail, you will be &#34;promoted&#34; to a &#34;bar visit&#34; or something much more rewarding than the typical lunch visit. So, I also agree with this articles suggestion to rate the raters, akin to what Amazon does but without the bias towards volume.
+I would also addd that there is no middle ground on such ratings. Whether the choices range from Strongly Agree to Strongly Dissagree, or from &#34;shortest wait&#34; to &#34;longest wait&#34; there is no &#39;neutral&#39; choice, nothing is &#34;just right&#34; as in the story about the three bears and the porridge. Even with numerical choices they are always even, not odd, so there is not chance of ranking in the middle. I like that. I think it pushes you to be more realistic. Having a middle ground leaves the undecided the opportunity to not make a decision. A &#34;middle&#34; rating is of no use to anyone.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.jobmachine.net/shally/&#34;&gt;Shally&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-21T16:23:26-07:00&#34;&gt;2005-12-21T16:23:26-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Researcher Paul Resnick has been looking at eBay, too. His blog is at http://www.livejournal.com/users/presnick/ and has posts like eBay Live Trip Report:
+http://www.livejournal.com/users/presnick/8121.html
+There are a few relevant articles as well, at http://www.si.umich.edu/~presnick/#publications
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://seb.notlong.com&#34;&gt;Seb&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-29T05:53:29-07:00&#34;&gt;2005-12-29T05:53:29-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Good work there, and very thorough. Can we distinguish the social/transactional from the object/informational aspects of a rating situation? I&#39;m just wondering aloud. On the one hand is the fact that publishing one&#39;s rating of a transaction will reflect on the transaction partner, on oneself, and so is social. On the other hand is the fact one can indeed rate an experience with some objectivity, assuming that the soft stuff has been bracketed out. I dont see how we can bracket out the social though, at least in a way that users will be able to participate in.
+There&#39;s a thing about sincerity as a type of interaction: it&#39;s an attribute of expression that cannot be stated explicitly (say that you&#39;re being sincere and you throw your sincerity into quesion immediately). Ratings may fall into that kind of category of linguistic and metalinguistic acts..
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.gravity7.com/blog/media/&#34;&gt;adrian Chan&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-01-04T09:47:53-07:00&#34;&gt;2006-01-04T09:47:53-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Wow, thorough and cogent.
+Of all of the points, one missed opportunity occured to me while reading, and that is on the EBay statistical validity criticism. The phrase &#39;thus one of the failures for eBay is that it tries to claim meaningfulness for users with very few ratings, where there&#39;s clearly no statistical basis&#39; struck me as off.
+Human transactions are not mechanical actions - they involve situations that often matter. Hence a particular negative may really be cause for serious concern, even if there are not yet many ratings. Also, beginners are not inherantly less important than experienced traders. So though difficult, credit, or blame, is rightly awarded even on the basis of just a few transactions. Exactly how is a subject of further refinement.
+I have read some of the EBay dissection papers a while back. This post is far more comprehensive, that is wide ranging, and yet not missing clarity, accuracy or nuance. Master work.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Brian Hamlin&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-05-30T00:43:49-07:00&#34;&gt;2006-05-30T00:43:49-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I have an interesting brainstorm for you about the netflix challenge:
+http://www.thinksketchdesign.com/2008/05/03/design/coding/does-the-netflix-challenge-have-it-backwards
+cheers -
+thinksketch
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://thinksketchdesign.com&#34;&gt;thinksketch&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2009-03-03T18:56:13-07:00&#34;&gt;2009-03-03T18:56:13-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/12/collective_choi.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

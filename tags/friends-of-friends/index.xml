@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends Of Friends on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/friends-of-friends/</link>
+    <description>Recent content in Friends Of Friends on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2004 13:21:13 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/friends-of-friends/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Followup on Orkut</title>
+      <link>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</link>
+      <pubDate>Sun, 01 Feb 2004 13:21:13 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</guid>
+      <description>&lt;p&gt;I&#39;ve read of emails, Orkut messages, and blog postings since my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;post yesterday&lt;/a&gt;, so I thought I would share some with you.&lt;/p&gt;
+&lt;p&gt;There have been a number of good posts, as well as user comments at Danah Boyd&#39;s blog &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Apophenia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Danah Boyd writes &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/01/correcting_marc_canters_perception_of_my_views.html#004011&#34;&gt;Correcting Marc Canter&#39;s Perception of My Views&lt;/a&gt;&lt;br /&gt;
+&lt;blockquote&gt;Marc - i don&#39;t believe that users should take these relationships more seriously; i believe that YOU should. Users will do whatever they damn well please, and i think that we should learn from them. But out of respect to the creators of these systems, many of whom are our friends, i truly believe that we should respect their goals and not engage in behavior that disrespects their intentions. Furthermore, i believe that we should never be the exceptions on any given service, the ones who push the boundaries. We are not average users. We should sit back and watch what average users do, not try to top them. By engaging in disrespectful behavior, we make it much harder for our friends and colleagues to execute their business plans as they&#39;re busy policing us.&lt;/blockquote&gt;When I first read this, I thought of something else. When I saw Danah&#39;s &#34;YOU&#34;, I was thinking of myself and Marc Canter as developers. I&#39;m not currently involved in developing Social Software, but I come from the developer mind set. &#34;WE&#34; developers &#34;should take these relationships more seriously&#34;. That means that although our users will game, will play, and stretch the system, we should design it as seriously as possible those who are serious, concerned, and value their relationships.  &#34;Calling someone a friend&#34; &lt;b&gt;should&lt;/b&gt; mean something -- something important.&lt;/p&gt;
+&lt;p&gt;Danah Boyd asks in &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/31/banned_from_orkut.html&#34;&gt;Banned from Orkut&lt;/a&gt; &lt;br /&gt;
+&lt;blockquote&gt;I keep hearing about folks who have been kicked off or &#34;jailed&#34; from Orkut. I&#39;d love to hear more about this. Who all is getting banned? Why? Are you given explanations? What happens when you try to fight?&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I offered in the &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/31/banned_from_orkut.html#comments&#34;&gt;comments there&lt;/a&gt; some of my observations on being &#34;jailed&#34; now there twice.&lt;/p&gt;
+&lt;p&gt;Danah asks &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/what_is_beta_in_the_context_of_social_software.html&#34;&gt;What is Beta in the context of Social Software?&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;What does the term &#39;beta&#39; mean in social software? It&#39;s become an ongoing joke since Friendster is *still* in beta.&lt;br /&gt;
+...&lt;br /&gt;
+I find it quite disconcerting that people want to label their distributions &#34;beta&#34; for over a year because it hasn&#39;t been perfected, because new versions are coming out. This, to me, seems like an abuse of the term beta. New versions always come out. Is beta simply an excuse?&lt;br /&gt;
+...&lt;br /&gt;
+I am really uncomfortable with public distributions of software being labeled as beta (or alpha), particularly when the population joining it is not aware of it being truly an alpha/beta.&lt;/blockquote&gt;I think this is important -- just saying something is &#39;beta&#39; is too easy. We&#39;ve have learned this in the online game industry -- how beta is managed sets the culture of your community very early on, and has a huge effect on &#34;buzz&#34;. &lt;a href=&#34;http://www.darkageofcamelot.com&#34;&gt;Dark Ages of Camelot&lt;/a&gt; Game Designer Dave Rickey wrote an excellent column on this at Skotos last month &lt;a href=&#34;http://www.skotos.net/articles/engines13.phtml&#34;&gt;Plan Your Fight&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;The problems arise because of the differing agendas of the parties involved in bringing the games to and through the beta process, and their differing expectations of what they are supposed to accomplish. The fact is, our traditional Alpha/Beta division does not serve the needs of these games well. Well before the full featureset is in place, the complexity surpasses the point where internal QA processes are adequate to cope. You simply can&#39;t even make a serious attempt at full-regression organized QA; the manpower requirements are far too high.&lt;br /&gt;
+...&lt;br /&gt;
+Beyond that, there are the marketing implications. Ideally, Beta isn&#39;t about marketing, it&#39;s about making the games work. In the real world, only a fool ignores the impact of &#34;beta buzz&#34;. Beta testers telling their friends &#34;You&#39;ve got to try this game&#34; is the most powerful marketing force in the industry. A few thousand evangelists working their personal social networks is better than millions of dollars of paid advertising. By the same token, beta testers saying &#34;don&#39;t bother, it sucks&#34; can kill a game, no matter how much money is spent on marketing.&lt;/blockquote&gt;He further recommends that beta be actually broken into more categories &lt;b&gt;Development Beta&lt;/b&gt;, &lt;b&gt;Playtesting Beta&lt;/b&gt;, &lt;b&gt;Scaling Beta&lt;/b&gt;, and &lt;b&gt;Load Beta&lt;/b&gt;. Part of the problem with Orkut is that they are lost in Scaling and Load Beta, when they need more Development and Playtesting Beta.&lt;/p&gt;
+&lt;p&gt;Another interesting blog entry found from in a comment at Danah&#39;s site, written by Jeremy Zawodny: &lt;a href=&#34;http://jeremy.zawodny.com/blog/archives/001504.html&#34;&gt;Why Google needs Orkut&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;What surprises me is that nobody has looked at it the other way around: What problems might Orkut solve that Google would otherwise find significantly more challenging?&lt;br /&gt;
+...&lt;br /&gt;
+Suddenly they&#39;re able to set a *.google.com cookie that contains a bit of identifying data (such as your Orkut id) and that would greatly enhance their ability to mine useful and profitable data from the combination of your profile and daily searches.&lt;/p&gt;
+&lt;p&gt;Of course, we know that the &#34;big three&#34; already do this sort of thing to some degree or another. But Google&#39;s lack of intimate knowledge of their users is surely holding them back from doing some of the things they&#39;d love to do. Many folks think it&#39;s just a matter of time before they try to get &#34;real&#34; users signed up.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I personally don&#39;t think Google is institutionally really that aware of Orkut. If anything, the negativity that the beta has raised may actually be causing this skunkworks group some headaches, given that Google is trying to go public. But yes, in the long term if Orkut is successful and absorbed into Google, this information will be used this way.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/01/correcting_marc_canters_perception_of_my_views.html#comments&#34;&gt;comment to Danah&#39;s blog&lt;/a&gt;, &lt;a href=&#34;http://www.bladam.com/&#34;&gt;Adam Lasnik&lt;/a&gt; writes:&lt;br /&gt;
+&lt;blockquote&gt;I have agreed with the majority of your complaints about orkut, danah, and indeed, have found myself also disappointed in what I feel is the lost opportunity (so far) for what Orkut (the guy) and Google (the company) could have set up from the get go. They have the means, the finances, and so on to have set up a truly sophisticated and thoughtful social network. I still optimistically think that orkut.com will amount to something impressive (useful and/or just damn fun) someday, though I wish the structure had been more sophisticated from the beginning.&lt;/p&gt;
+&lt;p&gt;With that said, I do have to agree with what I read from someone else recently (apologies -- the specific source is escaping me!) about how perhaps the ambiguity and unsophisticated structure of orkut.com is intentional... letting members shape things as they go along, almost as folks might build a sim-city from the ground up.&lt;/p&gt;
+&lt;p&gt;Perhaps. And perhaps not. I don&#39;t know.&lt;/p&gt;
+&lt;p&gt;Anyway, I&#39;ll continue to use orkut.com until it&#39;s either no longer fun and useful for me, or I feel it has no hopes of BECOMING fun and useful. At that time (and probably before), I&#39;ll be airing my concerns privately to the orkut.com team and publicly on my blog... but I&#39;ll maintain my respect for Orkut, orkut.com, Google, and the service terms to which I agreed to when I signed up.&lt;/p&gt;
+&lt;p&gt;I wish others would do the same.&lt;/blockquote&gt;Adam further points to his blog entry &lt;a href=&#34;http://www.bladam.com/archives/0401302002.htm&#34;&gt;Don&#39;t like it? Go home and don&#39;t come back&lt;/a&gt;:  &lt;/p&gt;
+&lt;blockquote&gt;But on the whole, I think folks who are unhappy with orkut (or any other privately-owned-and-run service) have exactly two choices:
+&lt;li&gt;stick with the service, but publicly or privately express concerns&lt;/a&gt;
+&lt;li&gt;quit the service (and, yep, still publicly or privately express concerns if they wish)&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;In general I agree with Adam, if you are unhappy quit.&lt;/p&gt;
+&lt;p&gt;However, his first choice was &#34;publicly or privately express concerns&#34;. I&#39;ve been chastised for expressing publicly concerns about Orkut. For instance I was sent this message from someone by the Orkut message system:&lt;br /&gt;
+&lt;blockquote&gt;You are a bit annoying, and you seem to go about making things a better in the same way a child goes about crying to his mom because he didn&#39;t get his 4th lemon pop in a row.&lt;/blockquote&gt;Other then my first mistaken email about a possible &#34;friends of friends&#34; email security issue, I feel that my comments have been constructive. Yet obviously I&#39;ve hit some nerves (probably a good thing for Orkut that people are feeling that passionate to be defensive about it).&lt;/p&gt;
+&lt;p&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
+&lt;p&gt;In addition, feedback is a two-way street -- they could do a lot by offering a developers daily blog, or some type of regular announcement of what feature they wanted beta testers to test that day, or even acknowledgement &#34;we already know that is an issue&#34;. Also, they need to show respect for good feedback publicly, as that will encourage more good feedback.&lt;/p&gt;
+&lt;p&gt;None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.&lt;/p&gt;
+&lt;p&gt;I&#39;ve also received some interesting comments via email or Orkut messages.&lt;/p&gt;
+&lt;p&gt;This one about my concern about emails revealed when you send to &#34;friends of friends&#34;:&lt;br /&gt;
+&lt;blockquote&gt;When you give your trust to anyone, they can choose to abuse it, just like in real life. For example, I don&#39;t know how delighted Megan is that you chose to compose your glorious-whistle-blowing-yeah-look-at-me-I-pretended-I-was-friends-with-these-people-but-I am-not-and-I-am-so-r337-in-exposing-a-&#34;security hole&#34;-in-this-site message, but, as always, these actions can be remedied. For example, she can choose to remove you from her friends list, just like in real life &#34;friends&#34; who abuse someone&#39;s trust are not their friends anymore. This way you also very efficiently negatively advertise yourself to all of her friends so that they now know to stay away from you.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I wonder if this type of behavior will happen? So far on any of these social networking services I&#39;ve never seen a message &#34;you have been removed from X&#39;s friend list&#34;. It is possible that I have been removed by someone, but so far I have not been told. And will someone look at someone friends list and say &#34;ah, he is no longer on there, so I will remove him&#34;. Right now, I doubt it.&lt;/p&gt;
+&lt;p&gt;One of my favorite messages sent to me on Orkut:&lt;br /&gt;
+&lt;blockquote&gt;I don&#39;t like that it&#39;s not easy to opt out. I&#39;ve already had to delete a flame from my &#34;scrapbook&#34; and I could see how this could turn ugly quickly. Without an opt-out I don&#39;t see how I have any way of getting out of there quickly if there&#39;s a problem. Maybe what they need is a way for me to put myself in jail for a period of time.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Dear,
+I liked your alacrity... first I didn´t know what is it and then I looked for that word in the diccionarie. Ok, I think the life must be made for alacrity.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.angelfire.com/ar/rosa01&#34;&gt;Ana Rosa&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-30T09:19:27-07:00&#34;&gt;2004-07-30T09:19:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I like your comment!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Julia Machado&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-18T22:33:40-07:00&#34;&gt;2004-10-18T22:33:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+iran
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yoosef&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-02T04:21:08-07:00&#34;&gt;2005-01-02T04:21:08-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+heloo     25   iran   neam;yoosef
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yoosef&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-02T04:28:06-07:00&#34;&gt;2005-01-02T04:28:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i live in great country that their goverments use filters for internet sites
+if you can help me in this way pls give me one way to break this filters
+tnx
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nana&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-09T14:02:08-07:00&#34;&gt;2005-01-09T14:02:08-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;please rejester me for orkut           Thank u
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.typepad.com/t/trackback/427094&#34;&gt;nina&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-21T16:31:11-07:00&#34;&gt;2005-01-21T16:31:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Get me one Okay????
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Teddy&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-02-05T22:01:19-07:00&#34;&gt;2005-02-05T22:01:19-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Orkut is plural of rather sensitive word in finnish language (sexual climax). Just to mention.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.url.com&#34;&gt;Somebody&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-03T03:32:42-07:00&#34;&gt;2005-11-03T03:32:42-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Well,from my first impressions of orkut,what i gather is that,u have to be careful in who u select as friends(incase of a stranger sending u a friend request).As for getting familiar with a person that can always be done by sending a few messages through the scrap book(before u accept the frind invite).Other very useful feature of the scrapbook is that it almost serves the purpose of an instant messenger(conversations being publicly viewable though),with the community feature you can make friends with like minded people by joiing communities.Havent gone through all the features yet,but if you dont go too much into the nitty gritties then it is all in all quite a decent product.And of course with a popular name like google backing it,this can only improve (google wont shelve it as it just has become way too popular in the beta stage itself)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Kiran&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-12T06:46:11-07:00&#34;&gt;2006-07-12T06:46:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

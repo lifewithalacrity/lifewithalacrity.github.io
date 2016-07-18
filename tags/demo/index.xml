@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/demo/</link>
+    <description>Recent content in Demo on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SynchroEdit: Simultaneous Editing for the Web</title>
+      <link>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</link>
+      <pubDate>Sat, 08 Oct 2005 16:04:17 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</guid>
+      <description>&lt;p&gt;For the last several months I&#39;ve been working on a new open source project that I&#39;ve been calling &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;. SynchroEdit is a browser-based simultaneous multiuser editor, useful for &lt;a href=&#34;http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html&#34;&gt;&amp;quot;same-time&amp;quot; collaboration&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/synchroeditmac.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=493,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;262&#34; height=&#34;202&#34; border=&#34;0&#34; alt=&#34;Synchroeditmac&#34; title=&#34;Synchroeditmac&#34; src=&#34;http://www.lifewithalacrity.com/images/synchroeditmac.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.&lt;/p&gt;
+&lt;p&gt;SynchroEdit is a tool for &amp;quot;same-time&amp;quot; collaboration, either &amp;quot;same-time, different-place&amp;quot;, as in teleconference calls, or &amp;quot;same-time, same-place&amp;quot;, during a meeting or a conference. If you&#39;ve ever used &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; on Mac OS X, or &lt;a href=&#34;http://www.moonedit.com&#34;&gt;MoonEdit&lt;/a&gt; for Windows or Linux, or the cross-platform &lt;a href=&#34;http://gobby.0x539.de/&#34;&gt;Gobby&lt;/a&gt;, this is a similar experience. The difference is that unlike those tools you are not limited to just plain text -- character styles (bold, italic, etc.) and paragraph styles (rulers, headers, blockquotes, etc) are synchronized as well. And of course, it all works inside your browser.&lt;/p&gt;
+&lt;p&gt;SynchroEdit is inspired by my frustration with the lack of an easily accessible cross-platform simultaneous editor. Many times when I&#39;ve been on the phone with a colleague discussing a draft blog entry, or demonstrating some code, or on a teleconference call with others to discuss a proposal or a standard, or at a conference taking notes with others, I&#39;ve wanted to have this tool. The rare occasions that we all have been on the same platform and have been able to use an existing tool have demonstrated to me the value of having a good simultaneous editor. Having SynchroEdit available will make it easier for people to have these positive collaborative experiences.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;I have a long history with &amp;quot;same-time&amp;quot; collaboration tools -- back in 1988 I was briefly executive producer at Broderbund for a same-time groupware product called &lt;a href=&#34;http://www.google.com/search?q=cache:1cDDTqwlqGoJ:www.the-scientist.com/yr1988/jul/software_p22_880725.html+%2Bbroderbund+%2B%22for+comment%22+groupware&#34;&gt;For Comment&lt;/a&gt;. Unfortunately, the success of the Nintendo game console forced Broderbund to drop all of their non-consumer product efforts. In the early 90&#39;s I worked on several different &amp;quot;same-time same-place&amp;quot; groupware tools for live meetings. Most recently, my game company &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos Tech&lt;/a&gt;, created several browser-based &amp;quot;enhanced chat&amp;quot; clients for playing in MUSH-like storytelling games, which are also &amp;quot;same-time&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I personally believe that that this capability should be a fundamental feature of the web, sort of the obvious extension of &lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Berners-Lee&#34;&gt;Tim Berners-Lee&#39;s&lt;/a&gt; &lt;a href=&#34;http://news.bbc.co.uk/1/hi/technology/4132752.stm&#34;&gt;vision&lt;/a&gt; of the editable web. Thus my desire to offer this tool as open source, allowing anyone to add this capability to their own software (unlike proprietary editor services such as &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt; or &lt;a href=&#34;http://www.writely.com/&#34;&gt;Writely&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The challenge with offering SynchroEdit as open source is finding a business model -- unlike an application like &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; or a service like &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt;, it is difficult to get revenues from individual users. Instead, we ask for contributions from companies that might find the tool useful, we offer consulting to customize it for specific purposes, and we give these companies public credit for their contributions to the common good.&lt;/p&gt;
+&lt;p&gt;The first company to step up to the plate is &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;, an enterprise wiki company. Clearly, being able to offer this capability to their customers will give them added value, and they already have a history of using open source with their support of &lt;a href=&#34;http://www.kwiki.org/&#34;&gt;Kwiki&lt;/a&gt; and &lt;a href=&#34;http://www.wikiwyg.net/&#34;&gt;Wikiwyg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The second supporter is venture capitalist and blogger &lt;a href=&#34;http://joi.ito.com/&#34;&gt;Joichi Ito&lt;/a&gt;. He is is particularly well known for his own experiments with &amp;quot;same-time&amp;quot; collaboration. He runs a continuous #joiito IRC chat room, active 24 hours a day with hundreds of his friends. He also has done many live &amp;quot;same-time&amp;quot; experiments with chat backchannel during his talks at various conferences.&lt;/p&gt;
+&lt;p&gt;In addition to to financial support of SocialText and Joichi Ito, I have some offers of help from the &lt;a href=&#34;http://www.bgiedu.org&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;, who plan to use it in its socially responsible and environmentally sustainable MBA program, and we&#39;ve also taken advantage of some code developed by &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder I met when he was creating an online game at Skotos. Skotos has long had the vision of having games created by its members, and Kalle Alm was the first member to create a game completely from scratch using Skotos&#39; tools.&lt;/p&gt;
+&lt;p&gt;We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we&#39;ll need more partners to help.&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/christopher_allen_web2point1_brainjam.png&#34; title=&#34;Christopher_allen_web2point1_brainjam&#34; alt=&#34;Christopher_allen_web2point1_brainjam&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;I did a demo of last year&#39;s open source project, &lt;a href=&#34;http://www.EditThisPage.net&#34;&gt;EditThisPage&lt;/a&gt;, and of the SynchroEdit alpha at &lt;a href=&#34;http://www.web2point1.org/&#34;&gt;Web 2.1 BrainJam&lt;/a&gt; last week; there are two videos available from Enric Teller&#39;s vBlog: &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/&#34;&gt;Presentation&lt;/a&gt; and &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/&#34;&gt;Q&amp;amp;A&lt;/a&gt;.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;If you are interested in learning more, visit the &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit website&lt;/a&gt;. We have additional information on the program, a &lt;a href=&#34;http://wiki.synchroedit.com&#34;&gt;developers wiki&lt;/a&gt;, as well as a sandbox that you can play in to demonstrate SynchroEdit in use.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I&#39;m curious about what ways you think this could be useful as a teaching aid? Have you looked into particular implementations or studied existing case studies?
+(I have studied this a fair amount and I don&#39;t think there are existing case studies, especially in the classroom, which is why I ask.. I&#39;m looking at ways in which chatrooms could be incorporated into classroom environments as a backchannel)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yardi&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-16T11:00:54-07:00&#34;&gt;2005-11-16T11:00:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/10/for_the_last_se.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JotSpot: Application Wiki</title>
+      <link>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</link>
+      <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.jotspot.com/about/index.php&#34;&gt;Joe Kraus&lt;/a&gt;, one of the co-founders of Excite, and new &lt;a href=&#34;http://bnoopy.typepad.com/bnoopy/&#34;&gt;blogger&lt;/a&gt; has long been &lt;a href=&#34;http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html&#34;&gt;rumored&lt;/a&gt; to be working on a new wiki tool. Today at the &lt;a href=&#34;http://www.web2con.com/pub/w/32/program.html&#34;&gt;Web 2.0&lt;/a&gt; conference Joe finally unveiled &lt;a href=&#34;http://www.jotspot.com&#34;&gt;JotSpot&lt;/a&gt;, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.jotspot.com/tours/advanced/img/slide09.jpg&#34;border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; &gt;At the JotSpot website there is an page on &lt;a href=&#34;http://jot.com/compare/index.php&#34;&gt;How JotSpot is Different&lt;/a&gt; and an &lt;a href=&#34;http://jot.com/tours/advanced/1.php&#34;&gt;Advanced Tour&lt;/a&gt; of this wiki&#39;s database capabilities.&lt;/p&gt;
+&lt;p&gt;Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter &lt;a href=&#34;http://weblog.infoworld.com/udell/2004/10/06.html#a1090&#34;&gt;Jon Udell&lt;/a&gt; an early &lt;a href=&#34;http://weblog.infoworld.com/udell/gems/jot.swf&#34;&gt;demo of JotSpot&lt;/a&gt;, which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc.  Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a &lt;a href=&#34;http://www.salesforce.com&#34;&gt;SalesForce.com&lt;/a&gt; web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.&lt;/p&gt;
+&lt;p&gt;The discussion during the demo is also very interesting. Jon Udell made an observation about JotSpot entering into Lotus Notes territory, and Kraus and Spencer discuss how JotSpot makes web application development more accessible, and expressed their desire to create a marketplace for small developers to create tools using JotSpot.&lt;/p&gt;
+&lt;p&gt;From what I&#39;ve seen so far, JotSpot looks like it may the first of a third-generation of wikis, the first being the very simple wikis such as &lt;a href=&#34;http://c2.com/cgi/wiki?WardCunningham&#34;&gt;Ward Cunningham&#39;s&lt;/a&gt; &lt;a href=&#34;http://c2.com/cgi/wiki&#34;&gt;C2 Wiki&lt;/a&gt;, and second generation being database-backed wikis such as &lt;a href=&#34;http://www.wikipedia.com&#34;&gt;Wikipedia&lt;/a&gt; and &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;. If you are serious about wiki, I highly recommend you take a look at this demo.&lt;/p&gt;
+&lt;p&gt;Joe Kraus also announced today that they have received a $5.2M funding round from &lt;a href=&#34;http://www.redpoint.com&#34;&gt;Redpoint&lt;/a&gt; and &lt;a href=&#34;http://mayfield.com&#34;&gt;Mayfield&lt;/a&gt;, both top VC firms.&lt;/p&gt;
+&lt;p&gt;More information:&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;Press Release: &lt;a href=&#34;http://www.jotspot.com/news/jotspot_launch.php&#34;&gt;JotSpot Launches, Unveils Application Wiki&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://www.businessweek.com/technology/content/oct2004/tc2004106_2351.htm&#34;&gt;Business Week: Do-It-Yourself Software for All?&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://cbs.marketwatch.com/news/story.asp?guid=%7BFA9FE472%2DE293%2D41DC%2D9B96%2D144F34463C97%7D&amp;siteid=mktw&#34;&gt;CBS MarketWatch: Excite founders unveil JotSpot&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://www.mercurynews.com/mld/mercurynews/business/technology/9848041.htm&#34;&gt;Mercury News: Palo Alto start-up enhances `Wiki&#39; sites&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://softtechvc.blogs.com/software_only/2004/10/jotspot_the_app_1.html&#34;&gt;JotSpot: The Application Wiki&lt;/a&gt; by Jeff Clavier&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://blogs.salon.com/0000014/2004/10/06.html#a686&#34;&gt;Joe Kraus talks about Jotspot&lt;/a&gt; by Scott Rosenberg&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://www.davidmattison.ca/wordpress/index.php?p=801&#34;&gt;WikiWiki Warfare In The Enterprise Leading To Situational Software?&lt;/a&gt; by David Mattison&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://socialsoftware.weblogsinc.com/entry/6448891678944212/&#34;&gt;JotSpot - Lego Style Wiki?&lt;/a&gt; by Judith Meskill&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;&#34;&gt;Jot Wiki kicks ass… (Live from Web 2.0 conference in San Fran)&lt;/a&gt; - by Jason Calacanis&lt;br /&gt;
+&lt;li&gt;Audio: &lt;a href=&#34;http://calacanis.weblogsinc.com/common/videos/jason/jot.mp3&#34;&gt;Audio archive of JotSpot demo at Web 2.0 Conference&lt;/a&gt; recorded by Jason Calacanis&lt;br /&gt;
+&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;An article in spanish: http://www.error500.net/modules/news/article.php?storyid=997
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.error500.net&#34;&gt;Antonio&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-07T13:51:54-07:00&#34;&gt;2004-10-07T13:51:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Hi,
+If you like the notion of Application Wikis, you should have a look at the open source project XWiki.. It includes not only a form engine but also a programming API inside wiki pages as well as un underlying relational database..
+Ludovic
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.xwiki.org&#34;&gt;Ludovic Dubost&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-07T16:25:09-07:00&#34;&gt;2004-10-07T16:25:09-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for the wriet up Christopher. I think you asked for a beta. We&#39;re trying to provision accounts as rapidly as we can (while making sure that things are scaling ok). I should be able to guarantee you get provisioned in the next 2-3 days. If there any questions I can answer, don&#39;t hesitate to ask.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.jot.com&#34;&gt;Joe Kraus&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-08T20:05:14-07:00&#34;&gt;2004-10-08T20:05:14-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;JotSpot is way behind other open source &#39;wikis&#39; like TWiki and ZWiki already well into this space.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://usemod.com/cgi-bin/mb.pl?SunirShah&#34;&gt;Sunir&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T00:42:30-07:00&#34;&gt;2004-10-14T00:42:30-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

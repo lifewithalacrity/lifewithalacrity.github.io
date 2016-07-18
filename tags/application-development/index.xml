@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Development on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/application-development/</link>
+    <description>Recent content in Application Development on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Oct 2004 00:39:29 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/application-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JotSpot: Application Wiki</title>
+      <link>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</link>
+      <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.jotspot.com/about/index.php&#34;&gt;Joe Kraus&lt;/a&gt;, one of the co-founders of Excite, and new &lt;a href=&#34;http://bnoopy.typepad.com/bnoopy/&#34;&gt;blogger&lt;/a&gt; has long been &lt;a href=&#34;http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html&#34;&gt;rumored&lt;/a&gt; to be working on a new wiki tool. Today at the &lt;a href=&#34;http://www.web2con.com/pub/w/32/program.html&#34;&gt;Web 2.0&lt;/a&gt; conference Joe finally unveiled &lt;a href=&#34;http://www.jotspot.com&#34;&gt;JotSpot&lt;/a&gt;, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.jotspot.com/tours/advanced/img/slide09.jpg&#34;border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; &gt;At the JotSpot website there is an page on &lt;a href=&#34;http://jot.com/compare/index.php&#34;&gt;How JotSpot is Different&lt;/a&gt; and an &lt;a href=&#34;http://jot.com/tours/advanced/1.php&#34;&gt;Advanced Tour&lt;/a&gt; of this wiki&#39;s database capabilities.&lt;/p&gt;
+&lt;p&gt;Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter &lt;a href=&#34;http://weblog.infoworld.com/udell/2004/10/06.html#a1090&#34;&gt;Jon Udell&lt;/a&gt; an early &lt;a href=&#34;http://weblog.infoworld.com/udell/gems/jot.swf&#34;&gt;demo of JotSpot&lt;/a&gt;, which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc.  Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a &lt;a href=&#34;http://www.salesforce.com&#34;&gt;SalesForce.com&lt;/a&gt; web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.&lt;/p&gt;
+&lt;p&gt;The discussion during the demo is also very interesting. Jon Udell made an observation about JotSpot entering into Lotus Notes territory, and Kraus and Spencer discuss how JotSpot makes web application development more accessible, and expressed their desire to create a marketplace for small developers to create tools using JotSpot.&lt;/p&gt;
+&lt;p&gt;From what I&#39;ve seen so far, JotSpot looks like it may the first of a third-generation of wikis, the first being the very simple wikis such as &lt;a href=&#34;http://c2.com/cgi/wiki?WardCunningham&#34;&gt;Ward Cunningham&#39;s&lt;/a&gt; &lt;a href=&#34;http://c2.com/cgi/wiki&#34;&gt;C2 Wiki&lt;/a&gt;, and second generation being database-backed wikis such as &lt;a href=&#34;http://www.wikipedia.com&#34;&gt;Wikipedia&lt;/a&gt; and &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;. If you are serious about wiki, I highly recommend you take a look at this demo.&lt;/p&gt;
+&lt;p&gt;Joe Kraus also announced today that they have received a $5.2M funding round from &lt;a href=&#34;http://www.redpoint.com&#34;&gt;Redpoint&lt;/a&gt; and &lt;a href=&#34;http://mayfield.com&#34;&gt;Mayfield&lt;/a&gt;, both top VC firms.&lt;/p&gt;
+&lt;p&gt;More information:&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;Press Release: &lt;a href=&#34;http://www.jotspot.com/news/jotspot_launch.php&#34;&gt;JotSpot Launches, Unveils Application Wiki&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://www.businessweek.com/technology/content/oct2004/tc2004106_2351.htm&#34;&gt;Business Week: Do-It-Yourself Software for All?&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://cbs.marketwatch.com/news/story.asp?guid=%7BFA9FE472%2DE293%2D41DC%2D9B96%2D144F34463C97%7D&amp;siteid=mktw&#34;&gt;CBS MarketWatch: Excite founders unveil JotSpot&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Article: &lt;a href=&#34;http://www.mercurynews.com/mld/mercurynews/business/technology/9848041.htm&#34;&gt;Mercury News: Palo Alto start-up enhances `Wiki&#39; sites&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://softtechvc.blogs.com/software_only/2004/10/jotspot_the_app_1.html&#34;&gt;JotSpot: The Application Wiki&lt;/a&gt; by Jeff Clavier&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://blogs.salon.com/0000014/2004/10/06.html#a686&#34;&gt;Joe Kraus talks about Jotspot&lt;/a&gt; by Scott Rosenberg&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://www.davidmattison.ca/wordpress/index.php?p=801&#34;&gt;WikiWiki Warfare In The Enterprise Leading To Situational Software?&lt;/a&gt; by David Mattison&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;http://socialsoftware.weblogsinc.com/entry/6448891678944212/&#34;&gt;JotSpot - Lego Style Wiki?&lt;/a&gt; by Judith Meskill&lt;br /&gt;
+&lt;li&gt;Blog posting: &lt;a href=&#34;&#34;&gt;Jot Wiki kicks ass… (Live from Web 2.0 conference in San Fran)&lt;/a&gt; - by Jason Calacanis&lt;br /&gt;
+&lt;li&gt;Audio: &lt;a href=&#34;http://calacanis.weblogsinc.com/common/videos/jason/jot.mp3&#34;&gt;Audio archive of JotSpot demo at Web 2.0 Conference&lt;/a&gt; recorded by Jason Calacanis&lt;br /&gt;
+&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;An article in spanish: http://www.error500.net/modules/news/article.php?storyid=997
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.error500.net&#34;&gt;Antonio&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-07T13:51:54-07:00&#34;&gt;2004-10-07T13:51:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Hi,
+If you like the notion of Application Wikis, you should have a look at the open source project XWiki.. It includes not only a form engine but also a programming API inside wiki pages as well as un underlying relational database..
+Ludovic
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.xwiki.org&#34;&gt;Ludovic Dubost&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-07T16:25:09-07:00&#34;&gt;2004-10-07T16:25:09-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for the wriet up Christopher. I think you asked for a beta. We&#39;re trying to provision accounts as rapidly as we can (while making sure that things are scaling ok). I should be able to guarantee you get provisioned in the next 2-3 days. If there any questions I can answer, don&#39;t hesitate to ask.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.jot.com&#34;&gt;Joe Kraus&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-08T20:05:14-07:00&#34;&gt;2004-10-08T20:05:14-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;JotSpot is way behind other open source &#39;wikis&#39; like TWiki and ZWiki already well into this space.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://usemod.com/cgi-bin/mb.pl?SunirShah&#34;&gt;Sunir&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T00:42:30-07:00&#34;&gt;2004-10-14T00:42:30-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orkut on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/orkut/</link>
+    <description>Recent content in Orkut on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Apr 2004 02:00:51 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/orkut/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Four Kinds of Privacy</title>
+      <link>https://lifewithalacrity.github.io/2004/04/four_kinds_of_p.html</link>
+      <pubDate>Thu, 22 Apr 2004 02:00:51 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/04/four_kinds_of_p.html</guid>
+      <description>&lt;p&gt;I&#39;ve been thinking about the nature of privacy a lot lately.&lt;/p&gt;
+&lt;p&gt;I&#39;ve long been associated with issues of preserving privacy. I helped with anti-Clipper Chip activism in the early 90s and supported various efforts to free cryptography such as PGP and other tools built with RSAREF from export control. However, my efforts in these areas wasn&#39;t really focused on privacy -- instead my focus was on issues of trust.&lt;/p&gt;
+&lt;p&gt;I&#39;ve always tried to be precise here. For instance, one of the uses of the SSL encryption software that I designed and sold at Consensus Development was to preserve privacy; however, I never sold it with privacy as a feature. Instead I clearly stated that SSL offered &#34;message integrity&#34;, &#34;confidentiality&#34; and &#34;authentication&#34;. Part of the reason that I never used the word privacy with SSL was that I felt that the concept of privacy was too overloaded -- or possibly orthogonal to issues of cryptographic security. Promising privacy was promising too much.&lt;/p&gt;
+&lt;p&gt;More recently issues of privacy have been coming up in my study of social software. It got started with &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/confirmed_email.html&#34;&gt;my post about privacy issues in Orkut&lt;/a&gt; and a general &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;insecurity and discomfort&lt;/a&gt; with information made available in various social networking services. Later I wrote about &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/handcrafting_my.html&#34;&gt;handcrafting my FOAF&lt;/a&gt; which required me to re-think how and what information I wished to reveal about myself. More recently I was &lt;a href=&#34;http://www.lifewithalacrity.com/2004/04/annoyed_by_zero.html&#34;&gt;stung by Zero Degrees&lt;/a&gt; which still disturbs me greatly.&lt;/p&gt;
+&lt;p&gt;All of this has stewed in my head until I arrived at the &lt;a href=&#34;http://www.cfp2004.org&#34;&gt;Computers, Freedom and Privacy Conference&lt;/a&gt; this week here in Berkeley, where I met many of my friends and colleagues in the cryptographic security business, as well as advocates on issues of privacy in organizations such as &lt;a href=&#34;http://www.eff.org&#34;&gt;EFF&lt;/a&gt; and &lt;a href=&#34;http://www.epic.org&#34;&gt;EPIC&lt;/a&gt;. My thoughts have now gelled sufficiently to make some observations about privacy.&lt;/p&gt;
+&lt;p&gt;When people speak about privacy, they may actually be talking about very different forms of privacy: defensive privacy, human-rights privacy, personal privacy, and contextual privacy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Defensive privacy&lt;/em&gt; is the first form: it&#39;s about protecting information about myself that makes me vulnerable or makes me feel at risk. This type of information can include things like my social security number, my credit report, or non-financial things such as my medical records or my home address. For some of my female friends this includes things like their photographs and email addresses. All of this information can be misused by other individuals or organizations in one way or another to mess up my life -- and in fact defensive privacy is usually centered around protecting this critical information from those singular individuals or organizations, be they con men, stalkers, or the Mafia. Most of the current privacy issues on the Internet seem to fall into this category. This form of privacy has also not fared well in the US courts -- for instance, in 1974 the Supreme Court decided that your bank records belong to the bank, to do with as they see fit.&lt;/p&gt;
+&lt;p&gt;Closely intersecting defensive privacy is the category of &lt;em&gt;human-rights privacy&lt;/em&gt;. When you are speaking with a European about privacy, this often is the type of privacy they are speaking of. This comes from their history: the Netherlands in the 1930s had a very comprehensive administrative census and registration of their own population, and this information was captured by the Nazis within the first three days of occupation. Thus Dutch Jews had the highest death rate (73 percent) of Jews residing in any occupied western European country -- far higher than the death rate among the Jewish population of Belgium (40 percent) and France (25 percent). Even the death rate in Germany was less then the Netherlands because the Jews there had avoided registration. (source: &lt;a href=&#34;http://www.findarticles.com/cf_dls/m2267/2_68/77187772/p4/article.jhtml&#34;&gt;The Dark Side of Numbers&lt;/a&gt;). Human-rights privacy differs from defensive privacy in that it is about how governments can abuse information, rather then individuals abusing information. I used to feel safe about human-rights privacy in the US, that there was no way that what happened in Europe could happen here, but now I have lost such confidence because of Bush and Ashcroft.&lt;/p&gt;
+&lt;p&gt;The third kind of privacy, &lt;em&gt;personal privacy&lt;/em&gt;, is more unique to the United States. It is what Supreme Court Justice Brandeis in 1890 called &#34;the right to be left alone&#34;. This form of privacy is often what the more Libertarian-oriented founders of the Internet mean when they talk about privacy. Personal privacy covers things like the &#34;do not call registry&#34;, the various rights to do as we please in our own houses -- such as view pornography or play S&amp;M games with our partners -- and the general right to not be interrupted or interfered with unnecessarily at home. This form of privacy has more basis in US law; the concept is based on an interpretation of the First, Fourth, and Fifth amendments of the US Constitution, but is not explicitly defined there. However, this form of privacy is guaranteed by the State of California Constitution which assures residents that they may pursue and obtain &lt;a href=&#34;http://www.privacy.ca.gov/code/declaration.htm&#34;&gt;safety, happiness, and privacy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Finally, &lt;em&gt;contextual privacy&lt;/em&gt; is what &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Danah Boyd&lt;/a&gt; calls the &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/04/14/why_privacy_issues_matter_to_me.html#004117&#34;&gt;ickiness factor&lt;/a&gt; in her blog, and also in her post at &lt;a href=http://www.corante.com/many/archives/2004/04/16/the_ickiness_factor.php&#34;&gt;Many-To-Many&lt;/a&gt;:&lt;blockquote&gt;&lt;em&gt;Ickiness is the guttural reaction that makes you cringe, scrunch your nose or gasp &#34;ick&#34; simply because there’s something slightly off, something disconcerting, something not socially right about an interaction.&lt;/em&gt;&lt;/blockquote&gt;&lt;p/&gt;This category is very difficult to define, and is easily confused with other forms of privacy, but I believe it has more to do with an inappropriate level of intimacy. An example of this is when I discovered that my professional colleagues on Orkut could see that I was in a committed relationship, and in turn I could see that some of them were in open marriages. I don&#39;t think there is very much harm that can come from this information being revealed, however, it was &#34;icky&#34; because it was an inappropriate level of intimacy for a professional context.&lt;/p&gt;
+&lt;p&gt;All four of these forms of privacy can intersect -- for instance, Orkut allows you to reveal your sexual orientation, which could be used secretly by an employer to discriminate against you (defensive privacy), or by a future Ashcroftian government to violate your civil rights (human-rights privacy), might lead you to being bothered at home because of people who either agree with or disagree with your orientation (personal privacy), and often is inappropriate for casual professional acquaintances to be told about (contextual privacy).&lt;/p&gt;
+&lt;p&gt;I don&#39;t think any of this answers the question of how to solve problems of privacy, but I do believe that it can help when you are discussing privacy to be sure that you try to convey and understand each others&#39; ideas of what privacy means.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Your exploration of types of privacy has been posted on the Linking Integrity Blog.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://linkingintegrity.blogspot.com/&#34;&gt;Carolyn L Burke&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-05-23T09:03:03-07:00&#34;&gt;2004-05-23T09:03:03-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I came across this post looking for an information taxonomy in general and a taxonomy of identity in particular.
+I&#39;d like to know if you have any thoughts on the subject - or your readers.
+As a beginning:
+Civil identity information
+Social identity information
+Role identity information
+Biometric identity information
+Transaction identity information
+Thanks!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://drhassen.blogspot.com&#34;&gt;ebhdoc&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-06-01T10:20:36-07:00&#34;&gt;2006-06-01T10:20:36-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/04/four_kinds_of_p.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Advice to Social Networking Services</title>
+      <link>https://lifewithalacrity.github.io/2004/02/my_advice_to_so.html</link>
+      <pubDate>Tue, 03 Feb 2004 11:39:47 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/my_advice_to_so.html</guid>
+      <description>&lt;p&gt;I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I&#39;ve not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;recent experiences with Orkut.com&lt;/a&gt;, and my &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/evaluating_soci.html&#34;&gt;evaluation&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/followup_to_eva.html&#34;&gt;followup&lt;/a&gt; on various social networking services in December.&lt;/p&gt;
+&lt;h4&gt;Privacy&lt;/h4&gt;
+First, be extremely careful about privacy issues. For some of you outside the US, you may not know about what has been going on in the area of identity theft, but it has become a significant problem. I am not a privacy fanatic, but I am concerned that social networking services encourage people to reveal too much information too broadly, and that this will be someday be taken advantage of by identity thieves. For instance, many services ask for birthday and reveal it to everyone. You can ask for the birthday, but don&#39;t display it -- give the person&#39;s age, or birth month, but don&#39;t give the full info. I personally am particularly wary of billing address, billing zip code, birthday, and potential common security questions like name of pet, mother&#39;s maiden name, etc. These are in addition to the obvious targets of identity theft like SSN, full name, and account numbers.
+&lt;p&gt;Orkut&#39;s interface for selectively allowing some fields to be visible &#34;only to myself&#34;, &#34;to friends&#34;, or to &#34;friends of friends&#34; is nice, but I wish it was for all fields. I also think every field by default should be set to &#34;only to myself&#34;. In fact, all security parameters should default to reveal the least information, and have the tightest limits -- allow the user to open selectively.&lt;/p&gt;
+&lt;p&gt;If you are going to support all different kinds of social networks (dating, friendships, activities, business) consider finding ways to make sure that those people who are not using the service for dating are not asked for that info, and don&#39;t see it for others who are dating. People who are only using it for dating shouldn&#39;t see business info. If someone is using a service for all types of relationships, allow people to selectively set what they reveal to each group, say two columns of &#34;only to connections who are dating&#34; or &#34;only to business connections&#34;.&lt;/p&gt;
+&lt;p&gt;Never reveal someone&#39;s email address or other critical information without them knowing about it. In particular there are issues with emails sent among members. The only safe way is to do redirection through your site (although that will cost you bandwidth.) But if you can&#39;t do that, then just tell people &#34;your email will be revealed if you do this&#34; -- that is enough.&lt;/p&gt;
+&lt;p&gt;Work hard on your TOS and Privacy terms. Don&#39;t let your lawyers rule you here too much -- find some way to get your principles out there and still cover yourself against problems. Make all the personal information that people give you be their information -- they are only leasing it to you temporarily.&lt;/p&gt;
+&lt;p&gt;Make it easy for someone to quit the system. Maybe offer to them to export their information in case they want to rejoin later, and give them an opportunity to send a last message to any connections they may have. Be friendly at all times, and as the market shakes out they may come back.&lt;/p&gt;
+&lt;h4&gt;Connections &amp; Invites&lt;/h4&gt;
+If possible, find some other way to call the connections between people &#34;friends&#34; -- maybe even use a unique trademarkable term. There is some power in the emotions behind the word friends that helps with the virus-like nature of social networking software, but I think in the long term it is a bad idea. LinkedIn and Spoke use the word connections which sounds too mechanical, but I think it is better then &#34;friends&#34;.
+&lt;p&gt;Don&#39;t encourage the &#34;how many friends do my friends have&#34; game. It sets up bad behaviors, and as you grow you don&#39;t want to have barriers of entry to new people who feel that they can&#39;t compete in that game. This means don&#39;t sort friends or groups etc. by the number of friends they have by default -- it can be an option, but just not be default.&lt;/p&gt;
+&lt;p&gt;Don&#39;t encourage people to by default upload their address book. Have that feature be off of some optional utility page. Have the default option for it to just scan for people that are already members of your system and to forget the rest -- that is effectively what I do with systems that ask for address book information, and they make it hard for me to do so. Don&#39;t store people&#39;s address information for them unless you can sync them with people&#39;s personal contact books -- save that for version 2.0, not 1.0 beta.&lt;/p&gt;
+&lt;p&gt;Don&#39;t focus on people contacting new people that are not already their connections. It is not the number of connections, but the quality. Instead, focus on helping people with their weak connections. It is &#39;reconnection&#39; that is the most powerful feature of these social network services, not new connections. You can also help with &#34;triage&#34; -- how do I maximize the value of my existing weak connections with the least effort?&lt;/p&gt;
+&lt;p&gt;Allow people to opt-out with a custom message. What this means is that if someone sends an email to someone who has opted out, they will get something like. &#34;Thanks for inviting me to Orkut -- I&#39;ve decided for now not to join, but you can find me on Tribe.&#34; However, keep a list of people who have tried to connect to that opted-out user, and if that user does change their mind later, it will make it easier for them to have an initial list of friends that may already be on the service. Yes, I know that this risks sending people to other services, but there are so many now that you can get good buzz by doing the right thing, and recovering those people later when they have confidence in you.&lt;/p&gt;
+&lt;p&gt;You need to have better methods of handling invites from unknowns without saying no. For instance &#34;I&#39;m not sure I know you, have I forgotten?&#34;&lt;/p&gt;
+&lt;p&gt;Related, don&#39;t fill out default text for invitations and other request forms -- force people to put something personal into the request, don&#39;t allow it to be blank. Never do what Orkut does and not give the opportunity to offer text when you invite someone who is already on the system.&lt;/p&gt;
+&lt;p&gt;Avoid anything beyond friends of friends as a primary part of your service. It bugs me that I see by default 3 degrees away in many services -- 2 degrees should be max by default, as that is the level that real referral can work. 3 degrees is too far for users to trust (though it can be optional for some purposes, or useful internally.)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=6080f857- 4784-4679-8e41-c6881ed933ce&#34;&gt;Friendship Circle&lt;/a&gt; may also be a good idea, though perhaps how you classify people should be private. You may mark someone as being &#34;family&#34; &#34;intimate&#34; or &#34;acquaintance&#34; or &#34;business&#34;, or whatever, however, no one else should see that; they should just see &#34;connection&#34; unless they have named you, and you in turn should not say that.&lt;/p&gt;
+&lt;h4&gt;Profiles&lt;/h4&gt;
+Find some better way then simple lists to do profiles. Someone&#39;s profile needs to express the richness of who they are -- it also needs to change and grow and flow over time, so make it easy for people to annotate and grow over time. Consider asking for only a few things at first, not make the process of filling out the profile feel daunting, then after each login prompt them to add one small thing that is useful based on how they used the service recently. For instance &#34;You have joined the AnyoneButBush2004 group -- do you want to enter information to share with others about your political interests?&#34;.
+&lt;p&gt;Right now lots of people are experimenting on their blog sidebars how best to profile themselves -- learn from them. Look at hundreds of examples, look for patterns beyond the obvious.&lt;/p&gt;
+&lt;p&gt;Allow people to have multiple affiliations, whether they be work or play. I&#39;m a bad edge case personally, with too many hats to name, but almost everyone I know has at least two professional hats &#34;Sysadmin by day, Writer by night&#34;, &#34;Laywer on weekdays, Carpenter on weekends&#34; , as well as several affiliation hats &#34;Bay Area Costumer Guild president, member of League of Women Voters&#34;, etc.&lt;/p&gt;
+&lt;p&gt;Right now LinkedIn has the best looking professional profile, but it is still hard for some people to use. I like LinkedIn&#39;s use of multiple professional affiliations, however, I wish I could mark some as major or minor; for instance, there is a big difference between being an Advisor to MG Taylor and being CEO of Consensus. It also doesn&#39;t handle professional associations and lesser affiliations, much less non-professional affiliations and interests. Also, being able to arbitrarily order them would be nice, LinkedIn does it by date which can make for some confusing emphasis.&lt;/p&gt;
+&lt;h4&gt;Reputation &amp; Endorsements&lt;/h4&gt;
+Be very careful of the design of rating systems and reputation systems. They are extremely difficult to design well, as they too often can be gamed, or fall into reciprocity such that they are meaningless. My personal advice is just don&#39;t do it at first -- save it for a 2.0 version of the product, not 1.0 beta. If you are going to do it now, really study it -- there is a lot of good academic research on issues of reputation. It can be hard to slog through but it is worth it. Offer a grant to Danah&#39;s school for them to do research for you on the topic.
+&lt;p&gt;Endorsements are a best way of doing reputation for now. They is also is imperfect and vulnerable to reciprocity games, however, as least you can see if two people are playing that game just by looking at the endorser and endorsee. If you find too much reciprocity you can basically ignore both players.&lt;/p&gt;
+&lt;p&gt;Allow endorsements at a more granular level. For instance, if you are offering dating and professional information, segregate the endorsements. Even more ideally, do like LinkedIn and allow endorsements of relatively small things in a profile, for instance &#34;I really enjoy Chris&#39; blog&#34; against the blog profile item, and &#34;I like what Chris says about the environment&#34; against my affiliation with a group. Consider allowing endorsements of groups: &#34;Of the three groups here on Wiki, I find this one fits me the best&#34;.&lt;/p&gt;
+&lt;p&gt;If you can afford it, consider hiring a game designer from the online game industry who understands behavior incentives in online games. If you can&#39;t, study it. Part of the reason why EverQuest is the largest MMPORG is because it incentivizes certain kinds of social behaviors. In fact, it could be considered to be a type of social network service.&lt;/p&gt;
+&lt;h4&gt;Launch &amp; Support&lt;/h4&gt;
+Be careful with your beta launch -- a culture for a community forms in the first few weeks, and our experience from online games is that the nature of this culture can make or break a project. Find ways to encourage the kinds of behaviors you want, and discourage those that you don&#39;t.
+&lt;p&gt;Be very careful of labeling people who are gaming your product in ways you don&#39;t like. Being in Orkut&#39;s &#39;jail&#39; is almost becoming a badge of honor. There is no reason why people who invite too many friends to join, submit too many posts to forums, or sends too many messages to friends of friends, should be put under the same label as those people who put child pornography up on your system and thus you&#39;ve banned them. Instead, slow down the overly active people, just say in advance &#34;If you invite this number of people, you may not invite more people for 24 hours, do you want to continue?&#34;, or &#34;If you invite this person, you must wait an hour before inviting another.&#34;, etc. Also, if you do lock people out of a feature, don&#39;t lock them out of all features, just the one that they are over-using. If someone gets locked out of lots of features at the same time, then they should be looked at for possibly banning, but not if they are doing just one thing -- you want to encourage their enthusiasm.&lt;/p&gt;
+&lt;p&gt;Make sure you give feedback to anyone that tries to be helpful, for instance in reporting a bug. Ideally public reports should be encouraged public (as this encourages other people to be helpful) but even private reports should be encouraged, and as promptly as possible including &#34;Thanks for taking time to write up this, we are logged this problem and hope to get to it as soon as we can given limited resources.&#34; Find other ways to give feedback, such as a weekly report, or a group developers blog.&lt;/p&gt;
+&lt;p&gt;Create multiple stages for your beta, for instance &#34;profile features beta&#34;, &#34;group features beta&#34;, &#34;scaling beta&#34;, &#34;load beta&#34;, etc. Tell people in your beta what you want to hear about and not hear at each stage. As each stage ends, find some way to publically thank those who made the biggest difference.&lt;/p&gt;
+&lt;p&gt;Set up a bug tracking system like TypePad has (like Bugzilla but hugely simpler to use). From help menu at the top you can click to post a new report, see all open reports, or see all closed reports. Every help page can have at the bottom to open a report on that topic. If anything goes wrong there (404, various system error messages, etc) you should give you an opportunity to open a report. &lt;/p&gt;
+&lt;h4&gt;Features&lt;/h4&gt;
+Figure out how to use RSS everywhere for input and output -- if Orkut or Tribe&#39;s group features supported RSS feeds, they could be very powerful competition to the hugely funded Friendster. Figure out how to use trackbacks with your system, and make them simpler for users. Make group bookmarks and other lists available as OPML. I&#39;m not a huge fan of FOAF yet, but figure out how to use it anyhow (and maybe vCards) until something better comes along, if nothing else but allow someone to import it and export it.
+&lt;p&gt;My personal take is that if you can combine a substantial number of these &lt;br /&gt;
+features, you could have a great product that gives the others a run for the &lt;br /&gt;
+money:&lt;br /&gt;
+&lt;ul&gt;&lt;li&gt;Offering intentional groups (like Tribe and Orkut) is essential. It is Friendster&#39;s and LinkedIn&#39;s weakest link.&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;eVite/Meetup style invitations for both private functions (come to my birthday party), friend functions (anyone near 00301 want to have lunch Thursday?) and groups (Let&#39;s all meet for dinner next week to discuss this).&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Ability to import via RSS the recent items from my blog to my profile page&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Optional blogging-style home pages (FunChain &amp; Live Journal) for those who don&#39;t already have blogs&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Extended family support as an explicit type of group, grandmother, mother, child in college&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;Couples can be a form of a group also&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Better ways to organize groups of groups&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Better support for user-optional presence &#34;There are members of this group who are reading it right now who have said that they are available online to members to this group, 3 via Skype, 12 via AIM&#34;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=94333937-ecd8-4d08-994d-7f4c96c523dd&#34;&gt;Permachat&lt;/a&gt; at a group level is an interesting idea. I hate that I can&#39;t see chat text before the point I logged in&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Lots of group management support, for instance:&lt;br /&gt;
+&lt;ul&gt;&lt;li&gt;ability to have multiple admins (eGroups, Live Journal)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Group moderation (Slashdot, Kuro5hin, Advogato, etc.)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Optional group shared links (eGroups)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Optional group shared calendar (eGroups)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Polling inside groups (no one that I know of)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Invitation or approval of entry by different methods, such as by vote, by 1 reference from existing member, etc. (none that I know of)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Ability to merge groups (none that I know of) &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Wiki-style areas available for groups (no one that I know of)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Combine all the above with good innovative RSS and optionally Atom (FunChain, SocialText)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Supports the various blog submission APIs for blogs, wiki, and groups (none that I know of)&lt;br /&gt;
+&lt;li&gt;Do a great job for those who don&#39;t use RSS and those APIs to use email instead, including email submission (you can mail pages to a SocialText wiki)&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;Ability to be federated, i.e. I could still use my existing blog (you just mirror it), RSS aggregation, my FOAF file could be synced, you sync with my addressbook at Yahoo, etc.&lt;/li&gt;&lt;br /&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;h4&gt;Business Models&lt;/h4&gt;
+Business models for social networking services is going to be one of the biggest issues. Even those social networking sites with lots of money behind them are going to have difficulty because there are so many.
+&lt;p&gt;The paid subscriber model is probably dead until some of the VC funded startups go out of business. Advertising can be a good model, but be careful not to make it obtrusive -- remember, Google has made good money with very simple ads.&lt;/p&gt;
+&lt;p&gt;If you don&#39;t have VC funding, find ways to co-opt partners -- build from the beginning support for Google AdSense and Adwords, Amazon APIs, etc. If you are small, consider federating with another company. Figure out what you can do to differentiate yourself from both your competitors and partners.&lt;/p&gt;
+&lt;p&gt;Don&#39;t be evil.&lt;/p&gt;
+&lt;h4&gt;Me&lt;/h4&gt;
+I am interested in getting more professionally involved with social software. I think we are still in Apple II days of social software -- we see the promise of things to come, but we are still typing in ALL CAPS. Given the overfunding in this field, my own ability to start a company as an &lt;a href=&#34;http://www.alacrityventures.com&#34;&gt;angel investor&lt;/a&gt; is insufficient, so I&#39;m looking to partner with others. I&#39;ve been involved with online communities, groupware, collaboration, and security for over 20 years. If you are interested in an executive in this area, see my &lt;a href=&#34;http://www.linkedin.com/profile?viewProfile=&amp;key=62844&#34;&gt;profile on LinkedIn&lt;/a&gt;.
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Some notes:
+a) On privacy -- the list of people who tried to reach you is two-edged,
+you may want to point that out, because it gathers my list of friends,
+and somebody else might come and get it, but it is pretty useful.
+b) All these ideas and many others are good, and I have my own lists
+of useful features,  but there&#39;s some huge feature creep and it will
+be tough for the people doing this software to cherry pick.
+c) I have notes in the orkut forum (I presume you posted this there)
+about dealing with people you don&#39;t remember.  It doesn&#39;t work to force
+me to send them a note saying &#34;where do I know you from?&#34; because if
+you forgot them it&#39;s still embarassing.   You need to establish a principle
+in advance that people doing an invite include where they know you from.
+Unless they are intimate friends.
+d) On dating/non-dating, I agree that we don&#39;t want to see that our
+business associate is in an open marriage.  However I am not sure the
+moded UI (you are either in biz mode or dating mode) will fly.  I had
+big plans for such modes, on backburner for now.
+A better idea would be to only show you dating info on people who are
+potential dates.   Ie. if you are an M seeking F, you only see dating
+info of F seeking Ms.  People want the serendipity of knowing, &#34;Oh, that
+women I met at the conference is single and looking?&#34;
+Best of all it doesn&#39;t require new UI.
+The other big thing with Orkut is going to be the FoF spam.  The mail
+volume must be limited some way.  We&#39;ve got many thousands of FoF it
+seems.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ideas.4brad.com&#34;&gt;Brad Templeton&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T14:24:34-07:00&#34;&gt;2004-02-03T14:24:34-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Good advice overall.  You might want to take a fast look at how phpbb does polls (re your &#34;polling inside groups&#34; note).  It&#39;s integrated into the comment posting interface so you can very quickly turn any entry into a poll, with a few simple options.
+I&#39;d also be interested in seeing your comments on pay vs. free membership options.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://web.media.mit.edu/~wex/&#34;&gt;Alan Wexelblat&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-04T07:40:54-07:00&#34;&gt;2004-02-04T07:40:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Fantastic post, Christopher.  I&#39;ll never again claim you only flog Orkut; you&#39;re very fair and constructive with your observations, too!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ifindkarma.typepad.com/relax/&#34;&gt;Adam Rifkin&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-07T13:38:38-07:00&#34;&gt;2004-02-07T13:38:38-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;What do you think about the political applications of friendster-like sites?  Think how it helps solve the problems associated with the ghetto email petitions of the past, and how it could create a non-intrusive, viral fundraising medium.  Do you agree with me?
+Given the multiple kinds of ways that people want to use social software (e.g., business networking, dating, politics), will there be specific sites for each kind of activity or will there be some sharing model?
+Anyway, we&#39;re thinking about leveraging this trend and it would be helpful to get your thoughts as we consider build vs. partnering, etc.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.e-thePeople.org&#34;&gt;Michael Weiksner&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-09T14:54:23-07:00&#34;&gt;2004-02-09T14:54:23-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;FriendBlend is another new social networking site you might want to take a look at - it combines match-making with blogs, moblogs, online photo sharing and a lot of the group features such as polling and quizes that you mention. Great post!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.friendblend.com&#34;&gt;David Jenness&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-06-20T18:04:23-07:00&#34;&gt;2004-06-20T18:04:23-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;another cool site to check out is for College &lt;a href=&#34;http://www.collegester.com&#34;&gt; Social Networking&lt;/a&gt; is http://www.collegester.com . Also a hip site for &lt;a href=&#34;http://www.lloydbankster.com&#34;&gt;Lloyd Banks&lt;/a&gt; is worth peaking at..... I&#39;ve seen the &lt;a href=&#34;http://www.bestnetsoftware.com&#34;&gt;Social Networking Software&lt;/a&gt; for sell at http://www.bestnetsoftware.com for those interested in starting their own social networking site or community!!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.collegester.com&#34;&gt;Social Networking&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-09T07:42:54-07:00&#34;&gt;2004-07-09T07:42:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;my friend http://www.ryanleslie.com is planning a social networking site for musicians
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.tcgss.org&#34;&gt;ricky&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-21T10:50:50-07:00&#34;&gt;2004-10-21T10:50:50-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+http://www.egrupos.com/
+is virtually unknown in the US but becoming very popular in Spain and Latin America, and they&#39;re becoming a trend-setter, integrating email groups (a la YahooGroup but perhaps even more customizable), social networking tools and online auctions. A weird combination that however it seems to be working ok so far.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Pepe B.&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-15T12:01:36-07:00&#34;&gt;2004-11-15T12:01:36-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;This is kind of a neat personals site that&#39;s looking to add in social network functionality. Email through the site if you&#39;re interested in partnerships.
+http://www.itsjustcoffee.com
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.itsjustcoffee.com&#34;&gt;ItsJustCoffee&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-12-03T16:48:10-07:00&#34;&gt;2004-12-03T16:48:10-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Hi...I put up a site dedicated to the social networking niche of gated online communities at
+http://www.gatedonlinecommunities.com
+Any comments on the subject are appreciated!
+Thanks Marc
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.gatedonlinecommunities.com&#34;&gt;Marc L GatedOnlineCommunities.com&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-24T14:24:11-07:00&#34;&gt;2005-10-24T14:24:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Eerst Europa Doelstellingen: De Ci2i Verzekering (Ci2i) zal het nummer een gebrandmerkte pan Europese commoditized online verzekeringsmakelaar door 2010 zijn.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.firsteuropa.nl&#34;&gt;Alice Mike&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-12-03T22:37:07-07:00&#34;&gt;2006-12-03T22:37:07-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for posting this your section about privacy is very useful. There are some issues regarding privacy and social networking sites that have not been addressed properly and may cause the downfall of social networking sites such as stalkers and identity fraudsters.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://scribblesheet.co.uk/article/can_i_have_my_life_back_please&#34;&gt;Vince&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2008-02-27T14:15:18-07:00&#34;&gt;2008-02-27T14:15:18-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/my_advice_to_so.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confirmed Email Privacy Hole at Orkut</title>
+      <link>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</link>
+      <pubDate>Sun, 01 Feb 2004 17:12:22 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</guid>
+      <description>&lt;p&gt;Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.&lt;/p&gt;
+&lt;p&gt;For instance, whenever I send a message to anyone in the system that is forwarded by email, in the message headers it will read:&lt;/p&gt;
+&lt;blockquote&gt;&lt;pre&gt;
+From: &#34;Christopher Allen&#34; &amp;lt;member@orkut.com&amp;gt;
+Reply-To: &#34;Christopher Allen&#34; &amp;lt;christophera@alacritymanagement.com&gt;;&lt;/pre&gt;&lt;/blockquote&gt;
+&lt;p&gt;When someone reads the message in their email software, the &#34;From:&#34; line will be my name but the fake email of &amp;lt;member@orkut.com&amp;gt; -- however, when you reply to it, it will use my real email address. This appears to happen whether or not I have my privacy settings to reveal my email address. For instance, I can set it so that no one (not friends, not friends of friends, only myself) can see my email address, but the address will still be revealed when I send an email&lt;/p&gt;
+&lt;p&gt;I had reported what I thought was a security flaw when you emailed to &#34;friends of friends&#34; a couple of days ago, but I was mistaken, as I reported in my blog &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;Insecurity at Orkut&lt;/a&gt;.  However, as I didn&#39;t want risk &#34;crying wolf&#34; this time, so my friend and I triple checked this and have confirmed this privacy flaw.&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.&lt;/s&gt; [Updated: I was wrong, there is no way currently to avoid this other then not using an email address you care about.]&lt;/p&gt;
+&lt;p&gt;There are some that will say that this is a feature, i.e. when using email &#34;what good is communicating with someone if there is no chance of a response&#34; -- my answer to this is that an expectation has been set that email addresses can remain private, and if this is to be a feature, then users should be warned before sending an email &#34;Your email address user@domain will be revealed when you send this.&#34; More ideally, like other social networking services, the &#34;Reply-to:&#34; should be to a special email address at Orkut that will do the lookup and forward appropriately.&lt;/p&gt;
+&lt;p&gt;One of the essential problems that Orkut needs to fix very soon is how to report problems like these, and if you are trying to help how to know that these problems exist. I want my criticism to be constructive, but it is very hard when you have no idea what is the best way to offer feedback. I&#39;ve had many people reply to me in my blog and via email that they feel the same way.&lt;/p&gt;
+&lt;p&gt;For instance, right now there are 6 Orkut groups about Orkut:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=617&#34;&gt;What Should Orkut Do?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=2026&#34;&gt;Flaws in Orkut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=3982&#34;&gt;Orkut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=1289&#34;&gt;Orkut Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=781&#34;&gt;Orkut: Tips, Feedback, ?&#39;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=4556&#34;&gt;Orkut Members&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Which groups should I post this problem to? Which will will be read by the Orkut staff?&lt;/p&gt;
+&lt;p&gt;As I&#39;ve said in another of my blog postings &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/followup_on_ork.html&#34;&gt;Followup on Orkut&lt;/a&gt;: &lt;blockquote&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
+&lt;p&gt;In addition, feedback is a two-way street -- they could do a lot by offering a developers daily blog, or some type of regular announcement of what feature they wanted beta testers to test that day, or even acknowledgement &#34;we already know that is an issue&#34;. Also, they need to show respect for good feedback publicly, as that will encourage more good feedback.&lt;/p&gt;
+&lt;p&gt;None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;For now, I recommend that these type of bug reports go into &lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=6048&#34;&gt;Orkut Beta&lt;/a&gt;&lt;/li&gt;. Why not in &#34;Flaws in Orkut&#34; or in one of the other groups? Because I feel that focusing on &#39;Flaws&#39; is too strongly negative, and none of the others quite fit. I&#39;ve been a software developer -- everything is a compromise and good design is hard. By staying on the topics of current features, feature requests, bugs, suggestions, and by encouraging constructive critism and a balance of both positive and negative feedback, this group will be the best community for us to help Orkut until they offer us better alternatives.&lt;br /&gt;
+&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;In the above I said &#34;They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.&#34;
+However, this is incorrect, it will still send your email address in the
+&#34;Reply-To:&#34;
+At this time there is no way I know of to avoid this flaw if you are concerned about your email address other then changing it to a temporary one.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-01T21:47:40-07:00&#34;&gt;2004-02-01T21:47:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;That&#39;s a pretty big &#34;bug&#34; (or unpublished feature) indeed (!)
+For example, personally I try to keep my work email address off the net as much as possible, and have set pretty strict privacy settings on orkut, assuming they&#39;d keep it private...
+Coincidentally (!!??) the amount of spam I&#39;m receiving at my work email address has gone up vastly since joining Orkut... A very odd coincidence...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.jacobsen.no/anders/blog/&#34;&gt;Anders&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T04:14:32-07:00&#34;&gt;2004-02-03T04:14:32-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I discovered why I got &#39;jailed&#39; for a third time today. Two of us appear to have been jailed because of a bug when posting to groups. What happens is that if you write a long post, rather then the system tell you something is wrong, your posting form will just be refreshed. This will prompt you to submit a few more times, unsuccessfully. Then you realize it must be because your post is too long, so you&#39;ll remove text a few times, and submit. At some point in this process, typically before you successfully trim it down enough to successfully post, you will discover you are in Orkut jail.
+Of course, that makes us long-winded bloggers particularly vulnerable ;-)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T07:17:25-07:00&#34;&gt;2004-02-03T07:17:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+my suggestion for forum:  orkut design, because orkut the man himself is a member of that community.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;reader&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-04T17:18:21-07:00&#34;&gt;2004-02-04T17:18:21-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;beta testing for www.swakto.com social networking is open
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.swato.com&#34;&gt;jemai&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-14T12:40:16-07:00&#34;&gt;2004-07-14T12:40:16-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+ive been banned on orkut. what is the maximum time you are banned or when they reply to you?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;sherrzz&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-18T19:06:48-07:00&#34;&gt;2004-07-18T19:06:48-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i don&#39;t know much more about orkut i just want to know what this side about of side.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nawin&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-12T00:51:10-07:00&#34;&gt;2004-10-12T00:51:10-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Followup on Orkut</title>
+      <link>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</link>
+      <pubDate>Sun, 01 Feb 2004 13:21:13 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</guid>
+      <description>&lt;p&gt;I&#39;ve read of emails, Orkut messages, and blog postings since my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;post yesterday&lt;/a&gt;, so I thought I would share some with you.&lt;/p&gt;
+&lt;p&gt;There have been a number of good posts, as well as user comments at Danah Boyd&#39;s blog &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Apophenia&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Danah Boyd writes &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/01/correcting_marc_canters_perception_of_my_views.html#004011&#34;&gt;Correcting Marc Canter&#39;s Perception of My Views&lt;/a&gt;&lt;br /&gt;
+&lt;blockquote&gt;Marc - i don&#39;t believe that users should take these relationships more seriously; i believe that YOU should. Users will do whatever they damn well please, and i think that we should learn from them. But out of respect to the creators of these systems, many of whom are our friends, i truly believe that we should respect their goals and not engage in behavior that disrespects their intentions. Furthermore, i believe that we should never be the exceptions on any given service, the ones who push the boundaries. We are not average users. We should sit back and watch what average users do, not try to top them. By engaging in disrespectful behavior, we make it much harder for our friends and colleagues to execute their business plans as they&#39;re busy policing us.&lt;/blockquote&gt;When I first read this, I thought of something else. When I saw Danah&#39;s &#34;YOU&#34;, I was thinking of myself and Marc Canter as developers. I&#39;m not currently involved in developing Social Software, but I come from the developer mind set. &#34;WE&#34; developers &#34;should take these relationships more seriously&#34;. That means that although our users will game, will play, and stretch the system, we should design it as seriously as possible those who are serious, concerned, and value their relationships.  &#34;Calling someone a friend&#34; &lt;b&gt;should&lt;/b&gt; mean something -- something important.&lt;/p&gt;
+&lt;p&gt;Danah Boyd asks in &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/31/banned_from_orkut.html&#34;&gt;Banned from Orkut&lt;/a&gt; &lt;br /&gt;
+&lt;blockquote&gt;I keep hearing about folks who have been kicked off or &#34;jailed&#34; from Orkut. I&#39;d love to hear more about this. Who all is getting banned? Why? Are you given explanations? What happens when you try to fight?&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I offered in the &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/31/banned_from_orkut.html#comments&#34;&gt;comments there&lt;/a&gt; some of my observations on being &#34;jailed&#34; now there twice.&lt;/p&gt;
+&lt;p&gt;Danah asks &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/what_is_beta_in_the_context_of_social_software.html&#34;&gt;What is Beta in the context of Social Software?&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;What does the term &#39;beta&#39; mean in social software? It&#39;s become an ongoing joke since Friendster is *still* in beta.&lt;br /&gt;
+...&lt;br /&gt;
+I find it quite disconcerting that people want to label their distributions &#34;beta&#34; for over a year because it hasn&#39;t been perfected, because new versions are coming out. This, to me, seems like an abuse of the term beta. New versions always come out. Is beta simply an excuse?&lt;br /&gt;
+...&lt;br /&gt;
+I am really uncomfortable with public distributions of software being labeled as beta (or alpha), particularly when the population joining it is not aware of it being truly an alpha/beta.&lt;/blockquote&gt;I think this is important -- just saying something is &#39;beta&#39; is too easy. We&#39;ve have learned this in the online game industry -- how beta is managed sets the culture of your community very early on, and has a huge effect on &#34;buzz&#34;. &lt;a href=&#34;http://www.darkageofcamelot.com&#34;&gt;Dark Ages of Camelot&lt;/a&gt; Game Designer Dave Rickey wrote an excellent column on this at Skotos last month &lt;a href=&#34;http://www.skotos.net/articles/engines13.phtml&#34;&gt;Plan Your Fight&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;The problems arise because of the differing agendas of the parties involved in bringing the games to and through the beta process, and their differing expectations of what they are supposed to accomplish. The fact is, our traditional Alpha/Beta division does not serve the needs of these games well. Well before the full featureset is in place, the complexity surpasses the point where internal QA processes are adequate to cope. You simply can&#39;t even make a serious attempt at full-regression organized QA; the manpower requirements are far too high.&lt;br /&gt;
+...&lt;br /&gt;
+Beyond that, there are the marketing implications. Ideally, Beta isn&#39;t about marketing, it&#39;s about making the games work. In the real world, only a fool ignores the impact of &#34;beta buzz&#34;. Beta testers telling their friends &#34;You&#39;ve got to try this game&#34; is the most powerful marketing force in the industry. A few thousand evangelists working their personal social networks is better than millions of dollars of paid advertising. By the same token, beta testers saying &#34;don&#39;t bother, it sucks&#34; can kill a game, no matter how much money is spent on marketing.&lt;/blockquote&gt;He further recommends that beta be actually broken into more categories &lt;b&gt;Development Beta&lt;/b&gt;, &lt;b&gt;Playtesting Beta&lt;/b&gt;, &lt;b&gt;Scaling Beta&lt;/b&gt;, and &lt;b&gt;Load Beta&lt;/b&gt;. Part of the problem with Orkut is that they are lost in Scaling and Load Beta, when they need more Development and Playtesting Beta.&lt;/p&gt;
+&lt;p&gt;Another interesting blog entry found from in a comment at Danah&#39;s site, written by Jeremy Zawodny: &lt;a href=&#34;http://jeremy.zawodny.com/blog/archives/001504.html&#34;&gt;Why Google needs Orkut&lt;/a&gt;:&lt;br /&gt;
+&lt;blockquote&gt;What surprises me is that nobody has looked at it the other way around: What problems might Orkut solve that Google would otherwise find significantly more challenging?&lt;br /&gt;
+...&lt;br /&gt;
+Suddenly they&#39;re able to set a *.google.com cookie that contains a bit of identifying data (such as your Orkut id) and that would greatly enhance their ability to mine useful and profitable data from the combination of your profile and daily searches.&lt;/p&gt;
+&lt;p&gt;Of course, we know that the &#34;big three&#34; already do this sort of thing to some degree or another. But Google&#39;s lack of intimate knowledge of their users is surely holding them back from doing some of the things they&#39;d love to do. Many folks think it&#39;s just a matter of time before they try to get &#34;real&#34; users signed up.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I personally don&#39;t think Google is institutionally really that aware of Orkut. If anything, the negativity that the beta has raised may actually be causing this skunkworks group some headaches, given that Google is trying to go public. But yes, in the long term if Orkut is successful and absorbed into Google, this information will be used this way.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/01/correcting_marc_canters_perception_of_my_views.html#comments&#34;&gt;comment to Danah&#39;s blog&lt;/a&gt;, &lt;a href=&#34;http://www.bladam.com/&#34;&gt;Adam Lasnik&lt;/a&gt; writes:&lt;br /&gt;
+&lt;blockquote&gt;I have agreed with the majority of your complaints about orkut, danah, and indeed, have found myself also disappointed in what I feel is the lost opportunity (so far) for what Orkut (the guy) and Google (the company) could have set up from the get go. They have the means, the finances, and so on to have set up a truly sophisticated and thoughtful social network. I still optimistically think that orkut.com will amount to something impressive (useful and/or just damn fun) someday, though I wish the structure had been more sophisticated from the beginning.&lt;/p&gt;
+&lt;p&gt;With that said, I do have to agree with what I read from someone else recently (apologies -- the specific source is escaping me!) about how perhaps the ambiguity and unsophisticated structure of orkut.com is intentional... letting members shape things as they go along, almost as folks might build a sim-city from the ground up.&lt;/p&gt;
+&lt;p&gt;Perhaps. And perhaps not. I don&#39;t know.&lt;/p&gt;
+&lt;p&gt;Anyway, I&#39;ll continue to use orkut.com until it&#39;s either no longer fun and useful for me, or I feel it has no hopes of BECOMING fun and useful. At that time (and probably before), I&#39;ll be airing my concerns privately to the orkut.com team and publicly on my blog... but I&#39;ll maintain my respect for Orkut, orkut.com, Google, and the service terms to which I agreed to when I signed up.&lt;/p&gt;
+&lt;p&gt;I wish others would do the same.&lt;/blockquote&gt;Adam further points to his blog entry &lt;a href=&#34;http://www.bladam.com/archives/0401302002.htm&#34;&gt;Don&#39;t like it? Go home and don&#39;t come back&lt;/a&gt;:  &lt;/p&gt;
+&lt;blockquote&gt;But on the whole, I think folks who are unhappy with orkut (or any other privately-owned-and-run service) have exactly two choices:
+&lt;li&gt;stick with the service, but publicly or privately express concerns&lt;/a&gt;
+&lt;li&gt;quit the service (and, yep, still publicly or privately express concerns if they wish)&lt;/a&gt;&lt;/blockquote&gt;
+&lt;p&gt;In general I agree with Adam, if you are unhappy quit.&lt;/p&gt;
+&lt;p&gt;However, his first choice was &#34;publicly or privately express concerns&#34;. I&#39;ve been chastised for expressing publicly concerns about Orkut. For instance I was sent this message from someone by the Orkut message system:&lt;br /&gt;
+&lt;blockquote&gt;You are a bit annoying, and you seem to go about making things a better in the same way a child goes about crying to his mom because he didn&#39;t get his 4th lemon pop in a row.&lt;/blockquote&gt;Other then my first mistaken email about a possible &#34;friends of friends&#34; email security issue, I feel that my comments have been constructive. Yet obviously I&#39;ve hit some nerves (probably a good thing for Orkut that people are feeling that passionate to be defensive about it).&lt;/p&gt;
+&lt;p&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
+&lt;p&gt;In addition, feedback is a two-way street -- they could do a lot by offering a developers daily blog, or some type of regular announcement of what feature they wanted beta testers to test that day, or even acknowledgement &#34;we already know that is an issue&#34;. Also, they need to show respect for good feedback publicly, as that will encourage more good feedback.&lt;/p&gt;
+&lt;p&gt;None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.&lt;/p&gt;
+&lt;p&gt;I&#39;ve also received some interesting comments via email or Orkut messages.&lt;/p&gt;
+&lt;p&gt;This one about my concern about emails revealed when you send to &#34;friends of friends&#34;:&lt;br /&gt;
+&lt;blockquote&gt;When you give your trust to anyone, they can choose to abuse it, just like in real life. For example, I don&#39;t know how delighted Megan is that you chose to compose your glorious-whistle-blowing-yeah-look-at-me-I-pretended-I-was-friends-with-these-people-but-I am-not-and-I-am-so-r337-in-exposing-a-&#34;security hole&#34;-in-this-site message, but, as always, these actions can be remedied. For example, she can choose to remove you from her friends list, just like in real life &#34;friends&#34; who abuse someone&#39;s trust are not their friends anymore. This way you also very efficiently negatively advertise yourself to all of her friends so that they now know to stay away from you.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;I wonder if this type of behavior will happen? So far on any of these social networking services I&#39;ve never seen a message &#34;you have been removed from X&#39;s friend list&#34;. It is possible that I have been removed by someone, but so far I have not been told. And will someone look at someone friends list and say &#34;ah, he is no longer on there, so I will remove him&#34;. Right now, I doubt it.&lt;/p&gt;
+&lt;p&gt;One of my favorite messages sent to me on Orkut:&lt;br /&gt;
+&lt;blockquote&gt;I don&#39;t like that it&#39;s not easy to opt out. I&#39;ve already had to delete a flame from my &#34;scrapbook&#34; and I could see how this could turn ugly quickly. Without an opt-out I don&#39;t see how I have any way of getting out of there quickly if there&#39;s a problem. Maybe what they need is a way for me to put myself in jail for a period of time.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Dear,
+I liked your alacrity... first I didn´t know what is it and then I looked for that word in the diccionarie. Ok, I think the life must be made for alacrity.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.angelfire.com/ar/rosa01&#34;&gt;Ana Rosa&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-30T09:19:27-07:00&#34;&gt;2004-07-30T09:19:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I like your comment!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Julia Machado&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-18T22:33:40-07:00&#34;&gt;2004-10-18T22:33:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+iran
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yoosef&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-02T04:21:08-07:00&#34;&gt;2005-01-02T04:21:08-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+heloo     25   iran   neam;yoosef
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yoosef&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-02T04:28:06-07:00&#34;&gt;2005-01-02T04:28:06-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i live in great country that their goverments use filters for internet sites
+if you can help me in this way pls give me one way to break this filters
+tnx
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nana&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-09T14:02:08-07:00&#34;&gt;2005-01-09T14:02:08-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;please rejester me for orkut           Thank u
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.typepad.com/t/trackback/427094&#34;&gt;nina&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-21T16:31:11-07:00&#34;&gt;2005-01-21T16:31:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Get me one Okay????
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Teddy&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-02-05T22:01:19-07:00&#34;&gt;2005-02-05T22:01:19-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Orkut is plural of rather sensitive word in finnish language (sexual climax). Just to mention.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.url.com&#34;&gt;Somebody&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-03T03:32:42-07:00&#34;&gt;2005-11-03T03:32:42-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Well,from my first impressions of orkut,what i gather is that,u have to be careful in who u select as friends(incase of a stranger sending u a friend request).As for getting familiar with a person that can always be done by sending a few messages through the scrap book(before u accept the frind invite).Other very useful feature of the scrapbook is that it almost serves the purpose of an instant messenger(conversations being publicly viewable though),with the community feature you can make friends with like minded people by joiing communities.Havent gone through all the features yet,but if you dont go too much into the nitty gritties then it is all in all quite a decent product.And of course with a popular name like google backing it,this can only improve (google wont shelve it as it just has become way too popular in the beta stage itself)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Kiran&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-12T06:46:11-07:00&#34;&gt;2006-07-12T06:46:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insecurity at Orkut</title>
+      <link>https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html</link>
+      <pubDate>Sat, 31 Jan 2004 13:58:38 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html</guid>
+      <description>&lt;p&gt;Like many others, I&#39;ve been paying attention to &lt;a href=&#34;http://www.orkut.com/Profile.aspx?uid=2789681602836776519&#34;&gt;Orkut&lt;/a&gt; in the last couple of weeks. I&#39;ve answered more requests to be &amp;quot;friends&amp;quot; on Orkut then I have of any of the other half-dozen Social Networking Services I&#39;ve tried, and I&#39;ve looking at other people&#39;s friends to see if I know anyone. I&#39;ve yet to ask someone to join Orkut that wasn&#39;t already a member, and I&#39;ve been careful to not have anyone as a &amp;quot;friend&amp;quot; that I didn&#39;t know reasonably well and I thought knew me. Currently I have 68 Orkut &amp;quot;friends&amp;quot;, many more then I have on &lt;a href=&#34;http://www.linkedin.com/profile?viewProfile=&amp;amp;key=62844&#34;&gt;LinkedIn&lt;/a&gt;, which I&#39;ve been using for several months and have 50 &amp;quot;connections&amp;quot;.&lt;/p&gt;
+&lt;p&gt;In addition to this activity on Orkut, I&#39;ve been reading a lot of blogs about other people&#39;s experiences on Orkut. In particular, I&#39;ve found Danah Boyd&#39;s blog &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Apophenia&lt;/a&gt; a great source for thought on social networking services, so I&#39;ve got it near the top of my RSS aggregator. I&#39;d just read her rant &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/venting_my_contempt_for_orkut.html&#34;&gt;venting my contempt for Orkut&lt;/a&gt; when I saw a follow up post &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/orkut_pissyness_round_2.html&#34;&gt;orkut pissyness round 2&lt;/a&gt; where I read:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Wanna see a big phat privacy hole on Orkut? Go to messages. Click compose. Click &amp;quot;friends and friends of friends.&amp;quot; Click next. Copy &amp;amp; paste all of your friends and their friends&#39; email addresses.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I tested this out, and discovered she was correct, when I clicked &amp;quot;friends of friends&amp;quot; I got a long web page of names and email address. So I sent to this list I&#39;d generated:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;A serious security hole? Yep.
+&lt;/p&gt;
+&lt;p&gt;I just was shown 1137 friend and friends of friends email address, including your email address. As reported by Zephoria:&lt;/p&gt;
+&lt;p&gt;http://www.zephoria.org/thoughts/archives/2004/01/30/orkut_pissyness_round_2.htm&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I got a lot of replies back like &amp;quot;What did you expect?&amp;quot; and &amp;quot;That is why I don&#39;t use my main email for Orkut&amp;quot;.
+&lt;/p&gt;
+&lt;p&gt;I also got a reply from Orkut Buyukkokten via email:&lt;br /&gt;
+&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Could you please send an email to your friends and friends of friends to tell them that there is no security hole?
+&lt;/p&gt;
+&lt;p&gt;We worked very hard to ensure that the privacy of our members is not compromised in any way. I don&#39;t want our members to get the wrong impression.&lt;/p&gt;
+&lt;p&gt;I would greatly appreaciate it if you could pass the following message to you friends (:&lt;/p&gt;
+&lt;p&gt;You&#39;ll only see the e-mail addresses of people who chose to share them with you: if you mark your email address as not to be shared with friends and friends of friends, they won&#39;t be able to get your address this way. If you look at the list of people it&#39;s addressed to, you&#39;ll see that some are listed without addresses (unless you&#39;ve got very permissive friends).&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Somewhat abashed, I checked, and since the last time I&#39;d sent an email, the interface changed. I discovered that only 356 of 1137 of my friends of friends were actually allowing their email to be shown, and the rest now showed a &amp;quot;lock&amp;quot; icon next to their name. Of course, the first 100 or so on that list coincidentally allowed their emails to be shown, so I had assumed incorrectly that all had.&lt;/p&gt;
+&lt;p&gt;So I sent Orkut&#39;s reply out to my &amp;quot;friends of friends&amp;quot; and added links to my blog and this comment:&lt;br /&gt;
+&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;I&#39;m still quite uncomfortable with privacy issues of Orkut.com at this time. I&#39;ve had to reveal more information then I&#39;m comfortable, and the software is too lax in letting me see other people&#39;s info, for instance &amp;quot;relationship status&amp;quot; when I&#39;ve marked myself as not interested in that. Maybe Orkut is just trying to be too much.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I sent an email back to Orkut saying that I&#39;d sent this email, then continued to get a lot of replies to my original email, and I discovered that I was now in Orkut &amp;quot;jail&amp;quot;. This meant that I could not send messages, could not add friends or groups, etc. No reason was given for why I was in jail. The only reason why I&#39;d seen &lt;a href=&#34;http://blogs.it/0100198/2004/01/29.html#a2216&#34;&gt;other people in jail&lt;/a&gt; was because they had added too many friends too fast. I had only 50+ friends at the time, so I knew that wasn&#39;t the reason. I could only assume the worse.
+&lt;/p&gt;
+&lt;p&gt;I&#39;m out of Orkut &amp;quot;jail&amp;quot; this morning, but I still don&#39;t have any explanation of why. I continued to get replies both in support of my concerns:&lt;br /&gt;
+&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;I tend to agree with you. I&#39;ve learned more information than I expected about people. Also it&#39;s been a little odd to see people I know professionally on orkut, since I first conceptualized it as a social-friends service. (Then again, I&#39;ve found professors on Friendster, which is much more explicitly social, so perhaps I&#39;d better just accept that these people have lives.)
+&lt;/p&gt;
+&lt;p&gt;At the same time, I think that Orkut&#39;s attempt to be all things to all people has helped it take off. I feel easier asking professional contacts to join orkut than I would for Friendster. It seems like less of a big deal to add someone to your orkut list rather than on another more focused service, as there is a level of plausible deniability as to intention. &lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;As well as comments like:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;I don&#39;t want to be too harsh, but if perhaps you, and Danah, and Cory don&#39;t want to play then really no one is forcing you to play. But whining about things that you don&#39;t like is just, well, unseemly.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I took a break to think on why I responded so negatively when Orkut has the appearance of doing something wrong (first, the &#39;security hole&#39; that was a feature, and secondly the &#39;jail&#39;). Then it came to me:
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I&#39;m insecure about orkut.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Some of the definitions of &#39;insecure&#39; are &lt;em&gt;not firm or firmly fixed; likely to fail or give way; lacking self-confidence or assurance; not safe from attack; lacking in security or safety; not financially safe or secure;&lt;/em&gt;. The one that fits me the best is &amp;quot;lacking self-confidence or assurance&amp;quot;. Why do I feel this way about Orkut?&lt;/p&gt;
+&lt;p&gt;I guess my insecurity started out at the very beginning. As it is in beta, you can&#39;t join Orkut, you have to be invited. This made the place seem &#39;exclusive&#39; and thus possibly safer. Yet right off it asks you some fairly personal questions: What is your relationship style? What is your sexual orientation? Who are you living with? What are your politics?&lt;/p&gt;
+&lt;p&gt;Later I find out by looking at other people&#39;s information that this is all completely public. It isn&#39;t limited to just friends, or friends of friends, but instead is prominent. In fact, other then your name and how many &amp;quot;friends&amp;quot; you have, your relationship style is the most prominent thing listed. Do I really want to know that my business acquaintance that I see only at technical conferences 2 or 3 times a year is in an open marriage? Or divorced? Or gay?&lt;/p&gt;
+&lt;p&gt;I live in the Bay Area and I&#39;ve seen it all, and consider myself open and try to be consciously non-prejudiced. That&#39;s not to say that I&#39;m comfortable when I&#39;m hit on by another man, but for that matter, I&#39;m not that comfortable when I&#39;m hit on by a woman. The point is that I don&#39;t think about someone&#39;s sexual and personal choices when I interact with them. I don&#39;t care if you are gay, into S&amp;amp;M, or any other radical lifestyle. I don&#39;t care if your straight, chaste, and christian. What I do care about is your relationship to me -- if you feel that it is important to your identity to let me know, well that is between us. But I&#39;m not going to pry. I once had a male employee in my office that wore a dress to work -- I still don&#39;t know if he is gay or not. It didn&#39;t matter to me and he didn&#39;t tell me -- what mattered was that he was good employee.&lt;/p&gt;
+&lt;p&gt;This started my &#39;insecurity&#39; about Orkut. Later I read that you couldn&#39;t delete your pictures or profiles. This worried me. Then I read that the system was down because of a XML hack.&lt;/p&gt;
+&lt;p&gt;When Orkut came back after the hack, a new feature was added, fans and ratings. This made me yet even more uncomfortable. Did I really want to have to not say I was a fan of someone that said they were a fan of me? Wasn&#39;t endorsing someone a far better signifier of fan? What does Trustworthy mean? Cool? I refused to enter anything for Sexy. I worried if someone could see my ratings, or reverse socially engineer it, or hack it.&lt;/p&gt;
+&lt;p&gt;Thus these insecurities of mine led me to think the worst and to post too quickly about the &amp;quot;Friends of Friends Security Hole&amp;quot; and still feel uncomfortable about why I was put in &amp;quot;jail&amp;quot;.&lt;/p&gt;
+&lt;p&gt;So far I&#39;ve had no abuses of me by Orkut -- I&#39;ve had only two people ask me to be friends that I don&#39;t know, and so far I&#39;ve not been told that someone is my fan whom I&#39;m not willing to honestly say that I&#39;m a fan back. I&#39;ve even found some old friends that I&#39;d lost track of, which is exactly why I still &amp;quot;play&amp;quot; and not leave Orkut. I do believe that there may be something useful in these social network services.&lt;/p&gt;
+&lt;p&gt;Yet I feel that my old blog entry &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/evaluating_soci.html&#34;&gt;Evaluating Social Network Services&lt;/a&gt; that concluded with my take on &lt;strong&gt;The Perfect Social Network Service&lt;/strong&gt; is still quite on track:&lt;br /&gt;
+&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;My ideal service would have the multiple professional affiliation features of LinkedIn, but also allow me to show non-professional affiliations. It would allow me to form intentional communities like Tribes.Net, but would also let me do a Wiki in addition to a message board. It would have meeting/party invite services like eVite, and blogging features like LiveJournal. It would have an endorsement system like LinkedIn integrated not only with professional endorsements, but personal endorsements as well, and you could even endorse intentional communities. It would let me better map and control my network, giving different friends different privileges. It would handle the release of my personal information like Ryze, but less clunky.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I&#39;d add to that list that I&#39;d like to have more control over my information, in particular, relationship information. That I&#39;d like to see more &amp;quot;progressive disclosure&amp;quot; where there was more granularity of what was revealed at public, friends of friends, friends, fans, fans who I&#39;ve endorsed, etc. Finally, I&#39;d really not like to see things that are not applicable to me, such as relationship information of other people when I&#39;m not looking for relationships, or professional information of others if I&#39;m only using Orkut for dating.&lt;/p&gt;
+&lt;p&gt;[Update: another Orkut user and I found a different privacy hole when sending emails -- see &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/confirmed_email.html&#34;&gt;Confirmed Email Privacy Hole at Orkut&lt;/a&gt;.]&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The only reason why I&#39;d seen other people in jail was because they had added too many friends too fast.
+There is no basis in this assumption other than, maybe, a little hubris. The constant repetition of this unfounded claim speaks volumes about the research and professionalism of those perpetuating it. Marc, at least, had a question mark after that sentence.
+Fact is, some people have been &#34;jail&#34;-ed for violating the Orkut TOS, namely the posting of images of children or nude photography. One person I know of has been suspended for posting copyrighted images. Now, one may think that the limitations are overly stupid and should be changed, but as it stands a look at Marc&#39;s profile shows, that he has been most likely suspended for the images of his children. I think is is safer to assume, he has been &#34;jailed&#34; for violating the TOS, than for having too many &#34;friends&#34;.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.netwarriors.org&#34;&gt;Jonas M Luster&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T14:25:25-07:00&#34;&gt;2004-01-31T14:25:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Hmm, nothing in the message said anything about TOS. In fact, I later received an email from Orkut saying &#34;Your account was blocked by the system automatically. The block is temporary. Your account should be fine now. I apologize for the inconvenience.&#34;
+I still don&#39;t know why I was in &#34;jail&#34; last night, and in fact, now I&#39;m in &#34;jail&#34; again late today, so I can only assume that it is because I sent another email to &#34;friends of friends&#34; as that is the only common event between last night and today.
+If they use the &#34;jail&#34; for TOS as well as for slowing down people like Marc and I, then I think that is a big mistake to use the same name for both purposes.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T14:33:07-07:00&#34;&gt;2004-01-31T14:33:07-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;What is your proof for the &#34;slowing down&#34; of Marc?
+His assertions aside, Marc is by far not the most prolific linker, and has not been adding friends as fast as some others, who are neither in Jail nor suspended. Other, much less prolific linkers, have been suspended, all of which share the fact that their actions (the posting of children pics) violated an admittedly stupid TOS provision. At this point, it&#39;s Marc&#39;s assumption (&#34;they don&#39;t like me, because I link a lot of people&#34;) against a trend in suspensions that is closely related to what images have been posted.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.netwarriors.org&#34;&gt;Jonas M Luster&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T14:48:16-07:00&#34;&gt;2004-01-31T14:48:16-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I too am concerned about a lot of things regarding Orkut, and working on a post of my own about it. But, just to contribute to this, I&#39;ve sent two messages to friends of friends and haven&#39;t been in Jail or anything yet.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.seanbonner.com&#34;&gt;sean bonner&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T15:26:43-07:00&#34;&gt;2004-01-31T15:26:43-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;&lt;i&gt;Later I find out by looking at other people&#39;s information that this is all completely public. It isn&#39;t limited to just friends, or friends of friends, but instead is prominent. In fact, other then your name and how many &#34;friends&#34; you have, your relationship style is the most prominent thing listed.
+That I&#39;d like to see more &#34;progressive disclosure&#34; where there was more granularity of what was revealed at public, friends of friends, friends, fans, fans who I&#39;ve endorsed, etc.&lt;/i&gt;
+There&#39;s quite a bit of granularity already, since launch, which you continue to ignore. Every one of your hypothetically incomfortable tidbits of information are filterable by social distance, that is, yourself, friends, friends of friends, everyone. And I can only expect that you will be able to filter by karma/fan, since that would be one of the only primary benefits to the end user of the karma system.
+I&#39;m not sure what you mean by &#34;XML hole&#34;. Perhaps you meant XSS? To my knowledge, the precise reasoning for Orkut&#39;s shutdown has not been revealed, but judging by what I&#39;ve noticed has changed, it seems like they took it down to remove the ability of users to broadcast messages to the everyone on the site. The reply-to-all button is gone, and you can no longer send a message to a saved search.
+I can think of more applicable (and offensive) words for the orkut-bashing chicken-littles than &#34;unseemly&#34;.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://aramchek.net&#34;&gt;dreww&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T18:25:25-07:00&#34;&gt;2004-01-31T18:25:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I don&#39;t like that it&#39;s not easy to opt out. I&#39;ve already had to delete a flame from my &#34;scrapbook&#34; and I could see how this could turn ugly quickly. Without an opt-out I don&#39;t see how I have any way of getting out of there quickly if there&#39;s a problem. Maybe what they need is a way for me to put myself in jail for a period of time.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://peaceandlove.com/&#34;&gt;Trash Averse&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-01-31T22:31:52-07:00&#34;&gt;2004-01-31T22:31:52-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I&#39;ve joined a few social networks, revealing things about myself that I don&#39;t mind if everyone reads.  Things I don&#39;t want &#39;everyone&#39; to know, I don&#39;t add to these networks.
+I also choose my communities/tribes/groups knowing everyone will be able to see my interests, and have avoided joining some I considered interesting but don&#39;t want linked to my profile.
+I use disposable email addresses for social groups; when weaknesses are found, I&#39;m not disturbed by it.  I think others might be though, because they might reveal more about themselves that what I did.  I&#39;ve changed my settings to not expose my address to everyone (I think, there&#39;s a lot of places to check).
+I think it&#39;s good that weaknesses are exposed, even publicly.  Not picking on any particular network, but if a person found a weakness in it, and reported it to them, there&#39;s a chance it would be missed/overlooked/ignored.
+Perhaps there are some that would take a reported weakness about their network very seriously, probably not as many though.
+So by making the weaknesses public, I think it puts a fire under the developers to patch the hole.  Would Orkut&#39;s hole have been patched as quickly as it was if the persons that found the hole had reported it to them instead of publicly?  Maybe, maybe not.
+If a network does take immediate measures to patch holes as soon as they&#39;re reported, I&#39;d think it would be nice to give them advance notification before going public with the breach.  But I&#39;m pessimistic about this, and think it probably takes threat of bad publicity to get some networks to patch.
+Keep up the good works; your blog is very interesting, and I&#39;ve subbed your RSS in my Bloglines.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://shreela.f2o.org&#34;&gt;Sherri&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-16T05:44:11-07:00&#34;&gt;2004-02-16T05:44:11-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I also felt insecure about Orkut, I went to jail maybe because of too many friends in short time (281), but I did not receive any explanation, do not know when the jail will be open and do not know why and when it could be closed again.
+http://www.orkut.com/Profile.aspx?uid=13086236090759842440
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.ecuaderno.com&#34;&gt;Jose Luis Orihuela&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-16T13:29:26-07:00&#34;&gt;2004-02-16T13:29:26-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Regarding your perfect vision of a social networking service:  I guess one could say there maybe other features that someone else might like and visa versa.  So, maybe the perfect service would allow you to pick and choose from a menu of features and services.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;bardia&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-24T16:46:35-07:00&#34;&gt;2004-02-24T16:46:35-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+hey...invite me to orkut...ive been trying to find someone whos a member so thell invite me...but ur the onlyone i know
+thanx!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;CamilA&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-05-02T16:24:19-07:00&#34;&gt;2004-05-02T16:24:19-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I realize this is kind of late to respond... But Every bit of information other than your name is pretty much optional. You only have to tell Orkut what you want to tell it, and the visibility of what you tell it is controllable by defining when strangers/friends/etc can see... I&#39;m thinking part of your paranoia is a misunderstanding of how the system works.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;CbiMerrow&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-05-06T10:22:24-07:00&#34;&gt;2004-05-06T10:22:24-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I got put in Orkut jail! Here&#39;s why. I had created a community for those critical of the Macintosh and the mac zealots all ganged up and marked me as bogus user! I sent a fed-ex to Orkut demanding he remove from his system all of the Mac users who abused the &#34;bogus user&#34; button. So far, no reply
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Reuven&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-05-18T21:59:51-07:00&#34;&gt;2004-05-18T21:59:51-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+please, i just want to know what the word orkut means, etimological or eletronic one.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Antonio Carlos&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-06-26T23:40:44-07:00&#34;&gt;2004-06-26T23:40:44-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Al I have to say to is that if you are so unconfortable with Orkut, just get out, and don&#39;t be a part of the communite. I&#39;m not trying to defend orkut or something, but I&#39;ve found a lot o friends that i&#39;ve not seen for many years and that is the power of orkut.. find or be together friends
+I guess that make you unconfortable too... if you don&#39;t like don&#39;t try to finish with a whole ideia, that in my point of view is very good.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Marcelo&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-25T11:19:36-07:00&#34;&gt;2004-07-25T11:19:36-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Al I have to say to is that if you are so unconfortable with Orkut, just get out, and don&#39;t be a part of the communite. I&#39;m not trying to defend orkut or something, but I&#39;ve found a lot o friends that i&#39;ve not seen for many years and that is the power of orkut.. find or be together friends
+I guess that make you unconfortable too... if you don&#39;t like don&#39;t try to finish with a whole ideia, that in my point of view is very good.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Marcelo&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-25T11:19:45-07:00&#34;&gt;2004-07-25T11:19:45-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+There are other reasons to be in jail. Some people say that people that &#34;spam&#34; a lot go to jail.
+There are a link under the photo of any person that anyone can click. That link says report as bougus.
+But I realy don´t know...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Marcelo Vergara&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-27T15:26:34-07:00&#34;&gt;2004-07-27T15:26:34-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+plz make me a member of orkut.com  plz.....
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;maliya&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-05T07:25:40-07:00&#34;&gt;2004-08-05T07:25:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Hi... I&#39;d like to ask how Orkut works...
+Do i need to be invited to use Orkut??
+thanks ... bye ...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;rafael&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-01T14:32:47-07:00&#34;&gt;2004-11-01T14:32:47-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Hi again :) ... People really go to jail because of orkut?!!?
+They&#39;r real life is destroyed because a fucking idiot computer program???
+if this is true......
+Orkut users are a bunch of dumb people who riscs they&#39;r freedom at this idiot program of &#34;&#34;FRIENDS&#34;&#34;
+thanks.... bye ....
+sorry if i offended someone...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;rafael&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-01T14:36:27-07:00&#34;&gt;2004-11-01T14:36:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+well i dont know if u had experienced this but i found a different hole. i browsed throught friends and friends of friends and went to community search added a community and when i went to create one i found out that somebody in india is owner of it. i hit the home button and here i was at the home page of that indian guy. with all access from changing his profile to terminate his account.
+well if i got there somebody can get to mine.
+ANZ
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;amyn&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-06T13:30:02-07:00&#34;&gt;2004-11-06T13:30:02-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I have been playing around with Orkut a lot in the last 24 hours. One thing I don&#39;t understand about these Social Networking Platforms is why they ask for useless information and why they don&#39;t ask for the interesting things.
+Example: Orkut gives me five large textareas to explain things like what I have learned from my past relationships. It lets me give Karma-Points to Phil Wolff if I think he is sexy. It lets me upload photos of my cat.
+But it does not ask me if I have ever met Phil in person. (I have.) It does not ask me for how long I have known him. It does not distuinguish between &#34;friend&#34; and &#34;acquaintance&#34;.
+It asks &#34;Is xxx your friend?&#34; and I am supposed to give a &#34;thumbs-up&#34; or a &#34;thumbs-down&#34;. (And if I say &#34;no&#34; I cannot even add an explanation to that. I hope I haven&#39;t hurt anybody.)
+I don&#39;t get it. It would be so easy to gather this information and it would be so valuable. A simple &#34;have met in person&#34;-flag or something like &#34;How often have you met X?&#34; - &#34;never - once - several times - often - meet regularly&#34; would do it and give so much more depth to the network.
+What is it that I am missing? Why is Orkut not gathering more data about the relationships of its members? (Like most of the information it could be optional - I bet many people would share it.) Please enlighten me.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.edgenericpills.com&#34;&gt;Robin Smith&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-09T20:07:28-07:00&#34;&gt;2004-11-09T20:07:28-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+hi
+i wnt to become a member of orkut
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nasir&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-15T14:44:44-07:00&#34;&gt;2004-11-15T14:44:44-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i came across lifewithalacrity a while ago [6:20 pm GMT, Nov 18, 2004] while i was searching for answers regarding &#39;identity theft&#39; on orkut after suffering a harrowing experince on that social networking site. i&#39;ve been a member of Orkut for no more than 2 months now. i&#39;m a journalist and work for a satellite tv channel in Pakistan. i have so far added 16 friends to my freind&#39;s list on Orkut who r either journalists, or celebrated singers, or tv actors/actresses in my country. this is the first ever social networking forum i&#39;ve joined primarily becuase i have always had security concerns regarding privacy on other forums and because it was in affiliation with Google, offering a degree of reliability. throughout the time i have been a member of Orkut, i have sufferd loging and access problems on the site. there were times i culd not log into my account at all, or access my messages or access my friends. logging out was especially a major hassle becuase 8 out of 10 times i culdn&#39;t log out at the end of a session because when i tried to log out i got a messgae saying that the page i was trying to access was no longer available. i&#39;d try a couple of times and then close the browser window which was always a source of concern becuase i use cablenet connection and remain apprehensive of leaving my account open and vulnerable on the network server if i dont log out. i duly reported all of this to the orket team via emails but all they ever sent me were automated replies telling me that due to the rapid expansion of Orkut these problems wuld come up especially since the software was beta. Today however i got a real shock when i logged into my account at about 1:15 pm GMT. There were horrible messages sent from account to all my freinds [scribbled on their scrapbooks mostly], messages like &#39;hey guys i am gay&#39; and &#39;you suck!&#39;. my user name and password to my account are known only to me. i dont knwo how someone got access to my account and sent these messages to all my freinds and made posts in my name on the communities i am a member of.
+my first instinct was to remove my account altogether from orkut. but then i thought that this was precisly what the malicious act was meant to do, to intimidate me ne and annoy me.
+but i am seriously not sure what i should do to ensure my id is not stolen again. any suggestions?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;tahir&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-18T10:55:45-07:00&#34;&gt;2004-11-18T10:55:45-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;please ask me to orkut
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://us.f524.mail.yahoo.com/ym/login?.rand=bkhibvtb9dj1d&#34;&gt;mohamad&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-09T19:07:32-07:00&#34;&gt;2005-01-09T19:07:32-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Well dear, yet I have not been invited by any one to join orkut. Can you help me to join orkut.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Abbas&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-18T04:45:43-07:00&#34;&gt;2005-01-18T04:45:43-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;i can not go in orkut site cus of proxy how can i passed it iam living in iran
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.orkut.com&#34;&gt;mani&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-31T01:06:02-07:00&#34;&gt;2005-01-31T01:06:02-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;hi mani,
+Access http://www.openproxies.com
+[]&#39;s
+Weber Ress
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://weber.blogspot.com&#34;&gt;Weber Ress&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-31T07:37:51-07:00&#34;&gt;2005-01-31T07:37:51-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+give me ID in orkut
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;snopy&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-04T04:04:10-07:00&#34;&gt;2005-03-04T04:04:10-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i can not go in orkut site cus of proxy how can i passed it iam living in iran
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;sara&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-13T12:25:28-07:00&#34;&gt;2005-03-13T12:25:28-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i can not go in orkut site cus of proxy how can i passed it iam living in iran
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;neda&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-21T07:45:27-07:00&#34;&gt;2005-03-21T07:45:27-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Some guy named Junaid from Karachi, Pakistan put up my cell no. on orkut in the call girls&#39; list. I have been receiving countless phone calls from guys asking me how much i charge. This is pathetic because i don&#39;t even know any Junaid and i had never heard of this site till some guy called and told me that my cell no. was on display and so was my name under the call girl list.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Maheen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-23T05:09:00-07:00&#34;&gt;2005-03-23T05:09:00-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/insecurity_at_o.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

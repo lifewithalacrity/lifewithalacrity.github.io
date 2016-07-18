@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hole on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/hole/</link>
+    <description>Recent content in Hole on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2004 17:12:22 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/hole/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Confirmed Email Privacy Hole at Orkut</title>
+      <link>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</link>
+      <pubDate>Sun, 01 Feb 2004 17:12:22 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</guid>
+      <description>&lt;p&gt;Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.&lt;/p&gt;
+&lt;p&gt;For instance, whenever I send a message to anyone in the system that is forwarded by email, in the message headers it will read:&lt;/p&gt;
+&lt;blockquote&gt;&lt;pre&gt;
+From: &#34;Christopher Allen&#34; &amp;lt;member@orkut.com&amp;gt;
+Reply-To: &#34;Christopher Allen&#34; &amp;lt;christophera@alacritymanagement.com&gt;;&lt;/pre&gt;&lt;/blockquote&gt;
+&lt;p&gt;When someone reads the message in their email software, the &#34;From:&#34; line will be my name but the fake email of &amp;lt;member@orkut.com&amp;gt; -- however, when you reply to it, it will use my real email address. This appears to happen whether or not I have my privacy settings to reveal my email address. For instance, I can set it so that no one (not friends, not friends of friends, only myself) can see my email address, but the address will still be revealed when I send an email&lt;/p&gt;
+&lt;p&gt;I had reported what I thought was a security flaw when you emailed to &#34;friends of friends&#34; a couple of days ago, but I was mistaken, as I reported in my blog &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;Insecurity at Orkut&lt;/a&gt;.  However, as I didn&#39;t want risk &#34;crying wolf&#34; this time, so my friend and I triple checked this and have confirmed this privacy flaw.&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.&lt;/s&gt; [Updated: I was wrong, there is no way currently to avoid this other then not using an email address you care about.]&lt;/p&gt;
+&lt;p&gt;There are some that will say that this is a feature, i.e. when using email &#34;what good is communicating with someone if there is no chance of a response&#34; -- my answer to this is that an expectation has been set that email addresses can remain private, and if this is to be a feature, then users should be warned before sending an email &#34;Your email address user@domain will be revealed when you send this.&#34; More ideally, like other social networking services, the &#34;Reply-to:&#34; should be to a special email address at Orkut that will do the lookup and forward appropriately.&lt;/p&gt;
+&lt;p&gt;One of the essential problems that Orkut needs to fix very soon is how to report problems like these, and if you are trying to help how to know that these problems exist. I want my criticism to be constructive, but it is very hard when you have no idea what is the best way to offer feedback. I&#39;ve had many people reply to me in my blog and via email that they feel the same way.&lt;/p&gt;
+&lt;p&gt;For instance, right now there are 6 Orkut groups about Orkut:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=617&#34;&gt;What Should Orkut Do?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=2026&#34;&gt;Flaws in Orkut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=3982&#34;&gt;Orkut&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=1289&#34;&gt;Orkut Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=781&#34;&gt;Orkut: Tips, Feedback, ?&#39;s&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=4556&#34;&gt;Orkut Members&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Which groups should I post this problem to? Which will will be read by the Orkut staff?&lt;/p&gt;
+&lt;p&gt;As I&#39;ve said in another of my blog postings &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/followup_on_ork.html&#34;&gt;Followup on Orkut&lt;/a&gt;: &lt;blockquote&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
+&lt;p&gt;In addition, feedback is a two-way street -- they could do a lot by offering a developers daily blog, or some type of regular announcement of what feature they wanted beta testers to test that day, or even acknowledgement &#34;we already know that is an issue&#34;. Also, they need to show respect for good feedback publicly, as that will encourage more good feedback.&lt;/p&gt;
+&lt;p&gt;None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;For now, I recommend that these type of bug reports go into &lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=6048&#34;&gt;Orkut Beta&lt;/a&gt;&lt;/li&gt;. Why not in &#34;Flaws in Orkut&#34; or in one of the other groups? Because I feel that focusing on &#39;Flaws&#39; is too strongly negative, and none of the others quite fit. I&#39;ve been a software developer -- everything is a compromise and good design is hard. By staying on the topics of current features, feature requests, bugs, suggestions, and by encouraging constructive critism and a balance of both positive and negative feedback, this group will be the best community for us to help Orkut until they offer us better alternatives.&lt;br /&gt;
+&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;In the above I said &#34;They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.&#34;
+However, this is incorrect, it will still send your email address in the
+&#34;Reply-To:&#34;
+At this time there is no way I know of to avoid this flaw if you are concerned about your email address other then changing it to a temporary one.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-01T21:47:40-07:00&#34;&gt;2004-02-01T21:47:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;That&#39;s a pretty big &#34;bug&#34; (or unpublished feature) indeed (!)
+For example, personally I try to keep my work email address off the net as much as possible, and have set pretty strict privacy settings on orkut, assuming they&#39;d keep it private...
+Coincidentally (!!??) the amount of spam I&#39;m receiving at my work email address has gone up vastly since joining Orkut... A very odd coincidence...
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.jacobsen.no/anders/blog/&#34;&gt;Anders&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T04:14:32-07:00&#34;&gt;2004-02-03T04:14:32-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I discovered why I got &#39;jailed&#39; for a third time today. Two of us appear to have been jailed because of a bug when posting to groups. What happens is that if you write a long post, rather then the system tell you something is wrong, your posting form will just be refreshed. This will prompt you to submit a few more times, unsuccessfully. Then you realize it must be because your post is too long, so you&#39;ll remove text a few times, and submit. At some point in this process, typically before you successfully trim it down enough to successfully post, you will discover you are in Orkut jail.
+Of course, that makes us long-winded bloggers particularly vulnerable ;-)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T07:17:25-07:00&#34;&gt;2004-02-03T07:17:25-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+my suggestion for forum:  orkut design, because orkut the man himself is a member of that community.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;reader&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-04T17:18:21-07:00&#34;&gt;2004-02-04T17:18:21-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;beta testing for www.swakto.com social networking is open
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.swato.com&#34;&gt;jemai&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-14T12:40:16-07:00&#34;&gt;2004-07-14T12:40:16-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+ive been banned on orkut. what is the maximum time you are banned or when they reply to you?
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;sherrzz&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-18T19:06:48-07:00&#34;&gt;2004-07-18T19:06:48-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+i don&#39;t know much more about orkut i just want to know what this side about of side.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nawin&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-12T00:51:10-07:00&#34;&gt;2004-10-12T00:51:10-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

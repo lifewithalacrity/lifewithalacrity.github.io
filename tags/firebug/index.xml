@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firebug on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/firebug/</link>
+    <description>Recent content in Firebug on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jul 2007 23:19:52 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/firebug/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>iPhoneDevCamp and Hack-a-Thon</title>
+      <link>https://lifewithalacrity.github.io/2007/07/iphonedevcamp-a.html</link>
+      <pubDate>Sun, 08 Jul 2007 23:19:52 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2007/07/iphonedevcamp-a.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/750701139/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/2007/07/08/everyone.jpg&#34; title=&#34;Everyone&#34; alt=&#34;Everyone&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; I feel privileged and honored to have been part of the &lt;a href=&#34;http://barcamp.org/iPhoneDevCamp&#34;&gt;iPhoneDevCamp&lt;/a&gt; this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.&lt;/p&gt;
+&lt;p&gt;I was the keynote speaker on Saturday and Master of Ceremonies for the MacHack-style &lt;a href=&#34;http://barcamp.org/iPhoneDevCampHackAThon&#34;&gt;Hack-a-Thon Demo&lt;/a&gt; on Sunday.&lt;/p&gt;
+&lt;p&gt;At the Hack-a-Thon almost 50 iPhone web applications were demonstrated to an enthusiastic audience. Take a look at &lt;a href=&#34;http://www.xeodesign.com/tilt&#34;&gt;Tilt&lt;/a&gt;, a game that takes advantage of the iPhone&#39;s motion sensor, &lt;a href=&#34;http://www.mxis.com/pickleview&#34;&gt;PickleView&lt;/a&gt;, which is a same-time live baseball game enhancer, and &lt;a href=&#34;http://www.bartholo.com/devcamp/pool.html&#34;&gt;The Pool&lt;/a&gt;, an attractive social game of water droplets hitting a pool. What is remarkable about these applications is not just the quality, but that each of them was written over just the weekend by a small team of 3-4 people who hadn&#39;t met each other before Friday!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/snackfight/750214294/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;150&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/2007/07/08/hewitt.jpg&#34; title=&#34;Hewitt&#34; alt=&#34;Hewitt&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;&lt;/a&gt; Prizes were awarded after the Hack-a-Thon based on the spirit of openness, contribution, sharing, and participation. Prizes included 3 iPhones and some very expensive Adobe software. In particular &lt;a href=&#34;http://www.joehewitt.com/&#34;&gt;Joe Hewitt&lt;/a&gt;, of &lt;a href=&#34;http://www.getfirebug.com/&#34;&gt;Firebug&lt;/a&gt; fame, was honored for his positive contributions, generous spirit, and wonderful iPhone UI &lt;a href=&#34;http://www.joehewitt.com/files/iphone/navigation.html&#34;&gt;example code&lt;/a&gt;. During the demonstrations, more than one person praised Joe, saying that his assistance, his code, or his debugger made their apps possible. Personally, I think about one-third of the web apps presented used some of his code.&lt;/p&gt;
+&lt;p&gt;Building on my experience with the same-time collaboration tool &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;, and the &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos&lt;/a&gt; web-based games, I worked remotely with &lt;a href=&#34;http://www.kallealm.com/&#34;&gt;Kalle&lt;/a&gt; from Sweden and &lt;a href=&#34;http://is-here.com/&#34;&gt;Erwin&lt;/a&gt; from Kansas to present an AJAX chat application called &lt;a href=&#34;http://www.iphonewebdev.com/ilace/&#34;&gt;iLace&lt;/a&gt;. I am particularly proud of how well this little web application performs and how well it works using the iPhone UI. In particular, I think its melding of text entry and chat message receipt and its response to changes between portrait and landscape modes are very good examples of what can be done for chat on the iPhone. Source code is &lt;a href=&#34;http://www.iphonewebdev.com/ilace/about.html&#34;&gt;available&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/749665338/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/images/2007/07/08/keynote.jpg&#34; title=&#34;Keynote&#34; alt=&#34;Keynote&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; My keynote presentation slides are now available in &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.pdf&#34;&gt;.pdf&lt;/a&gt; and &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.mov&#34;&gt;.mov&lt;/a&gt;. I&#39;m told a live recording of the session and an .mp3 will be available soon.&lt;/p&gt;
+&lt;p&gt;Over the last few weeks an online developer community that I started at WWDC called &lt;a href=&#34;http://www.iPhoneWebDev.com&#34;&gt;iPhoneWebDev&lt;/a&gt; has grown to over 650 members. It&#39;s now the best place to get online support for building iPhone web pages and webapps. I&#39;d like to keep the momentum from the iPhoneDevCamp going forward on this list, so if you are interested in developing for the iPhone, check out the &lt;a href=&#34;http://www.iPhoneWebDev.com/examples&#34;&gt;example code&lt;/a&gt; and &lt;a href=&#34;http://www.iphonewebdev.com/&#34;&gt;join&lt;/a&gt; the discussion today!&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2007/07/iphonedevcamp-a.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

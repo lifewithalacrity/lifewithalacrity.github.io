@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socialtext on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/socialtext/</link>
+    <description>Recent content in Socialtext on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/socialtext/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SynchroEdit: Simultaneous Editing for the Web</title>
+      <link>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</link>
+      <pubDate>Sat, 08 Oct 2005 16:04:17 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</guid>
+      <description>&lt;p&gt;For the last several months I&#39;ve been working on a new open source project that I&#39;ve been calling &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;. SynchroEdit is a browser-based simultaneous multiuser editor, useful for &lt;a href=&#34;http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html&#34;&gt;&amp;quot;same-time&amp;quot; collaboration&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/synchroeditmac.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=493,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;262&#34; height=&#34;202&#34; border=&#34;0&#34; alt=&#34;Synchroeditmac&#34; title=&#34;Synchroeditmac&#34; src=&#34;http://www.lifewithalacrity.com/images/synchroeditmac.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.&lt;/p&gt;
+&lt;p&gt;SynchroEdit is a tool for &amp;quot;same-time&amp;quot; collaboration, either &amp;quot;same-time, different-place&amp;quot;, as in teleconference calls, or &amp;quot;same-time, same-place&amp;quot;, during a meeting or a conference. If you&#39;ve ever used &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; on Mac OS X, or &lt;a href=&#34;http://www.moonedit.com&#34;&gt;MoonEdit&lt;/a&gt; for Windows or Linux, or the cross-platform &lt;a href=&#34;http://gobby.0x539.de/&#34;&gt;Gobby&lt;/a&gt;, this is a similar experience. The difference is that unlike those tools you are not limited to just plain text -- character styles (bold, italic, etc.) and paragraph styles (rulers, headers, blockquotes, etc) are synchronized as well. And of course, it all works inside your browser.&lt;/p&gt;
+&lt;p&gt;SynchroEdit is inspired by my frustration with the lack of an easily accessible cross-platform simultaneous editor. Many times when I&#39;ve been on the phone with a colleague discussing a draft blog entry, or demonstrating some code, or on a teleconference call with others to discuss a proposal or a standard, or at a conference taking notes with others, I&#39;ve wanted to have this tool. The rare occasions that we all have been on the same platform and have been able to use an existing tool have demonstrated to me the value of having a good simultaneous editor. Having SynchroEdit available will make it easier for people to have these positive collaborative experiences.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;I have a long history with &amp;quot;same-time&amp;quot; collaboration tools -- back in 1988 I was briefly executive producer at Broderbund for a same-time groupware product called &lt;a href=&#34;http://www.google.com/search?q=cache:1cDDTqwlqGoJ:www.the-scientist.com/yr1988/jul/software_p22_880725.html+%2Bbroderbund+%2B%22for+comment%22+groupware&#34;&gt;For Comment&lt;/a&gt;. Unfortunately, the success of the Nintendo game console forced Broderbund to drop all of their non-consumer product efforts. In the early 90&#39;s I worked on several different &amp;quot;same-time same-place&amp;quot; groupware tools for live meetings. Most recently, my game company &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos Tech&lt;/a&gt;, created several browser-based &amp;quot;enhanced chat&amp;quot; clients for playing in MUSH-like storytelling games, which are also &amp;quot;same-time&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I personally believe that that this capability should be a fundamental feature of the web, sort of the obvious extension of &lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Berners-Lee&#34;&gt;Tim Berners-Lee&#39;s&lt;/a&gt; &lt;a href=&#34;http://news.bbc.co.uk/1/hi/technology/4132752.stm&#34;&gt;vision&lt;/a&gt; of the editable web. Thus my desire to offer this tool as open source, allowing anyone to add this capability to their own software (unlike proprietary editor services such as &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt; or &lt;a href=&#34;http://www.writely.com/&#34;&gt;Writely&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;The challenge with offering SynchroEdit as open source is finding a business model -- unlike an application like &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; or a service like &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt;, it is difficult to get revenues from individual users. Instead, we ask for contributions from companies that might find the tool useful, we offer consulting to customize it for specific purposes, and we give these companies public credit for their contributions to the common good.&lt;/p&gt;
+&lt;p&gt;The first company to step up to the plate is &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;, an enterprise wiki company. Clearly, being able to offer this capability to their customers will give them added value, and they already have a history of using open source with their support of &lt;a href=&#34;http://www.kwiki.org/&#34;&gt;Kwiki&lt;/a&gt; and &lt;a href=&#34;http://www.wikiwyg.net/&#34;&gt;Wikiwyg&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The second supporter is venture capitalist and blogger &lt;a href=&#34;http://joi.ito.com/&#34;&gt;Joichi Ito&lt;/a&gt;. He is is particularly well known for his own experiments with &amp;quot;same-time&amp;quot; collaboration. He runs a continuous #joiito IRC chat room, active 24 hours a day with hundreds of his friends. He also has done many live &amp;quot;same-time&amp;quot; experiments with chat backchannel during his talks at various conferences.&lt;/p&gt;
+&lt;p&gt;In addition to to financial support of SocialText and Joichi Ito, I have some offers of help from the &lt;a href=&#34;http://www.bgiedu.org&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;, who plan to use it in its socially responsible and environmentally sustainable MBA program, and we&#39;ve also taken advantage of some code developed by &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder I met when he was creating an online game at Skotos. Skotos has long had the vision of having games created by its members, and Kalle Alm was the first member to create a game completely from scratch using Skotos&#39; tools.&lt;/p&gt;
+&lt;p&gt;We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we&#39;ll need more partners to help.&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://lifewithalacrity.blogs.com/photos/uncategorized/christopher_allen_web2point1_brainjam.png&#34; title=&#34;Christopher_allen_web2point1_brainjam&#34; alt=&#34;Christopher_allen_web2point1_brainjam&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;I did a demo of last year&#39;s open source project, &lt;a href=&#34;http://www.EditThisPage.net&#34;&gt;EditThisPage&lt;/a&gt;, and of the SynchroEdit alpha at &lt;a href=&#34;http://www.web2point1.org/&#34;&gt;Web 2.1 BrainJam&lt;/a&gt; last week; there are two videos available from Enric Teller&#39;s vBlog: &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/&#34;&gt;Presentation&lt;/a&gt; and &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/&#34;&gt;Q&amp;amp;A&lt;/a&gt;.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;If you are interested in learning more, visit the &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit website&lt;/a&gt;. We have additional information on the program, a &lt;a href=&#34;http://wiki.synchroedit.com&#34;&gt;developers wiki&lt;/a&gt;, as well as a sandbox that you can play in to demonstrate SynchroEdit in use.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+I&#39;m curious about what ways you think this could be useful as a teaching aid? Have you looked into particular implementations or studied existing case studies?
+(I have studied this a fair amount and I don&#39;t think there are existing case studies, especially in the classroom, which is why I ask.. I&#39;m looking at ways in which chatrooms could be incorporated into classroom environments as a backchannel)
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yardi&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-16T11:00:54-07:00&#34;&gt;2005-11-16T11:00:54-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/10/for_the_last_se.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intimacy Gradient and Other Lessons from Architecture</title>
+      <link>https://lifewithalacrity.github.io/2004/08/intimacy_gradie.html</link>
+      <pubDate>Thu, 26 Aug 2004 16:56:26 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/08/intimacy_gradie.html</guid>
+      <description>&lt;p&gt;A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;The Dunbar Number&lt;/a&gt; in sociology, and both &lt;a href=&#34;http://www.lifewithalacrity.com/2004/04/four_kinds_of_p.html&#34;&gt;Four Kinds of Privacy&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2004/08/progressive_tru.html&#34;&gt;Progressive Trust&lt;/a&gt; come from my work in the cryptography field. The topic of this post comes from the field of architecture.&lt;/p&gt;
+&lt;p&gt;In order to provide for &lt;a href=&#34;http://www.lifewithalacrity.com/2004/08/progressive_tru.html&#34;&gt;Progressive Trust&lt;/a&gt;, you need to establish what is known as an &#34;Intimacy Gradient&#34;.&lt;/p&gt;
+&lt;p&gt;The concept of Intimacy Gradient comes from architect Christopher Alexander, in his book &lt;a href=&#34;http://downlode.org/etext/patterns/&#34;&gt;A Pattern Language: Towns, Buildings, Construction. (Oxford University Press, 1977)&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn127.html&#34;&gt;Pattern #127 - Intimacy Gradient:&lt;/a&gt;
+&lt;p&gt;&lt;b&gt;Conflict:&lt;/b&gt; Unless the spaces in a building are arranged in a sequence which corresponds to their degrees of privateness, the visits made by strangers, friends, guests, clients, family, will always be a little awkward.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Resolution:&lt;/b&gt; Lay out the spaces of a building so that they create a sequence which begins with the entrance and the most public parts of the building, then leads into the slightly more private areas, and finally to the most private domains.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;In architecture there are always some areas of the house or building that are more public -- the entry, the living room, the atrium, etc., and areas that are more private such as bathrooms, bedrooms, and offices. In a good design there is some marker of change between these different areas -- it might be a difference in ceiling height, a stairway leading to a different floor, or a narrow entrance. As an example, in the classical Japanese tea house, you have to bow low before entering.&lt;/p&gt;
+&lt;p&gt;Failure to respect the Intimacy Gradient results in uncomfortable buildings. &lt;a href=&#34;http://munnecke.com/gehry.htm&#34;&gt;Tom Munnecke&lt;/a&gt; reported about a Frank Gehry building at Case Western Reserve University:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt; I asked many of the graduate students how they felt about their new environment. &#34;Horrible,&#34; said one. &#34;Like living in a refrigerator&#34; said another. &#34;We used to have comfortable offices and gathering places, and had the most wonderful conversations. Now everything is so sterile, and the acoustics so bad, that we can&#39;t do anything together. I have to go outside if I want any privacy.&#34;&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The Intimacy Gradient is also used in other media. As I noted in my review of &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/seven_fingers_o.html&#34;&gt;Seven Fingers of the Hand Circus&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;When we arrived, we were led down the side of the theatre and all of a sudden I noticed that it looked like we were all being led backstage. We curve around and all of a sudden see an entrance -- maybe 5 foot tall requiring most of us to duck. We duck through and to our surprise, we are have walked through a fridgerator, and we are on the stage!
+&lt;p&gt;One of the 7 players welcomes us, and another offers random people a glass of tea as we walk across the stage to our seats. The stage is set like a city loft, with a tv, some couches, a bed, a bathtub and shower, a kitchen, and of course the fridgerator we entered through. On the stage, and chatting to members of the audience are the 7 cast members, all wearing comfortable looking white shorts or athletic and white t-shirts.&lt;/p&gt;
+&lt;p&gt;The audience arrives over 30 minutes and the 7 players act as if we are guests of their loft, serving some of us tea, chatting, sweeping the floor, etc.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;Entering through the refrigerator door raised the intimacy of the experience for the audience of that circus. Thus in spite of it being produced in a large auditorium it felt as up-close and personal as did the much smaller &lt;a href=&#34;http://www.lifewithalacrity.com/2004/08/circus_contrapt.html&#34;&gt;Circus Contraption&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Intimacy Gradient exists in movies as well -- anywhere you see a scene taking place in a public space that transitions down through smaller and tighter shots ultimately to a closeup of a face it is much more intimate then just cutting to the closeup.&lt;/p&gt;
+&lt;p&gt;In social software design, there also needs to be an Intimacy Gradient. One of the problems with Wikis is that there is often very little transition between public and intimate, and doing so can be quite jarring. SocialText, a Wiki service vendor, is aware of this problem and is &lt;a href=&#34;http://alevin.com/weblog/archives/001393.html&#34;&gt;&#34;seeking to add more layers to the &#39;intimacy gradient&#39;, without recreating the highly structured collaboration tools that exist today&#34;&lt;/a&gt;. Ross Mayfield outlines &lt;a href=&#34;http://www.corante.com/many/archives/2004/08/12/collaboration_cases_and_spaces.php&#34;&gt;this possible future Intimacy Gradient for SocialText&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;
+&lt;ul&gt;&lt;li&gt;The broadest tier is a guest space, available to all&lt;/li&gt;
+&lt;li&gt;The second tier is a knowledgebase, accessible to all employees and contractors&lt;/li&gt;
+&lt;li&gt;The third tier is product development, for employees and contractors bound by a confidentiality agreement&lt;/li&gt;
+&lt;li&gt;The fourth tier is for the core management team to share confidential financial and HR information.&lt;/li&gt;&lt;/ul&gt;&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;These thoughts from an earlier post by &lt;a href=&#34;&#34;&gt;Ross&lt;/a&gt; are also thoughtful:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;He is right that groupthink is avoided by a social network structure that allows a dynamic and diverse periphery to provide new ideas, but the core of the network needs to be tightly bound to be able to take action.
+&lt;p&gt;That&#39;s the main point of Building Sustainable Communities through Network Building by &lt;a href=&#34;http://www.orgnet.com&#34;&gt;Valdis Krebs&lt;/a&gt; and June Holley. When studying a &lt;a href=&#34;http://radio.weblogs.com/0114726/categories/socialNetworks/2003/01/07.html&#34;&gt;community over time&lt;/a&gt;, they suggest a vibrant community is made up of four stages: &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Scattered Clusters&lt;/li&gt;
+&lt;li&gt;Single Hub-and-Spoke&lt;/li&gt;
+&lt;li&gt;Multi-Hub Small-World Network&lt;/li&gt;
+&lt;li&gt;Core/Periphery&lt;/li&gt;&lt;/ol&gt;
+&lt;p&gt;The ideal core/periphery structure affords a densely linked core and a dynamic periphery. One pattern for social software that supports this is an &lt;a href=&#34;http://www.jacana.org.uk/pattern/P127.htm&#34;&gt;intimacy gradient&lt;/a&gt; (privacy/openness), to allow the core some privacy for backchannelling. But this requires ridiculously easy group forming, as the more hardened the space the more hard-nosed its occupants become.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;This is not just a problem for Wiki. There is an excellent paper on the web called &lt;a href=&#34;http://www.ai.mit.edu/~konrad/docs/IJMMS-patterns-junestrand-keijer-tollmar.pdf&#34;&gt;Design Patterns for Private and Public Digital Spaces in the Home Environment&lt;/a&gt; where they explore how people used VNC (video-mediated communications, or more colloquially video-chat). They state:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;The earlier &#34;public&#34; character of a traditional farmer&#39;s house or bourgeois flat (in Sweden) has disappeared with the modern housing planning. Instead, distinguishing the public from the private has become central during the industrial age, with the dwelling as an exclusively private place. Now, with the transition to an information society, it seems as if the concept of public space in the private dwelling has to be reconsidered, which also means that the borders between the private and the public at home have to be opened up.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The need to provide for an Intimacy Gradient in social software is clear; however, the techniques for showing the transitions between the gradients are not. For instance, in the original Netscape Communicator, when you connected with a secure SSL connection, the border around the edge of the window would turn blue, and a solid blue key would show up. However, most people didn&#39;t notice this change and no current browser does this; even the little locked icon at the bottom of Internet Explorer and often isn&#39;t visible if you have the status bar turned off or if you are using frames.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ming.tv/flemming2.php/__show_article/_a000010-001289.htm&#34;&gt;Flemming Funch&lt;/a&gt; (and &lt;a href=&#34;http://www.redtailcanyon.com/items/278391.aspx&#34;&gt;mirror&lt;/a&gt;) notes part of the difficulty is:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;As long as a certain chat room or Wiki page is accessible directly with a deep link, it is going to be very hard to make it feel more intimate than any other place I can reach with similar ease. So a hierarchical structure of links doesn&#39;t do it. On the web you can&#39;t force people to accept your hierarchy if it is all just links.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Part of the solution might come from the architecture world as well -- here are some other Patterns by Christopher Alexander (see the link for Alexander&#39;s resolutions for each):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn31.html&#34;&gt;Pattern #31 - Promenade:&lt;/a&gt; Each subculture needs a center for its public life: a place where you can go to see people, and to be seen.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn61.html&#34;&gt;Pattern #61 - Small Public Squares:&lt;/a&gt; A town needs public squares; they are the largest, most public rooms, that a town has. but when they are too large, they look and feel deserted.&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn69.html&#34;&gt;Pattern #69 - Public Outdoor Room:&lt;/a&gt; There are very few spots along the streets of modern towns and neighborhoods where people can hang out, comfortably, for hours at a time.&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn142.html&#34;&gt;Pattern #42 - Sequence of Sitting Spaces:&lt;/a&gt; Every corner of a building is a potential sitting space. But each sitting space has different needs for comfort and enclosure according to its position in the intimacy gradient.&lt;/p&gt;&lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://downlode.org/etext/patterns/ptn147.html&#34;&gt;Pattern #147 - Communal Eating&#34;:&lt;/a&gt; Without communal eating, no human group can hold together.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Other lessons for social software from the architecture world are the concepts of &#34;refuge and prospect&#34;, the &#34;savanna theory&#34;, and &#34;defensible space&#34;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Refuge and prospect&lt;/i&gt; come from the landscape architect &lt;a href=&#34;http://www.landscaperesearch.org.uk/extra31/refuge.htm&#34;&gt;Jay Appleton&lt;/a&gt;. Prospect is a place where we can see others, and refuge is a place were we can retreat and conceal ourselves. A specific prediction of his theory is that people prefer the edges of a space more then the middle. Often prospect and refuge are in conflict, as a prospect tends to be expansive and bright whereas a refuge is small and dark, but there are cases where they are combined in one place; this is why we value private homes with a spectacular view so much, and why we pay so much to stay at &lt;a href=&#34;http://www.djc.com/news/ae/11127729.html&#34;&gt;scenic retreats&lt;/a&gt;. So what are the edges of our social spaces? Are there ways that we can signal either prospect and refuge?&lt;/p&gt;
+&lt;p&gt;The &lt;i&gt;savanna theory&lt;/i&gt; comes from a hypothesis by &lt;a href=&#34;http://notes.utk.edu/bio/greenberg.nsf/0/f60081ef35fba95c85256e6e006a2a77?OpenDocument&#34;&gt;Richard Coss and Gordon Orians&lt;/a&gt; that we should be most comfortable with those landscapes where humans spent most of their evolutionary past. Thus supposedly the ideal landscape design has the same proportionality of trees, grass, and brush as the African savanna; parks and golf clubs are shown as evidence of this theory. An alternate to this theory is that we desire a certain amount of &lt;a href=&#34;http://evolution.anthro.univie.ac.at/institutes/urbanethology/student/html/erich/synekpro.html&#34;&gt;visual complexity&lt;/a&gt;. Either theory raises this question: what are the evolutionary markers regarding groups that our human ancestors needed? This question fits well with my thoughts regarding the &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;i&gt;defensible space&lt;/i&gt; concept comes from the idea that anonymous spaces lead to problems because of vandalism, incivility, and crime, and to eliminate those problems requires the residents to mark their &#34;territories&#34; and &#34;take possession&#34; of their areas. We have similar problems in the online world. So maybe the answer is similar -- allow more ways for groups of people to mark up and take possession of their own virtual spaces.&lt;/p&gt;
+&lt;p&gt;There are a couple of links that integrate these ideas in architecture that you might find useful:&lt;br /&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&#34;http://www.wbdg.org/design/resource.php?cn=0&amp;rp=181&#34;&gt;Psychosocial Value of Space&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.edcmag.com/CDA/ArticleInformation/features/BNP__Features__Item/0,4120,22486,00.html&#34;&gt;Building Biophilia: Connecting People to Nature in Building Design&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://ceae.colorado.edu/~amadei/CVEN4838/BioInspire.1_%2001.15.03.htm&#34;&gt;Bio-Inspired Design: What Can We Learn from Nature?&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://evolution.anthro.univie.ac.at/institutes/urbanethology/archi/archi.html&#34;&gt;Evolutionary Architecture: A Field Course&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.the-scientist.com/yr2001/nov/opin_011126.html&#34;&gt;Why We Say It With Flowers&lt;/a&gt;&lt;/li&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.contemporary.ab.ca/ke/content/pdf/evolutionary_psychology.pdf&#34;&gt;Evolutionary Psychology and Workplace Design (pdf)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;We are still breaking ground and exploring new ideas in the world of social software. However, there are already extant fields of study which may give us insight into this new venue. Architecture is one of them. By better understanding ideas of intimacy gradients, pattern language, refuge and prospect, savannas, and defensible spaces, we may gain new understandings of how to build social environments which are attractive and enjoyable to more people.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Tried to post this elsewhere and failed. Sorry if it&#39;s duplication.
+If a person loading a page has an identity or role (one could have many of these for different purposes) then the system serving the page could show different sets of links based on the &#34;privacy level&#34;. Of course, one could show entirely different sets of links to different people. This du(multi?)plicity would also reflect the method commonly employed in social manipulation, i.e. saying different things to different people based on one&#39;s view of them.
+As it stands, this suggests that the person providing the link sets owns the server, which is often not the case.  Alternatively, it suggests that one is happy to trust a service provider with one&#39;s most intimate secrets.  I suspect neither needs to be the case if cryptography is used.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://example.com&#34;&gt;me&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-20T02:05:57-07:00&#34;&gt;2004-09-20T02:05:57-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+The fridge door speaks to another one of the Pattern Language patterns -- that a doorway should truly be a noticable, transforming experience. That is, a clear indicator that you have gone from &#34;there&#34; to &#34;here.&#34; Off-topic, I know. But interesting.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Charlie&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-08T13:04:26-07:00&#34;&gt;2004-10-08T13:04:26-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for the great summary and roundup of key concepts, theories and techniques from architecture and urban planning that can be applied to social software design.  I&#39;m also a big fan of these fields and I think we can stand to have a lot more cross-pollination between the worlds of software, and of space/place design.
+As for how to simulate intimacy gradients, and more basic, &#34;hardwired&#34; ways that we behave in spaces and places, in the online world (or how to symbolize or substitute for them), I wonder:  Why don&#39;t we cheat more often?
+People use our software in spaces and places, after all.  Instead of trying to -simulate- the physical, real-world intimacy mechanisms that we&#39;ve evolved to use, why not just -use- those physical mechanisms and context cues that already exist?  Why not design software that&#39;s aware of the very different places we move through?  Why not design software and devices tied to places?  That&#39;s what we&#39;re trying to do in a few very specific ways with PlaceSite.com, but there&#39;s so much more that can be done here.
+Sean
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.cheesebikini.com&#34;&gt;Sean Savage&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-05T22:04:01-07:00&#34;&gt;2006-07-05T22:04:01-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/08/intimacy_gradie.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Looking at Wiki</title>
+      <link>https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html</link>
+      <pubDate>Mon, 02 Feb 2004 05:57:48 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html</guid>
+      <description>&lt;p&gt;I&#39;ve not just been spending time looking at social networking services, I&#39;ve also been digging deeper into wiki. I&#39;ve still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.zwiki.org&#34;&gt;Zwiki&lt;/a&gt; is based on Zope, and thus has a very interesting feature set. One of the more popular features is the topic mappings that it creates. When combined with the CMS features of Plone, it becomes even more interesting -- one of the best Zwiki/Plone communities to look at as an example is &lt;a href=&#34;http://doc.hydrogenaudio.org/wikis/hydrogenaudio/FrontPage&#34;&gt;Hurricane Audio&lt;/a&gt;. Unfortunately Zwiki only works on the Zope web platform, which is not as popular as Apache.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flexwiki.com&#34;&gt;FlexWiki&lt;/a&gt; is a very innovative wiki that is being developed by some Microsoft engineers and is ASP.NET based for Windows. I in particular like the &lt;a href=&#34;http://flexwiki.com/default.aspx/FlexWiki.ExamplePropertyPage&#34;&gt;property page features&lt;/a&gt; which are an elegant way to handle meta-data, and also how it handles diffs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.projectforum.com&#34;&gt;ProjectForum&lt;/a&gt; and &lt;a href=&#34;http://www.courseforum.com&#34;&gt;courseforum&lt;/a&gt; are both fairly simple but elegant commercially supported wiki. Of particular note is that both are very easy to install, even on a Windows 2000 system or Macintosh, as well as on Linux. I was able to get a test ProjectForum up on my Windows PC in about 5 minutes, including downloading. It also has some nice &amp;quot;skins&amp;quot; available. I also like how private areas are created for each -- this is the basic difference between the two products, and a rare wiki feature.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.jhorman.org/wikidPad/&#34;&gt;WikidPad&lt;/a&gt; is interesting because it is not a public service, but a shareware single-user &amp;quot;notepad&amp;quot; for Windows that supports wiki-style TextFormattingRules and WikiWords. If you have been using wiki a lot like I have, sometimes you catch yourself using wiki-style text everywhere, and I guess this product is for people who do that like me.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt; is another commercially supported wiki, but is sold as a service not a product. They are very carefully added features while keeping things elegant and simple for less sophisticated business customers. They also host a number of public wikis, so if you want to see the current feature set see &lt;a href=&#34;http://http://www.socialtext.net/rss-winterfest&#34;&gt;RSS-Winterfest&lt;/a&gt; which also shows off their newest RSS support.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.seedwiki.com&#34;&gt;SeedWiki&lt;/a&gt; is another wiki service rather then product (sometimes called a WikiFarm), and is interesting because it doesn&#39;t use Wiki style TextFormattingRules -- instead, it has several WYSIWYG editors that allow you to directly edit the underlying HTML. This gives a huge amount of flexibility for some of the communities that use it, such as &lt;a href=&#34;http://www.seedwiki.com/page.cfm?doc=WikiFish&amp;amp;wikiid=1231&#34;&gt;WikiFish&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I also have heard good things about PHPWiki and MoinMoin, but I haven&#39;t had a chance to dig into those very much yet.&lt;/p&gt;
+&lt;p&gt;I personally have been using &lt;a href=&#34;http://www.twiki.org&#34;&gt;TWiki&lt;/a&gt; for 4+ years at several of my businesses. Its strength is that it is oriented toward allowing private groups who can manage their own access privileges. It also has one of the most active &#39;plugins&#39; developer areas with lots of ways to modify your TWiki to do different things (one of the plugins I&#39;m investigating now is &lt;a href=&#34;//http://twiki.org/cgi-bin/view/Codev/EvEm&amp;gt;EvEm&amp;lt;/a&amp;gt;). My only complaints are that TWiki is rather hard to install, and that the default skin isn&#39;t very elegant (I recommend the &amp;lt;a href=&#34;&gt;GnuSkin&lt;/a&gt;, but read the docs very carefully as you have to chmod a module if you install it.)&lt;/p&gt;
+&lt;p&gt;Although it uses a fairly primitive wiki, I highly recommend the &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?MeatballWiki&#34;&gt;Meatball Wiki&lt;/a&gt; site for people very interested in wikis. It is a meta-wiki discussion community. It has some great pages on the life-cycle of wikis, on various design patterns and features of wikis, and of various other consequences of the medium. If you look at &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?back=CategoryWikiEngine&#34;&gt;CategoryWikiEngine&lt;/a&gt; it has one of the more complete lists of Wiki engines out there.&lt;/p&gt;
+&lt;p&gt;I will be reporting more on various wikis and wiki technology that I discover in the upcoming weeks.&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Chris, have you seen the Socialtext feature to create private areas? Other distinctive capabilities include email integration, and integrated weblogs?
+- Adina
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.socialtext.com&#34;&gt;Adina Levin&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-02T10:55:37-07:00&#34;&gt;2004-02-02T10:55:37-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Yes, I do know about those features, but I hadn&#39;t intended for this post to be an exhaustive review, just a paragraph in or so for each. The fact that you have lots of features is why I referred people to the public rss-winterfest site.
+I am thinking about doing some more detailed reviews soon, though, and SocialText is near the top of the list.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-02T12:10:44-07:00&#34;&gt;2004-02-02T12:10:44-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Check out http://tikiwiki.org/tiki-view_articles.php.
+Cheers
+Stuart
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.henshall.com/blog/&#34;&gt;stuart henshall&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-02T16:21:12-07:00&#34;&gt;2004-02-02T16:21:12-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Flexwiki doesn&#39;t even work with my Mozilla browser.
+I&#39;d also recommend MediaWiki (used for all the Wikipedia sites), SnipSnap (java based wiki+blog), and Tiki.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;wikuser&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-04T10:12:49-07:00&#34;&gt;2004-02-04T10:12:49-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The importance of wiki is that WikiIsDocumentBased.
+( &lt;a href=&#34;http://communitywiki.org/WikiIsDocumentBased&#34;&gt;http://communitywiki.org/WikiIsDocumentBased&lt;/a&gt; )
+IM, IRC, e-mail, all that stuff is message based. This is the first document based medium.
+Documents are big heavy things that float around for long periods of time. Messages are flitty things that are useful for a very short period of time. Documents are good for stabilizing massive teachings that don&#39;t change often. Messages are good for coordinations and handling new things quickly.
+We need both. Wiki is essential.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://speakeasy.org/~lion/&#34;&gt;LionKimbro&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-09T00:14:10-07:00&#34;&gt;2004-02-09T00:14:10-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;PC Magazine did a review December 30, 2003 at &lt;a href=&#34;http://www.pcmag.com/article2/0,4149,1402872,00.asp&#34;&gt;http://www.pcmag.com/article2/0,4149,1402872,00.asp&lt;/a&gt; that rated both SocialText &lt;a href=&#34;http://www.socialtext.com/&#34;&gt;http://www.socialtext.com/&lt;/a&gt; and EditME &lt;a href=&#34;http://www.editme.com/&#34;&gt;http://www.editme.com/&lt;/a&gt; at four starts
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.skmurphy.com&#34;&gt;Sean Murphy&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-12T11:41:40-07:00&#34;&gt;2004-02-12T11:41:40-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Nice post,  I really enjoy oddmuse the next &#34;version&#34; of usemod, which I enjoy because of it&#39;s simplicity.
+also there are a bunch of wikis at WorldWideWiki:SwitchWiki
+&lt;a href=&#34;http://www.worldwidewiki.net/wiki/SwitchWiki&#34;&gt;http://www.worldwidewiki.net/wiki/SwitchWiki&lt;/a&gt;
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://markdilley.2ya.com&#34;&gt;Mark&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-14T02:26:02-07:00&#34;&gt;2004-02-14T02:26:02-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;URL:
+Voodoopad at &lt;a href=&#34;http://www.flyingmeat.com/&#34;&gt;http://www.flyingmeat.com/&lt;/a&gt; is a good wiki notepad for Macs, with html export. The developer is also working on an online version
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;David Wilcox&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-03T07:16:26-07:00&#34;&gt;2004-03-03T07:16:26-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The canonical list of wikis is at: &lt;a href=&#34;http://www.c2.com/cgi/wiki?WikiEngines&#34;&gt;http://www.c2.com/cgi/wiki?WikiEngines&lt;/a&gt;
+A very interesting collaborative internet medium is noosphere: http://www.c2.com/cgi/wiki?WikiEngines It is not a wiki - but it is close in the collaborative process.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://zby.aster.net.pl/kwiki&#34;&gt;Zbigniew Lukasiak&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-14T06:55:59-07:00&#34;&gt;2004-03-14T06:55:59-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;The canonical list of wikis is at: &lt;a href=&#34;http://www.c2.com/cgi/wiki?WikiEngines&#34;&gt;http://www.c2.com/cgi/wiki?WikiEngines&lt;/a&gt;
+A very interesting collaborative internet medium &lt;a href=&#34;http://aux.planetmath.org/noosphere/main.html&#34;&gt;http://aux.planetmath.org/noosphere/main.html&lt;/a&gt; It is not a wiki - but it is close in the collaborative process.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://zby.aster.net.pl/kwiki&#34;&gt;Zbigniew Lukasiak&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-14T06:58:16-07:00&#34;&gt;2004-03-14T06:58:16-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/looking_at_wiki.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
