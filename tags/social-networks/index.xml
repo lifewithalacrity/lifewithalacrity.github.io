@@ -87,7 +87,7 @@ You did a great job. This will help us serve the mission of voluntary health.
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-13T07:20:15-07:00&#34;&gt;2005-10-13T07:20:15-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/02/voluntary_healt.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/02/voluntary_healt.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -292,7 +292,7 @@ Or have I missed the point?
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-30T01:53:38-07:00&#34;&gt;2005-07-30T01:53:38-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/02/dunbar_triage_t.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/02/dunbar_triage_t.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -661,7 +661,7 @@ and later in book form (now sadly out of print... but I still have some copies i
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2010-02-24T12:55:43-07:00&#34;&gt;2010-02-24T12:55:43-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/the_dunbar_numb.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/the_dunbar_numb.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

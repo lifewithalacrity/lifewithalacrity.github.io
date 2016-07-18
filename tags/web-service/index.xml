@@ -78,7 +78,7 @@ http://developer.ebusiness-apps.com/technologies/webdevelopment/codeandcomponent
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-12T22:31:34-07:00&#34;&gt;2005-06-12T22:31:34-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

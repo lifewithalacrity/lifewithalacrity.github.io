@@ -120,7 +120,7 @@ And as with the old html days - there will be end user tools created. My take on
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-24T10:10:12-07:00&#34;&gt;2005-04-24T10:10:12-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -206,7 +206,7 @@ i don&#39;t know much more about orkut i just want to know what this side about 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-12T00:51:10-07:00&#34;&gt;2004-10-12T00:51:10-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -324,7 +324,7 @@ Well,from my first impressions of orkut,what i gather is that,u have to be caref
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-12T06:46:11-07:00&#34;&gt;2006-07-12T06:46:11-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -619,7 +619,7 @@ Some guy named Junaid from Karachi, Pakistan put up my cell no. on orkut in the 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-23T05:09:00-07:00&#34;&gt;2005-03-23T05:09:00-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/insecurity_at_o.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/insecurity_at_o.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

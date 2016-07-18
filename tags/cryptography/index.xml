@@ -60,7 +60,7 @@ Though a cool demo, I&#39;m not as confident that this solution will work. Now i
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-05T23:19:47-07:00&#34;&gt;2004-03-05T23:19:47-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -157,7 +157,7 @@ So then one day this guy discovers the answer to the Reimann Conjecture and now 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-07T06:23:57-07:00&#34;&gt;2004-09-07T06:23:57-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

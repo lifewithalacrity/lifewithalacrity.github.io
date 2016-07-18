@@ -62,7 +62,7 @@ The SSL story would be interesting..
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -447,7 +447,7 @@ Michigan Treatment Centers
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2008-08-05T05:14:35-07:00&#34;&gt;2008-08-05T05:14:35-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/tracing_the_evo.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/tracing_the_evo.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
