@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principles on Life With Alacrity</title>
+    <link>https://lifewithalacrity.github.io/tags/principles/</link>
+    <description>Recent content in Principles on Life With Alacrity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2015 20:55:01 -0700</lastBuildDate>
+    <atom:link href="https://lifewithalacrity.github.io/tags/principles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>10 Design Principles for Governing the Commons</title>
+      <link>https://lifewithalacrity.github.io/2015/03/10-design-principles-for-governing-the-commons.html</link>
+      <pubDate>Tue, 24 Mar 2015 20:55:01 -0700</pubDate>
+      
+      <guid>https://lifewithalacrity.github.io/2015/03/10-design-principles-for-governing-the-commons.html</guid>
+      <description>&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Resource Sharing&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c76aaed3970b img-responsive&#34; src=&#34;http://lifewithalacrity.blogs.com/.a/6a00d8341d8bc053ef01b7c76aaed3970b-250wi&#34; style=&#34;width: 250px; margin: 0px 0px 5px 5px;&#34; title=&#34;Resource Sharing&#34; /&gt;&lt;/a&gt;In 2009, &lt;a href=&#34;http://en.wikipedia.org/wiki/Elinor_Ostrom&#34; target=&#34;_self&#34; title=&#34;Wikipedia Page on Elinor Ostrom&#34;&gt;Elinor Ostrom&lt;/a&gt; received the Nobel Prize in Economics for her &lt;em&gt;“analysis of economic governance, especially &lt;a href=&#34;http://en.wikipedia.org/wiki/Commons&#34; target=&#34;_self&#34; title=&#34;Wikipedia Page on The Commons&#34;&gt;the commons&lt;/a&gt;”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since then I&amp;#39;ve seen a number of different versions of her list of the 8 principles for effectively managing against &lt;a href=&#34;http://en.wikipedia.org/wiki/Tragedy_of_the_commons&#34; target=&#34;_self&#34; title=&#34;Wikipedia Page for The Tragedy of the Commons&#34;&gt;the tragedy of the commons&lt;/a&gt;. However, I&amp;#39;ve found&amp;#0160;her original words — as well as many adaptions I&amp;#39;ve seen since — to be not very accessible. Also, since the original release of the list of 8 principles there has been some research resulting in updates and clarifications to her original list.&lt;/p&gt;
+
+&lt;p&gt;This last weekend, at two very different events — one on the &lt;a href=&#34;http://www.futureofworking.org&#34; target=&#34;_self&#34; title=&#34;Future of Working Summit&#34;&gt;future of working&lt;/a&gt;&amp;#0160;and the other on the &lt;a href=&#34;http://crypto.sabir.cc/?page_id=237&#34; target=&#34;_self&#34;&gt;future of the block chain&lt;/a&gt;&amp;#0160;(used by technologies like bitcoin) — I wanted to share these principles. However, I was unable to effectively articulate them.&lt;/p&gt;
+
+&lt;p&gt;So&amp;#0160;I decided to take an afternoon to re-read the original, as well as more contemporary adaptions, to see if I could summarize this into a list of effective design principles. I also wanted to generalize them for broader use as I often apply them to everything from how to manage an online community to how a business should function with competitors.&lt;/p&gt;
+
+&lt;p&gt;I ended up with 10 principles, each beginning with a verb-oriented commandment, followed by the design principle itself.&lt;/p&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;&lt;strong&gt;DEFINE BOUNDARIES:&lt;/strong&gt; There are clearly defined boundaries around the common resources of a system from the larger environment.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;DEFINE LEGITIMATE USERS:&lt;/strong&gt; There is a clearly defined community of legitimate users of those resources.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;ADAPT LOCALLY:&lt;/strong&gt; Rules for use of resources are adapted to local needs and conditions.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;DECIDE INCLUSIVELY:&lt;/strong&gt; Those using resources are included in decision making.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;MONITOR EFFECTIVELY:&lt;/strong&gt; There exists effective monitoring of the system by accountable monitors.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;SHARE KNOWLEDGE:&lt;/strong&gt; All parties share knowledge of local conditions of the system.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;HOLD ACCOUNTABLE:&lt;/strong&gt; Have graduated sanctions for those who violate community rules.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;OFFER MEDIATION:&lt;/strong&gt; Offer cheap and easy access to confict resolution.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;GOVERN LOCALLY:&lt;/strong&gt; Community self-determination is recognized by higher-level authorities.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;DON&amp;#39;T EXTERNALIZE COSTS:&lt;/strong&gt; Resource systems embedded in other resource systems are organized in and accountable to multiple layers of nested communities.&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;p&gt;I welcome your thoughts on ways to improve on this summarized list. In particular, in #10 I&amp;#39;d like to find a better way to express its complexity (the original is even more obtuse).&lt;/p&gt;
+&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;I love it Chris.  Our conversation this morning was about playing the role of the &#34;translator.&#34;  You work fast.
+Quick notes:
+#7 has a typo (sanction).
+Could number 10 be rephrased as Internalize Externalities? (that may be even more abstract)
+And at what level is ten really about feedback loops&gt; -- particularly since resources actual &#34;cost&#34; can be hard to even estimate, particularly when those resources are the result of thousands of years of natural processes (ex: oil, or fertile soil).
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://matthewschutte.com&#34;&gt;Matthew Schutte&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2015-03-25T02:24:04-07:00&#34;&gt;2015-03-25T02:24:04-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Thank you. Linked here;
+http://solidarity.coop/wiki/Governance_Principles
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://profile.typepad.com/ccsolidarity&#34;&gt;Ccsolidarity&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2015-03-25T19:49:02-07:00&#34;&gt;2015-03-25T19:49:02-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Christopher, let me suggest the following revisions to items 3, 5, and 10, based on:
+Cox, M., G. Arnold, and S. Villamayor Tomás. 2010. A review of design principles for community-based natural resource management. Ecology and Society 15(4): 38. [online] URL: http://www.ecologyandsociety.org/vol15/iss4/art38/
+3.  ESTABLISH LOCALLY　APPROPRIATE RULES　FOR　USING AND MAINTAINING RESOURCES: Rules for use and maintenance of resources are adapted to local needs and conditions, and provide benefits to users that are correlated to their level of inputs.
+5.  EFFECTIVELY MONITOR RESOURCES AND USERS: There exists effective monitoring of the system by monitors who are accountable to the users.
+10. TIE-IN TO RELATED SYSTEMS: The resource system is appropriately connected to parent/fraternal/subordinate resource groups and to governmental systems.
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://profile.typepad.com/tokyotom&#34;&gt;TokyoTom&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2015-03-28T03:08:44-07:00&#34;&gt;2015-03-28T03:08:44-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;div class=&#34;u-comment h-cite&#34;&gt;
+&lt;p class=&#34;p-content p-name&#34;&gt;Excellent version. I think a critical adaptation is the active voice, as you&#39;ve done in the bold verbs.
+#10 expresses a dynamic relationship with #9, yes? Thus, &#34;govern locally&#34; (or &#34;organize locally&#34;) is in relation to &#34;don&#39;t externalize costs.&#34; That is, within holarchies or (spatially, temporally, institutionally) nested set of commons or jurisdictions, both other levels and other holarchies are recognized and respected. Perhaps the positive flip on &#34;don&#39;t externalize costs&#34; would be &#34;seek to externalize benefits&#34;? In other words, seek to transmit one&#39;s learnings from such local organization up the holarchy and across to other holarchies. Like Ostrom did, and one seeks to do, by developing design principles!
+&lt;/p&gt;
+&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.solvingforpattern.org/&#34;&gt;Howard Silverman&lt;/a&gt;
+&lt;time class=&#34;dt-published&#34; datetime=&#34;2015-04-11T11:34:38-07:00&#34;&gt;2015-04-11T11:34:38-07:00&lt;/time&gt;
+&lt;/div&gt;
+&lt;/footer&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2015/03/10-design-principles-for-governing-the-commons.html&#34; rel=&#34;syndication&#34;&gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
