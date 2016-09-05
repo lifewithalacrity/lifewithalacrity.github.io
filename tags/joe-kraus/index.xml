@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joe Kraus on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/joe-kraus/</link>
+    <link>http://www.lifewithalacrity.com/tags/joe-kraus/</link>
     <description>Recent content in Joe Kraus on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Oct 2004 00:39:29 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/joe-kraus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/joe-kraus/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>JotSpot: Application Wiki</title>
-      <link>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</link>
+      <link>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</link>
       <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.jotspot.com/about/index.php&#34;&gt;Joe Kraus&lt;/a&gt;, one of the co-founders of Excite, and new &lt;a href=&#34;http://bnoopy.typepad.com/bnoopy/&#34;&gt;blogger&lt;/a&gt; has long been &lt;a href=&#34;http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html&#34;&gt;rumored&lt;/a&gt; to be working on a new wiki tool. Today at the &lt;a href=&#34;http://www.web2con.com/pub/w/32/program.html&#34;&gt;Web 2.0&lt;/a&gt; conference Joe finally unveiled &lt;a href=&#34;http://www.jotspot.com&#34;&gt;JotSpot&lt;/a&gt;, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.jotspot.com/tours/advanced/img/slide09.jpg&#34;border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; &gt;At the JotSpot website there is an page on &lt;a href=&#34;http://jot.com/compare/index.php&#34;&gt;How JotSpot is Different&lt;/a&gt; and an &lt;a href=&#34;http://jot.com/tours/advanced/1.php&#34;&gt;Advanced Tour&lt;/a&gt; of this wiki&#39;s database capabilities.&lt;/p&gt;
 &lt;p&gt;Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter &lt;a href=&#34;http://weblog.infoworld.com/udell/2004/10/06.html#a1090&#34;&gt;Jon Udell&lt;/a&gt; an early &lt;a href=&#34;http://weblog.infoworld.com/udell/gems/jot.swf&#34;&gt;demo of JotSpot&lt;/a&gt;, which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc.  Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a &lt;a href=&#34;http://www.salesforce.com&#34;&gt;SalesForce.com&lt;/a&gt; web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.&lt;/p&gt;
@@ -61,7 +61,7 @@ Ludovic
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T00:42:30-07:00&#34;&gt;2004-10-14T00:42:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

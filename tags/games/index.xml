@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/games/</link>
+    <link>http://www.lifewithalacrity.com/tags/games/</link>
     <description>Recent content in Games on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jul 2007 23:19:52 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iPhoneDevCamp and Hack-a-Thon</title>
-      <link>https://lifewithalacrity.github.io/2007/07/iphonedevcamp-a.html</link>
+      <link>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</link>
       <pubDate>Sun, 08 Jul 2007 23:19:52 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2007/07/iphonedevcamp-a.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/750701139/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/2007/07/08/everyone.jpg&#34; title=&#34;Everyone&#34; alt=&#34;Everyone&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; I feel privileged and honored to have been part of the &lt;a href=&#34;http://barcamp.org/iPhoneDevCamp&#34;&gt;iPhoneDevCamp&lt;/a&gt; this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/750701139/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/2007/07/08/everyone.jpg&#34; title=&#34;Everyone&#34; alt=&#34;Everyone&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; I feel privileged and honored to have been part of the &lt;a href=&#34;http://barcamp.org/iPhoneDevCamp&#34;&gt;iPhoneDevCamp&lt;/a&gt; this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.&lt;/p&gt;
 &lt;p&gt;I was the keynote speaker on Saturday and Master of Ceremonies for the MacHack-style &lt;a href=&#34;http://barcamp.org/iPhoneDevCampHackAThon&#34;&gt;Hack-a-Thon Demo&lt;/a&gt; on Sunday.&lt;/p&gt;
 &lt;p&gt;At the Hack-a-Thon almost 50 iPhone web applications were demonstrated to an enthusiastic audience. Take a look at &lt;a href=&#34;http://www.xeodesign.com/tilt&#34;&gt;Tilt&lt;/a&gt;, a game that takes advantage of the iPhone&#39;s motion sensor, &lt;a href=&#34;http://www.mxis.com/pickleview&#34;&gt;PickleView&lt;/a&gt;, which is a same-time live baseball game enhancer, and &lt;a href=&#34;http://www.bartholo.com/devcamp/pool.html&#34;&gt;The Pool&lt;/a&gt;, an attractive social game of water droplets hitting a pool. What is remarkable about these applications is not just the quality, but that each of them was written over just the weekend by a small team of 3-4 people who hadn&#39;t met each other before Friday!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/snackfight/750214294/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;150&#34; border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/2007/07/08/hewitt.jpg&#34; title=&#34;Hewitt&#34; alt=&#34;Hewitt&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;&lt;/a&gt; Prizes were awarded after the Hack-a-Thon based on the spirit of openness, contribution, sharing, and participation. Prizes included 3 iPhones and some very expensive Adobe software. In particular &lt;a href=&#34;http://www.joehewitt.com/&#34;&gt;Joe Hewitt&lt;/a&gt;, of &lt;a href=&#34;http://www.getfirebug.com/&#34;&gt;Firebug&lt;/a&gt; fame, was honored for his positive contributions, generous spirit, and wonderful iPhone UI &lt;a href=&#34;http://www.joehewitt.com/files/iphone/navigation.html&#34;&gt;example code&lt;/a&gt;. During the demonstrations, more than one person praised Joe, saying that his assistance, his code, or his debugger made their apps possible. Personally, I think about one-third of the web apps presented used some of his code.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/snackfight/750214294/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;150&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/2007/07/08/hewitt.jpg&#34; title=&#34;Hewitt&#34; alt=&#34;Hewitt&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;&lt;/a&gt; Prizes were awarded after the Hack-a-Thon based on the spirit of openness, contribution, sharing, and participation. Prizes included 3 iPhones and some very expensive Adobe software. In particular &lt;a href=&#34;http://www.joehewitt.com/&#34;&gt;Joe Hewitt&lt;/a&gt;, of &lt;a href=&#34;http://www.getfirebug.com/&#34;&gt;Firebug&lt;/a&gt; fame, was honored for his positive contributions, generous spirit, and wonderful iPhone UI &lt;a href=&#34;http://www.joehewitt.com/files/iphone/navigation.html&#34;&gt;example code&lt;/a&gt;. During the demonstrations, more than one person praised Joe, saying that his assistance, his code, or his debugger made their apps possible. Personally, I think about one-third of the web apps presented used some of his code.&lt;/p&gt;
 &lt;p&gt;Building on my experience with the same-time collaboration tool &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;, and the &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos&lt;/a&gt; web-based games, I worked remotely with &lt;a href=&#34;http://www.kallealm.com/&#34;&gt;Kalle&lt;/a&gt; from Sweden and &lt;a href=&#34;http://is-here.com/&#34;&gt;Erwin&lt;/a&gt; from Kansas to present an AJAX chat application called &lt;a href=&#34;http://www.iphonewebdev.com/ilace/&#34;&gt;iLace&lt;/a&gt;. I am particularly proud of how well this little web application performs and how well it works using the iPhone UI. In particular, I think its melding of text entry and chat message receipt and its response to changes between portrait and landscape modes are very good examples of what can be done for chat on the iPhone. Source code is &lt;a href=&#34;http://www.iphonewebdev.com/ilace/about.html&#34;&gt;available&lt;/a&gt;!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/749665338/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/2007/07/08/keynote.jpg&#34; title=&#34;Keynote&#34; alt=&#34;Keynote&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; My keynote presentation slides are now available in &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.pdf&#34;&gt;.pdf&lt;/a&gt; and &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.mov&#34;&gt;.mov&lt;/a&gt;. I&#39;m told a live recording of the session and an .mp3 will be available soon.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/atow/749665338/&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;133&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/2007/07/08/keynote.jpg&#34; title=&#34;Keynote&#34; alt=&#34;Keynote&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt; My keynote presentation slides are now available in &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.pdf&#34;&gt;.pdf&lt;/a&gt; and &lt;a href=&#34;http://iphonedevcamp.org/stuff/iPhoneDevCamp_Keynote.mov&#34;&gt;.mov&lt;/a&gt;. I&#39;m told a live recording of the session and an .mp3 will be available soon.&lt;/p&gt;
 &lt;p&gt;Over the last few weeks an online developer community that I started at WWDC called &lt;a href=&#34;http://www.iPhoneWebDev.com&#34;&gt;iPhoneWebDev&lt;/a&gt; has grown to over 650 members. It&#39;s now the best place to get online support for building iPhone web pages and webapps. I&#39;d like to keep the momentum from the iPhoneDevCamp going forward on this list, so if you are interested in developing for the iPhone, check out the &lt;a href=&#34;http://www.iPhoneWebDev.com/examples&#34;&gt;example code&lt;/a&gt; and &lt;a href=&#34;http://www.iphonewebdev.com/&#34;&gt;join&lt;/a&gt; the discussion today!&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2007/07/iphonedevcamp-a.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2007/07/iphonedevcamp-a.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ratings: Who Do You Trust?</title>
-      <link>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</link>
+      <link>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</link>
       <pubDate>Thu, 14 Sep 2006 16:28:58 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</guid>
-      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
+      <guid>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</guid>
+      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
 Who Do You Trust?&lt;/a&gt; offers a look at weighting ratings based on reliability.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here&#39;s how we measured each type of trust, and what we did about it:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings for an Item.&lt;/strong&gt; Introduce a bayesian weight to offset the variability of items with low-volume ratings.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings by a User.&lt;/strong&gt; Give each user a weight based on his volume of contribution which is applied to his ratings.&lt;/em&gt;&lt;/p&gt;
@@ -60,11 +60,11 @@ User Creativity&lt;/a&gt; - A look at the &amp;quot;XP&amp;quot; system which ha
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
 &lt;/p&gt;&lt;blockquote&gt;&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;
@@ -99,39 +99,39 @@ I&#39;m pretty sure that the core weighting system by depth is producing better 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T15:39:53-07:00&#34;&gt;2006-10-16T15:39:53-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Dunbar &amp; World of Warcraft</title>
-      <link>https://lifewithalacrity.github.io/2005/08/dunbar_world_of.html</link>
+      <link>http://www.lifewithalacrity.com/2005/08/dunbar_world_of.html</link>
       <pubDate>Wed, 03 Aug 2005 16:01:19 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/08/dunbar_world_of.html</guid>
-      <description>&lt;p&gt;In my initial blog entry on the &lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; I presented some statistics on group sizes based on the online game &lt;a href=&#34;http://www.uo.com&#34;&gt;Ultimata Online&lt;/a&gt;. In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;550&#34; src=&#34;https://lifewithalacrity.github.io/UOGuildPowerLaw.jpg&#34; width=&#34;814&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;536&#34; src=&#34;https://lifewithalacrity.github.io/UOGuildHistogram.jpg&#34; width=&#34;829&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2005/08/dunbar_world_of.html</guid>
+      <description>&lt;p&gt;In my initial blog entry on the &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; I presented some statistics on group sizes based on the online game &lt;a href=&#34;http://www.uo.com&#34;&gt;Ultimata Online&lt;/a&gt;. In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;550&#34; src=&#34;http://www.lifewithalacrity.com/UOGuildPowerLaw.jpg&#34; width=&#34;814&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities&#34;&gt;&lt;img alt=&#34;&#34; border=&#34;0&#34; height=&#34;536&#34; src=&#34;http://www.lifewithalacrity.com/UOGuildHistogram.jpg&#34; width=&#34;829&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;More recently, &lt;a href=&#34;http://www.nickyee.com/&#34;&gt;Nick Yee&lt;/a&gt; and other researchers at the &lt;a href=&#34;http://blogs.parc.com/playon/&#34;&gt;PlayOn Blog&lt;/a&gt; have been researching the behaviors of players in the popular &lt;a href=&#34;http://www.worldofwarcraft.com/&#34;&gt;World of Warcraft&lt;/a&gt; online game. At my request, they sampled guild sizes over a one-week period, and prepared &lt;a href=&#34;http://blogs.parc.com/playon/archives/2005/07/guild_size.html&#34;&gt;similar graphs&lt;/a&gt;&amp;#0160;&lt;em&gt;(now 404, use&amp;#0160;&lt;a href=&#34;https://web.archive.org/web/20060205115408/http://blogs.parc.com/playon/archives/2005/07/guild_size.html&#34;&gt;internet archive link&lt;/a&gt;)&lt;/em&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://blogs.parc.com/playon/archives/graphs/guildsize.html&#34; onclick=&#34;window.open(&amp;#39;http://blogs.parc.com/playon/archives/graphs/guildsize.html&amp;#39;,&amp;#39;popup&amp;#39;,&amp;#39;width=925,height=348,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39;); return false&#34;&gt;&lt;/a&gt; &lt;a class=&#34;asset-img-link&#34; href=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsize&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294004970b image-full img-responsive&#34; src=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-800wi&#34; title=&#34;Guildsize&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsizehisto&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294012970b image-full img-responsive&#34; src=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-800wi&#34; title=&#34;Guildsizehisto&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Overall, these statistics still support my original hypothesis in my &lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; post that mean group sizes will be smaller than 150 for non-survival oriented groups:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.parc.com/playon/archives/graphs/guildsize.html&#34; onclick=&#34;window.open(&amp;#39;http://blogs.parc.com/playon/archives/graphs/guildsize.html&amp;#39;,&amp;#39;popup&amp;#39;,&amp;#39;width=925,height=348,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&amp;#39;); return false&#34;&gt;&lt;/a&gt; &lt;a class=&#34;asset-img-link&#34; href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsize&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294004970b image-full img-responsive&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-800wi&#34; title=&#34;Guildsize&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;Guildsizehisto&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b7c8294012970b image-full img-responsive&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-800wi&#34; title=&#34;Guildsizehisto&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Overall, these statistics still support my original hypothesis in my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; post that mean group sizes will be smaller than 150 for non-survival oriented groups:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This all leads me to hypothesize that the optimal size for active group members for creative and technical groups -- as opposed to exclusively survival-oriented groups, such as villages -- hovers somewhere between 25-80, but is best around 45-50. Anything more than this and the group has to spend too much time &amp;quot;grooming&amp;quot; to keep group cohesion, rather then focusing on why the people want to spend the effort on that group in the first place -- say to deliver a software product, learn a technology, promote a meme, or have fun playing a game. Anything less than this and you risk losing critical mass because you don&amp;#39;t have requisite variety.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Interestingly, the diminishing returns for large groups in &lt;em&gt;World of Warcraft&lt;/em&gt; appear to cut off much sooner then they do in &lt;em&gt;Ultima Online&lt;/em&gt;, with the 95th percentile 54 and the 99th percentile being 110. When I asked about why the &amp;#39;knee&amp;#39; was much closer to 50 rather than &lt;em&gt;Ultima Online&amp;#39;s &lt;/em&gt;knee around 150, &lt;a href=&#34;http://www.legendmud.org/raph/&#34;&gt;Raph Koster&lt;/a&gt; (the game designer who gave me the original &lt;em&gt;Ultima Online&lt;/em&gt; data) answered that it might be because &lt;em&gt;Ultima Online&lt;/em&gt; used a &amp;quot;veteran member&amp;quot; method of counting. This could result in under reporting of new users and thus pushing up sizes of more established groups.&lt;/p&gt;
-&lt;p&gt;Also different was the fact that the &lt;em&gt;World of Warcraft&lt;/em&gt; guild sizes display a reverse power-law, with the smallest groups being much more common, rather then the bell curve of &lt;em&gt;Ultima Online&lt;/em&gt;. If one-person guilds are excluded, the average guild size was 16.8, the median was 9. This seems to correspond much closer to my thoughts on a smaller &amp;#39;nodal&amp;#39; threshold for group size that I&amp;#39;ve observed at around 15, which I describe in &lt;a href=&#34;https://lifewithalacrity.github.io/2005/03/dunbar_altruist.html&#34;&gt;Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Also different was the fact that the &lt;em&gt;World of Warcraft&lt;/em&gt; guild sizes display a reverse power-law, with the smallest groups being much more common, rather then the bell curve of &lt;em&gt;Ultima Online&lt;/em&gt;. If one-person guilds are excluded, the average guild size was 16.8, the median was 9. This seems to correspond much closer to my thoughts on a smaller &amp;#39;nodal&amp;#39; threshold for group size that I&amp;#39;ve observed at around 15, which I describe in &lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html&#34;&gt;Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My guess is that there is something about &lt;em&gt;Worlds of Warcraft&lt;/em&gt; such that even participating in very small groups can be useful, whereas for &lt;em&gt;Ultima Online&lt;/em&gt; the utility is gained mainly by sharing the resources earned by larger groups. Thus &lt;em&gt;Worlds of Warcraft&lt;/em&gt; has groups that are &amp;quot;bands&amp;quot; as well as &amp;quot;tribes&amp;quot;, while with &lt;em&gt;Ultima Online&lt;/em&gt; groups are more llikely to be just &amp;quot;tribes&amp;quot;.&lt;/p&gt;
 &lt;p&gt;I&amp;#39;ve not had time to play &lt;em&gt;Worlds of Warcraft&lt;/em&gt; yet, so I&amp;#39;m curious if those who have more experience would agree with my hypothesis.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Some other posts about the Dunbar Number and group size issues:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html&#34;&gt;2004-03: The Dunbar Number as a Limit to Group Sizes&lt;/a&gt; (also some really good &lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html#comments&#34;&gt;comments&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/02/dunbar_triage_t.html&#34;&gt;2005-02: Dunbar Triage: Too Many Connections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/03/dunbar_altruist.html&#34;&gt;2005-03: Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/07/cheers_belongin.html&#34;&gt;2005-07: Cheers: Belongingness and Para-Social Relationships&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/10/dunbar_group_co.html&#34;&gt;2005-10: Dunbar Number &amp;amp; Group Cohesion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;2004-03: The Dunbar Number as a Limit to Group Sizes&lt;/a&gt; (also some really good &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#comments&#34;&gt;comments&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/02/dunbar_triage_t.html&#34;&gt;2005-02: Dunbar Triage: Too Many Connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html&#34;&gt;2005-03: Dunbar, Altruistic Punishment, and Meta-Moderation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/07/cheers_belongin.html&#34;&gt;2005-07: Cheers: Belongingness and Para-Social Relationships&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/10/dunbar_group_co.html&#34;&gt;2005-10: Dunbar Number &amp;amp; Group Cohesion&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
@@ -254,16 +254,16 @@ hi!can you help me with sth?? i want to make faster lvl can you help me plz:(:(
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-11-09T06:13:06-07:00&#34;&gt;2006-11-09T06:13:06-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/08/dunbar_world_of.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/08/dunbar_world_of.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Future Topics</title>
-      <link>https://lifewithalacrity.github.io/2005/04/future_topics.html</link>
+      <link>http://www.lifewithalacrity.com/2005/04/future_topics.html</link>
       <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/04/future_topics.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/04/future_topics.html</guid>
       <description>&lt;p&gt;I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Office Architecture for Innovation&lt;/em&gt;&lt;/strong&gt; -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses. These include some of the obvious suggestions such as fresh air and natural light, but also include not so obvious ideas such as using magnetic paint and providing a small washer-dryer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Requisite Variety&lt;/em&gt;&lt;/strong&gt; -- This concept from cybernetics applies to social systems as well. &amp;quot;The larger the variety of actions available to a control system, the larger the variety of perturbations it is able to compensate.&amp;quot; More people, as well as a diversity of thinking styles and experience, give social software more &amp;quot;variety of actions&amp;quot;, thus this is part of the reason why social software can be so effective.&lt;/p&gt;
@@ -311,30 +311,30 @@ The SSL story would be interesting..
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>User Content, Social Software &amp; Online Games</title>
-      <link>https://lifewithalacrity.github.io/2005/03/user_content_so.html</link>
+      <link>http://www.lifewithalacrity.com/2005/03/user_content_so.html</link>
       <pubDate>Fri, 04 Mar 2005 15:17:14 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/03/user_content_so.html</guid>
-      <description>&lt;p&gt; &lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/shannon.jpeg&#34; title=&#34;Shannon&#34; alt=&#34;Shannon&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;Shannon Appelcline, my colleague at &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos&lt;/a&gt; (an online game company that I founded in 1999), has been writing for
+      <guid>http://www.lifewithalacrity.com/2005/03/user_content_so.html</guid>
+      <description>&lt;p&gt; &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon.jpeg&#34; title=&#34;Shannon&#34; alt=&#34;Shannon&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;Shannon Appelcline, my colleague at &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos&lt;/a&gt; (an online game company that I founded in 1999), has been writing for
 several years a sometimes weekly, sometimes bi-weekly column on the
 topic of game design called &lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;Trials, Triumphs &amp;amp; Trivialities&lt;/a&gt; (rss feed for all &lt;a href=&#34;http://www.skotos.net/articles/index.xml&#34;&gt;Skotos Articles&lt;/a&gt; including TT&amp;amp;T).&lt;/p&gt;
 &lt;p&gt;His latest column &lt;a href=&#34;http://www.skotos.net/articles/TTnT_163.phtml&#34;&gt;Social Software &amp;amp; Gaming: User Content&lt;/a&gt; discusses issues of user content and user facilitation that apply both online game communities and social software:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;em&gt;...the more user content that we allow into games, the more
 troubles we have separating the good from the bad, the signal from the
 noise. As we introduce user content systems into games, filtering it will become the next challenge. Fortunately there are already some answers in our nearby field of Social Software.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;As I wrote about in an &lt;a href=&#34;https://lifewithalacrity.github.io/2003/12/socialization_i.html&#34;&gt;older post&lt;/a&gt;, Shannon has also written a number of interesting columns on the topic of designing social games:&lt;/p&gt;
+&lt;/blockquote&gt;&lt;p&gt;As I wrote about in an &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/socialization_i.html&#34;&gt;older post&lt;/a&gt;, Shannon has also written a number of interesting columns on the topic of designing social games:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_136.phtml&#34;&gt;Social Gaming Interactions, Part One: A History of Form&lt;/a&gt;&lt;br /&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_137.phtml&#34;&gt;Social Gaming Interactions, Part Two: Competition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_138.phtml&#34;&gt;Social Gaming Interactions, Part Three: Cooperation &amp;amp; Freeform&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Articles_ttntlogo2b&#34; title=&#34;Articles_ttntlogo2b&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/articles_ttntlogo2b.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;More recent articles by Shannon have ranged in topics from analysis of the use of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_161.phtml&#34;&gt;auctioning&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_162.phtml&#34;&gt;majority control&lt;/a&gt; techniques in board games, how &lt;a href=&#34;http://www.skotos.net/articles/TTnT_159.phtml&#34;&gt;communities work&lt;/a&gt; in online games, the importance of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_160.phtml&#34;&gt;enthusiasm&lt;/a&gt; in business, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_146.phtml&#34;&gt;intellectual property&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_157.phtml&#34;&gt;licensing&lt;/a&gt;, on &lt;a href=&#34;http://www.skotos.net/articles/TTnT_151.phtml&#34;&gt;transcreation,&lt;/a&gt; and much, much more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Articles_ttntlogo2b&#34; title=&#34;Articles_ttntlogo2b&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/articles_ttntlogo2b.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;More recent articles by Shannon have ranged in topics from analysis of the use of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_161.phtml&#34;&gt;auctioning&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_162.phtml&#34;&gt;majority control&lt;/a&gt; techniques in board games, how &lt;a href=&#34;http://www.skotos.net/articles/TTnT_159.phtml&#34;&gt;communities work&lt;/a&gt; in online games, the importance of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_160.phtml&#34;&gt;enthusiasm&lt;/a&gt; in business, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_146.phtml&#34;&gt;intellectual property&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_157.phtml&#34;&gt;licensing&lt;/a&gt;, on &lt;a href=&#34;http://www.skotos.net/articles/TTnT_151.phtml&#34;&gt;transcreation,&lt;/a&gt; and much, much more.&lt;/p&gt;
 &lt;p&gt;I always find Shannon&#39;s articles rich and deeply thought out -- I think you will to.&lt;/p&gt;
 &lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
 &lt;div class=&#34;u-comment h-cite&#34;&gt;
@@ -347,16 +347,16 @@ http://www.putosprogramas.com
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-17T06:14:04-07:00&#34;&gt;2005-06-17T06:14:04-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/03/user_content_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/03/user_content_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Socialization in Online Games</title>
-      <link>https://lifewithalacrity.github.io/2003/12/socialization_i.html</link>
+      <link>http://www.lifewithalacrity.com/2003/12/socialization_i.html</link>
       <pubDate>Sat, 20 Dec 2003 04:32:03 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2003/12/socialization_i.html</guid>
+      <guid>http://www.lifewithalacrity.com/2003/12/socialization_i.html</guid>
       <description>&lt;p&gt;Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;&#34;Trials, Triumphs &amp; Trivialities&#34;&lt;/a&gt; column in the &lt;a href=&#34;http://www.skotos.net/articles/&#34;&gt;Skotos Articles section&lt;/a&gt; recently featured a trilogy of articles about stretching the bounds of socialization in online games:&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_136.phtml&#34;&gt;Social Gaming Interactions, Part One: A History of Form&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;The first article outlines the problem by looking out how social interaction has traditionally been handled in online games, and by considering how limiting these interactions typically have been. It also outlines how to expand traditional social interactions by describing three main categories of social interaction: competition, cooperation, and freeform.&lt;blockquote&gt;That the majority of MMORPGs, MUDs, and other multiplayer games ultimately support achiever players over socializers, or even killers, I think begins to outline how poorly we understand--and support--true social interactions in today&#39;s multiplayer games.&lt;/blockquote&gt;&lt;b&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_137.phtml&#34;&gt;Social Gaming, Part Two: Competition&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
@@ -370,23 +370,23 @@ http://www.putosprogramas.com
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-19T12:59:11-07:00&#34;&gt;2004-03-19T12:59:11-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2003/12/socialization_i.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2003/12/socialization_i.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Skotos and Social Software</title>
-      <link>https://lifewithalacrity.github.io/2003/12/skotos_and_soci.html</link>
+      <link>http://www.lifewithalacrity.com/2003/12/skotos_and_soci.html</link>
       <pubDate>Thu, 11 Dec 2003 15:53:52 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2003/12/skotos_and_soci.html</guid>
+      <guid>http://www.lifewithalacrity.com/2003/12/skotos_and_soci.html</guid>
       <description>&lt;p&gt;I&#39;ve been interested for several years in the ability of &#34;player-generated content&#34; to create niche or small multiplayer online games, at a company I&#39;ve invested in called &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos &lt;/a&gt;. At this point its oldest game Castle Marrach is completely run by the players, and 7 more games are being developed by their customers. The company is at break-even, but is not yet a &#39;commercial success&#39;. There are some learnings from the world of massively multiplayer online games that apply to other kinds of social networks.&lt;/p&gt;
 &lt;p&gt;Some of these learnings have to do with size of groups -- different sizes of teams and groups in games can have very different effects, both positive and negative. I&#39;ve never seen any Social Software that innately understands that a team of 7 behaves very different then a clan of 50 or a megaclan/tribe of 350. These behaviors have parallels to size of mailing lists, online communities, and even to the size of corporations. If Social Software can integrate an understanding of this then it might be significantly more successful&lt;/p&gt;
 &lt;p&gt;I&#39;m also interested in what I call &#34;social games&#34; for online games. I don&#39;t believe that current MMPORGs serve well what the industry calls the &#39;socializer&#39;, which consists of 15% of current gamer population, but may in fact be much higher if you include women who don&#39;t currently play as many online games. Two recent articles that I&#39;ve been collaborating with Shannon Appelcline on this topic:&lt;br /&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_136.phtml&#34;&gt;Social Gaming Interactions, Part One: A History of Form&lt;/a&gt;&lt;br /&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_137.phtml&#34;&gt;Social Gaming Interactions, Part Two: Competition&lt;/a&gt;&lt;br /&gt;
 &lt;li&gt;Part three isn&#39;t available until next Thursday, but is on non-competitive social interactions.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2003/12/skotos_and_soci.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2003/12/skotos_and_soci.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

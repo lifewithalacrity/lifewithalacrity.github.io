@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Airport Express on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/airport-express/</link>
+    <link>http://www.lifewithalacrity.com/tags/airport-express/</link>
     <description>Recent content in Airport Express on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 May 2005 12:25:27 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/airport-express/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/airport-express/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Apple, AirVideo, and Immersive vs Ambient Media</title>
-      <link>https://lifewithalacrity.github.io/2005/05/airvideo_and_im.html</link>
+      <link>http://www.lifewithalacrity.com/2005/05/airvideo_and_im.html</link>
       <pubDate>Tue, 10 May 2005 12:25:27 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/05/airvideo_and_im.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/05/airvideo_and_im.html</guid>
       <description>&lt;p&gt;I was reading on &lt;a href=&#34;http://slashdot.org/&#34;&gt;Slashdot&lt;/a&gt; a discussion about &lt;a href=&#34;http://slashdot.org/article.pl?sid=05/05/10/0235212&#34;&gt;iTune 4.8&lt;/a&gt; and its new capability to purchase videos from the iTunes Music Store, when I read two things that just made me say &amp;quot;duh&amp;quot; with their obviousness, yet I&#39;d never thought of them before.&lt;/p&gt;
 &lt;p&gt;Both of these &amp;quot;duh&amp;quot; moments were inspired by the comments by an anonymous Apple engineer with the handle &lt;a href=&#34;http://slashdot.org/~As%20Seen%20On%20TV&#34;&gt;As Seen on TV&lt;/a&gt;:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;Everybody&#39;s wrong about the video iPod thing. A video iPod would be a dumb idea for lots of reasons, some technical, some psychological. If you want to know where we&#39;re going with video playback, look not to the iPod but to its considerably less famous little brother, AirPort Express.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;He didn&#39;t explain himself further, but I grokked it immediately. The current &lt;a href=&#34;http://www.apple.com/airportexpress/&#34;&gt;Airport Express&lt;/a&gt; already offers digital output of audio in a feature called &amp;quot;AirTunes&amp;quot;. It isn&#39;t much of a stretch to believe that they could add the capability to offer video. If they added a dedicated H.264/MPEG4 decoder chip to the Airport Express, you could just plug in an HD-capable monitor and offer internet delivery of video and movies. The bandwidth wouldn&#39;t be an issue, as you are talking only 2 Mbps for the most popular HD compressed format, and even the full resolution 1080i compressed only requires 8-9 Mbps -- all of which will fit amply the bandwidth available to 802.11g. Thus &amp;quot;AirVideo&amp;quot;.&lt;/p&gt;
 &lt;p&gt;&amp;quot;As Seen on TV&amp;quot; continues with more insights on Apple&#39;s strategy:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;And the iPod is not repeat not gonna say it one more time not meant to be a video-playback device. It’s not even remotely designed for it. The iPod has a tiny hard drive that’s designed for embedded applications, and a 32 MB (I think it is) RAM buffer cache that’s optimized for dealing with song-sized chunks of data. That’s about 4 MB. Even a half hour of HD content is gonna be half a gigabyte. There’s basically no way for the iPod to play that without constantly keeping the hard drive running, and that will burn out the drive very quickly. Seriously, under constant use, the iPod hard drives’ life spans are measured in tens of hours.&lt;/em&gt;&lt;/p&gt;
@@ -139,7 +139,7 @@ Have a look
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-09-10T04:30:02-07:00&#34;&gt;2005-09-10T04:30:02-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/05/airvideo_and_im.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/05/airvideo_and_im.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

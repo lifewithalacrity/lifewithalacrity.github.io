@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insurance on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/insurance/</link>
+    <link>http://www.lifewithalacrity.com/tags/insurance/</link>
     <description>Recent content in Insurance on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Feb 2004 14:12:29 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/insurance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/insurance/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Security &amp; Cryptography: The Bad Business of Fear</title>
-      <link>https://lifewithalacrity.github.io/2004/02/security_crypto.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>
       <pubDate>Sun, 22 Feb 2004 14:12:29 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/security_crypto.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/security_crypto.html</guid>
       <description>&lt;p&gt;As I head out next week to the &lt;a href=&#34;http://2004.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.&lt;/p&gt;
 &lt;p&gt;After 8 more years I left the compujter security industry on March 15, 1999. The computer security industry also seemed to be filled with as much potential as it did back in 1991. Amazon, EBay, and other Internet notables were still riding high, and driving before them the need for secure Internet transactions. The government&#39;s attempt to cripple the industry through their Clipper chip initiative was all but dead, and we were slowly winning the rights to export our technologies without severe and unnecessary government restrictions. We were beginning to truly see how Certificate Authorities worked in practical usage, and were coming up with plans for smaller, more efficient certs, to help bring security to wireless devices and set-top boxes.&lt;/p&gt;
 &lt;p&gt;It may seem strange that I left the industry at such a height, but I&#39;d accomplished my own personal goals. I helped midwife the startup of &lt;a href=&#34;http://www.verisign.com&#34;&gt;VeriSign&lt;/a&gt;, and digital certificates were now broadly available for both servers and clients. I&#39;d helped fight Clipper, and freed RSAREF so that it could be used by Open Source software before the expiration of the patent. I&#39;d grown Consensus Development, a company I founded almost a decade before, from a small engineering house into the premiere SSL developer. I&#39;d lead the team that developed the SSL Reference version for Netscape, and had completed the IETF&#39;s &lt;a href=&#34;http://www.ietf.org/rfc/rfc2246.txt&#34;&gt;RFC 2246&lt;/a&gt; that described the future of SSL called TLS.&lt;/p&gt;
@@ -102,7 +102,7 @@ So then one day this guy discovers the answer to the Reimann Conjecture and now 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-07T06:23:57-07:00&#34;&gt;2004-09-07T06:23:57-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

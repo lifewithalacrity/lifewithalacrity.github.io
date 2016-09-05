@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblogs on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/weblogs/</link>
+    <link>http://www.lifewithalacrity.com/tags/weblogs/</link>
     <description>Recent content in Weblogs on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 18 Oct 2012 17:21:44 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Introduction to the Social Web (Reading List #SW4SX)</title>
-      <link>https://lifewithalacrity.github.io/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</link>
+      <link>http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</link>
       <pubDate>Thu, 18 Oct 2012 17:21:44 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</guid>
+      <guid>http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</guid>
       <description>&lt;p&gt;These are the initial required readings for the first two weeks of my &lt;a href=&#34;http://www.bgi.edu/changing-business/social-web-for-social-change/&#34; target=&#34;_self&#34;&gt;Using the Social Web for Social Change&lt;/a&gt; class (hashtag #SW4SX) that I teach in the &lt;a href=&#34;http://www.bgi.edu/academics/mbas/hybrid-mba/&#34; target=&#34;_self&#34;&gt;MBA in Sustainable Systems&lt;/a&gt;&amp;#0160;program at &lt;a href=&#34;http://www.bgi.edu&#34; target=&#34;_self&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The goal of this portion of the class is to&amp;#0160;cover an introduction and overview of the landscape of the Social Web, establish among the students the beginning of a shared language about the medium, and introduce a process toward a collaborative culture that we will use for the rest of the course. Students are also kicking off their Beat blogs on sustainability topics, with the goal of helping them move toward having an authentic online voice.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;TOPIC: New Ways of Learning&lt;/strong&gt;&lt;/p&gt;
@@ -38,7 +38,7 @@
 &lt;ul&gt;
 &lt;li&gt;Allen, Christopher. “Creating Shared Language and Shared Artifacts”, Life With Alacrity. 2009-09-17
 &lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;https://lifewithalacrity.github.io/2009/09/creating-shared-language-and-shared-artiifacts.html&#34;&gt;&amp;#0160;/2009/09/creating-shared-language-and-shared-artiifacts.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2009/09/creating-shared-language-and-shared-artiifacts.html&#34;&gt;&amp;#0160;/2009/09/creating-shared-language-and-shared-artiifacts.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;KEYQUOTE: “Without a shared language there will be no clarity on mutual goals — whether it involves working together, transacting a trade, or creating something…However, some facilitators have learned that one of the best ways to help a group form a shared language is by having the group create together a shared artifact…It allows the individuals participating to ask the questions: &amp;quot;Is this what you mean when…&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -125,7 +125,7 @@
 &lt;ul&gt;
 &lt;li&gt;Allen, Christopher &amp;quot;Tracing the Evolution of Social Software.&amp;quot; Life With Alacrity. 13 Oct 2004
 &lt;ul&gt;
-&lt;li&gt;BLOGPOST:&amp;#0160;&lt;a href=&#34;https://lifewithalacrity.github.io/2004/10/tracing_the_evo.html&#34;&gt;/2004/10/tracing_the_evo.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BLOGPOST:&amp;#0160;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/tracing_the_evo.html&#34;&gt;/2004/10/tracing_the_evo.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;KEYQUOTE: &amp;quot;The term &amp;#39;social software&amp;#39;, which is now used to define software that supports group interaction, has only become relatively popular within the last two or more years. However, the core ideas of social software itself enjoy a much longer history, running back to Vannevar Bush&amp;#39;s ideas about &amp;#39;memex&amp;#39; in 1945, and traveling through terms such as Augmentation, Groupware, and CSCW in the 1960s, 70s, 80s, and 90s. By examining the many terms used to describe today&amp;#39;s &amp;#39;social software&amp;#39; we can also explore the origins of social software itself, and see how there exists a very real life cycle concerning the use of technical terminology.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -181,7 +181,7 @@
 &lt;ul&gt;
 &lt;li&gt;Allen, Christopher &amp;quot;Password Best Practices&amp;quot; Life With Alacrity, 2009-09-25
 &lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;https://lifewithalacrity.github.io/2009/09/password-best-practices.html&#34;&gt;&amp;#0160;/2009/09/password-best-practices.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2009/09/password-best-practices.html&#34;&gt;&amp;#0160;/2009/09/password-best-practices.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;KEYQUOTE: &amp;quot;Be Safe: None of these approaches is perfect, but they significantly raise the bar against any but the most determined cracker from breaking into one of your accounts. The domain letter technique will also make it very difficult for a cracker to break into your more important financial accounts if he gets access to your password from a poorly secured website or masquerades as a legitimate website or email by using a phishing attack.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -268,7 +268,7 @@
 &lt;ul&gt;
 &lt;li&gt;Allen, Christopher &amp;quot;Four Kinds of Privacy&amp;quot; Life With Alacrity, 2004-04-22
 &lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;https://lifewithalacrity.github.io/2004/04/four_kinds_of_p.html&#34;&gt;/2004/04/four_kinds_of_p.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2004/04/four_kinds_of_p.html&#34;&gt;/2004/04/four_kinds_of_p.html&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;KEYQUOTE: &amp;quot;My thoughts have now gelled sufficiently to make some observations about privacy. When people speak about privacy, they may actually be talking about very different forms of privacy: defensive privacy, human-rights privacy, personal privacy, and contextual privacy.&amp;quot;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -373,17 +373,17 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I welcome your thoughts for additional or replacement Social Web introductory readings that we can use in the next class in the Spring of 2013.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BGIedu Students Post for Blog Action Day on Food</title>
-      <link>https://lifewithalacrity.github.io/2011/10/bgiedu-students-post-for-blog-action-day.html</link>
+      <link>http://www.lifewithalacrity.com/2011/10/bgiedu-students-post-for-blog-action-day.html</link>
       <pubDate>Sun, 16 Oct 2011 17:35:27 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2011/10/bgiedu-students-post-for-blog-action-day.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Blog-action-day-food-500x250&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef0154362c6f5f970c&#34; src=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-320wi&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; title=&#34;Blog-action-day-food-500x250&#34; /&gt;&lt;/a&gt;Today is &lt;a href=&#34;http://blogactionday.org/&#34; target=&#34;_self&#34; title=&#34;Blog Action Day Website&#34;&gt;Blog Action Day&lt;/a&gt;, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags &lt;a href=&#34;http://twitter.com/search/%23food&#34; target=&#34;_self&#34;&gt;#FOOD&lt;/a&gt; and&amp;#0160;&lt;a href=&#34;http://twitter.com/search/%23bad11&#34; target=&#34;_self&#34;&gt;#BAD11&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2011/10/bgiedu-students-post-for-blog-action-day.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Blog-action-day-food-500x250&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef0154362c6f5f970c&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-320wi&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; title=&#34;Blog-action-day-food-500x250&#34; /&gt;&lt;/a&gt;Today is &lt;a href=&#34;http://blogactionday.org/&#34; target=&#34;_self&#34; title=&#34;Blog Action Day Website&#34;&gt;Blog Action Day&lt;/a&gt;, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags &lt;a href=&#34;http://twitter.com/search/%23food&#34; target=&#34;_self&#34;&gt;#FOOD&lt;/a&gt; and&amp;#0160;&lt;a href=&#34;http://twitter.com/search/%23bad11&#34; target=&#34;_self&#34;&gt;#BAD11&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This year&amp;#39;s topic is &lt;a href=&#34;http://blogactionday.org/why-food/&#34; target=&#34;_self&#34; title=&#34;Blog Action Day — Why Food?&#34;&gt;Food&lt;/a&gt;, and this year many of my students of my &lt;a href=&#34;http://www.bgi.edu&#34; target=&#34;_self&#34;&gt;BGIedu&lt;/a&gt; class &lt;a href=&#34;http://www.bgi.edu/voice-of-bgi/social-web-for-social-change/&#34; target=&#34;_self&#34;&gt;Using the Social Web for Social Change&lt;/a&gt;&amp;#0160;are using the day to help kick off their &amp;quot;Beat Blog&amp;quot; assignments. The goal of Beat Blogs is for each student to choose a topic they are passionate about and blog about it at least weekly for two and a half months. Many students decide to keep their blogs going afterwards, am I&amp;#39;m always tickled when that happens.&lt;/p&gt;
 &lt;p&gt;Some of the blog posts by my students on the topic of Food:&lt;/p&gt;
 &lt;ul&gt;
@@ -408,34 +408,34 @@
 &lt;li&gt;&lt;a href=&#34;http://ticsnow.wordpress.com/&#34; target=&#34;_self&#34;&gt;Blog Action Day on Food&lt;/a&gt; (from ticsnow, a blog on &lt;a href=&#34;http://ticsnow.wordpress.com/2011/10/15/ticsnow-demystified/&#34; target=&#34;_self&#34;&gt;technology innovation creativity and sustainability now&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;All of these bloggers are new to the blogosphere, but if you appreciate what they have to say, give a quick comment — it goes a long way to encourage them to continue.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01539258a42d970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;BGI-Logo-Print Small_0&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01539258a42d970b&#34; src=&#34;https://lifewithalacrity.github.io/previous/.a/6a00d8341d8bc053ef01539258a42d970b-800wi&#34; title=&#34;BGI-Logo-Print Small_0&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01539258a42d970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;BGI-Logo-Print Small_0&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01539258a42d970b&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01539258a42d970b-800wi&#34; title=&#34;BGI-Logo-Print Small_0&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;/ul&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2011/10/bgiedu-students-post-for-blog-action-day.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2011/10/bgiedu-students-post-for-blog-action-day.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Blog for Ephemera</title>
-      <link>https://lifewithalacrity.github.io/2008/07/new-blog-for-ep.html</link>
+      <link>http://www.lifewithalacrity.com/2008/07/new-blog-for-ep.html</link>
       <pubDate>Sun, 13 Jul 2008 13:22:55 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2008/07/new-blog-for-ep.html</guid>
+      <guid>http://www.lifewithalacrity.com/2008/07/new-blog-for-ep.html</guid>
       <description>&lt;p&gt;This blog has been quiet lately as I&#39;ve been doing a lot of work in the last year on the iPhone. I&#39;ve been speaking at conferences like eComm 2008 (&lt;a href=&#34;http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008&#34;&gt;presentation&lt;/a&gt;, &lt;a href=&#34;http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html&#34;&gt;video from panel&lt;/a&gt;), writing an book on the iPhone with my co-author Shannon Appelcline called &lt;a href=&#34;http://www.manning.com/callen&#34;&gt;iPhone in Action: Introduction to Web and SDK Development&lt;/a&gt; (first &lt;a href=&#34;http://www.manning-source.com/books/callen/callen_meapch1-2.pdf&#34;&gt;two chapters&lt;/a&gt; free&lt;/a&gt;), and I am one of the organizers for the upcoming &lt;a href=&#34;http://www.iPhoneDevCamp.org&#34;&gt;iPhoneDevCamp 2&lt;/a&gt;, a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.&lt;/p&gt;
-&lt;p&gt;I&#39;ve been reluctant to post too many of these off posts on this blog, as I like the length, quality and high-signal-to-noise ratio of the posts that I&#39;ve written for this blog. I do plan to continue to offer more social software and social media posts, including followups to my &lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/systems_for_col.html&#34;&gt;Collective Choice&lt;/a&gt; articles, as well as updates on my popular &lt;a href=&#34;https://lifewithalacrity.github.io/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; posts. But I don&#39;t want to spam my readers here with notes on iPhone Apps, my thoughts on movies, circuses, the odd conferences I speak at, etc.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com&#34;&gt;&lt;img alt=&#34;Ephemerablogthumb&#34; title=&#34;Ephemerablogthumb&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/2008/07/13/ephemerablogthumb.png&#34; border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; /&gt;&lt;/a&gt;So I&#39;ve been trying to figure out how to cover some of the other things that I am up to without loosing my readers here, so decided to a create a new blog for my shorter and more transitory thoughts: &lt;a href=&#34;http://ephemera.LifeWithAlacrity.com&#34;&gt;Christopher Allen&#39;s Ephemera Blog&lt;/a&gt;. So far I have posted:&lt;p&gt;&lt;ul &gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/max-9-pages-thu.html&#34;&gt;Max 9 pages, thus Max 144 Apps on iPhone OS 2.0&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/first-look-at-a.html&#34;&gt;First Look at AirMe App for iPhone&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/trying-out-type.html&#34;&gt;Trying Out TypePad&#39;s Blog It Web App&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepa-1.html&#34;&gt;iPhone TypePad App Second Pass&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepad.html&#34;&gt;iPhone TypePad App First Look&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/ephemera-blog.html&#34;&gt;Ephemera Blog&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;I&#39;ve been reluctant to post too many of these off posts on this blog, as I like the length, quality and high-signal-to-noise ratio of the posts that I&#39;ve written for this blog. I do plan to continue to offer more social software and social media posts, including followups to my &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;Collective Choice&lt;/a&gt; articles, as well as updates on my popular &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; posts. But I don&#39;t want to spam my readers here with notes on iPhone Apps, my thoughts on movies, circuses, the odd conferences I speak at, etc.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com&#34;&gt;&lt;img alt=&#34;Ephemerablogthumb&#34; title=&#34;Ephemerablogthumb&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/2008/07/13/ephemerablogthumb.png&#34; border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; /&gt;&lt;/a&gt;So I&#39;ve been trying to figure out how to cover some of the other things that I am up to without loosing my readers here, so decided to a create a new blog for my shorter and more transitory thoughts: &lt;a href=&#34;http://ephemera.LifeWithAlacrity.com&#34;&gt;Christopher Allen&#39;s Ephemera Blog&lt;/a&gt;. So far I have posted:&lt;p&gt;&lt;ul &gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/max-9-pages-thu.html&#34;&gt;Max 9 pages, thus Max 144 Apps on iPhone OS 2.0&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/first-look-at-a.html&#34;&gt;First Look at AirMe App for iPhone&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/trying-out-type.html&#34;&gt;Trying Out TypePad&#39;s Blog It Web App&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepa-1.html&#34;&gt;iPhone TypePad App Second Pass&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepad.html&#34;&gt;iPhone TypePad App First Look&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/ephemera-blog.html&#34;&gt;Ephemera Blog&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;The RSS feed for this blog is here &lt;a href=&#34;http://feeds.feedburner.com/ChristopherAllensEphemeraBlog&#34; rel=&#34;alternate&#34; type=&#34;application/rss+xml&#34;&gt;&lt;img src=&#34;http://www.feedburner.com/fb/images/pub/feed-icon16x16.png&#34; alt=&#34;&#34; style=&#34;vertical-align:middle;border:0&#34;/&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you are interested in some of the other things I am looking at, you can follow my &lt;a href=&#34;http://del.icio.us/ChristopherA&#34;&gt;del.icio.us&lt;/a&gt; bookmarks, or read my &lt;a href=&#34;http://www.google.com/reader/shared/user/02324944907197224037/state/com.google/broadcast&#34;&gt;Google Shared Items&lt;/a&gt;, watch my &lt;a href=&#34;http://twitter.com/ChristopherA&#34;&gt;Twitter&lt;/a&gt; posts, or see them all combined together in either &lt;a href=&#34;http://friendfeed.com/christophera&#34;&gt;FriendFeed&lt;/a&gt; or &lt;a href=&#34;http://pulse.plaxo.com/pulse/profile/show/93189?pk=5c10c629b99e837f0bc276c0e24ffffe1aed8799&#34;&gt;Plaxo Pulse&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2008/07/new-blog-for-ep.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2008/07/new-blog-for-ep.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>In Seoul for the Social Web</title>
-      <link>https://lifewithalacrity.github.io/2008/06/in-seoul-for-th.html</link>
+      <link>http://www.lifewithalacrity.com/2008/06/in-seoul-for-th.html</link>
       <pubDate>Wed, 25 Jun 2008 01:18:39 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2008/06/in-seoul-for-th.html</guid>
+      <guid>http://www.lifewithalacrity.com/2008/06/in-seoul-for-th.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/christophera/2610236112/&#34; title=&#34;Downtown Seoul, South Korea, from Hotel Window by ChristopherA, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3067/2610236112_a59ce2f7b5_m.jpg&#34; width=&#34;240&#34; height=&#34;180&#34; alt=&#34;Downtown Seoul, South Korea, from Hotel Window&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;I&#39;m in Seoul, South Korea this week for the &lt;a href=&#34;http://www.globalforumactionlearning.com/&#34;&gt;13th Global Forum on Business Driven Action Learning and Executive Development&lt;/a&gt;, where I&#39;m presenting on the topic of the how to get involved with the Social Web.&lt;/p&gt;
 &lt;p&gt;My presentation is an offshoot of an odd sideline of mine, executive blog and social web coaching. Basically, many times over the last couple of years I&#39;ve been asked by colleagues and friends to help them with the social web. I&#39;ve always been honored to spend the time to teach them how to blog, better manage the noise of the web by using a feed reader, how to participate in social networks, and how to improve their personal brand.&lt;/p&gt;
 &lt;p&gt;Increasingly, the social network of their peers is now asking me to help them to do the same for them. So I&#39;ve been doing this more and more over the last year on a consulting basis as their social networks appear to be saying saying that I have a lot to offer.&lt;/p&gt;
@@ -443,19 +443,19 @@
 &lt;p&gt;Most recently, Drew has asked me to join him in Seoul to speak at the Global Forum, which is a worldwide gathering of executive trainers. There I am presenting a synopsis of what I teach, and how they can begin to learn how to teach their staff how to do the same. My trip has been sponsored by Johnson &amp; Johnson, so it has been a lot of fun to be here. I get to both dive into deep discussions of methodologies for teaching inside business, as well as learn about the Korean and other international business cultures and how they are different from the United States.&lt;/p&gt;
 &lt;p&gt;During the evenings I&#39;ve had a chance to wander the streets of downtown Seoul. It is very different then wandering though streets in Europe, not only because of the different culture and language, but also because all of the signs are in Hangul, the korean character set. Very few signs use the roman alphabet, so it is often very difficult to figure out what is what without walking in. Like Japan, there are some signs in English to represent a brand or a style, but not many. Even China has more signs in English then Korean&#39;s do -- the last time I was there I was surprised by how almost every important sign was in both Chinese and English, so much so I was beginning to learn Chinese language characters just by association! Despite the language problems everyone is nice and it feels safe to wander in these neighborhoods.&lt;/p&gt;
 &lt;p&gt;I return on Monday, and I&#39;ll make a copy of my final presentation available here.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2008/06/in-seoul-for-th.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2008/06/in-seoul-for-th.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ratings: Who Do You Trust?</title>
-      <link>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</link>
+      <link>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</link>
       <pubDate>Thu, 14 Sep 2006 16:28:58 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</guid>
-      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
+      <guid>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</guid>
+      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
 Who Do You Trust?&lt;/a&gt; offers a look at weighting ratings based on reliability.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here&#39;s how we measured each type of trust, and what we did about it:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings for an Item.&lt;/strong&gt; Introduce a bayesian weight to offset the variability of items with low-volume ratings.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings by a User.&lt;/strong&gt; Give each user a weight based on his volume of contribution which is applied to his ratings.&lt;/em&gt;&lt;/p&gt;
@@ -481,11 +481,11 @@ User Creativity&lt;/a&gt; - A look at the &amp;quot;XP&amp;quot; system which ha
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
 &lt;/p&gt;&lt;blockquote&gt;&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;
@@ -520,18 +520,18 @@ I&#39;m pretty sure that the core weighting system by depth is producing better 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T15:39:53-07:00&#34;&gt;2006-10-16T15:39:53-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SynchroEdit: Simultaneous Editing for the Web</title>
-      <link>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</link>
+      <link>http://www.lifewithalacrity.com/2005/10/for_the_last_se.html</link>
       <pubDate>Sat, 08 Oct 2005 16:04:17 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/10/for_the_last_se.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/10/for_the_last_se.html</guid>
       <description>&lt;p&gt;For the last several months I&#39;ve been working on a new open source project that I&#39;ve been calling &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;. SynchroEdit is a browser-based simultaneous multiuser editor, useful for &lt;a href=&#34;http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html&#34;&gt;&amp;quot;same-time&amp;quot; collaboration&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/synchroeditmac.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=493,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;262&#34; height=&#34;202&#34; border=&#34;0&#34; alt=&#34;Synchroeditmac&#34; title=&#34;Synchroeditmac&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/synchroeditmac.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/synchroeditmac.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=493,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;262&#34; height=&#34;202&#34; border=&#34;0&#34; alt=&#34;Synchroeditmac&#34; title=&#34;Synchroeditmac&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/synchroeditmac.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.&lt;/p&gt;
 &lt;p&gt;SynchroEdit is a tool for &amp;quot;same-time&amp;quot; collaboration, either &amp;quot;same-time, different-place&amp;quot;, as in teleconference calls, or &amp;quot;same-time, same-place&amp;quot;, during a meeting or a conference. If you&#39;ve ever used &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; on Mac OS X, or &lt;a href=&#34;http://www.moonedit.com&#34;&gt;MoonEdit&lt;/a&gt; for Windows or Linux, or the cross-platform &lt;a href=&#34;http://gobby.0x539.de/&#34;&gt;Gobby&lt;/a&gt;, this is a similar experience. The difference is that unlike those tools you are not limited to just plain text -- character styles (bold, italic, etc.) and paragraph styles (rulers, headers, blockquotes, etc) are synchronized as well. And of course, it all works inside your browser.&lt;/p&gt;
 &lt;p&gt;SynchroEdit is inspired by my frustration with the lack of an easily accessible cross-platform simultaneous editor. Many times when I&#39;ve been on the phone with a colleague discussing a draft blog entry, or demonstrating some code, or on a teleconference call with others to discuss a proposal or a standard, or at a conference taking notes with others, I&#39;ve wanted to have this tool. The rare occasions that we all have been on the same platform and have been able to use an existing tool have demonstrated to me the value of having a good simultaneous editor. Having SynchroEdit available will make it easier for people to have these positive collaborative experiences.&amp;nbsp; &lt;/p&gt;
 &lt;p&gt;I have a long history with &amp;quot;same-time&amp;quot; collaboration tools -- back in 1988 I was briefly executive producer at Broderbund for a same-time groupware product called &lt;a href=&#34;http://www.google.com/search?q=cache:1cDDTqwlqGoJ:www.the-scientist.com/yr1988/jul/software_p22_880725.html+%2Bbroderbund+%2B%22for+comment%22+groupware&#34;&gt;For Comment&lt;/a&gt;. Unfortunately, the success of the Nintendo game console forced Broderbund to drop all of their non-consumer product efforts. In the early 90&#39;s I worked on several different &amp;quot;same-time same-place&amp;quot; groupware tools for live meetings. Most recently, my game company &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos Tech&lt;/a&gt;, created several browser-based &amp;quot;enhanced chat&amp;quot; clients for playing in MUSH-like storytelling games, which are also &amp;quot;same-time&amp;quot;.&lt;/p&gt;
@@ -542,7 +542,7 @@ I&#39;m pretty sure that the core weighting system by depth is producing better 
 &lt;p&gt;In addition to to financial support of SocialText and Joichi Ito, I have some offers of help from the &lt;a href=&#34;http://www.bgiedu.org&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;, who plan to use it in its socially responsible and environmentally sustainable MBA program, and we&#39;ve also taken advantage of some code developed by &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder I met when he was creating an online game at Skotos. Skotos has long had the vision of having games created by its members, and Kalle Alm was the first member to create a game completely from scratch using Skotos&#39; tools.&lt;/p&gt;
 &lt;p&gt;We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we&#39;ll need more partners to help.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/christopher_allen_web2point1_brainjam.png&#34; title=&#34;Christopher_allen_web2point1_brainjam&#34; alt=&#34;Christopher_allen_web2point1_brainjam&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;I did a demo of last year&#39;s open source project, &lt;a href=&#34;http://www.EditThisPage.net&#34;&gt;EditThisPage&lt;/a&gt;, and of the SynchroEdit alpha at &lt;a href=&#34;http://www.web2point1.org/&#34;&gt;Web 2.1 BrainJam&lt;/a&gt; last week; there are two videos available from Enric Teller&#39;s vBlog: &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/&#34;&gt;Presentation&lt;/a&gt; and &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/&#34;&gt;Q&amp;amp;A&lt;/a&gt;.&amp;nbsp; &lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/christopher_allen_web2point1_brainjam.png&#34; title=&#34;Christopher_allen_web2point1_brainjam&#34; alt=&#34;Christopher_allen_web2point1_brainjam&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;I did a demo of last year&#39;s open source project, &lt;a href=&#34;http://www.EditThisPage.net&#34;&gt;EditThisPage&lt;/a&gt;, and of the SynchroEdit alpha at &lt;a href=&#34;http://www.web2point1.org/&#34;&gt;Web 2.1 BrainJam&lt;/a&gt; last week; there are two videos available from Enric Teller&#39;s vBlog: &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/&#34;&gt;Presentation&lt;/a&gt; and &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/&#34;&gt;Q&amp;amp;A&lt;/a&gt;.&amp;nbsp; &lt;/p&gt;
 &lt;p&gt;If you are interested in learning more, visit the &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit website&lt;/a&gt;. We have additional information on the program, a &lt;a href=&#34;http://wiki.synchroedit.com&#34;&gt;developers wiki&lt;/a&gt;, as well as a sandbox that you can play in to demonstrate SynchroEdit in use.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -557,16 +557,16 @@ I&#39;m curious about what ways you think this could be useful as a teaching aid
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-16T11:00:54-07:00&#34;&gt;2005-11-16T11:00:54-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/10/for_the_last_se.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/10/for_the_last_se.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extrapolative Hostility in the Online Medium</title>
-      <link>https://lifewithalacrity.github.io/2005/07/extrapolative_h.html</link>
+      <link>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</link>
       <pubDate>Mon, 18 Jul 2005 14:13:15 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/07/extrapolative_h.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</guid>
       <description>&lt;p&gt;&lt;blockquote&gt;&lt;dl&gt;&lt;dt&gt;&lt;em&gt;&lt;strong&gt;Extrapolate&lt;/strong&gt;&lt;/em&gt;&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;To infer an unknown from something that is known; conjecture.&lt;/em&gt;&lt;span style=&#34;font-size: 0.6em;&#34;&gt;&lt;br /&gt;&amp;ndash; The Random House College Dictionary&lt;/span&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:mlasalle@sfchronicle.com&#34;&gt;Mick LaSalle&lt;/a&gt;, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s &lt;a href=&#34;http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/17/PKGJNCETV81.DTL&#34;&gt;column&lt;/a&gt; he says something that I find very accurate to my experience with the online medium:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;em&gt;As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred. He says that people love that which they think reinforces their survival and hate that which they think threatens their survival. I believe &amp;ndash; this is just my humble theory, now &amp;ndash; that when people hear an opinion that counters theirs, their minds extrapolate from that one opinion to imagine a whole philosophical system. And then they imagine how they would fare in a world run according to that imagined system. So they go from disagreeing to feeling threatened in a matter of seconds, and they lash out. Often they write letters that begin, &amp;quot;You are obviously,&amp;quot; and that&amp;rsquo;s where they identify, not you, but the phantom they feel threatened by.&lt;/em&gt;&lt;/p&gt;
@@ -626,16 +626,16 @@ Naina Redhu
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-30T23:07:18-07:00&#34;&gt;2005-11-30T23:07:18-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/07/extrapolative_h.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/07/extrapolative_h.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Sidebar: Recent Bookmarks</title>
-      <link>https://lifewithalacrity.github.io/2005/04/if_you_read_my_.html</link>
+      <link>http://www.lifewithalacrity.com/2005/04/if_you_read_my_.html</link>
       <pubDate>Fri, 08 Apr 2005 11:40:41 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/04/if_you_read_my_.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/04/if_you_read_my_.html</guid>
       <description>&lt;p&gt;If you read my blog through an aggregator, you may not have noticed my new sidebar &amp;quot;Recent Bookmarks&amp;quot;. It is a list of web pages that I&#39;ve found interesting enough to annotate using the &lt;a href=&#34;http://del.icio.us/&#34;&gt;del.icio.us&lt;/a&gt; service. It is useful if you want to have an insight into what future blog entries I&#39;m working on, as links will often show up there before my actual blog posting is out.&lt;/p&gt;
 &lt;p&gt;You alternatively can &lt;a href=&#34;http://del.icio.us/ChristopherA?setcount=10&#34;&gt;view my last 10 del.icio.us postings&lt;/a&gt;, or subscribe to my &lt;a href=&#34;http://del.icio.us/rss/ChristopherA&#34;&gt;del.icio.us RSS feed&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;If you are interested in offering this feature in your own blog, I used the &lt;a href=&#34;http://www.bigbold.com/rssdigest/&#34;&gt;RSS Digest&lt;/a&gt; webservice to create a javascript applet that formats information from my del.icio.us RSS feed into a format suitable for my sidebar. There are a lot of other cool things that are possible with this service.&lt;/p&gt;
@@ -670,16 +670,16 @@ I must add these to my own del.icio.us collection plus a couple of other books o
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-04T16:53:14-07:00&#34;&gt;2005-08-04T16:53:14-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/if_you_read_my_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/if_you_read_my_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Future Topics</title>
-      <link>https://lifewithalacrity.github.io/2005/04/future_topics.html</link>
+      <link>http://www.lifewithalacrity.com/2005/04/future_topics.html</link>
       <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/04/future_topics.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/04/future_topics.html</guid>
       <description>&lt;p&gt;I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Office Architecture for Innovation&lt;/em&gt;&lt;/strong&gt; -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses. These include some of the obvious suggestions such as fresh air and natural light, but also include not so obvious ideas such as using magnetic paint and providing a small washer-dryer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Requisite Variety&lt;/em&gt;&lt;/strong&gt; -- This concept from cybernetics applies to social systems as well. &amp;quot;The larger the variety of actions available to a control system, the larger the variety of perturbations it is able to compensate.&amp;quot; More people, as well as a diversity of thinking styles and experience, give social software more &amp;quot;variety of actions&amp;quot;, thus this is part of the reason why social software can be so effective.&lt;/p&gt;
@@ -727,23 +727,23 @@ The SSL story would be interesting..
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Voluntary Health Associations &amp; Social Software</title>
-      <link>https://lifewithalacrity.github.io/2005/02/voluntary_healt.html</link>
+      <link>http://www.lifewithalacrity.com/2005/02/voluntary_healt.html</link>
       <pubDate>Mon, 28 Feb 2005 11:20:01 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/02/voluntary_healt.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/02/voluntary_healt.html</guid>
       <description>&lt;p&gt;I&#39;m a keynote speaker for the &lt;a href=&#34;http://www.nvhainnovations.org/2005/index.htm&#34;&gt;FVHA (Future of Voluntary Health Associations) Conference&lt;/a&gt;
 in Atlanta today. My job is to give to this community a gentle
 introduction and overview of concepts and products related to Social
 Software and Social Networking. (&lt;a href=&#34;http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf&#34;&gt;My slides are here - 6.6MB .pdf&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;
 In my research about this community, I find that they have some unique and interesting problems.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/acsrelay.jpg&#34; title=&#34;Acsrelay&#34; alt=&#34;Acsrelay&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/acsrelay.jpg&#34; title=&#34;Acsrelay&#34; alt=&#34;Acsrelay&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
 The attendees of this conference are a collection of VPs and national
 directors from major Voluntary Health Associations such as American
 Cancer Society, American Heart Association, American Diabetes Association, March of
@@ -782,7 +782,7 @@ innovation, and it can help drive fund-raising numbers higher.&lt;/p&gt;
 openness of social software comes with a price. For instance, many of
 these associations are afraid of enabling even simple unmoderated
 discussion lists, in fear that bad or inappropriate information would be shared. There are also legitimate concerns about the quality, audience level, and attributation for even correct information. In the Q&amp;amp;A after my presentation I tried to explain how, when looking at individual blogs, or individual events of info vandalism, it is not really relevant if the communities and processes behind the Social Software are able to correct or filter those events. This is a difficult point to get across, as it requires people to learn to trust a system where the squeaky wheels and trolls are the loudest.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/acslogowhite.gif&#34; title=&#34;Acslogowhite&#34; alt=&#34;Acslogowhite&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/acslogowhite.gif&#34; title=&#34;Acslogowhite&#34; alt=&#34;Acslogowhite&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
 One particular interesting thing about this conference is that
 it is one of the first between multiple associations. I know from some
 other non-profits that I&#39;m working with that they often feel in
@@ -809,16 +809,16 @@ You did a great job. This will help us serve the mission of voluntary health.
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-13T07:20:15-07:00&#34;&gt;2005-10-13T07:20:15-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/02/voluntary_healt.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/02/voluntary_healt.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Too High a Standard</title>
-      <link>https://lifewithalacrity.github.io/2004/07/too_high_a_stan.html</link>
+      <link>http://www.lifewithalacrity.com/2004/07/too_high_a_stan.html</link>
       <pubDate>Fri, 23 Jul 2004 12:13:21 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/07/too_high_a_stan.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/07/too_high_a_stan.html</guid>
       <description>&lt;p&gt;I have for some time told people that one way that my blog was different was because I was focused on offering a &lt;a href=&#34;http://en.wikipedia.org/wiki/Signal-to-noise_ratio&#34;&gt;high signal-to-noise ratio&lt;/a&gt;. I told them that they could subscribe to my blog safely, as I&#39;d not inundate them with anything but the highest quality posts.&lt;/p&gt;
 &lt;p&gt;At first, this meant that I&#39;d not post unless I had something significant to add to the topic. No simple pointers to interesting ideas, no simple rephrasing, or simple agreement -- I had to add value.&lt;/p&gt;
 &lt;p&gt;For some time I think I succeeded -- I received a lot of praise for my posts on social networking, on internet security, on FOAF, on the Dunbar number, and on my tool EditThisPagePHP. However, I&#39;ve found that for each post my standards were growing higher. My most recent posts took significantly more time to write, and I believe were much more like articles then they are like the typical blog post.&lt;/p&gt;
@@ -888,16 +888,16 @@ Have fun with your blog, be passionate about your topics (that&#39;s why I subbe
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-09T04:19:16-07:00&#34;&gt;2004-08-09T04:19:16-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/07/too_high_a_stan.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/07/too_high_a_stan.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hand-Crafting My FOAF</title>
-      <link>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</link>
       <pubDate>Thu, 19 Feb 2004 16:25:05 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</guid>
       <description>&lt;p&gt;While at &lt;a href=&#34;http://etech.weblogsinc.com/&#34;&gt;eTech&lt;/a&gt;, I attended a number of &#34;social software&#34; sessions. One thing I heard was a persistent call from folk like &lt;a href=&#34;http://blogs.it/0100198/&#34;&gt;Marc Canter&lt;/a&gt; for all the vendors to support something called &lt;a href=&#34;http://xmlns.com/foaf/0.1/&#34;&gt;FOAF&lt;/a&gt;. FOAF is a standard for &#34;Friend of a Friend&#34; files, and is an attempt to make &lt;em&gt;machine readable&lt;/em&gt; information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.&lt;/p&gt;
 &lt;p&gt;If you are using the blog service &lt;a href=&#34;http://www.typepad.com&#34;&gt;TypePad&lt;/a&gt; or the social networking service &lt;a href=&#34;http://www.ecademy.com&#34;&gt;Ecademy&lt;/a&gt; you may already have a FOAF file without knowing it, and &lt;a href=&#34;http://www.tribe.net&#34;&gt;Tribe.Net&lt;/a&gt; announced at eTech that they were promising to support it as well for their social networking service.&lt;/p&gt;
 &lt;p&gt;FOAF as a standard is still in a fairly primitive state -- to me it feels like HTML did during the days of the early Mosaic browser, when every good web page had to be hand-crafted in a text editor and uploaded to a server. However, like HTML, it may have great promise.&lt;/p&gt;
@@ -1003,16 +1003,16 @@ And as with the old html days - there will be end user tools created. My take on
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-24T10:10:12-07:00&#34;&gt;2005-04-24T10:10:12-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sexism, Social Software &amp; the Blogospher</title>
-      <link>https://lifewithalacrity.github.io/2004/02/sexism_social_s.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/sexism_social_s.html</link>
       <pubDate>Thu, 05 Feb 2004 14:37:38 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/sexism_social_s.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/sexism_social_s.html</guid>
       <description>&lt;p&gt;A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:&lt;/p&gt;
 &lt;p&gt;In &lt;a href=&#34;http://www.misbehaving.net/2004/02/sexist_jokes_an.html&#34;&gt;misbehaving.net: &#34;sexist jokes and Orkut invites&#34;&lt;/a&gt;, Dana Boyd writes:&lt;blockquote&gt;When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.&lt;/blockquote&gt;At &lt;a href=&#34;http://radiofreeblogistan.com/2004/02/04/this_social_software_stuff_is_tricky.html&#34;&gt;Radio Free Blogistan: &#34;This social software stuff is tricky&#34;&lt;/a&gt; Christian Crumlish apologizes:&lt;blockquote&gt;In my mind, I was cracking on the phenomenon of me being linked to so many other men. I wasn&#39;t sure if this had something to do with the population of Orkut or with my own subnetwork there.&lt;/p&gt;
 &lt;p&gt;However, by using language that divided up men and women in terms of visual appeal or attractiveness, I totally slipped over the line. What might be taken as irreverant and ironic by my &#34;real&#34; friends, who are probably somewhat likely to give me the benefit of the doubt and have other inputs to use in order to judge my character or values, in this context managed to hurt danah&#39;s feelings: the last thing I would have wanted to do.&lt;/p&gt;
@@ -1033,34 +1033,34 @@ Personally, I wouldn&#39;t want to, I feel really uncomfortable with the Halley 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-07T10:18:33-07:00&#34;&gt;2004-02-07T10:18:33-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/sexism_social_s.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/sexism_social_s.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Converting to TypePad Complete</title>
-      <link>https://lifewithalacrity.github.io/2004/01/for_the_last_fe.html</link>
+      <link>http://www.lifewithalacrity.com/2004/01/for_the_last_fe.html</link>
       <pubDate>Fri, 30 Jan 2004 12:30:00 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/01/for_the_last_fe.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/01/for_the_last_fe.html</guid>
       <description>&lt;p&gt;For the last few weeks I&#39;ve been moving my blog from Blogger Pro over to the TypePad service, after a frustrating try to get WordPress to work. While I was at it, I moved my blog from my business server to this new domain.&lt;/p&gt;
 &lt;p&gt;I finally have it all working here now, but all of my old permalinks are broken. In progress is a utility that will redirect people from the old permalinks to the new. I&#39;ll report progress on that later.&lt;br /&gt;
 &lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/for_the_last_fe.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/01/for_the_last_fe.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>w.Bloggar</title>
-      <link>https://lifewithalacrity.github.io/2003/12/wbloggar.html</link>
+      <link>http://www.lifewithalacrity.com/2003/12/wbloggar.html</link>
       <pubDate>Tue, 09 Dec 2003 19:22:42 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2003/12/wbloggar.html</guid>
+      <guid>http://www.lifewithalacrity.com/2003/12/wbloggar.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.henshall.com/blog/&#34;&gt;Stuart Henshal&lt;/a&gt; recommended that I try out &lt;a href=&#34;http://wbloggar.com/&#34;&gt;w.Bloggar&lt;/a&gt; for creating blog posts. I&#39;m giving it a try here.&lt;/p&gt;
 &lt;p&gt;So far seems interesting -- in addition to spell checking and handling some html related tasks, it appears to also have the ability to work with various plugins, for instance, a Windows Media Player plugin to display what music I&#39;m playing right now.&lt;/p&gt;
 &lt;p&gt; &lt;div class=&#34;media&#34;&gt;[Listening to: Crimson (4-4) - Solace - Ahsas (04:15)]&lt;/div&gt;&lt;br /&gt;
 Stuart says that one of his favorite features is that the tool will post to multiple blogs at once, which is useful if you are maintaining a business and a non-business blog and yet some items will go into both.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2003/12/wbloggar.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2003/12/wbloggar.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

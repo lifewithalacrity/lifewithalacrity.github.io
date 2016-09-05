@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Service on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/web-service/</link>
+    <link>http://www.lifewithalacrity.com/tags/web-service/</link>
     <description>Recent content in Web Service on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Dec 2004 08:44:31 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/web-service/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/web-service/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Google Suggest Dissected</title>
-      <link>https://lifewithalacrity.github.io/2004/12/google_suggest_.html</link>
+      <link>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</link>
       <pubDate>Sat, 18 Dec 2004 08:44:31 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/12/google_suggest_.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</guid>
       <description>&lt;p&gt;As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.&lt;/p&gt;
-&lt;p&gt;So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on &lt;a href=&#34;https://lifewithalacrity.github.io/2004/10/map_mashup.html&#34;&gt;Map Mashup&lt;/a&gt; and &lt;a href=&#34;https://lifewithalacrity.github.io/2004/09/tiddlywiki.html&#34;&gt;TiddlyWiki&lt;/a&gt; offer some interesting web UI exemplars.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;79&#34; border=&#34;0&#34; alt=&#34;Logo_google_suggest&#34; title=&#34;Logo_google_suggest&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/logo_google_suggest.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on &lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/map_mashup.html&#34;&gt;Map Mashup&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2004/09/tiddlywiki.html&#34;&gt;TiddlyWiki&lt;/a&gt; offer some interesting web UI exemplars.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;79&#34; border=&#34;0&#34; alt=&#34;Logo_google_suggest&#34; title=&#34;Logo_google_suggest&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/logo_google_suggest.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To this list of exemplars I now add &lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;Google Suggest&lt;/a&gt; by Google programmer &lt;a href=&#34;http://www.google.com/googleblog/2004/12/ive-got-suggestion.html&#34;&gt;Kevin Gibbs&lt;/a&gt;, who wrote this as part of Google employee&#39;s ability to work 20% of the time on their own projects.
 Google Suggest replaces the browser&#39;s default auto-complete with one specific to Google searching. As you type each letter of your search request, you are shown the most popular requests for that term, and how many search hits are available for that search term. You really have to try out to understand how amazing and intuitive it is.&lt;/p&gt;
 &lt;p&gt;Blogger &lt;a href=&#34;http://serversideguy.blogspot.com/&#34;&gt;Chris Justus&lt;/a&gt; has &lt;a href=&#34;http://serversideguy.blogspot.com/2004/12/google-suggest-dissected.html&#34;&gt;dissected and documented&lt;/a&gt; how Google Suggest works. If you are a web developer, I recommend you read his analysis and I hope it will inspire you.&lt;/p&gt;
@@ -78,7 +78,7 @@ http://developer.ebusiness-apps.com/technologies/webdevelopment/codeandcomponent
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-12T22:31:34-07:00&#34;&gt;2005-06-12T22:31:34-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

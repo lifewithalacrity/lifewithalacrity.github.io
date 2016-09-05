@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssl on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/ssl/</link>
+    <link>http://www.lifewithalacrity.com/tags/ssl/</link>
     <description>Recent content in Ssl on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Apr 2014 12:01:00 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/ssl/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Some History of SSL Security Reviews</title>
-      <link>https://lifewithalacrity.github.io/2014/04/some-history-of-ssl-security-reviews.html</link>
+      <link>http://www.lifewithalacrity.com/2014/04/some-history-of-ssl-security-reviews.html</link>
       <pubDate>Fri, 11 Apr 2014 12:01:00 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2014/04/some-history-of-ssl-security-reviews.html</guid>
+      <guid>http://www.lifewithalacrity.com/2014/04/some-history-of-ssl-security-reviews.html</guid>
       <description>&lt;p&gt;Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.&lt;/p&gt;
 &lt;p&gt;My firm Consensus Development was the only one offering these reviews, largely because other security firms were scared of liability issues. Over 50% of the products failed in less then 8 hours of review, typically for very stupid mistakes. The CAs stopped asking us for reviews because it was slowing down sales of certificates.&lt;/p&gt;
 &lt;p&gt;I believe that we would have found last month&amp;#39;s Apple bug if we reviewed it. Maybe not Heartbleed, but we were doing these security reviews TWENTY years ago. If we had kept at it we would have created better tools by now.&lt;/p&gt;
 &lt;p&gt;It may be time for CAs to require vendors to pay for implementation security reviews again, or only offer a lower level certificate. They also need to indemnify security reviewers so that they can do this kind of work without fear of being sued for not finding a bug (hard to prove a negative). And there should be a pool of funding to do independent security reviews of open source.&lt;/p&gt;
 &lt;p&gt;The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3.0, co-author IETF TLS 1.0 standard and subsequent updates, and later creator of Google Wallet, did all of these reviews for us back then. Any memories, comments, or suggestion to add?&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2014/04/some-history-of-ssl-security-reviews.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2014/04/some-history-of-ssl-security-reviews.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tools for Ignition &amp; HyperCard’s 25th Anniversary</title>
-      <link>https://lifewithalacrity.github.io/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</link>
+      <link>http://www.lifewithalacrity.com/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</link>
       <pubDate>Sun, 12 Aug 2012 16:27:42 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</guid>
+      <guid>http://www.lifewithalacrity.com/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</guid>
       <description>&lt;p&gt;Over my lifetime I have encountered a number of “tools for ignition” — a phrase which I use to describe innovative products that have empowered people and created movements. On the 25th anniversary of Hypercard’s introduction, I want to take a look back at some of these tools.&lt;/p&gt;
 &lt;h2&gt;BASIC (1976)&lt;/h2&gt;
 &lt;p&gt;In 1976 I encountered my first tool for ignition: &lt;a href=&#34;http://en.wikipedia.org/wiki/Bill_Gates&#34;&gt;Bill Gate&amp;#39;s&lt;/a&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/IMSAI_8080&#34;&gt;MicroSoft BASIC&lt;/a&gt; running on the &lt;a href=&#34;http://en.wikipedia.org/wiki/IMSAI_8080&#34;&gt;IMSAI 8080&lt;/a&gt;. There was no ROM on this computer, so you had to load a boot program using the front panel switches you see above. This program would then allow us to use a paper-tape reader, from which we would load BASIC.&lt;/p&gt;
@@ -100,16 +100,16 @@
 &lt;p&gt;The first version of &lt;a href=&#34;http://bit.ly/infinitecanvasapp&#34;&gt;Infinite Canvas&lt;/a&gt; iPad app, initially a viewer-only version, was approved and &lt;a href=&#34;http://www.infinitecanvasapp.com/2012/08/11/announcing-the-release-of-infinite-canvas-viewer-in-the-app-store/&#34;&gt;released&lt;/a&gt; Friday in the Apple App Store, the day before HyperCard&amp;#39;s anniversary. There is a library of example canvases available which can be downloaded for free using the app. Users will be able to create their own canvases in the near future when the Infinite Canvas authoring tool makes its debut.&lt;/p&gt;
 &lt;p&gt;We still have a long way to go to offer all that HyperCard offered. We support both simple tiles and HTML5 tiles, but the learning bridge between them is huge. But in the spirit of &amp;quot;Ship early and often&amp;quot;, &amp;quot;fail fast&amp;quot;, and &amp;quot;perfection is the enemy of the good&amp;quot; we wanted to make this tool available now.&lt;/p&gt;
 &lt;p&gt;Bill Atkinson once &lt;a href=&#34;http://archive.org/details/hypercard_2&#34;&gt;explained what motivated him to create HyperCard:&lt;/a&gt; &amp;quot;A lot of people are going to get opened up, enabled, empowered to control their computer. That&amp;#39;s really what we&amp;#39;re trying to do.” And that is exactly what we are trying to do on the iPad with Infinite Canvas.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2012/08/tools-for-ignition-hypercards-25th-anniversary.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2012/08/tools-for-ignition-hypercards-25th-anniversary.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Future Topics</title>
-      <link>https://lifewithalacrity.github.io/2005/04/future_topics.html</link>
+      <link>http://www.lifewithalacrity.com/2005/04/future_topics.html</link>
       <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2005/04/future_topics.html</guid>
+      <guid>http://www.lifewithalacrity.com/2005/04/future_topics.html</guid>
       <description>&lt;p&gt;I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Office Architecture for Innovation&lt;/em&gt;&lt;/strong&gt; -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses. These include some of the obvious suggestions such as fresh air and natural light, but also include not so obvious ideas such as using magnetic paint and providing a small washer-dryer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Requisite Variety&lt;/em&gt;&lt;/strong&gt; -- This concept from cybernetics applies to social systems as well. &amp;quot;The larger the variety of actions available to a control system, the larger the variety of perturbations it is able to compensate.&amp;quot; More people, as well as a diversity of thinking styles and experience, give social software more &amp;quot;variety of actions&amp;quot;, thus this is part of the reason why social software can be so effective.&lt;/p&gt;
@@ -157,16 +157,16 @@ The SSL story would be interesting..
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Progressive Trust</title>
-      <link>https://lifewithalacrity.github.io/2004/08/progressive_tru.html</link>
+      <link>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</link>
       <pubDate>Mon, 16 Aug 2004 23:42:15 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/08/progressive_tru.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</guid>
       <description>&lt;p&gt;I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.&lt;/p&gt;
 &lt;p&gt;One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.&lt;/p&gt;
 &lt;p&gt;This is how I typically explain progressive trust when I meet someone in-person at a conference:&lt;/p&gt;
@@ -201,16 +201,16 @@ http://frassle.rura.org/christopherAllenGets
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-26T08:39:54-07:00&#34;&gt;2004-08-26T08:39:54-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/08/progressive_tru.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/08/progressive_tru.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Security &amp; Cryptography: The Bad Business of Fear</title>
-      <link>https://lifewithalacrity.github.io/2004/02/security_crypto.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>
       <pubDate>Sun, 22 Feb 2004 14:12:29 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/security_crypto.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/security_crypto.html</guid>
       <description>&lt;p&gt;As I head out next week to the &lt;a href=&#34;http://2004.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.&lt;/p&gt;
 &lt;p&gt;After 8 more years I left the compujter security industry on March 15, 1999. The computer security industry also seemed to be filled with as much potential as it did back in 1991. Amazon, EBay, and other Internet notables were still riding high, and driving before them the need for secure Internet transactions. The government&#39;s attempt to cripple the industry through their Clipper chip initiative was all but dead, and we were slowly winning the rights to export our technologies without severe and unnecessary government restrictions. We were beginning to truly see how Certificate Authorities worked in practical usage, and were coming up with plans for smaller, more efficient certs, to help bring security to wireless devices and set-top boxes.&lt;/p&gt;
 &lt;p&gt;It may seem strange that I left the industry at such a height, but I&#39;d accomplished my own personal goals. I helped midwife the startup of &lt;a href=&#34;http://www.verisign.com&#34;&gt;VeriSign&lt;/a&gt;, and digital certificates were now broadly available for both servers and clients. I&#39;d helped fight Clipper, and freed RSAREF so that it could be used by Open Source software before the expiration of the patent. I&#39;d grown Consensus Development, a company I founded almost a decade before, from a small engineering house into the premiere SSL developer. I&#39;d lead the team that developed the SSL Reference version for Netscape, and had completed the IETF&#39;s &lt;a href=&#34;http://www.ietf.org/rfc/rfc2246.txt&#34;&gt;RFC 2246&lt;/a&gt; that described the future of SSL called TLS.&lt;/p&gt;
@@ -298,7 +298,7 @@ So then one day this guy discovers the answer to the Reimann Conjecture and now 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-07T06:23:57-07:00&#34;&gt;2004-09-07T06:23:57-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cryptography on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/cryptography/</link>
+    <link>http://www.lifewithalacrity.com/tags/cryptography/</link>
     <description>Recent content in Cryptography on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Mar 2004 03:50:41 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post RSA Conference Wrapup</title>
-      <link>https://lifewithalacrity.github.io/2004/03/post_rsa_confer.html</link>
+      <link>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</link>
       <pubDate>Fri, 05 Mar 2004 03:50:41 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/03/post_rsa_confer.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</guid>
       <description>&lt;p&gt;I spent most of last week at the RSA Conference in San Francisco.&lt;/p&gt;
-&lt;p&gt;Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I asked a number of random people what they thought of the conference. Some agreed with me, saying that they were troubled by the lack of innovation. Others said that they actually liked it -- it showed that the industry was being run by businessmen finally, and not by geeks. Others said that it was just the inevitable maturation of an industry. Tim Oren wrote in his blog &lt;a href=&#34;http://www.pacificavc.com/blog/2004/02/27.html#a565&#34;&gt;Due Diligence&lt;/a&gt;:&lt;blockquote&gt;Every year the show is less about cryptography per se. I&#39;m sure this has something to do with RSA&#39;s attempts to diversify as its patents expire, but I do think it reflects the state of the field. Crypto has become a standardized component of security solutions, and the biggest perceived threats are not in the privacy area.&lt;/blockquote&gt;&lt;/p&gt;
-&lt;p&gt;The hilight of the conference to me was hearing respected cryptographer Whitfield Diffie say to me that he had read my &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt; and that he liked it. Apparently it had been sent to him by someone at Sun who had thought that it was saying many of the things that Diffie has been saying as well. Diffie said that he had some specific criticisms, so I hope that he&#39;ll comment here someday on them.&lt;/p&gt;
+&lt;p&gt;The hilight of the conference to me was hearing respected cryptographer Whitfield Diffie say to me that he had read my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt; and that he liked it. Apparently it had been sent to him by someone at Sun who had thought that it was saying many of the things that Diffie has been saying as well. Diffie said that he had some specific criticisms, so I hope that he&#39;ll comment here someday on them.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;h4&gt;Caller-ID for Email&lt;/h4&gt;&lt;/p&gt;
 &lt;p&gt;The big announcement of the week was that Microsoft will be be releasing their own spam solution, a &lt;a href=&#34;http://windows-help.net/cgi-bin/2004/7.08.cgi?70801&#34;&gt;Caller ID&lt;/a&gt; for email addresses, starting this summer in HotMail and in their mail servers. Basically the way this works is that every domain holder publishes inside their DNS records the IP addresses of any valid outbound email server. This information is stored using XML in a special signed format. After a mail is sent, the receiving system queries the DNS to confirm that the outbound server is not being spoofed.&lt;/p&gt;
@@ -60,16 +60,16 @@ Though a cool demo, I&#39;m not as confident that this solution will work. Now i
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-05T23:19:47-07:00&#34;&gt;2004-03-05T23:19:47-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Security &amp; Cryptography: The Bad Business of Fear</title>
-      <link>https://lifewithalacrity.github.io/2004/02/security_crypto.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>
       <pubDate>Sun, 22 Feb 2004 14:12:29 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/security_crypto.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/security_crypto.html</guid>
       <description>&lt;p&gt;As I head out next week to the &lt;a href=&#34;http://2004.rsaconference.com/&#34;&gt;RSA Conference&lt;/a&gt; I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.&lt;/p&gt;
 &lt;p&gt;After 8 more years I left the compujter security industry on March 15, 1999. The computer security industry also seemed to be filled with as much potential as it did back in 1991. Amazon, EBay, and other Internet notables were still riding high, and driving before them the need for secure Internet transactions. The government&#39;s attempt to cripple the industry through their Clipper chip initiative was all but dead, and we were slowly winning the rights to export our technologies without severe and unnecessary government restrictions. We were beginning to truly see how Certificate Authorities worked in practical usage, and were coming up with plans for smaller, more efficient certs, to help bring security to wireless devices and set-top boxes.&lt;/p&gt;
 &lt;p&gt;It may seem strange that I left the industry at such a height, but I&#39;d accomplished my own personal goals. I helped midwife the startup of &lt;a href=&#34;http://www.verisign.com&#34;&gt;VeriSign&lt;/a&gt;, and digital certificates were now broadly available for both servers and clients. I&#39;d helped fight Clipper, and freed RSAREF so that it could be used by Open Source software before the expiration of the patent. I&#39;d grown Consensus Development, a company I founded almost a decade before, from a small engineering house into the premiere SSL developer. I&#39;d lead the team that developed the SSL Reference version for Netscape, and had completed the IETF&#39;s &lt;a href=&#34;http://www.ietf.org/rfc/rfc2246.txt&#34;&gt;RFC 2246&lt;/a&gt; that described the future of SSL called TLS.&lt;/p&gt;
@@ -157,7 +157,7 @@ So then one day this guy discovers the answer to the Reimann Conjecture and now 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-09-07T06:23:57-07:00&#34;&gt;2004-09-07T06:23:57-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/security_crypto.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

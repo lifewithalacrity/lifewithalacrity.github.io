@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Standards on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/open-standards/</link>
+    <link>http://www.lifewithalacrity.com/tags/open-standards/</link>
     <description>Recent content in Open Standards on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Aug 2012 16:27:42 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/open-standards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/open-standards/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tools for Ignition &amp; HyperCard’s 25th Anniversary</title>
-      <link>https://lifewithalacrity.github.io/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</link>
+      <link>http://www.lifewithalacrity.com/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</link>
       <pubDate>Sun, 12 Aug 2012 16:27:42 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</guid>
+      <guid>http://www.lifewithalacrity.com/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</guid>
       <description>&lt;p&gt;Over my lifetime I have encountered a number of “tools for ignition” — a phrase which I use to describe innovative products that have empowered people and created movements. On the 25th anniversary of Hypercard’s introduction, I want to take a look back at some of these tools.&lt;/p&gt;
 &lt;h2&gt;BASIC (1976)&lt;/h2&gt;
 &lt;p&gt;In 1976 I encountered my first tool for ignition: &lt;a href=&#34;http://en.wikipedia.org/wiki/Bill_Gates&#34;&gt;Bill Gate&amp;#39;s&lt;/a&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/IMSAI_8080&#34;&gt;MicroSoft BASIC&lt;/a&gt; running on the &lt;a href=&#34;http://en.wikipedia.org/wiki/IMSAI_8080&#34;&gt;IMSAI 8080&lt;/a&gt;. There was no ROM on this computer, so you had to load a boot program using the front panel switches you see above. This program would then allow us to use a paper-tape reader, from which we would load BASIC.&lt;/p&gt;
@@ -85,7 +85,7 @@
 &lt;p&gt;The first version of &lt;a href=&#34;http://bit.ly/infinitecanvasapp&#34;&gt;Infinite Canvas&lt;/a&gt; iPad app, initially a viewer-only version, was approved and &lt;a href=&#34;http://www.infinitecanvasapp.com/2012/08/11/announcing-the-release-of-infinite-canvas-viewer-in-the-app-store/&#34;&gt;released&lt;/a&gt; Friday in the Apple App Store, the day before HyperCard&amp;#39;s anniversary. There is a library of example canvases available which can be downloaded for free using the app. Users will be able to create their own canvases in the near future when the Infinite Canvas authoring tool makes its debut.&lt;/p&gt;
 &lt;p&gt;We still have a long way to go to offer all that HyperCard offered. We support both simple tiles and HTML5 tiles, but the learning bridge between them is huge. But in the spirit of &amp;quot;Ship early and often&amp;quot;, &amp;quot;fail fast&amp;quot;, and &amp;quot;perfection is the enemy of the good&amp;quot; we wanted to make this tool available now.&lt;/p&gt;
 &lt;p&gt;Bill Atkinson once &lt;a href=&#34;http://archive.org/details/hypercard_2&#34;&gt;explained what motivated him to create HyperCard:&lt;/a&gt; &amp;quot;A lot of people are going to get opened up, enabled, empowered to control their computer. That&amp;#39;s really what we&amp;#39;re trying to do.” And that is exactly what we are trying to do on the iPad with Infinite Canvas.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2012/08/tools-for-ignition-hypercards-25th-anniversary.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2012/08/tools-for-ignition-hypercards-25th-anniversary.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

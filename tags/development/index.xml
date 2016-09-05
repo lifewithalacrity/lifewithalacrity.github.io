@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/development/</link>
+    <link>http://www.lifewithalacrity.com/tags/development/</link>
     <description>Recent content in Development on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Feb 2004 11:39:47 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Advice to Social Networking Services</title>
-      <link>https://lifewithalacrity.github.io/2004/02/my_advice_to_so.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/my_advice_to_so.html</link>
       <pubDate>Tue, 03 Feb 2004 11:39:47 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/my_advice_to_so.html</guid>
-      <description>&lt;p&gt;I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I&#39;ve not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my &lt;a href=&#34;https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html&#34;&gt;recent experiences with Orkut.com&lt;/a&gt;, and my &lt;a href=&#34;https://lifewithalacrity.github.io/2003/12/evaluating_soci.html&#34;&gt;evaluation&lt;/a&gt; and &lt;a href=&#34;https://lifewithalacrity.github.io/2003/12/followup_to_eva.html&#34;&gt;followup&lt;/a&gt; on various social networking services in December.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2004/02/my_advice_to_so.html</guid>
+      <description>&lt;p&gt;I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I&#39;ve not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;recent experiences with Orkut.com&lt;/a&gt;, and my &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/evaluating_soci.html&#34;&gt;evaluation&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/followup_to_eva.html&#34;&gt;followup&lt;/a&gt; on various social networking services in December.&lt;/p&gt;
 &lt;h4&gt;Privacy&lt;/h4&gt;
 First, be extremely careful about privacy issues. For some of you outside the US, you may not know about what has been going on in the area of identity theft, but it has become a significant problem. I am not a privacy fanatic, but I am concerned that social networking services encourage people to reveal too much information too broadly, and that this will be someday be taken advantage of by identity thieves. For instance, many services ask for birthday and reveal it to everyone. You can ask for the birthday, but don&#39;t display it -- give the person&#39;s age, or birth month, but don&#39;t give the full info. I personally am particularly wary of billing address, billing zip code, birthday, and potential common security questions like name of pet, mother&#39;s maiden name, etc. These are in addition to the obvious targets of identity theft like SSN, full name, and account numbers.
 &lt;p&gt;Orkut&#39;s interface for selectively allowing some fields to be visible &#34;only to myself&#34;, &#34;to friends&#34;, or to &#34;friends of friends&#34; is nice, but I wish it was for all fields. I also think every field by default should be set to &#34;only to myself&#34;. In fact, all security parameters should default to reveal the least information, and have the tightest limits -- allow the user to open selectively.&lt;/p&gt;
@@ -190,7 +190,7 @@ Thanks Marc
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2008-02-27T14:15:18-07:00&#34;&gt;2008-02-27T14:15:18-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/my_advice_to_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/my_advice_to_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

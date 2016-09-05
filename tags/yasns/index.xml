@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yasns on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/yasns/</link>
+    <link>http://www.lifewithalacrity.com/tags/yasns/</link>
     <description>Recent content in Yasns on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Apr 2004 00:27:05 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/yasns/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/yasns/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Annoyed by Zero Degrees</title>
-      <link>https://lifewithalacrity.github.io/2004/04/annoyed_by_zero.html</link>
+      <link>http://www.lifewithalacrity.com/2004/04/annoyed_by_zero.html</link>
       <pubDate>Thu, 15 Apr 2004 00:27:05 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/04/annoyed_by_zero.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/04/annoyed_by_zero.html</guid>
       <description>&lt;p&gt;As I&#39;m studying social network software right now, I consider it my job to try many of the &lt;a href=&#34;http://socialsoftware.weblogsinc.com/entry/2241460714746671/&#34;&gt;hundred some odd social networks &lt;/a&gt;out there right now.&lt;/p&gt;
 &lt;p&gt;I just joined &lt;a href=&#34;http://www.zerodegrees.com&#34;&gt;Zero Degrees&lt;/a&gt;, and like many others, it asked me to upload my address book. I&#39;ve done this before and usually it just finds those who already have joined these networks and links us together. Typically I delete my address book at this point, and don&#39;t bother to invite contacts that are not already members of that particular network.&lt;/p&gt;
 &lt;p&gt;However, Zero Degrees quite obnoxiously at the last &#34;next&#34; button, with no warning, invited &lt;b&gt;everyone&lt;/b&gt; in my address book, and thus spamming my contacts. There was no opportunity given to me for it to just search for existing members. I aborted this as soon as I could, but about half of my address book contacts got spammed.&lt;/p&gt;
@@ -53,7 +53,7 @@ BTW, at least a dozen of the errant emails that went out were blocked by spam fi
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-04-15T18:11:03-07:00&#34;&gt;2004-04-15T18:11:03-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/04/annoyed_by_zero.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/04/annoyed_by_zero.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

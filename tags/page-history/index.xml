@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page History on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/page-history/</link>
+    <link>http://www.lifewithalacrity.com/tags/page-history/</link>
     <description>Recent content in Page History on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Sep 2004 20:28:46 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/page-history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/page-history/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TiddlyWiki</title>
-      <link>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</link>
+      <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
       <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</guid>
-      <description>&lt;p&gt;I keep an eye out for new ideas in Wiki technology (see my post from February &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html&#34;&gt;Looking at Wiki&lt;/a&gt;), and I recently became fascinated by &lt;a href=&#34;http://www.tiddlywiki.com/&#34;&gt;TiddlyWiki&lt;/a&gt;. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my &lt;a href=&#34;http://editthispagephp.sourceforge.net&#34;&gt;EditThisPagePHP&lt;/a&gt;, it appears to be an elegant experiment to look into the future of this medium of user-editable content.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</guid>
+      <description>&lt;p&gt;I keep an eye out for new ideas in Wiki technology (see my post from February &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html&#34;&gt;Looking at Wiki&lt;/a&gt;), and I recently became fascinated by &lt;a href=&#34;http://www.tiddlywiki.com/&#34;&gt;TiddlyWiki&lt;/a&gt;. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my &lt;a href=&#34;http://editthispagephp.sourceforge.net&#34;&gt;EditThisPagePHP&lt;/a&gt;, it appears to be an elegant experiment to look into the future of this medium of user-editable content.&lt;/p&gt;
 &lt;p&gt;The key feature of TiddlyWiki is that instead of &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?WikiName&#34;&gt;WikiName&lt;/a&gt; links leading to new pages, it displays a new set of &lt;a href=&#34;http://www.cmswiki.com/tiki-index.php?page=MicroContent&#34;&gt;microcontent&lt;/a&gt; at the top of the current page, pushing your previous content toward the bottom of the page. Thus your link history is all on a single page rather then through your browser&#39;s back button. You really need to try it out to understand it.&lt;/p&gt;
 &lt;p&gt;In its current form, TiddlyWiki is still really more a technology demonstration than a useful tool, as you can&#39;t save the changes you make. However, there are people that are creating a &lt;a href=&#34;http://www.patrickcurry.com/tiddly/&#34;&gt;PHP TiddlyWink&lt;/a&gt; based on it.&lt;/p&gt;
 &lt;p&gt;There are a number of things about TiddlyWiki that interest me. One is that it is more microcontent focused, rather then page focused. I&#39;ve seen a few attempts to do blogs in Wikis and to date I have been unsatisfied -- part of the reason is that most blogs consist primarily of a chronological series of microcontent, whereas Wikis tend to be more oriented around pages. The ideas in TiddlyWiki may offer an alternative.&lt;/p&gt;
@@ -46,7 +46,7 @@ Any comments appreciated anyway
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-21T21:51:31-07:00&#34;&gt;2005-04-21T21:51:31-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/09/tiddlywiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/09/tiddlywiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

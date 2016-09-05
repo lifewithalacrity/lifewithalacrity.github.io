@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sigchi on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/sigchi/</link>
+    <link>http://www.lifewithalacrity.com/tags/sigchi/</link>
     <description>Recent content in Sigchi on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jul 2006 13:58:20 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/sigchi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/sigchi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>BayChi Talk Next Tuesday</title>
-      <link>https://lifewithalacrity.github.io/2006/07/baychi_talk_nex.html</link>
+      <link>http://www.lifewithalacrity.com/2006/07/baychi_talk_nex.html</link>
       <pubDate>Thu, 06 Jul 2006 13:58:20 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2006/07/baychi_talk_nex.html</guid>
-      <description>&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/baychi_1.gif&#34; title=&#34;Baychi_1&#34; alt=&#34;Baychi_1&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
+      <guid>http://www.lifewithalacrity.com/2006/07/baychi_talk_nex.html</guid>
+      <description>&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/baychi_1.gif&#34; title=&#34;Baychi_1&#34; alt=&#34;Baychi_1&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
 I will be speaking next Tuesday (July 11th) at the monthly meeting of &lt;a href=&#34;http://www.baychi.org/calendar/20060711/&#34;&gt;BayCHI&lt;/a&gt;, the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with &lt;a href=&#34;http://www.goldhaber.org/&#34;&gt;Michael H. Goldhaber&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The synopsis of my topic is:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;The Dunbar Number, Unstructured Trust, and Why Groups Don&#39;t Scale&lt;/strong&gt;&lt;br /&gt; We are relying increasingly on internet-mediated social software tools for our day-to-day interaction with other people. To design this type of software, we must better understand the psychology and social dynamics of individuals in groups. Awareness of what makes us human is now often as important to the success of the software as is understanding software architecture and code. One particular sociological factor, the Dunbar Number, is useful in understanding why groups don&#39;t scale at different group sizes. A deeper awareness of why groups have different behaviors, the nature
 of unstructured trust, and which current tools appear to work best at different scales, can give guidance to both the online facilitator and the social software designer.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Michael H. Goldhaber will be speaking on:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;a href=&#34;http://www.parc.com/about/directions.html&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Maptoparc&#34; title=&#34;Maptoparc&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/maptoparc.gif&#34; style=&#34;margin: 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;strong&gt;The Real Nature of the Emerging Attention Economy: Seen As a New Level in the Massively Multiplayer Game Known as Western Culture:&lt;/strong&gt;&lt;br /&gt; Think of the human world as a Massively Multiple Interactive Game (which it is). As interactions change and increase, we are passing to a new level, something that hasn’t really happened to the same depth for centuries. The rules, fundamental values, and just about everything else are diverging from what was familiar in the level characterized by the exchange of Money, the prevalence of Markets and the dominance of Industrial production of standardized goods (call this MMI). The new level also depends on human abilities and desires, but now what matters most is our strictly limited abilities to pay attention and our much greater (on average) desires to receive it. The full passage will take many decades, but we are already well along.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&#34;http://www.parc.com/about/directions.html&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Maptoparc&#34; title=&#34;Maptoparc&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/maptoparc.gif&#34; style=&#34;margin: 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;strong&gt;The Real Nature of the Emerging Attention Economy: Seen As a New Level in the Massively Multiplayer Game Known as Western Culture:&lt;/strong&gt;&lt;br /&gt; Think of the human world as a Massively Multiple Interactive Game (which it is). As interactions change and increase, we are passing to a new level, something that hasn’t really happened to the same depth for centuries. The rules, fundamental values, and just about everything else are diverging from what was familiar in the level characterized by the exchange of Money, the prevalence of Markets and the dominance of Industrial production of standardized goods (call this MMI). The new level also depends on human abilities and desires, but now what matters most is our strictly limited abilities to pay attention and our much greater (on average) desires to receive it. The full passage will take many decades, but we are already well along.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The location is at PARC&#39;s &lt;a href=&#34;http://www.baychi.org/program/directions/&#34;&gt;George E. Pake Auditorium&lt;/a&gt; in Palo Alto, and the talk starts at 7:30. There also an optional &lt;a href=&#34;http://www.baychi.org/calendar/20060711/dinner/&#34;&gt;dinner&lt;/a&gt; beforehand &lt;a href=&#34;http://www.californiacafe.com/palo_alto.php&#34;&gt;nearby&lt;/a&gt; at 5:30.&lt;/p&gt;
 &lt;p&gt;I hope to see some of you there!&lt;/p&gt;
 &lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
@@ -32,7 +32,7 @@ of unstructured trust, and which current tools appear to work best at different 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-11T21:27:45-07:00&#34;&gt;2006-07-11T21:27:45-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2006/07/baychi_talk_nex.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/07/baychi_talk_nex.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

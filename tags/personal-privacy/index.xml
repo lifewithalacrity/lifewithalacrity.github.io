@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Privacy on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/personal-privacy/</link>
+    <link>http://www.lifewithalacrity.com/tags/personal-privacy/</link>
     <description>Recent content in Personal Privacy on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Apr 2004 02:00:51 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/personal-privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/personal-privacy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Four Kinds of Privacy</title>
-      <link>https://lifewithalacrity.github.io/2004/04/four_kinds_of_p.html</link>
+      <link>http://www.lifewithalacrity.com/2004/04/four_kinds_of_p.html</link>
       <pubDate>Thu, 22 Apr 2004 02:00:51 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/04/four_kinds_of_p.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/04/four_kinds_of_p.html</guid>
       <description>&lt;p&gt;I&#39;ve been thinking about the nature of privacy a lot lately.&lt;/p&gt;
 &lt;p&gt;I&#39;ve long been associated with issues of preserving privacy. I helped with anti-Clipper Chip activism in the early 90s and supported various efforts to free cryptography such as PGP and other tools built with RSAREF from export control. However, my efforts in these areas wasn&#39;t really focused on privacy -- instead my focus was on issues of trust.&lt;/p&gt;
 &lt;p&gt;I&#39;ve always tried to be precise here. For instance, one of the uses of the SSL encryption software that I designed and sold at Consensus Development was to preserve privacy; however, I never sold it with privacy as a feature. Instead I clearly stated that SSL offered &#34;message integrity&#34;, &#34;confidentiality&#34; and &#34;authentication&#34;. Part of the reason that I never used the word privacy with SSL was that I felt that the concept of privacy was too overloaded -- or possibly orthogonal to issues of cryptographic security. Promising privacy was promising too much.&lt;/p&gt;
-&lt;p&gt;More recently issues of privacy have been coming up in my study of social software. It got started with &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/confirmed_email.html&#34;&gt;my post about privacy issues in Orkut&lt;/a&gt; and a general &lt;a href=&#34;https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html&#34;&gt;insecurity and discomfort&lt;/a&gt; with information made available in various social networking services. Later I wrote about &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/handcrafting_my.html&#34;&gt;handcrafting my FOAF&lt;/a&gt; which required me to re-think how and what information I wished to reveal about myself. More recently I was &lt;a href=&#34;https://lifewithalacrity.github.io/2004/04/annoyed_by_zero.html&#34;&gt;stung by Zero Degrees&lt;/a&gt; which still disturbs me greatly.&lt;/p&gt;
+&lt;p&gt;More recently issues of privacy have been coming up in my study of social software. It got started with &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/confirmed_email.html&#34;&gt;my post about privacy issues in Orkut&lt;/a&gt; and a general &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;insecurity and discomfort&lt;/a&gt; with information made available in various social networking services. Later I wrote about &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/handcrafting_my.html&#34;&gt;handcrafting my FOAF&lt;/a&gt; which required me to re-think how and what information I wished to reveal about myself. More recently I was &lt;a href=&#34;http://www.lifewithalacrity.com/2004/04/annoyed_by_zero.html&#34;&gt;stung by Zero Degrees&lt;/a&gt; which still disturbs me greatly.&lt;/p&gt;
 &lt;p&gt;All of this has stewed in my head until I arrived at the &lt;a href=&#34;http://www.cfp2004.org&#34;&gt;Computers, Freedom and Privacy Conference&lt;/a&gt; this week here in Berkeley, where I met many of my friends and colleagues in the cryptographic security business, as well as advocates on issues of privacy in organizations such as &lt;a href=&#34;http://www.eff.org&#34;&gt;EFF&lt;/a&gt; and &lt;a href=&#34;http://www.epic.org&#34;&gt;EPIC&lt;/a&gt;. My thoughts have now gelled sufficiently to make some observations about privacy.&lt;/p&gt;
 &lt;p&gt;When people speak about privacy, they may actually be talking about very different forms of privacy: defensive privacy, human-rights privacy, personal privacy, and contextual privacy.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Defensive privacy&lt;/em&gt; is the first form: it&#39;s about protecting information about myself that makes me vulnerable or makes me feel at risk. This type of information can include things like my social security number, my credit report, or non-financial things such as my medical records or my home address. For some of my female friends this includes things like their photographs and email addresses. All of this information can be misused by other individuals or organizations in one way or another to mess up my life -- and in fact defensive privacy is usually centered around protecting this critical information from those singular individuals or organizations, be they con men, stalkers, or the Mafia. Most of the current privacy issues on the Internet seem to fall into this category. This form of privacy has also not fared well in the US courts -- for instance, in 1974 the Supreme Court decided that your bank records belong to the bank, to do with as they see fit.&lt;/p&gt;
@@ -49,7 +49,7 @@ Thanks!
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-06-01T10:20:36-07:00&#34;&gt;2006-06-01T10:20:36-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/04/four_kinds_of_p.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/04/four_kinds_of_p.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

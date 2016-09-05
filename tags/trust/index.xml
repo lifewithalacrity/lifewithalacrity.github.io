@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trust on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/trust/</link>
+    <link>http://www.lifewithalacrity.com/tags/trust/</link>
     <description>Recent content in Trust on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 14 Sep 2006 16:28:58 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/trust/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/trust/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ratings: Who Do You Trust?</title>
-      <link>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</link>
+      <link>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</link>
       <pubDate>Thu, 14 Sep 2006 16:28:58 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2006/09/ratings_who_do_.html</guid>
-      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
+      <guid>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</guid>
+      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
 Who Do You Trust?&lt;/a&gt; offers a look at weighting ratings based on reliability.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;https://lifewithalacrity.github.io/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Here&#39;s how we measured each type of trust, and what we did about it:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings for an Item.&lt;/strong&gt; Introduce a bayesian weight to offset the variability of items with low-volume ratings.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings by a User.&lt;/strong&gt; Give each user a weight based on his volume of contribution which is applied to his ratings.&lt;/em&gt;&lt;/p&gt;
@@ -43,11 +43,11 @@ User Creativity&lt;/a&gt; - A look at the &amp;quot;XP&amp;quot; system which ha
 &lt;hr /&gt;
 &lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
 &lt;/p&gt;&lt;blockquote&gt;&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;
@@ -82,7 +82,7 @@ I&#39;m pretty sure that the core weighting system by depth is producing better 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T15:39:53-07:00&#34;&gt;2006-10-16T15:39:53-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

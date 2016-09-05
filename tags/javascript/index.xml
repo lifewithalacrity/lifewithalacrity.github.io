@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javascript on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/javascript/</link>
+    <link>http://www.lifewithalacrity.com/tags/javascript/</link>
     <description>Recent content in Javascript on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Dec 2004 08:44:31 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Google Suggest Dissected</title>
-      <link>https://lifewithalacrity.github.io/2004/12/google_suggest_.html</link>
+      <link>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</link>
       <pubDate>Sat, 18 Dec 2004 08:44:31 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/12/google_suggest_.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</guid>
       <description>&lt;p&gt;As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.&lt;/p&gt;
-&lt;p&gt;So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on &lt;a href=&#34;https://lifewithalacrity.github.io/2004/10/map_mashup.html&#34;&gt;Map Mashup&lt;/a&gt; and &lt;a href=&#34;https://lifewithalacrity.github.io/2004/09/tiddlywiki.html&#34;&gt;TiddlyWiki&lt;/a&gt; offer some interesting web UI exemplars.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;79&#34; border=&#34;0&#34; alt=&#34;Logo_google_suggest&#34; title=&#34;Logo_google_suggest&#34; src=&#34;https://lifewithalacrity.github.io/previous/images/logo_google_suggest.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on &lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/map_mashup.html&#34;&gt;Map Mashup&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2004/09/tiddlywiki.html&#34;&gt;TiddlyWiki&lt;/a&gt; offer some interesting web UI exemplars.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;79&#34; border=&#34;0&#34; alt=&#34;Logo_google_suggest&#34; title=&#34;Logo_google_suggest&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/logo_google_suggest.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To this list of exemplars I now add &lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;Google Suggest&lt;/a&gt; by Google programmer &lt;a href=&#34;http://www.google.com/googleblog/2004/12/ive-got-suggestion.html&#34;&gt;Kevin Gibbs&lt;/a&gt;, who wrote this as part of Google employee&#39;s ability to work 20% of the time on their own projects.
 Google Suggest replaces the browser&#39;s default auto-complete with one specific to Google searching. As you type each letter of your search request, you are shown the most popular requests for that term, and how many search hits are available for that search term. You really have to try out to understand how amazing and intuitive it is.&lt;/p&gt;
 &lt;p&gt;Blogger &lt;a href=&#34;http://serversideguy.blogspot.com/&#34;&gt;Chris Justus&lt;/a&gt; has &lt;a href=&#34;http://serversideguy.blogspot.com/2004/12/google-suggest-dissected.html&#34;&gt;dissected and documented&lt;/a&gt; how Google Suggest works. If you are a web developer, I recommend you read his analysis and I hope it will inspire you.&lt;/p&gt;
@@ -78,16 +78,16 @@ http://developer.ebusiness-apps.com/technologies/webdevelopment/codeandcomponent
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-12T22:31:34-07:00&#34;&gt;2005-06-12T22:31:34-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>JotSpot: Application Wiki</title>
-      <link>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</link>
+      <link>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</link>
       <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/10/jotspot_applica.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.jotspot.com/about/index.php&#34;&gt;Joe Kraus&lt;/a&gt;, one of the co-founders of Excite, and new &lt;a href=&#34;http://bnoopy.typepad.com/bnoopy/&#34;&gt;blogger&lt;/a&gt; has long been &lt;a href=&#34;http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html&#34;&gt;rumored&lt;/a&gt; to be working on a new wiki tool. Today at the &lt;a href=&#34;http://www.web2con.com/pub/w/32/program.html&#34;&gt;Web 2.0&lt;/a&gt; conference Joe finally unveiled &lt;a href=&#34;http://www.jotspot.com&#34;&gt;JotSpot&lt;/a&gt;, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://www.jotspot.com/tours/advanced/img/slide09.jpg&#34;border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; &gt;At the JotSpot website there is an page on &lt;a href=&#34;http://jot.com/compare/index.php&#34;&gt;How JotSpot is Different&lt;/a&gt; and an &lt;a href=&#34;http://jot.com/tours/advanced/1.php&#34;&gt;Advanced Tour&lt;/a&gt; of this wiki&#39;s database capabilities.&lt;/p&gt;
 &lt;p&gt;Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter &lt;a href=&#34;http://weblog.infoworld.com/udell/2004/10/06.html#a1090&#34;&gt;Jon Udell&lt;/a&gt; an early &lt;a href=&#34;http://weblog.infoworld.com/udell/gems/jot.swf&#34;&gt;demo of JotSpot&lt;/a&gt;, which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc.  Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a &lt;a href=&#34;http://www.salesforce.com&#34;&gt;SalesForce.com&lt;/a&gt; web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.&lt;/p&gt;
@@ -134,17 +134,17 @@ Ludovic
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-14T00:42:30-07:00&#34;&gt;2004-10-14T00:42:30-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/10/jotspot_applica.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>TiddlyWiki</title>
-      <link>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</link>
+      <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
       <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/09/tiddlywiki.html</guid>
-      <description>&lt;p&gt;I keep an eye out for new ideas in Wiki technology (see my post from February &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html&#34;&gt;Looking at Wiki&lt;/a&gt;), and I recently became fascinated by &lt;a href=&#34;http://www.tiddlywiki.com/&#34;&gt;TiddlyWiki&lt;/a&gt;. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my &lt;a href=&#34;http://editthispagephp.sourceforge.net&#34;&gt;EditThisPagePHP&lt;/a&gt;, it appears to be an elegant experiment to look into the future of this medium of user-editable content.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</guid>
+      <description>&lt;p&gt;I keep an eye out for new ideas in Wiki technology (see my post from February &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html&#34;&gt;Looking at Wiki&lt;/a&gt;), and I recently became fascinated by &lt;a href=&#34;http://www.tiddlywiki.com/&#34;&gt;TiddlyWiki&lt;/a&gt;. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my &lt;a href=&#34;http://editthispagephp.sourceforge.net&#34;&gt;EditThisPagePHP&lt;/a&gt;, it appears to be an elegant experiment to look into the future of this medium of user-editable content.&lt;/p&gt;
 &lt;p&gt;The key feature of TiddlyWiki is that instead of &lt;a href=&#34;http://www.usemod.com/cgi-bin/mb.pl?WikiName&#34;&gt;WikiName&lt;/a&gt; links leading to new pages, it displays a new set of &lt;a href=&#34;http://www.cmswiki.com/tiki-index.php?page=MicroContent&#34;&gt;microcontent&lt;/a&gt; at the top of the current page, pushing your previous content toward the bottom of the page. Thus your link history is all on a single page rather then through your browser&#39;s back button. You really need to try it out to understand it.&lt;/p&gt;
 &lt;p&gt;In its current form, TiddlyWiki is still really more a technology demonstration than a useful tool, as you can&#39;t save the changes you make. However, there are people that are creating a &lt;a href=&#34;http://www.patrickcurry.com/tiddly/&#34;&gt;PHP TiddlyWink&lt;/a&gt; based on it.&lt;/p&gt;
 &lt;p&gt;There are a number of things about TiddlyWiki that interest me. One is that it is more microcontent focused, rather then page focused. I&#39;ve seen a few attempts to do blogs in Wikis and to date I have been unsatisfied -- part of the reason is that most blogs consist primarily of a chronological series of microcontent, whereas Wikis tend to be more oriented around pages. The ideas in TiddlyWiki may offer an alternative.&lt;/p&gt;
@@ -175,7 +175,7 @@ Any comments appreciated anyway
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-21T21:51:31-07:00&#34;&gt;2005-04-21T21:51:31-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/09/tiddlywiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/09/tiddlywiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

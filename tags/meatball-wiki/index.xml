@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meatball Wiki on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/meatball-wiki/</link>
+    <link>http://www.lifewithalacrity.com/tags/meatball-wiki/</link>
     <description>Recent content in Meatball Wiki on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Feb 2004 05:57:48 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/meatball-wiki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/meatball-wiki/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Looking at Wiki</title>
-      <link>https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</link>
       <pubDate>Mon, 02 Feb 2004 05:57:48 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/looking_at_wiki.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</guid>
       <description>&lt;p&gt;I&#39;ve not just been spending time looking at social networking services, I&#39;ve also been digging deeper into wiki. I&#39;ve still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.zwiki.org&#34;&gt;Zwiki&lt;/a&gt; is based on Zope, and thus has a very interesting feature set. One of the more popular features is the topic mappings that it creates. When combined with the CMS features of Plone, it becomes even more interesting -- one of the best Zwiki/Plone communities to look at as an example is &lt;a href=&#34;http://doc.hydrogenaudio.org/wikis/hydrogenaudio/FrontPage&#34;&gt;Hurricane Audio&lt;/a&gt;. Unfortunately Zwiki only works on the Zope web platform, which is not as popular as Apache.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.flexwiki.com&#34;&gt;FlexWiki&lt;/a&gt; is a very innovative wiki that is being developed by some Microsoft engineers and is ASP.NET based for Windows. I in particular like the &lt;a href=&#34;http://flexwiki.com/default.aspx/FlexWiki.ExamplePropertyPage&#34;&gt;property page features&lt;/a&gt; which are an elegant way to handle meta-data, and also how it handles diffs.&lt;/p&gt;
@@ -103,7 +103,7 @@ A very interesting collaborative internet medium &lt;a href=&#34;http://aux.plan
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-14T06:58:16-07:00&#34;&gt;2004-03-14T06:58:16-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/looking_at_wiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/looking_at_wiki.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

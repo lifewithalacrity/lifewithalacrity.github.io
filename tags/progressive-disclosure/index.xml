@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Progressive Disclosure on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/progressive-disclosure/</link>
+    <link>http://www.lifewithalacrity.com/tags/progressive-disclosure/</link>
     <description>Recent content in Progressive Disclosure on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Aug 2004 23:42:15 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/progressive-disclosure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/progressive-disclosure/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Progressive Trust</title>
-      <link>https://lifewithalacrity.github.io/2004/08/progressive_tru.html</link>
+      <link>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</link>
       <pubDate>Mon, 16 Aug 2004 23:42:15 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/08/progressive_tru.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</guid>
       <description>&lt;p&gt;I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.&lt;/p&gt;
 &lt;p&gt;One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.&lt;/p&gt;
 &lt;p&gt;This is how I typically explain progressive trust when I meet someone in-person at a conference:&lt;/p&gt;
@@ -49,7 +49,7 @@ http://frassle.rura.org/christopherAllenGets
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-26T08:39:54-07:00&#34;&gt;2004-08-26T08:39:54-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/08/progressive_tru.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/08/progressive_tru.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

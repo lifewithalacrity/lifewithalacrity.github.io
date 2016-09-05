@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Friend Of A Friend on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/friend-of-a-friend/</link>
+    <link>http://www.lifewithalacrity.com/tags/friend-of-a-friend/</link>
     <description>Recent content in Friend Of A Friend on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2004 16:25:05 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/friend-of-a-friend/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/friend-of-a-friend/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hand-Crafting My FOAF</title>
-      <link>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</link>
       <pubDate>Thu, 19 Feb 2004 16:25:05 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</guid>
       <description>&lt;p&gt;While at &lt;a href=&#34;http://etech.weblogsinc.com/&#34;&gt;eTech&lt;/a&gt;, I attended a number of &#34;social software&#34; sessions. One thing I heard was a persistent call from folk like &lt;a href=&#34;http://blogs.it/0100198/&#34;&gt;Marc Canter&lt;/a&gt; for all the vendors to support something called &lt;a href=&#34;http://xmlns.com/foaf/0.1/&#34;&gt;FOAF&lt;/a&gt;. FOAF is a standard for &#34;Friend of a Friend&#34; files, and is an attempt to make &lt;em&gt;machine readable&lt;/em&gt; information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.&lt;/p&gt;
 &lt;p&gt;If you are using the blog service &lt;a href=&#34;http://www.typepad.com&#34;&gt;TypePad&lt;/a&gt; or the social networking service &lt;a href=&#34;http://www.ecademy.com&#34;&gt;Ecademy&lt;/a&gt; you may already have a FOAF file without knowing it, and &lt;a href=&#34;http://www.tribe.net&#34;&gt;Tribe.Net&lt;/a&gt; announced at eTech that they were promising to support it as well for their social networking service.&lt;/p&gt;
 &lt;p&gt;FOAF as a standard is still in a fairly primitive state -- to me it feels like HTML did during the days of the early Mosaic browser, when every good web page had to be hand-crafted in a text editor and uploaded to a server. However, like HTML, it may have great promise.&lt;/p&gt;
@@ -120,7 +120,7 @@ And as with the old html days - there will be end user tools created. My take on
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-24T10:10:12-07:00&#34;&gt;2005-04-24T10:10:12-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

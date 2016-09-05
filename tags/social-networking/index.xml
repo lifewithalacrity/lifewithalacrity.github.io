@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Networking on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/social-networking/</link>
+    <link>http://www.lifewithalacrity.com/tags/social-networking/</link>
     <description>Recent content in Social Networking on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Feb 2004 16:25:05 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/social-networking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/social-networking/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hand-Crafting My FOAF</title>
-      <link>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</link>
       <pubDate>Thu, 19 Feb 2004 16:25:05 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/handcrafting_my.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</guid>
       <description>&lt;p&gt;While at &lt;a href=&#34;http://etech.weblogsinc.com/&#34;&gt;eTech&lt;/a&gt;, I attended a number of &#34;social software&#34; sessions. One thing I heard was a persistent call from folk like &lt;a href=&#34;http://blogs.it/0100198/&#34;&gt;Marc Canter&lt;/a&gt; for all the vendors to support something called &lt;a href=&#34;http://xmlns.com/foaf/0.1/&#34;&gt;FOAF&lt;/a&gt;. FOAF is a standard for &#34;Friend of a Friend&#34; files, and is an attempt to make &lt;em&gt;machine readable&lt;/em&gt; information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.&lt;/p&gt;
 &lt;p&gt;If you are using the blog service &lt;a href=&#34;http://www.typepad.com&#34;&gt;TypePad&lt;/a&gt; or the social networking service &lt;a href=&#34;http://www.ecademy.com&#34;&gt;Ecademy&lt;/a&gt; you may already have a FOAF file without knowing it, and &lt;a href=&#34;http://www.tribe.net&#34;&gt;Tribe.Net&lt;/a&gt; announced at eTech that they were promising to support it as well for their social networking service.&lt;/p&gt;
 &lt;p&gt;FOAF as a standard is still in a fairly primitive state -- to me it feels like HTML did during the days of the early Mosaic browser, when every good web page had to be hand-crafted in a text editor and uploaded to a server. However, like HTML, it may have great promise.&lt;/p&gt;
@@ -120,23 +120,23 @@ And as with the old html days - there will be end user tools created. My take on
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-24T10:10:12-07:00&#34;&gt;2005-04-24T10:10:12-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Confirmed Email Privacy Hole at Orkut</title>
-      <link>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/confirmed_email.html</link>
       <pubDate>Sun, 01 Feb 2004 17:12:22 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/confirmed_email.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/02/confirmed_email.html</guid>
       <description>&lt;p&gt;Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.&lt;/p&gt;
 &lt;p&gt;For instance, whenever I send a message to anyone in the system that is forwarded by email, in the message headers it will read:&lt;/p&gt;
 &lt;blockquote&gt;&lt;pre&gt;
 From: &#34;Christopher Allen&#34; &amp;lt;member@orkut.com&amp;gt;
 Reply-To: &#34;Christopher Allen&#34; &amp;lt;christophera@alacritymanagement.com&gt;;&lt;/pre&gt;&lt;/blockquote&gt;
 &lt;p&gt;When someone reads the message in their email software, the &#34;From:&#34; line will be my name but the fake email of &amp;lt;member@orkut.com&amp;gt; -- however, when you reply to it, it will use my real email address. This appears to happen whether or not I have my privacy settings to reveal my email address. For instance, I can set it so that no one (not friends, not friends of friends, only myself) can see my email address, but the address will still be revealed when I send an email&lt;/p&gt;
-&lt;p&gt;I had reported what I thought was a security flaw when you emailed to &#34;friends of friends&#34; a couple of days ago, but I was mistaken, as I reported in my blog &lt;a href=&#34;https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html&#34;&gt;Insecurity at Orkut&lt;/a&gt;.  However, as I didn&#39;t want risk &#34;crying wolf&#34; this time, so my friend and I triple checked this and have confirmed this privacy flaw.&lt;/p&gt;
+&lt;p&gt;I had reported what I thought was a security flaw when you emailed to &#34;friends of friends&#34; a couple of days ago, but I was mistaken, as I reported in my blog &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;Insecurity at Orkut&lt;/a&gt;.  However, as I didn&#39;t want risk &#34;crying wolf&#34; this time, so my friend and I triple checked this and have confirmed this privacy flaw.&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.&lt;/s&gt; [Updated: I was wrong, there is no way currently to avoid this other then not using an email address you care about.]&lt;/p&gt;
 &lt;p&gt;There are some that will say that this is a feature, i.e. when using email &#34;what good is communicating with someone if there is no chance of a response&#34; -- my answer to this is that an expectation has been set that email addresses can remain private, and if this is to be a feature, then users should be warned before sending an email &#34;Your email address user@domain will be revealed when you send this.&#34; More ideally, like other social networking services, the &#34;Reply-to:&#34; should be to a special email address at Orkut that will do the lookup and forward appropriately.&lt;/p&gt;
 &lt;p&gt;One of the essential problems that Orkut needs to fix very soon is how to report problems like these, and if you are trying to help how to know that these problems exist. I want my criticism to be constructive, but it is very hard when you have no idea what is the best way to offer feedback. I&#39;ve had many people reply to me in my blog and via email that they feel the same way.&lt;/p&gt;
@@ -148,7 +148,7 @@ Reply-To: &#34;Christopher Allen&#34; &amp;lt;christophera@alacritymanagement.co
 &lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=781&#34;&gt;Orkut: Tips, Feedback, ?&#39;s&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=4556&#34;&gt;Orkut Members&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;Which groups should I post this problem to? Which will will be read by the Orkut staff?&lt;/p&gt;
-&lt;p&gt;As I&#39;ve said in another of my blog postings &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/followup_on_ork.html&#34;&gt;Followup on Orkut&lt;/a&gt;: &lt;blockquote&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
+&lt;p&gt;As I&#39;ve said in another of my blog postings &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/followup_on_ork.html&#34;&gt;Followup on Orkut&lt;/a&gt;: &lt;blockquote&gt;Part of the problem is that even though Orkut is in beta, there is no organized feedback system. For instance they could offer a forum read by the developers, or even better a bug/issues tracking system like TypePad has, or Bugzilla.&lt;/p&gt;
 &lt;p&gt;In addition, feedback is a two-way street -- they could do a lot by offering a developers daily blog, or some type of regular announcement of what feature they wanted beta testers to test that day, or even acknowledgement &#34;we already know that is an issue&#34;. Also, they need to show respect for good feedback publicly, as that will encourage more good feedback.&lt;/p&gt;
 &lt;p&gt;None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.&lt;/blockquote&gt;&lt;/p&gt;
 &lt;p&gt;For now, I recommend that these type of bug reports go into &lt;a href=&#34;http://www.orkut.com/Community.aspx?cmm=6048&#34;&gt;Orkut Beta&lt;/a&gt;&lt;/li&gt;. Why not in &#34;Flaws in Orkut&#34; or in one of the other groups? Because I feel that focusing on &#39;Flaws&#39; is too strongly negative, and none of the others quite fit. I&#39;ve been a software developer -- everything is a compromise and good design is hard. By staying on the topics of current features, feature requests, bugs, suggestions, and by encouraging constructive critism and a balance of both positive and negative feedback, this group will be the best community for us to help Orkut until they offer us better alternatives.&lt;br /&gt;
@@ -206,17 +206,17 @@ i don&#39;t know much more about orkut i just want to know what this side about 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-12T00:51:10-07:00&#34;&gt;2004-10-12T00:51:10-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/confirmed_email.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Followup on Orkut</title>
-      <link>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</link>
+      <link>http://www.lifewithalacrity.com/2004/02/followup_on_ork.html</link>
       <pubDate>Sun, 01 Feb 2004 13:21:13 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/02/followup_on_ork.html</guid>
-      <description>&lt;p&gt;I&#39;ve read of emails, Orkut messages, and blog postings since my &lt;a href=&#34;https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html&#34;&gt;post yesterday&lt;/a&gt;, so I thought I would share some with you.&lt;/p&gt;
+      <guid>http://www.lifewithalacrity.com/2004/02/followup_on_ork.html</guid>
+      <description>&lt;p&gt;I&#39;ve read of emails, Orkut messages, and blog postings since my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;post yesterday&lt;/a&gt;, so I thought I would share some with you.&lt;/p&gt;
 &lt;p&gt;There have been a number of good posts, as well as user comments at Danah Boyd&#39;s blog &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Apophenia&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Danah Boyd writes &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/01/correcting_marc_canters_perception_of_my_views.html#004011&#34;&gt;Correcting Marc Canter&#39;s Perception of My Views&lt;/a&gt;&lt;br /&gt;
 &lt;blockquote&gt;Marc - i don&#39;t believe that users should take these relationships more seriously; i believe that YOU should. Users will do whatever they damn well please, and i think that we should learn from them. But out of respect to the creators of these systems, many of whom are our friends, i truly believe that we should respect their goals and not engage in behavior that disrespects their intentions. Furthermore, i believe that we should never be the exceptions on any given service, the ones who push the boundaries. We are not average users. We should sit back and watch what average users do, not try to top them. By engaging in disrespectful behavior, we make it much harder for our friends and colleagues to execute their business plans as they&#39;re busy policing us.&lt;/blockquote&gt;When I first read this, I thought of something else. When I saw Danah&#39;s &#34;YOU&#34;, I was thinking of myself and Marc Canter as developers. I&#39;m not currently involved in developing Social Software, but I come from the developer mind set. &#34;WE&#34; developers &#34;should take these relationships more seriously&#34;. That means that although our users will game, will play, and stretch the system, we should design it as seriously as possible those who are serious, concerned, and value their relationships.  &#34;Calling someone a friend&#34; &lt;b&gt;should&lt;/b&gt; mean something -- something important.&lt;/p&gt;
@@ -324,16 +324,16 @@ Well,from my first impressions of orkut,what i gather is that,u have to be caref
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2006-07-12T06:46:11-07:00&#34;&gt;2006-07-12T06:46:11-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/followup_on_ork.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Insecurity at Orkut</title>
-      <link>https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html</link>
+      <link>http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html</link>
       <pubDate>Sat, 31 Jan 2004 13:58:38 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/01/insecurity_at_o.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html</guid>
       <description>&lt;p&gt;Like many others, I&#39;ve been paying attention to &lt;a href=&#34;http://www.orkut.com/Profile.aspx?uid=2789681602836776519&#34;&gt;Orkut&lt;/a&gt; in the last couple of weeks. I&#39;ve answered more requests to be &amp;quot;friends&amp;quot; on Orkut then I have of any of the other half-dozen Social Networking Services I&#39;ve tried, and I&#39;ve looking at other people&#39;s friends to see if I know anyone. I&#39;ve yet to ask someone to join Orkut that wasn&#39;t already a member, and I&#39;ve been careful to not have anyone as a &amp;quot;friend&amp;quot; that I didn&#39;t know reasonably well and I thought knew me. Currently I have 68 Orkut &amp;quot;friends&amp;quot;, many more then I have on &lt;a href=&#34;http://www.linkedin.com/profile?viewProfile=&amp;amp;key=62844&#34;&gt;LinkedIn&lt;/a&gt;, which I&#39;ve been using for several months and have 50 &amp;quot;connections&amp;quot;.&lt;/p&gt;
 &lt;p&gt;In addition to this activity on Orkut, I&#39;ve been reading a lot of blogs about other people&#39;s experiences on Orkut. In particular, I&#39;ve found Danah Boyd&#39;s blog &lt;a href=&#34;http://www.zephoria.org/thoughts/&#34;&gt;Apophenia&lt;/a&gt; a great source for thought on social networking services, so I&#39;ve got it near the top of my RSS aggregator. I&#39;d just read her rant &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/venting_my_contempt_for_orkut.html&#34;&gt;venting my contempt for Orkut&lt;/a&gt; when I saw a follow up post &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/01/30/orkut_pissyness_round_2.html&#34;&gt;orkut pissyness round 2&lt;/a&gt; where I read:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;Wanna see a big phat privacy hole on Orkut? Go to messages. Click compose. Click &amp;quot;friends and friends of friends.&amp;quot; Click next. Copy &amp;amp; paste all of your friends and their friends&#39; email addresses.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I tested this out, and discovered she was correct, when I clicked &amp;quot;friends of friends&amp;quot; I got a long web page of names and email address. So I sent to this list I&#39;d generated:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;A serious security hole? Yep.
@@ -366,10 +366,10 @@ Well,from my first impressions of orkut,what i gather is that,u have to be caref
 &lt;p&gt;When Orkut came back after the hack, a new feature was added, fans and ratings. This made me yet even more uncomfortable. Did I really want to have to not say I was a fan of someone that said they were a fan of me? Wasn&#39;t endorsing someone a far better signifier of fan? What does Trustworthy mean? Cool? I refused to enter anything for Sexy. I worried if someone could see my ratings, or reverse socially engineer it, or hack it.&lt;/p&gt;
 &lt;p&gt;Thus these insecurities of mine led me to think the worst and to post too quickly about the &amp;quot;Friends of Friends Security Hole&amp;quot; and still feel uncomfortable about why I was put in &amp;quot;jail&amp;quot;.&lt;/p&gt;
 &lt;p&gt;So far I&#39;ve had no abuses of me by Orkut -- I&#39;ve had only two people ask me to be friends that I don&#39;t know, and so far I&#39;ve not been told that someone is my fan whom I&#39;m not willing to honestly say that I&#39;m a fan back. I&#39;ve even found some old friends that I&#39;d lost track of, which is exactly why I still &amp;quot;play&amp;quot; and not leave Orkut. I do believe that there may be something useful in these social network services.&lt;/p&gt;
-&lt;p&gt;Yet I feel that my old blog entry &lt;a href=&#34;https://lifewithalacrity.github.io/2003/12/evaluating_soci.html&#34;&gt;Evaluating Social Network Services&lt;/a&gt; that concluded with my take on &lt;strong&gt;The Perfect Social Network Service&lt;/strong&gt; is still quite on track:&lt;br /&gt;
+&lt;p&gt;Yet I feel that my old blog entry &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/evaluating_soci.html&#34;&gt;Evaluating Social Network Services&lt;/a&gt; that concluded with my take on &lt;strong&gt;The Perfect Social Network Service&lt;/strong&gt; is still quite on track:&lt;br /&gt;
 &lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;My ideal service would have the multiple professional affiliation features of LinkedIn, but also allow me to show non-professional affiliations. It would allow me to form intentional communities like Tribes.Net, but would also let me do a Wiki in addition to a message board. It would have meeting/party invite services like eVite, and blogging features like LiveJournal. It would have an endorsement system like LinkedIn integrated not only with professional endorsements, but personal endorsements as well, and you could even endorse intentional communities. It would let me better map and control my network, giving different friends different privileges. It would handle the release of my personal information like Ryze, but less clunky.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I&#39;d add to that list that I&#39;d like to have more control over my information, in particular, relationship information. That I&#39;d like to see more &amp;quot;progressive disclosure&amp;quot; where there was more granularity of what was revealed at public, friends of friends, friends, fans, fans who I&#39;ve endorsed, etc. Finally, I&#39;d really not like to see things that are not applicable to me, such as relationship information of other people when I&#39;m not looking for relationships, or professional information of others if I&#39;m only using Orkut for dating.&lt;/p&gt;
-&lt;p&gt;[Update: another Orkut user and I found a different privacy hole when sending emails -- see &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/confirmed_email.html&#34;&gt;Confirmed Email Privacy Hole at Orkut&lt;/a&gt;.]&lt;/p&gt;
+&lt;p&gt;[Update: another Orkut user and I found a different privacy hole when sending emails -- see &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/confirmed_email.html&#34;&gt;Confirmed Email Privacy Hole at Orkut&lt;/a&gt;.]&lt;/p&gt;
 &lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
 &lt;div class=&#34;u-comment h-cite&#34;&gt;
 &lt;p class=&#34;p-content p-name&#34;&gt;The only reason why I&#39;d seen other people in jail was because they had added too many friends too fast.
@@ -619,7 +619,7 @@ Some guy named Junaid from Karachi, Pakistan put up my cell no. on orkut in the 
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-23T05:09:00-07:00&#34;&gt;2005-03-23T05:09:00-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/01/insecurity_at_o.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/01/insecurity_at_o.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

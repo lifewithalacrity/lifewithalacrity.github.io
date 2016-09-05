@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secureid on Life With Alacrity</title>
-    <link>https://lifewithalacrity.github.io/tags/secureid/</link>
+    <link>http://www.lifewithalacrity.com/tags/secureid/</link>
     <description>Recent content in Secureid on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Mar 2004 03:50:41 -0700</lastBuildDate>
-    <atom:link href="https://lifewithalacrity.github.io/tags/secureid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.lifewithalacrity.com/tags/secureid/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post RSA Conference Wrapup</title>
-      <link>https://lifewithalacrity.github.io/2004/03/post_rsa_confer.html</link>
+      <link>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</link>
       <pubDate>Fri, 05 Mar 2004 03:50:41 -0700</pubDate>
       
-      <guid>https://lifewithalacrity.github.io/2004/03/post_rsa_confer.html</guid>
+      <guid>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</guid>
       <description>&lt;p&gt;I spent most of last week at the RSA Conference in San Francisco.&lt;/p&gt;
-&lt;p&gt;Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I asked a number of random people what they thought of the conference. Some agreed with me, saying that they were troubled by the lack of innovation. Others said that they actually liked it -- it showed that the industry was being run by businessmen finally, and not by geeks. Others said that it was just the inevitable maturation of an industry. Tim Oren wrote in his blog &lt;a href=&#34;http://www.pacificavc.com/blog/2004/02/27.html#a565&#34;&gt;Due Diligence&lt;/a&gt;:&lt;blockquote&gt;Every year the show is less about cryptography per se. I&#39;m sure this has something to do with RSA&#39;s attempts to diversify as its patents expire, but I do think it reflects the state of the field. Crypto has become a standardized component of security solutions, and the biggest perceived threats are not in the privacy area.&lt;/blockquote&gt;&lt;/p&gt;
-&lt;p&gt;The hilight of the conference to me was hearing respected cryptographer Whitfield Diffie say to me that he had read my &lt;a href=&#34;https://lifewithalacrity.github.io/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt; and that he liked it. Apparently it had been sent to him by someone at Sun who had thought that it was saying many of the things that Diffie has been saying as well. Diffie said that he had some specific criticisms, so I hope that he&#39;ll comment here someday on them.&lt;/p&gt;
+&lt;p&gt;The hilight of the conference to me was hearing respected cryptographer Whitfield Diffie say to me that he had read my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/02/security_crypto.html&#34;&gt;The Bad Business of Fear&lt;/a&gt; and that he liked it. Apparently it had been sent to him by someone at Sun who had thought that it was saying many of the things that Diffie has been saying as well. Diffie said that he had some specific criticisms, so I hope that he&#39;ll comment here someday on them.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
 &lt;h4&gt;Caller-ID for Email&lt;/h4&gt;&lt;/p&gt;
 &lt;p&gt;The big announcement of the week was that Microsoft will be be releasing their own spam solution, a &lt;a href=&#34;http://windows-help.net/cgi-bin/2004/7.08.cgi?70801&#34;&gt;Caller ID&lt;/a&gt; for email addresses, starting this summer in HotMail and in their mail servers. Basically the way this works is that every domain holder publishes inside their DNS records the IP addresses of any valid outbound email server. This information is stored using XML in a special signed format. After a mail is sent, the receiving system queries the DNS to confirm that the outbound server is not being spoofed.&lt;/p&gt;
@@ -60,7 +60,7 @@ Though a cool demo, I&#39;m not as confident that this solution will work. Now i
 &lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-05T23:19:47-07:00&#34;&gt;2004-03-05T23:19:47-07:00&lt;/time&gt;
 &lt;/div&gt;
 &lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;https://lifewithalacrity.github.io/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/03/post_rsa_confer.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
