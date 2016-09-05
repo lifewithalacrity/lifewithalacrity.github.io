@@ -3,12 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+<link rel="openid.delegate" href="http://www.lifewithalacrity.com" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
 
-    
     <title> 404 Page not found  </title>
     <link rel="canonical" href="https://lifewithalacrity.github.io/404/">
     <link href="https://lifewithalacrity.github.io/index.xml" rel="alternate" type="application/rss+xml" title="404 Page not found" />
     <link rel="stylesheet" href="/css/tufte.css"/>
+<script src="/js/fragmention.js"></script>
 </head>
 <body lang="en">
 
@@ -17,6 +20,16 @@ A blog on social software, collaboration, trust, security, privacy, and internet
 <h1>That wasn’t a link we were expecting. </h1>
 <h3>You could try the <a href="/previous/">previous site</a></h3>
 <footer>
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>
 <p>Life With Alacrity</p>
 <p>© Christopher Allen</p>
 </footer>

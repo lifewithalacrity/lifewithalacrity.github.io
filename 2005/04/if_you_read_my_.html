@@ -3,12 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+<link rel="openid.delegate" href="http://www.lifewithalacrity.com" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
 
-    
     <title> New Sidebar: Recent Bookmarks  </title>
     <link rel="canonical" href="https://lifewithalacrity.github.io/2005/04/if_you_read_my_.html">
     
     <link rel="stylesheet" href="/css/tufte.css"/>
+<script src="/js/fragmention.js"></script>
 </head>
 <body lang="en">
 
@@ -73,6 +76,16 @@ I must add these to my own del.icio.us collection plus a couple of other books o
 </article>
 </section>
 <footer>
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>
 <p>Life With Alacrity</p>
 <p>© Christopher Allen</p>
 </footer>
