@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Features on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/features/</link>
-    <description>Recent content in Features on Life With Alacrity</description>
+    <title>Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/features/index.xml</link>
+    <description>Recent content on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Feb 2004 05:57:48 -0700</lastBuildDate>
     <atom:link href="http://www.lifewithalacrity.com/tags/features/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Master on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/life-master/</link>
-    <description>Recent content in Life Master on Life With Alacrity</description>
+    <title>Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/life-master/index.xml</link>
+    <description>Recent content on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2006 23:37:09 -0700</lastBuildDate>
     <atom:link href="http://www.lifewithalacrity.com/tags/life-master/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

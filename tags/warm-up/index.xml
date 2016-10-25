@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Warm Up on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/warm-up/</link>
-    <description>Recent content in Warm Up on Life With Alacrity</description>
+    <title>Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/warm-up/index.xml</link>
+    <description>Recent content on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Sep 2009 16:19:40 -0700</lastBuildDate>
     <atom:link href="http://www.lifewithalacrity.com/tags/warm-up/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
