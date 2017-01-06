@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US" >
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="webmention" href="https://webmention.herokuapp.com/api/webmention" />
+<link rel="openid.delegate" href="http://www.lifewithalacrity.com" />
+<link rel="openid.server" href="https://openid.indieauth.com/openid" />
+
+    <title> Bookmark Annotate Blog Aggregator Del.Icio.Us Web Service Sidebar Javascript Rss Digest Feed  </title>
+    <link rel="canonical" href="http://www.lifewithalacrity.com/tags/bookmark-annotate-blog-aggregator-del.icio/index.us-web-service-sidebar-javascript-rss-digest-feed/">
+    <link href="http://www.lifewithalacrity.com/tags/bookmark-annotate-blog-aggregator-del.icio.us-web-service-sidebar-javascript-rss-digest-feed/index.xml" rel="alternate" type="application/rss+xml" title="Bookmark Annotate Blog Aggregator Del.Icio.Us Web Service Sidebar Javascript Rss Digest Feed" />
+    <link rel="stylesheet" href="/css/tufte.css"/>
+<script src="/js/fragmention.js"></script>
+</head>
+<body lang="en">
+
+<div class="fullpage">
+<section id="main" class="h-feed">
+<h1 class="p-name"><a href="/">Life With Alacrity</a></h1>
+<p class="p-summary">A blog on social software, collaboration, trust, security, privacy, and internet tools by <span class="h-card">Christopher Allen</span>.</p>
+
+<h1 class="p-name">Tag: Bookmark Annotate Blog Aggregator Del.Icio.Us Web Service Sidebar Javascript Rss Digest Feed</h1>
+
+
+   <article class="h-entry post">
+<header>
+<h2><a class="p-name u-url" href='http://www.lifewithalacrity.com/2005/04/if_you_read_my_.html'> New Sidebar: Recent Bookmarks</a> </h2>
+<div class="post-meta"> <time class="dt-published" datetime="2005-04-08 11:40:41 -0700 PDT">April 8 2005</time> - 600 Words </div>
+</header>
+<div class="p-summary abstract">If you read my blog through an aggregator, you may not have noticed my new sidebar &quot;Recent Bookmarks&quot;. It is a list of web pages that I've found interesting enough to annotate using the del.icio.us service. It is useful if you want to have an insight into what future blog entries I'm working on, as links will often show up there before my actual blog posting is out.
+You alternatively can view my last 10 del.</div>
+<footer>
+<a href='http://www.lifewithalacrity.com/2005/04/if_you_read_my_.html'><nobr>Read more →</nobr></a>
+</footer>
+</article>
+
+
+    
+</section>
+<aside class="sidebar">
+<section><label for="hcard" class="inline-toggle">Author</label>
+<input type="checkbox" id="hcard" class="inline-toggle"/>
+<div class="h-card">
+<h2><a class="u-url u-uid p-name" href="/about" >Christopher Allen</a></h2>
+<img class="u-photo" src="/images/christophera.jpg" />
+<p class="abstract p-note p-summary">Principal Architect at Blockstream<br>Internet Cryptography Pioneer<br>Co-author TLS Security Standard<br>Collaborative Tools & Patterns<br>Decentralized Identity</p>
+<ul>
+<li><a rel="me" class="u-url" href="https://twitter.com/ChristopherA">@ChristopherA</a>
+<li><a rel="me" class="u-url" href="https://github.com/ChristopherA">github</a>
+<li><a rel="me" class="u-url" href="http://christophera.livejournal.com/">LiveJournal</a>
+</ul>
+</div>
+</section>
+<section><label for="tags" class="inline-toggle">Tags</label>
+<input type="checkbox" id="tags" class="inline-toggle"/>
+<div>🔖<a href="/tags/advice/">advice</a> 🔖<a href="/tags/bgiedu/">bgiedu</a> 🔖<a href="/tags/business/">business</a> 🔖<a href="/tags/collaboration/">collaboration</a> 🔖<a href="/tags/collective-choice/">collective-choice</a> 🔖<a href="/tags/community-by-the-numbers/">community-by-the-numbers</a> 🔖<a href="/tags/connections/">connections</a> 🔖<a href="/tags/dunbar-number/">dunbar-number</a> 🔖<a href="/tags/entrepreneuring/">entrepreneuring</a> 🔖<a href="/tags/games/">games</a> 🔖<a href="/tags/iphone/">iphone</a> 🔖<a href="/tags/music/">music</a> 🔖<a href="/tags/online-games/">online-games</a> 🔖<a href="/tags/orkut/">orkut</a> 🔖<a href="/tags/privacy/">privacy</a> 🔖<a href="/tags/rating/">rating</a> 🔖<a href="/tags/recreation/">recreation</a> 🔖<a href="/tags/relationships/">relationships</a> 🔖<a href="/tags/security/">security</a> 🔖<a href="/tags/social-network/">social-network</a> 🔖<a href="/tags/social-networking/">social-networking</a> 🔖<a href="/tags/social-software/">social-software</a> 🔖<a href="/tags/social-web-for-social-change-%23sw4sx/">social-web-for-social-change-#sw4sx</a> 🔖<a href="/tags/ssl/">ssl</a> 🔖<a href="/tags/synchroedit/">synchroedit</a> 🔖<a href="/tags/user-interface/">user-interface</a> 🔖<a href="/tags/web/tech/">web/tech</a> 🔖<a href="/tags/weblogs/">weblogs</a> 🔖<a href="/tags/wiki/">wiki</a> </div>
+</section>
+</aside>
+
+</div>
+<footer>
+<script id="webmention-hosted">
+(function () {
+var sn = document.createElement("script"), s = document.getElementsByTagName("script")[0], url;
+url = document.querySelectorAll ? document.querySelectorAll("link[rel~=canonical]") : false;
+url = url && url[0] ? url[0].href : false;
+sn.type = "text/javascript"; sn.async = true;
+sn.src = "//webmention.herokuapp.com/api/embed?url=" + encodeURIComponent(url || window.location);
+s.parentNode.insertBefore(sn, s);
+}());
+</script>
+<p>Life With Alacrity</p>
+<p>© Christopher Allen</p>
+</footer>
+</body>
+</html>
+</section>
