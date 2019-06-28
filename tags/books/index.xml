@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/books/index.xml</link>
-    <description>Recent content in Books on Life With Alacrity</description>
+    <title>books on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/books/</link>
+    <description>Recent content in books on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Aug 2006 08:49:14 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Using 5-Star Rating Systems</title>
@@ -14,220 +17,9 @@
       <pubDate>Fri, 11 Aug 2006 08:49:14 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2006/08/using_5star_rat.html</guid>
-      <description>&lt;p&gt;In &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice: Rating Systems&lt;/a&gt; I discuss ratings scales of various sorts, from eBay&#39;s 3-point scale to RPGnet&#39;s double 5-point scale, and BoardGame Geek&#39;s 10-point scale.&lt;/p&gt;
-&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=373,height=239,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;128&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/stars_1.gif&#34; title=&#34;Stars_1&#34; alt=&#34;Stars_1&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Of the various ratings scales, 5-point scales are probably the most common on the Internet. You can find them not just in my own RPGnet, but also on Amazon, Netflix, and iTunes, as well as many other sites and services. Unfortunately 5-point rating scales also face many challenges in their use, and different studies suggest different flaws with this particular methodology.&lt;/p&gt;
-&lt;p&gt;First, &lt;a href=&#34;http://sloan.ucr.edu/category/working-papers/product-reviews/&#34;&gt;one study&lt;/a&gt; using Amazon data has shown that many &lt;em&gt;undetailed&lt;/em&gt; ratings (where the rater isn&#39;t required to add any additional information other than the rating they select) show a &lt;a href=&#34;http://en.wikipedia.org/wiki/Bimodal_distribution&#34;&gt;bimodal distribution&lt;/a&gt;.&amp;nbsp; In other words the distribution of ratings tends to cluster around two different numbers (e.g., 1 and 5) rather than offering a normal distribution where the ratings cluster around a single height (e.g., 3). Thus the median of these ratings is not an accurate reflection of product quality, but instead is a statement of conflicting opinions.&lt;/p&gt;
-&lt;p&gt;Second, &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;our own study&lt;/a&gt; using RPGnet data has shown that many &lt;em&gt;detailed&lt;/em&gt; ratings (where the rater does add additional information, in this case a full review) offer normal distributions, however it is biased toward the high end of the scale. On RPGnet, for example, we discovered that 90% of this 5-point rating system was 3 or higher with an average around 4.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://360.yahoo.com/profile-9lciejI3aafX1stHPoIRNmkmv4EowQ--&#34;&gt;Randy Farmer&lt;/a&gt; of Yahoo suggests that this scale limitation is particularly troublesome for fan-based ratings, such as those found on episodic TV sites:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;Only the fans of a show evaluate the episodes, and being fans, will never rate an episode one or two stars, ever. I&#39;ve seen this attempted over and over on the net with the same results every time: Each episode of a show is 4-stars +/- .5 stars. This goes all the way back to the Babylon-5 website, probably the first source for this kind of data.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;(And indeed, the TV episode &lt;a href=&#34;http://www.tv.com/babylon-5/tko/episode/25148/summary.html?tag=ep_list;title;14&#34;&gt;TKO&lt;/a&gt;, from &lt;em&gt;Babylon 5&lt;/em&gt;&#39;s first season, is considered an entirely atrocious episode by even the fans. Yet it has a 6.1 of 10 &amp;quot;Fair&amp;quot; rating on &lt;a href=&#34;http://www.tv.com&#34;&gt;tv.com&lt;/a&gt;.)&lt;/p&gt;
-&lt;p&gt;Thus even when a bimodal distribution is not a problem, on a 5-point scale the upward bias often results in only 2 or 3 meaningful data points. This is problematic because it minimizes differentiation. In many cases, a 5-star rating system where most of the ratings are either 3 or 4 is actually no better then just a thumbs-up/thumbs-down rating system. &lt;/p&gt;
-&lt;p&gt;However, given that 5-point scales are probably here to stay, we are forced to make the best use of them we can.&lt;/p&gt;
-&lt;p&gt;First, we need to provide raters with &lt;em&gt;incentives&lt;/em&gt;, so that they provide meaningful ratings. We&#39;ve already seen that this can be done by requesting detailed ratings: when a person takes the time to write text, and knows that his name will be attached to it, he generally does a better job in his rating. There are other possible incentives techniques as well, such as RPGnet&#39;s new &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_191.phtml&#34;&gt;XP System&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Second, we need to provide means for a 5-point scale to become more meaningful by encouraging raters to use not just the top half of the scale, but the bottom half as well. One method to accomplish this is to make ratings &lt;em&gt;distinct&lt;/em&gt; -- as I briefly mentioned in my previous article on this topic -- and encourage standards so that an &amp;quot;average&amp;quot; rating is 2 or 3, not 4.&lt;/p&gt;
-&lt;p&gt;As an example of how to accomplish both of these goals with already existing 5-point rating scales, I&#39;ve detailed my own experiences with using ratings on two popular services -- iTunes and Amazon. By providing myself with incentives and making my use of ratings very distinctive, I have created more meaningful and useful output for myself.&lt;/p&gt;
-&lt;h3&gt;Music Ratings - iTunes&lt;/h3&gt;
-&lt;p&gt;Apple&#39;s iTunes software offers you the ability to rate individual songs with a 0-5 Star rating. If you use iTunes with an iPod, you can change the rating of a song on your iPod and the change will be reflected in your iTunes database the next time you sync your iPod. The &amp;quot;Shuffle Songs&amp;quot; feature available on more modern iPods has an option to have songs with higher ratings be played more often. A very powerful feature, Smart Playlists, can dynamically create sophisticated playlists based on ratings. All of this makes rating music on iTunes very useful.&lt;/p&gt;
-&lt;p&gt;After Shannon and I wrote our Rating Systems article, I examined the ratings in my iTunes catalog. Using the &lt;a href=&#34;http://girtby.net/archives/2005/11/03/itunes-library-preening/&#34;&gt;Alastair&#39;s&lt;/a&gt; fabulous XLST &lt;a href=&#34;http://girtby.net/offerings/itunes-ratings-stats/&#34;&gt;iTunes rating statistics tool&lt;/a&gt;, I discovered that the ratings I created in iTunes clearly were biased overly high, matching the pattern we&#39;d described. I had far too many songs rated with 4 Stars, and almost nothing rated 1 or 2. This made my ratings less useful.&lt;/p&gt;
-&lt;table align=&#34;center&#34;&gt;
-&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&#34;6&#34;&gt;Here are some statistics from your iTunes Library: 4172 tracks, 412 (10%) rated&lt;/td&gt;&lt;/tr&gt;
-&lt;br /&gt; &lt;tr&gt;&lt;th colspan=&#34;3&#34;&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th colspan=&#34;3&#34;&gt;Cumulative % of Rated&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;th&gt;Number&lt;/th&gt;
-&lt;th&gt;% of rated&lt;/th&gt;
-&lt;th&gt;Actual&lt;/th&gt;
-&lt;th&gt;Target&lt;/th&gt;
-&lt;th&gt;Shortfall&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 5 stars:&lt;/td&gt;
-&lt;td&gt;112&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;-22&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 4 stars:&lt;/td&gt;
-&lt;td&gt;183&lt;/td&gt;
-&lt;td&gt;44&lt;/td&gt;
-&lt;td&gt;72&lt;/td&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;-57&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 3 stars:&lt;/td&gt;
-&lt;td&gt;92&lt;/td&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;td&gt;94&lt;/td&gt;
-&lt;td&gt;50&lt;/td&gt;
-&lt;td&gt;-44&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 2 stars:&lt;/td&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;99&lt;/td&gt;
-&lt;td&gt;90&lt;/td&gt;
-&lt;td&gt;-9&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 1 stars:&lt;/td&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;So over the last few months I&#39;ve completely revamped my iTunes ratings. Since I can&#39;t change the user interface, I&#39;ve changed my behavior. I&#39;m also taking advantage of two other fields: &amp;quot;checked&amp;quot; which I use to give more distinctiveness to my ratings, and &amp;quot;play count&amp;quot; which shows whether or not I&#39;ve listened to something through to the end.&lt;/p&gt;
-&lt;p&gt;Here are the criteria I used:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 5 - Exemplars &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_5_checked.png&#34; title=&#34;Myrating_5_checked&#34; alt=&#34;Myrating_5_checked&#34; /&gt;:&lt;/strong&gt; Only my most favorite songs are rated 5. They have to meet the following criteria: they make me feel good or excite me no matter how often I listen to them, I can typically listen to them often without getting tired of them, and they are the best of their particular genre.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 4 - Great &lt;img border=&#34;0&#34; alt=&#34;Myrating_4_checked&#34; title=&#34;Myrating_4_checked&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_4_checked.png&#34; /&gt;:&lt;/strong&gt; There is only a small difference between a song that is rated 4 and 5 in my ratings -- typically it doesn&#39;t excite me or make me smile quite as much, or it isn&#39;t necessarily an exemplar of its genre. However, I still can typically listen to them often without getting tired of them. Items that are rated 4 and 5 are ones that I carry on my iPod Shuffle.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 4 - Great (Unchecked) &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_4_unchecked.png&#34; title=&#34;Myrating_4_unchecked&#34; alt=&#34;Myrating_4_unchecked&#34; /&gt;:&lt;/strong&gt; There are a few songs that I do consider to be great, but that I only want to play when I&#39;m in the mood for them, or I want to only play in a specific order, or they &amp;quot;don&#39;t play well&amp;quot; with other music. For instance I love the song &amp;quot;The Highwayman&amp;quot; by Loreena McKennitt, however, it is over 10 minutes long and I just don&#39;t want to hear that type of song unless I&#39;m in the mood for it. Other examples are the 12 songs that make up Mussorgsky&#39;s &amp;quot;Pictures at an Exhibition&amp;quot;&amp;nbsp; -- I want them played in order when I do play them, and I really don&#39;t want them played in the middle of my other songs. Unfortunately, iTunes does not let you select only unchecked items, so I don&#39;t have a Smart Playlist for these; instead I keep them in a regular playlist.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 3 - Good &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_3_checked.png&#34; title=&#34;Myrating_3_checked&#34; alt=&#34;Myrating_3_checked&#34; /&gt;:&lt;/strong&gt; These are songs I like. Typically I can play them regularly but not too often. Songs rated 3-5 go on my iPod Nano.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 3 - Good (Unchecked) &lt;img border=&#34;0&#34; alt=&#34;Myrating_3_unchecked&#34; title=&#34;Myrating_3_unchecked&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_3_unchecked.png&#34; /&gt;:&lt;/strong&gt; There is a lot of music that I think is Good, but I don&#39;t want to play all the time. I have a large catalog of sound tracks from movies. All but a few of those tracks are in this category. Again, iTunes does not let you select only unchecked items in a Smart Playlist, so I have several regular playlists for these items.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 2 - Ok &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_2_checked.png&#34; title=&#34;Myrating_2_checked&#34; alt=&#34;Myrating_2_checked&#34; /&gt;:&lt;/strong&gt; I have very diverse musical tastes, starting with jazz, various ethnic and world music, and also including quite a bit of pop, rap, R&amp;amp;B, punk, and metal that I enjoy. I don&#39;t enjoy them all the time -- but I do like them to pop up every once in a while for variety. So I rate these 2 and leave them checked. I have an old 40GB iPod that I take on long trips, and it stores everything I have that is checked and rated 2-5.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 2 - Ok (Unchecked) &lt;img border=&#34;0&#34; alt=&#34;Myrating_2_unchecked&#34; title=&#34;Myrating_2_unchecked&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_2_unchecked.png&#34; /&gt;:&lt;/strong&gt; Some songs are OK, but I really have to be in the mood specifically for that song. Listening to Jimmy Buffet&#39;s &amp;quot;Margaritaville&amp;quot; can be a guilty pleasure on a lazy summer day at the beach, but it isn&#39;t something I want to regularly listen to. I have a number of special playlists for songs rated like this.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 1 - Don&#39;t Like &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_1_checked.png&#34; title=&#34;Myrating_1_checked&#34; alt=&#34;Myrating_1_checked&#34; /&gt;:&lt;/strong&gt; These are the songs that I don&#39;t like. They&#39;re just not my style. Many are still quality music, they just doesn&#39;t work for me. I do keep most of these for completeness -- it might just be one or two songs on the album, and I want to keep the album complete. Or I keep it in case my tastes change. But in general, once something is rate 1 Star, I&#39;ll probably never listen to it again.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Rated 1 - Trash (Unchecked) &lt;img border=&#34;0&#34; alt=&#34;Myrating_1_unchecked&#34; title=&#34;Myrating_1_unchecked&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_1_unchecked.png&#34; /&gt;:&lt;/strong&gt; These are songs that not only do I not like, they just are not good music. I don&#39;t like most rap music, but I can tell that most are still quality. Some are junk -- these I rate 1 and uncheck, and are candidates for deletion the next time I purge my collection.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unrated &amp;amp; Listened &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_0_checked.png&#34; title=&#34;Myrating_0_checked&#34; alt=&#34;Myrating_0_checked&#34; /&gt;, playcount &amp;gt; 0:&lt;/strong&gt; If I&#39;ve listened to something through to the end, but haven&#39;t rated it yet, it shows up in this Smart Playlist. Periodically I check this Smart Playlist, sort by playcount, and try to rate everything that I&#39;ve listened to more then once.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unrated &amp;amp; Unlistened &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/myrating_0_checked.png&#34; title=&#34;Myrating_0_checked&#34; alt=&#34;Myrating_0_checked&#34; /&gt;, play count=0:&lt;/strong&gt; This is the default when a new song is added to my library. So any song that is unrated, checked, and has a play count of 0 shows up in my &amp;quot;Unrated &amp;amp; Unlistened&amp;quot; Smart Playlist. When I&#39;m in the mood for variety, I go through this playlist and rate songs.&lt;/p&gt;
-&lt;p&gt;Modifying my rating system in this way has caused my average rating for music to change from around 4 to somewhere between 2 and 3. It will probably, over time, become closer to 2 as I rate more of my collection. This gives me a lot of distinctiveness so that I can create Smart Playlists that work well for me.&lt;/p&gt;
-&lt;table align=&#34;center&#34;&gt;
-&lt;tbody&gt;&lt;tr&gt;&lt;td colspan=&#34;6&#34;&gt;Here are some statistics from your iTunes Library: 6519 tracks, 726 (11%) rated&lt;/td&gt;&lt;/tr&gt;
-&lt;br /&gt; &lt;tr&gt;&lt;th colspan=&#34;3&#34;&gt;&amp;nbsp;&lt;/th&gt;
-&lt;th colspan=&#34;3&#34;&gt;Cumulative % of Rated&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;th&gt;Number&lt;/th&gt;
-&lt;th&gt;% of rated&lt;/th&gt;
-&lt;th&gt;Actual&lt;/th&gt;
-&lt;th&gt;Target&lt;/th&gt;
-&lt;th&gt;Shortfall&lt;/th&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 5 stars:&lt;/td&gt;
-&lt;td&gt;74&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;10&lt;/td&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;-5&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 4 stars:&lt;/td&gt;
-&lt;td&gt;144&lt;/td&gt;
-&lt;td&gt;20&lt;/td&gt;
-&lt;td&gt;30&lt;/td&gt;
-&lt;td&gt;15&lt;/td&gt;
-&lt;td&gt;-15&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 3 stars:&lt;/td&gt;
-&lt;td&gt;211&lt;/td&gt;
-&lt;td&gt;29&lt;/td&gt;
-&lt;td&gt;59&lt;/td&gt;
-&lt;td&gt;50&lt;/td&gt;
-&lt;td&gt;-9&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 2 stars:&lt;/td&gt;
-&lt;td&gt;270&lt;/td&gt;
-&lt;td&gt;37&lt;/td&gt;
-&lt;td&gt;96&lt;/td&gt;
-&lt;td&gt;90&lt;/td&gt;
-&lt;td&gt;-6&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tracks rated 1 stars:&lt;/td&gt;
-&lt;td&gt;27&lt;/td&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;Obviously rating a large music collection can become a chore -- you don&#39;t want to spend your limited music listening time always fine tuning your ratings. So I have some approaches that make it easier for me to rate my music with less effort:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;First, I sorted my catalog by my old ratings, and modified everything down by 1, Starting with everything rated 2 becoming 1, 3 becoming 2, etc. This gave me a good base to start with&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/exemplar_smart_playlist.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=512,height=216,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;84&#34; border=&#34;0&#34; alt=&#34;Exemplar_smart_playlist&#34; title=&#34;Exemplar_smart_playlist&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/exemplar_smart_playlist.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
-Next I created Smart Playlists for each rating, i.e. &amp;quot;Rating 5 - Exemplar&amp;quot; with &amp;quot;Match only checked songs&amp;quot; and &amp;quot;Live updating&amp;quot; checked. I then added &amp;quot;Play Count&amp;quot; as a column to my view, and sorted by it. This gave me the songs that I played the most and least, and I adjusted some songs up and down accordingly.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/plays_well_with_others_smart_playlist.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=512,height=241,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;94&#34; border=&#34;0&#34; alt=&#34;Plays_well_with_others_smart_playlist&#34; title=&#34;Plays_well_with_others_smart_playlist&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/plays_well_with_others_smart_playlist.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
-Then I created a new Smart Playlist that simply plays songs rated 3 to 5, limiting the list to the first 100 GB selected by random (i.e. everything random), and saved this Smart Playlist as &amp;quot;Plays Well With Others&amp;quot;. I play this on occasion in the background, and when I hear something that jars me I know something isn&#39;t rated right. Thus without a lot of effort I can change ratings for songs that no longer fit their rating, or uncheck items where the rating was appropriate but it &amp;quot;didn&#39;t play well with others&amp;quot;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I try to be aware when I&#39;m using my iPod of what a songs rating is, and change it if it seems wrong. The next time I sync the iPod my ratings will be adjusted in my iTunes catalog.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/play_count.png&#34; title=&#34;Play_count&#34; alt=&#34;Play_count&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;I also try to be aware of Play Count -- this number only goes up if you play a song to the end. So even if I&#39;m not able to take a look at the rating (for instance when I&#39;m in a car), I can at least forward to the next song. Periodically I review the play counts for songs that I&#39;ve rated and consider moving them up and down accordingly. Of course, this means that I have to be careful and not let the iPod keep running when I&#39;m not listening.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;A tip for those of you that do put a lot of effort into your iTunes ratings: I&#39;ve learned the hard way that unlike most song information, the rating is &lt;strong&gt;NOT&lt;/strong&gt; stored in the song itself, so if your iTunes database gets corrupted, or you move your music to another server, you&#39;ll lose all your ratings. One way to avoid this is to periodically backup your ratings into a field that is stored in the song itself. I personally use the &amp;quot;Grouping&amp;quot; field as it is rarely used, select all songs with the same rating and click on &amp;quot;Get Info&amp;quot;, and change the Grouping field to &amp;quot;My Rating: 5 Stars&amp;quot;.&lt;/p&gt;
-&lt;p&gt;I only have 11% of my collection rated so far, but using this system I&#39;m finding it a lot easier to manage my ratings. I&#39;m already getting many benefits from it -- I&#39;m playing my music more often, my iPods typically have the music I want on them, and various music discovery services can use my ratings to help me identify new music I might enjoy. This provides the &lt;em&gt;incentive&lt;/em&gt; to keep me entering meaningful ratings.&lt;/p&gt;
-&lt;h3&gt;Book Ratings - Amazon&lt;/h3&gt;
-&lt;p&gt;Amazon also uses a 5-Star rating system, and your ratings can be used by Amazon to help you find books that you might like. Though I like to support my local bookstores, it is this feature that brings me back to Amazon time and again. Whenever I browse through Amazon and see a book I&#39;ve already read I try to take the time to update my rating.&lt;/p&gt;
-&lt;p&gt;Amazon has a number of different tools to assist you in your ratings. If you are an Amazon customer, you can go to &lt;a href=&#34;http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&amp;amp;collection=owned&#34;&gt;Improve Your Recommendations: Edit Items You Own&lt;/a&gt; and see all the books that you&#39;ve purchased and quickly rate them with a nice AJAX interface. You can also review items that you&#39;ve already rated, whether or not you own them, at &lt;a href=&#34;http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&amp;amp;collection=rated&#34;&gt;Improve Your Recommendations: Edit Items You&#39;ve Rated&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=509,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/amazon_your_media_library.png&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;159&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/amazon_your_media_library.png&#34; title=&#34;Amazon_your_media_library&#34; alt=&#34;Amazon_your_media_library&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
-Amazon has also recently added a very nice web service called &lt;a href=&#34;http://www.amazon.com/gp/library/&#34;&gt;Your Media Library&lt;/a&gt; that can be used to help manage your media library of books, music, and dvds. I personally only have used it to manage my books and dvds, as I find rating albums useless -- it is songs that I prefer to rate.&lt;/p&gt;
-&lt;p&gt;After browsing through my ratings to date, I discovered the same flaws I found iTunes -- my ratings typically were too high; most were a 4. This is particularly encouraged by the popup when your cursor is over the Stars &amp;quot;1 - I hate it, 2 - I don&#39;t like it, 3 - It&#39;s Ok, 4 - I like it, and 5 - I love it&amp;quot;. I suspect if I use the same trick that I use for iTunes of making a rating of 2 Stars mean &amp;quot;Ok&amp;quot; I could potentially cause the recommendation engine to be less effective (though it could possibly make it better, I don&#39;t know). So I am being much more brutal with my ratings and pushing many more down to 3, so that my ratings of 4 and 5 have more meaning.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5 Stars &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/amazon_5_star.png&#34; title=&#34;Amazon_5_star&#34; alt=&#34;Amazon_5_star&#34; /&gt;:&lt;/strong&gt; These have to be the exemplars -- the best books I&#39;ve ever read, would be glad to read again, would be proud to show off on my best bookshelf, and will buy extra copies to give to friends.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4 Stars &lt;img border=&#34;0&#34; alt=&#34;Amazon_4_star&#34; title=&#34;Amazon_4_star&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/amazon_4_star.png&#34; /&gt;:&lt;/strong&gt; These have to be really good books -- most of them I&#39;m willing to read again and I promote them by offering to loan them to my more discriminating friends. Although I may keep them on my bookshelf I&#39;d rather give them to a friend then sell them at a used book store.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3 Stars &lt;img border=&#34;0&#34; alt=&#34;Amazon_3_star&#34; title=&#34;Amazon_3_star&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/amazon_3_star.png&#34; /&gt;:&lt;/strong&gt; These are books are decent books, and I do share them with my voracious reader friends. But I don&#39;t push them and I&#39;m much more likely to sell them at a used bookstore then keep them on my shelf. This is the rating that I significantly underused previously, and I&#39;m finding that the key discriminator for me so far is how much I feel like recommending this to friends who are more discriminating readers.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2 Stars &lt;img border=&#34;0&#34; alt=&#34;Amazon_2_star&#34; title=&#34;Amazon_2_star&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/amazon_2_star.png&#34; /&gt;:&lt;/strong&gt; This rating is where the Amazon rating system fails the most -- these are suppost to be books that &amp;quot;I don&#39;t like&amp;quot;, however, most of the time I don&#39;t buy books that I probably wouldn&#39;t like, much less read them, so I have very few in this category. However, I&#39;ve decided this category is for books that are just not quite good enough, or are slightly disappointing. Not bad, or disliked, but just somewhat disappointing.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1 Stars &lt;img border=&#34;0&#34; alt=&#34;Amazon_1_star&#34; title=&#34;Amazon_1_star&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/amazon_1_star.png&#34; /&gt;:&lt;/strong&gt; This is where I put the books that I don&#39;t like, or worse, I hate. Not many here, but I&#39;m willing to risk more then many people are so I have some. Also books go here that just don&#39;t fit my interest, like romance novels that get recommended to me because I like some crossover fantasy-romance authors.&lt;/p&gt;
-&lt;p&gt;Since I started more accurately rating my books at Amazon, I&#39;ve found that their suggestions for other books to read to be more accurate. Thus I am getting value from rating these books, and I have &lt;em&gt;incentive&lt;/em&gt; to continue to make the effort.&lt;/p&gt;
-&lt;h3&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Offering an incentive for people to rate is important for ratings of all sorts, with both individual gain and status recognition being powerful motivators.&lt;/p&gt;
-&lt;p&gt;However the easiest technique for making a 5-point rating scale more useful is to make it &amp;quot;distinct&amp;quot;. If a user has a more specific meaning for each rating, ratings will slowly settle toward a truer average, and thus more of each rating scale will be used. We&#39;ve also tried this technique recently on RPGnet, with our new &lt;a href=&#34;http://index.rpg.net/&#34;&gt;Gaming Index&lt;/a&gt;; and thus far our new 10-point scale -- which has distinct meanings for each number -- is averaging &lt;a href=&#34;http://index.rpg.net/browse.phtml?count=50&amp;amp;type=Best&amp;amp;productCategory=Entries&#34;&gt;7.27&lt;/a&gt;. That&#39;s still a fair amount above the real average of 5.5, but at least it&#39;s below the 8+ rating that our old double 5-point scale resulted in.&lt;/p&gt;
-&lt;p&gt;Often you, as a consumer of rating systems, will be making use of rating scales designed by others, rather than those you&#39;re designing yourself. For those cases it often makes sense to design your own rules for what each number means, and to do so in such a way that your median is the average of the scale, rather than toward one of the extremes. When you do, even if you&#39;re using a tight 5-point scale you&#39;ll end up with enough differentiation for it to actually be more meaningful than a thumbs up or a thumbs down.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_192.phtml&#34;&gt;#192: Managing User Creativity, Part One&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;#193: Managing User Creativity, Part Two&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;#198: Collective Choice: More Thoughts About Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;See
-http://web.archive.org/web/20010207224515/http://people.delphi.com/mike100000/p5summary.html#summary (or click my name below) for a summary of all the votes for the B5 Series.
-Averaging all episodes you get a mean score of 8.19 with a standard deviation of 0.84 - a *very* narrow range.
-Context and Motivation matter more than scale in getting reusable scores out of rating systems. As I like to tell the folks here at Yahoo! – the person creating the rating has to get something out of the transaction other than just altruism.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://web.archive.org/web/20010207224515/http://people.delphi.com/mike100000/p5summary.html#summary&#34;&gt;F. Randall Farmer&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-08-11T09:49:28-07:00&#34;&gt;2006-08-11T09:49:28-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I thought the issue, like Randy Farmer suggests, was that only positive discrete scales always tend to their maximum.  The problem then in rating systems, like you mentioned I think earlier, is that readers have to interpret what the real norm and limits are.  Even if every rating is in the upper quartile.  You may want to check out what I did in Playerep (http://www.playerep.com), where the rating system is based on election but not a fixed scale (always norming to zero without influence).   FWIW. Thanks.
-Adam
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://tidehorion.blogspot.com&#34;&gt;Adam MacDonald&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-08-11T10:21:24-07:00&#34;&gt;2006-08-11T10:21:24-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I like your classification scheme for iTunes. I&#39;m going to have to work on adapting my scale (which is definitely showing signs of skewing towards the high end).
-One thing, though. You mention that you can&#39;t create smart playlists to show unchecked songs. It&#39;s true that you can&#39;t do it with only one playlist, but you can do so with 2:
-#1) Any playlist (for example, let&#39;s say your smart playlist for 4 star, checked songs, so you have it set (I assume) for My Rating = 4, Match Only Checked Songs = checked)
-#2) Use these criteria:  My Rating = 4, Playlist Is Not &lt;playlist #1&gt;. Leave match only checked songs unchecked, and enable live updating and you have a smart playlist that shows you your unchecked 4-star songs.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Andy Tinkham&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-08-16T13:55:43-07:00&#34;&gt;2006-08-16T13:55:43-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-&gt;&gt;Unfortunately, iTunes does not let you select only unchecked items, so I don&#39;t have a Smart Playlist for these; instead I keep them in a regular playlist.
-You can:
-Make a smart playlist called &#39;Checked&#39; with a rule that is always true (e.g. artist does not contain (leave the field emtpy), or bitrate &gt; 0). Create a smart playlist called &#39;Unchecked&#39; with the rule: &#39;Playlist is not Checked&#39;. There you have all your unchecked files.
-From there you can make smart ones that use this Unchecked playlist.
-I like your rating system. I have 40% on a 3star now, and around 25% for 2 and 4 stars. I might scale it down a little bit more.
-hmm, after typing this I read the comments and see Adam McDonald already mentioned something similar about the unchecked items. I&#39;ll leave it here anyway...
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Tino&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T11:52:32-07:00&#34;&gt;2006-10-16T11:52:32-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Christopher, I think some, if not all, of the issues with the 5-point rating system could be addressed with a better UI. For example, displaying a normal distribution curve skewed by accumulated rating to nudge raters away from the extremes. Of course, this doesn&#39;t work well if sample size is too small which usually happens on the far end of the long tail.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.docuverse.com/blog/donpark/&#34;&gt;Don Park&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-12-17T18:25:50-07:00&#34;&gt;2006-12-17T18:25:50-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-Thanks for writing this article. I found another view on 5 point music rating other than my own informational.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Jonathan&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2008-02-06T00:33:36-07:00&#34;&gt;2008-02-06T00:33:36-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/08/using_5star_rat.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>In Collective Choice: Rating Systems I discuss ratings scales of various sorts, from eBay&#39;s 3-point scale to RPGnet&#39;s double 5-point scale, and BoardGame Geek&#39;s 10-point scale.
+
+Of the various ratings scales, 5-point scales are probably the most common on the Internet. You can find them not just in my own RPGnet, but also on Amazon, Netflix, and iTunes, as well as many other sites and services. Unfortunately 5-point rating scales also face many challenges in their use, and different studies suggest different flaws with this particular methodology.</description>
     </item>
     
   </channel>

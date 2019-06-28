@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Depth on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/depth/index.xml</link>
-    <description>Recent content in Depth on Life With Alacrity</description>
+    <title>depth on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/depth/</link>
+    <description>Recent content in depth on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/depth/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Sep 2006 16:28:58 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/depth/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ratings: Who Do You Trust?</title>
@@ -14,75 +17,8 @@
       <pubDate>Thu, 14 Sep 2006 16:28:58 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</guid>
-      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
-Who Do You Trust?&lt;/a&gt; offers a look at weighting ratings based on reliability.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Here&#39;s how we measured each type of trust, and what we did about it:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings for an Item.&lt;/strong&gt; Introduce a bayesian weight to offset the variability of items with low-volume ratings.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings by a User.&lt;/strong&gt; Give each user a weight based on his volume of contribution which is applied to his ratings.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Depth of Content by a User.&lt;/strong&gt; Give each rating a weight based on the depth of thought implicit in the rating which is applied to that rating.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;These all get put together to create our final ratings for
-the Gaming Index, with each user&#39;s individual rating for an item
-getting multiplied by its user weight and its content weight, and then
-all of that averaged with the other user ratings and the bayesian
-weight too. The result is in no way intuitive, but users don&#39;t really
-need to understand the back end of a rating system. Conversely we hope
-it&#39;s accurate, or at least more accurate than would otherwise be true
-given the relatively low volume of ratings we&#39;ve collected thus far.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Here are some of Shannon&#39;s earlier discussions about the design behind the new &amp;quot;user content&amp;quot; based &lt;a href=&#34;http://index.rpg.net&#34;&gt;RPGnet Gaming Index&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_191.phtml&#34;&gt;Encouraging
-User Creativity&lt;/a&gt; - A look at the &amp;quot;XP&amp;quot; system which has helped to incentivize the creation of the database at the heart of the ratings.
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;Managing User Creativity, Part Two&lt;/a&gt; - An examination of the nuts and bolts of RPGnet&#39;s Gaming Index database.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
-&lt;/p&gt;&lt;blockquote&gt;&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;#198: Collective Choice: More Thoughts About Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-Hmm, interesting on the weighting system.
-Can you explain with more detail how the rating by depth of content is generated?
-I&#39;m looking through the other articles, so hopefully I find the info there.
-Frank
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;magicback (Frank)&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-12T01:30:32-07:00&#34;&gt;2006-10-12T01:30:32-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-My first pass system just used a different multiplier for weight based on the type of content:
-1x for just a raw rating
-2x for a rating with a non-blank comment
-5x for a review (which goes through a different, approved content system)
-My second pass system also included &#34;volume of ratings by user&#34; and thus applied a variable multiplier depending on how many ratings the user has made:
-(0-2x) for a raw rating
-2x(0-2x) for a rating with comment
-5x for a review
-The 0-2x is calculated as (# of ratings by user)/50, to 2 max.
-I&#39;m pretty sure that the core weighting system by depth is producing better results, though I haven&#39;t done any studies of that yet. The additional weighting for volume by users has definitely prevented bias by hit-and-run raters who just stop by to rate one game that they&#39;ve been asked to.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Shannon Appelcline&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T15:39:53-07:00&#34;&gt;2006-10-16T15:39:53-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>My colleague, Shannon Appelcline, has been working on a game rating system for RPGnet. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our Collective Choice articles. Shannon&#39;s newest article, Ratings, Who Do You Trust? offers a look at weighting ratings based on reliability.
+On the RPGnet Gaming Index we&#39;ve put this all together to form a tree of weighted ratings that answer the question, who do you trust?</description>
     </item>
     
   </channel>

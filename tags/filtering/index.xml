@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filtering on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/filtering/index.xml</link>
-    <description>Recent content in Filtering on Life With Alacrity</description>
+    <title>filtering on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/filtering/</link>
+    <description>Recent content in filtering on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/filtering/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2005 15:17:14 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/filtering/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>User Content, Social Software &amp; Online Games</title>
@@ -14,34 +17,8 @@
       <pubDate>Fri, 04 Mar 2005 15:17:14 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/03/user_content_so.html</guid>
-      <description>&lt;p&gt; &lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon.jpeg&#34; title=&#34;Shannon&#34; alt=&#34;Shannon&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;Shannon Appelcline, my colleague at &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos&lt;/a&gt; (an online game company that I founded in 1999), has been writing for
-several years a sometimes weekly, sometimes bi-weekly column on the
-topic of game design called &lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;Trials, Triumphs &amp;amp; Trivialities&lt;/a&gt; (rss feed for all &lt;a href=&#34;http://www.skotos.net/articles/index.xml&#34;&gt;Skotos Articles&lt;/a&gt; including TT&amp;amp;T).&lt;/p&gt;
-&lt;p&gt;His latest column &lt;a href=&#34;http://www.skotos.net/articles/TTnT_163.phtml&#34;&gt;Social Software &amp;amp; Gaming: User Content&lt;/a&gt; discusses issues of user content and user facilitation that apply both online game communities and social software:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;...the more user content that we allow into games, the more
-troubles we have separating the good from the bad, the signal from the
-noise. As we introduce user content systems into games, filtering it will become the next challenge. Fortunately there are already some answers in our nearby field of Social Software.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;As I wrote about in an &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/socialization_i.html&#34;&gt;older post&lt;/a&gt;, Shannon has also written a number of interesting columns on the topic of designing social games:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_136.phtml&#34;&gt;Social Gaming Interactions, Part One: A History of Form&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_137.phtml&#34;&gt;Social Gaming Interactions, Part Two: Competition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_138.phtml&#34;&gt;Social Gaming Interactions, Part Three: Cooperation &amp;amp; Freeform&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_.shtml&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Articles_ttntlogo2b&#34; title=&#34;Articles_ttntlogo2b&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/articles_ttntlogo2b.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;More recent articles by Shannon have ranged in topics from analysis of the use of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_161.phtml&#34;&gt;auctioning&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_162.phtml&#34;&gt;majority control&lt;/a&gt; techniques in board games, how &lt;a href=&#34;http://www.skotos.net/articles/TTnT_159.phtml&#34;&gt;communities work&lt;/a&gt; in online games, the importance of &lt;a href=&#34;http://www.skotos.net/articles/TTnT_160.phtml&#34;&gt;enthusiasm&lt;/a&gt; in business, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_146.phtml&#34;&gt;intellectual property&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_157.phtml&#34;&gt;licensing&lt;/a&gt;, on &lt;a href=&#34;http://www.skotos.net/articles/TTnT_151.phtml&#34;&gt;transcreation,&lt;/a&gt; and much, much more.&lt;/p&gt;
-&lt;p&gt;I always find Shannon&#39;s articles rich and deeply thought out -- I think you will to.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-As we introduce user content systems into games, filtering it will become the next challenge
--------
-http://www.putosprogramas.com
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;nameloso&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-17T06:14:04-07:00&#34;&gt;2005-06-17T06:14:04-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/03/user_content_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Shannon Appelcline, my colleague at Skotos (an online game company that I founded in 1999), has been writing for several years a sometimes weekly, sometimes bi-weekly column on the topic of game design called Trials, Triumphs &amp;amp; Trivialities (rss feed for all Skotos Articles including TT&amp;amp;T).
+His latest column Social Software &amp;amp; Gaming: User Content discusses issues of user content and user facilitation that apply both online game communities and social software:</description>
     </item>
     
   </channel>

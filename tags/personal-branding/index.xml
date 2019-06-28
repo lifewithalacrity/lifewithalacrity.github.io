@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Personal Branding on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/personal-branding/index.xml</link>
-    <description>Recent content in Personal Branding on Life With Alacrity</description>
+    <title>personal branding on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/personal-branding/</link>
+    <description>Recent content in personal branding on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/personal-branding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2015 23:55:42 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/personal-branding/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mini Resume Card for Conference Season</title>
@@ -14,12 +17,8 @@
       <pubDate>Sun, 22 Mar 2015 23:55:42 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2015/03/mini-resume-card-for-conference-season.html</guid>
-      <description>&lt;p&gt;Between the business of the March/April conference season and leaving Blackphone, I&#39;ve run out of business cards. Rather than rush to print a bunch of new ones, I&#39;m created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.&lt;/p&gt;
-&lt;p&gt;Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;asset-img-link&#34; style=&#34;display: inline; border-style: solid; border-width: 2px; border-color: black;&#34; href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d0f2961e970c-pi&#34;&gt;&lt;img class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01b8d0f2961e970c image-full img-responsive&#34; title=&#34;Christopher Allen Micro Resume&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d0f2961e970c-800wi&#34; alt=&#34;Christopher Allen Micro Resume&#34; border=&#34;0&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;As someone who teaches Personal Branding in my courses at BGI@Pinchot.edu, I always find it hard to practice as I preach to ask for advice and suggestions. In this case I&#39;m trying to tame my three-headed Cerebus of a profession with Privacy/Crypto/Developer Community, an Innovative Business Educator/Instructional Designer head, and my Collaborative Tools, Processes, Games and Play head. All come tied together in my body as ultimately being about collaboration, but it is hard to explain some of the correspondences.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2015/03/mini-resume-card-for-conference-season.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Between the business of the March/April conference season and leaving Blackphone, I&#39;ve run out of business cards. Rather than rush to print a bunch of new ones, I&#39;m created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.
+Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.</description>
     </item>
     
   </channel>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graphic on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/graphic/index.xml</link>
-    <description>Recent content in Graphic on Life With Alacrity</description>
+    <title>graphic on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/graphic/</link>
+    <description>Recent content in graphic on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2004 00:12:46 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Map Mashup</title>
@@ -14,24 +17,9 @@
       <pubDate>Wed, 06 Oct 2004 00:12:46 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/10/map_mashup.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/mapmashup_1.gif&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=495,height=298,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img alt=&#34;Mapmashup_1&#34; title=&#34;Mapmashup_1&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/mapmashup_1.gif&#34; width=&#34;247&#34; height=&#34;149&#34; border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; /&gt;&lt;/a&gt;I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.&lt;/p&gt;
-&lt;p&gt;MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.&lt;/p&gt;
-&lt;p&gt;However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map. For instance, take a look at this map of &lt;a href=&#34;http://www.multimap.com/map/photo.cgi?client=public&amp;X=533258&amp;Y=180057&amp;width=500&amp;height=310&amp;gride=529090&amp;gridn=179645&amp;srec=0&amp;coordsys=gb&amp;db=pc&amp;pc=&amp;zm=0&amp;scale=10000&amp;up.x=186&amp;up.y=3&#34;&gt;the Tower of London and the Tower Bridge&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This trick is done completely in Javascript, located in &lt;a href=&#34;http://www.multimap.com/static/global.js&#34;&gt;global.js&lt;/a&gt;, and uses the overlay.style.* properties that I&#39;ve really only seen used in Javascript-based menus before. I&#39;m a bit confused on how this works in IE, as it does not support alpha tranparency as this posting &lt;a href=&#34;http://persistent.info/archives/2004/04/27/overlays&#34;&gt;semi-transparent image overlays&lt;/a&gt; discusses, but I suspect they accomplished it through careful use of transparency in the .gif overlay image. I&#39;ll have to investigate more.&lt;/p&gt;
-&lt;p&gt;There are probably many more other innovative uses of this type of transparency overlay tracking to the cursor that can be helpful in other web tools.&lt;/p&gt;
-&lt;p&gt;[original link via &lt;a href=&#34;http://www.futurismic.com/2004/10/magical-maps.html&#34;&gt;Futurismic&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;[&lt;a href=&#34;http://www.thingsthemselves.com/&#34;&gt;Jeffery To&lt;/a&gt; adds some more detail about this Javascript technique in this post&#39;s &lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/map_mashup.html#comments&#34;&gt;comments&lt;/a&gt;.]&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;The Javascript in http://www.multimap.com/static/global.js only sets the clipping for the overlay layer, since it changes everytime the user moves the mouse. The layer transparency (for overDiv) is set in http://www.multimap.com/static/ps_new.css . No need for transparent GIFs.
-IE does support alpha transparency for layers, using their filter:alpha(opacity=x) declaration. As the posting on semi-transparent image overlays points out, IE doesn&#39;t support alpha transparency for PNG images.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.thingsthemselves.com/&#34;&gt;Jeffery To&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-10T11:31:41-07:00&#34;&gt;2004-10-10T11:31:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/10/map_mashup.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
+MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
+However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map.</description>
     </item>
     
   </channel>

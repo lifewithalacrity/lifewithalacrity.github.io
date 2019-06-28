@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Readystate on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/readystate/index.xml</link>
-    <description>Recent content in Readystate on Life With Alacrity</description>
+    <title>readystate on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/readystate/</link>
+    <description>Recent content in readystate on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/readystate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jun 2007 20:06:45 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/readystate/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Getting Ready for the iPhone</title>
@@ -14,24 +17,8 @@
       <pubDate>Fri, 15 Jun 2007 20:06:45 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2007/06/getting_ready_f.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.apple.com/iphone/ads/ad4/&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Watereddown&#34; title=&#34;Watereddown&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/2007/06/15/watereddown.jpg&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
-I&#39;ve been excited about the web capabilities of the upcoming &lt;a href=&#34;http://www.apple.com/iphone/&#34;&gt;iPhone&lt;/a&gt; for some time. As a reluctant laptop user (&amp;quot;oh, my aching shoulders&amp;quot;), there is real appeal to me in a better portable web browser. I have tried most of the PDA and cellphone browsers to date, and none offer more then a poor cousin to the web that we experience on the desktop.&lt;/p&gt;
-&lt;p&gt;Instead, the iPhone offers a desktop-class browser. There is no transcoding, nor any subset of HTML such as &lt;a href=&#34;http://en.wikipedia.org/wiki/Wireless_Markup_Language&#34;&gt;WML&lt;/a&gt;. Full web pages are rendered in the small display, and when you &amp;quot;double-tap&amp;quot; with your finger the section you touch is expanded to a more readable size. The &lt;a href=&#34;http://www.apple.com/iphone/ads/ad4/&#34;&gt;video&lt;/a&gt; available at the Apple website shows this capability in use.&lt;/p&gt;
-&lt;p&gt;Because of the iPhone&#39;s upcoming July 29th release, I decided to participate in this week&#39;s &lt;a href=&#34;http://developer.apple.com/wwdc/&#34;&gt;Apple WWDC&lt;/a&gt; conference for Macintosh developers. There a number of announcements about the iPhone were released, and a number of technical sessions on the iPhone and iPhone-related technologies were held. Together the iPhone demonstrations at the public keynote and other demonstrations throughout the WWDC offered some real promise for when the phone is released on June 29th.&lt;/p&gt;
-&lt;p&gt;&lt;a onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=440,height=292,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34; href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/2007/06/15/iphonesteve.jpg&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;132&#34; border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/2007/06/15/iphonesteve.jpg&#34; title=&#34;Iphonesteve&#34; alt=&#34;Iphonesteve&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;&lt;/a&gt;
-The biggest announcement at the public &lt;a href=&#34;http://events.apple.com.edgesuite.net/d7625zs/event/&#34;&gt;keynote&lt;/a&gt; was that there will not be an SDK for building native iPhone apps; instead, the only way for third parties to get involved is to create web applications optimized for the iPhone. This came as a big disappointment to the majority of developers participating at WWDC. However, as someone who has been involved lately in creating AJAX/Web 2.0 apps, I was less unhappy.&lt;/p&gt;
-&lt;p&gt;The other significant announcement at the keynote was that a &lt;a href=&#34;http://www.apple.com/safari/download/&#34;&gt;Safari 3.0 beta&lt;/a&gt; for both Mac and Windows was being released and that a third Safari platform would be released on July 29th—inside the iPhone. This means that web 2.0 applications created to work with Safari on the Mac will likely also work on the iPhone.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.synchroedit.com&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;SynchroEdit&#34; title=&#34;SynchroEdit&#34; src=&#34;http://www.synchroedit.com/img/selogo-nobox-green.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;Since &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;, an open-source simultaneous web editor (in the style of &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt;) for Firefox that I produced last year, is one of the most sophisticated AJAX/Web 2.0 applications, I dug deeper at various WWDC sessions to see if it might be possible to make SynchroEdit work on the iPhone.&lt;/p&gt;
-&lt;p&gt;One of the biggest things that SynchroEdit needs in order to function is &lt;a href=&#34;http://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-eventgroupings-mutationevents&#34;&gt;DOM Mutation Events&lt;/a&gt;. At a party for &lt;a href=&#34;http://www.webkit.org&#34;&gt;WebKit&lt;/a&gt; (the open source code underpinnings of Safari&#39;s web renderer) and in questions after a session at WWDC it was confirmed that these are available to Safari 3.0 and presumably the iPhone.&lt;/p&gt;
-&lt;p&gt;The other key ability that SynchroEdit requires is WYSIWYG editing. This was terribly broken in Safari 2.0, but I saw many demonstrations of it working in Safari 3.0, so I don&#39;t anticipate any problems with this.&lt;/p&gt;
-&lt;p&gt;SynchroEdit also requires AJAX and in particular the &lt;a href=&#34;http://www.w3.org/TR/XMLHttpRequest/&#34;&gt;XMLHttpRequest&lt;/a&gt; function, and the keynote clearly said that this was available.&lt;/p&gt;
-&lt;p&gt;The final thing that SynchroEdit needs is the ability to keep the browser at &lt;em&gt;readystate==3&lt;/em&gt;, i.e. not &amp;quot;finish&amp;quot; sending the page, so that we can continue to interactively pass updates to users as they arrive, without creating a new connection for every message. It is not clear if this will be supported on the iPhone, but there are ways to work around it.&lt;/p&gt;
-&lt;p&gt;So, in principle, it appears that we should be able to make SynchoEdit work on the iPhone. I am not sure that many iPhone users need SynchroEdit, but as an example of a very sophisticated web technology that should work on that platform, it shows the potential for what might be possible.&lt;/p&gt;
-&lt;p&gt;Because of this technological capability I&#39;ve decided to begin investigating what type of social software apps could be highly useful on the iPhone and that aren&#39;t being served by the existing web 2.0 community. I am also going to continue investigating the technical issues of developing web apps for the iPhone&lt;/p&gt;
-&lt;p&gt;If you are interested as well, I invite you to participate in the new &lt;a href=&#34;http://www.iPhoneWebDev.com/&#34;&gt;iPhoneWebDev&lt;/a&gt; community. It should be a great resource for everyone interested in getting in on the ground floor with this new web technology. I have also begun tagging relevant web pages in &lt;a href=&#34;http://del.icio.us/ChristopherA&#34;&gt;del.icio.us&lt;/a&gt; with the tag &lt;a href=&#34;http://del.icio.us/tag/iphonewebdev&#34;&gt;iphonewebdev&lt;/a&gt;—I hope that others will begin to use this tag as well.&lt;/p&gt;
-&lt;p&gt;I have quite a bit more I&#39;d like to write about specific iPhone technology, but unfortunately I have to wait until the &lt;a href=&#34;http://developer.apple.com/wwdc/attendee/&#34;&gt;WWDC confidentiality&lt;/a&gt; expires on June 29th with the release of the iPhone, so keep an eye out here for more details.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2007/06/getting_ready_f.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;ve been excited about the web capabilities of the upcoming iPhone for some time. As a reluctant laptop user (&amp;quot;oh, my aching shoulders&amp;quot;), there is real appeal to me in a better portable web browser. I have tried most of the PDA and cellphone browsers to date, and none offer more then a poor cousin to the web that we experience on the desktop.
+Instead, the iPhone offers a desktop-class browser.</description>
     </item>
     
   </channel>

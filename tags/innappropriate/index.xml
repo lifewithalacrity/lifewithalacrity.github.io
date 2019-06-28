@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Innappropriate on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/innappropriate/index.xml</link>
-    <description>Recent content in Innappropriate on Life With Alacrity</description>
+    <title>innappropriate on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/innappropriate/</link>
+    <description>Recent content in innappropriate on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/innappropriate/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Apr 2004 00:27:05 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/innappropriate/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Annoyed by Zero Degrees</title>
@@ -14,46 +17,8 @@
       <pubDate>Thu, 15 Apr 2004 00:27:05 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/04/annoyed_by_zero.html</guid>
-      <description>&lt;p&gt;As I&#39;m studying social network software right now, I consider it my job to try many of the &lt;a href=&#34;http://socialsoftware.weblogsinc.com/entry/2241460714746671/&#34;&gt;hundred some odd social networks &lt;/a&gt;out there right now.&lt;/p&gt;
-&lt;p&gt;I just joined &lt;a href=&#34;http://www.zerodegrees.com&#34;&gt;Zero Degrees&lt;/a&gt;, and like many others, it asked me to upload my address book. I&#39;ve done this before and usually it just finds those who already have joined these networks and links us together. Typically I delete my address book at this point, and don&#39;t bother to invite contacts that are not already members of that particular network.&lt;/p&gt;
-&lt;p&gt;However, Zero Degrees quite obnoxiously at the last &#34;next&#34; button, with no warning, invited &lt;b&gt;everyone&lt;/b&gt; in my address book, and thus spamming my contacts. There was no opportunity given to me for it to just search for existing members. I aborted this as soon as I could, but about half of my address book contacts got spammed.&lt;/p&gt;
-&lt;p&gt;This probably explains some of the invitations that I&#39;ve gotten from others that I didn&#39;t expect, thus I suspect that I&#39;m not the only one that this has happened to.&lt;/p&gt;
-&lt;p&gt;So my apologies if you received &#34;Yet Another Invite to Yet Another Social Networking Service&#34; from me. I do not invite my collegues to &lt;b&gt;ANY&lt;/b&gt; of these social networking services unless they ask me to, or they are already a member.&lt;/p&gt;
-&lt;p&gt;Thus if you are planning on experimenting with Zero Degrees, I don&#39;t recommend that you upload your contacts. I&#39;m going to be a lot more careful with Zero Degrees in the future, and every other new service.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;[update: It looks like &lt;a href=&#34;http://www.corante.com/getreal/archives/003050.html&#34;&gt;Stowe Boyd got stung&lt;/a&gt; by Zero Degrees as well, and Ross Mayfield has a &lt;a href=&#34;http://www.corante.com/many/archives/2004/04/15/how_to_achieve_zero_degrees_of_separation.php&#34;&gt;good screen shot of the &#34;next&#34; button&lt;/a&gt; that caused the problem. Read the fine print!]&lt;/em&gt;&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Ah, so that&#39;s why I just got spammed by them. ;-)
-Great blog post explaining the mistake and don&#39;t you just love tools like this that leave you feeling powerless and embarassed?  Sure makes me feel more confident in ZeroDegrees future success. :-)
-Thanks for the explanation Chris!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.sifry.com/alerts/&#34;&gt;David Sifry&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-04-15T08:32:36-07:00&#34;&gt;2004-04-15T08:32:36-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-Funny how email sent by friendster to the friends invited is considered ok and email sent by zero degrees is called spam. You as a user initiated both emails but since you didn&#39;t like the results if by a bug in zero degrees process and if by not expecting your friends reaction you call the very legitimate email &#34;SPAM&#34; a name reserved to Viagra and low mortgages handlers and by that de-legitimate the whole thing...
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;jakky&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-04-15T12:40:03-07:00&#34;&gt;2004-04-15T12:40:03-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Jakky, my personal opinion is that a SNS should *NEVER* send mass emails. Every relationship is precious, and each email from an SNS, whether an invite, a request, or a message, should be customized by the user for each recipient.
-Given this, I think Orkut and Friendster are borderline &#34;bad&#34; because when you request a friend to join, you are not able to give a personal message. Worse practices are LinkedIn, Plaxo, and others that allow you to invite everyone in your address book at once without individual personalization. The absolute worst offenders are Zero Degree&#39;s &#34;one click no warning&#34; invite of everyone, and Orkut&#39;s &#34;Friends of Friends&#34; messages. These last two I believe qualify as as being evil enough to call spam.
-BTW, at least a dozen of the errant emails that went out were blocked by spam filters. In particular it appears that you can&#39;t send messages from Zero Degrees to anyone at Earthlink.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.lifewithalacrity.com/&#34;&gt;Christopher Allen&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-04-15T13:06:30-07:00&#34;&gt;2004-04-15T13:06:30-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Yes, I got the invitation from you so I tried it out myself. Now everyone in my Address Book got an invitation too. It&#39;s terrible. It&#39;s like a virus.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.funchain.com&#34;&gt;Jason Banico&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-04-15T18:11:03-07:00&#34;&gt;2004-04-15T18:11:03-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/04/annoyed_by_zero.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>As I&#39;m studying social network software right now, I consider it my job to try many of the hundred some odd social networks out there right now.
+I just joined Zero Degrees, and like many others, it asked me to upload my address book. I&#39;ve done this before and usually it just finds those who already have joined these networks and links us together. Typically I delete my address book at this point, and don&#39;t bother to invite contacts that are not already members of that particular network.</description>
     </item>
     
   </channel>

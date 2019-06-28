@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Review on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/review/index.xml</link>
-    <description>Recent content in Review on Life With Alacrity</description>
+    <title>review on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/review/</link>
+    <description>Recent content in review on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Apr 2014 12:01:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Some History of SSL Security Reviews</title>
@@ -14,13 +17,8 @@
       <pubDate>Fri, 11 Apr 2014 12:01:00 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2014/04/some-history-of-ssl-security-reviews.html</guid>
-      <description>&lt;p&gt;Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.&lt;/p&gt;
-&lt;p&gt;My firm Consensus Development was the only one offering these reviews, largely because other security firms were scared of liability issues. Over 50% of the products failed in less then 8 hours of review, typically for very stupid mistakes. The CAs stopped asking us for reviews because it was slowing down sales of certificates.&lt;/p&gt;
-&lt;p&gt;I believe that we would have found last month&amp;#39;s Apple bug if we reviewed it. Maybe not Heartbleed, but we were doing these security reviews TWENTY years ago. If we had kept at it we would have created better tools by now.&lt;/p&gt;
-&lt;p&gt;It may be time for CAs to require vendors to pay for implementation security reviews again, or only offer a lower level certificate. They also need to indemnify security reviewers so that they can do this kind of work without fear of being sued for not finding a bug (hard to prove a negative). And there should be a pool of funding to do independent security reviews of open source.&lt;/p&gt;
-&lt;p&gt;The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3.0, co-author IETF TLS 1.0 standard and subsequent updates, and later creator of Google Wallet, did all of these reviews for us back then. Any memories, comments, or suggestion to add?&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2014/04/some-history-of-ssl-security-reviews.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.
+My firm Consensus Development was the only one offering these reviews, largely because other security firms were scared of liability issues. Over 50% of the products failed in less then 8 hours of review, typically for very stupid mistakes. The CAs stopped asking us for reviews because it was slowing down sales of certificates.</description>
     </item>
     
     <item>
@@ -29,273 +27,9 @@
       <pubDate>Mon, 01 Jan 2007 22:38:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2007/01/collective_choi.html</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;font-size: 0.7em;&#34;&gt;by Christopher Allen &amp;amp; Shannon Appelcline&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;[This is the fourth in a series of articles on &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;collective choice&lt;/a&gt;, co-written by my collegue &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline&#34;&gt;Shannon Appelcline&lt;/a&gt;. It will be &lt;a href=&#34;http://www.skotos.net/articles/TTnT_179.phtml&#34;&gt;jointly posted&lt;/a&gt; in Shannon&#39;s &lt;a href=&#34;http://www.skotos.net/articles/TTnT.shtml&#34;&gt;Trials, Triumphs &amp;amp; Trivialities&lt;/a&gt; online games column at &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Last year in &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice: Rating Systems&lt;/a&gt; we took a careful look at eBay and other websites that collect ratings, and used those systems as examples to highlight a number of theories about how to make rating systems more useful.&lt;/p&gt;
-&lt;p&gt;We suggested three main methods for improving rating systems:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Granular Ratings:&lt;/strong&gt; Based on the clumping of ratings to high values, we believed that ratings could be made more useful by increasing the size of a rating scale. Most rating scales are 5-point ranges, so we suggested a 10-point range instead.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Distinct Ratings:&lt;/strong&gt; Raters can be somewhat arbitrary in how they rate items, varying both from each other and even from themselves (usually over multiple sessions). Thus we believed that providing explicit statements of what each number meant could improve ratings.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Statistical Ratings:&lt;/strong&gt; Finally we stated that in low volumes ratings could be biased by various quirks of data entry, either malevolent or not, and that ratings could be improved with strong statistical methods being used to polish up data and automatically keep &amp;quot;bad&amp;quot; data in line with &amp;quot;good&amp;quot;.&lt;/p&gt;
-&lt;p&gt;In the year since we wrote that article we&#39;ve decided to practice what we preach and have rolled out an entirely new rating system called &lt;a href=&#34;http://index.rpg.net&#34;&gt;The RPGnet Gaming Index&lt;/a&gt;. We&#39;ve applied all of the above theories and thus far it looks like they&#39;re not only working, but that they&#39;re actually providing better rating systems than previous ones we&#39;ve used at the RPGnet site.&lt;/p&gt;
-&lt;p&gt;In this article we&#39;re going to step through the data we&#39;ve collected from this experience and see how it applies to our theory: first by looking at our previous RPGnet rating system, then by looking at the new system, and finally by by examining the data from these two systems and comparing their results. We&#39;ve also run into some unexpected troubles along the way, and we&#39;ll talk about that too.&lt;/p&gt;
-&lt;h3&gt;The RPGnet Reviews System&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.rpg.net&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/rpgnetlogo_1.gif&#34; title=&#34;Rpgnetlogo_1&#34; alt=&#34;Rpgnetlogo_1&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;&lt;/a&gt;
-RPGnet is our gaming site for tabletop roleplaying—games like &lt;em&gt;Dungeons &amp;amp; Dragons&lt;/em&gt; and &lt;em&gt;Vampire: The Masquerade&lt;/em&gt;. We purchased it in 2001 from the original owners. One of the benefits of RPGnet was that it had a very large community. As of today it sports one of the top-100 forums on the Internet, with over 1000 simultaneous users regularly logging in. However, because of its maturity, we also inherited many existing systems.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.rpg.net/reviews/archive/9/9971.phtml&#34;&gt;&lt;img border=&#34;0&#34; alt=&#34;Rpgnet_review_summary_1&#34; title=&#34;Rpgnet_review_summary_1&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/rpgnet_review_summary_1.jpg&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;
-One of these was the &lt;a href=&#34;http://www.rpg.net/reviews/&#34;&gt;RPGnet Reviews System&lt;/a&gt; which gave individual users the ability to review gaming products—mostly role-playing games, but also board games, books, DVDs, and a smattering of related products.&lt;/p&gt;
-&lt;p&gt;Most of these reviews are submitted by average readers who just want to talk about a product that they like (or don&#39;t), though a fair percentage are instead submitted by staff reviewers. (Overall at least 26% of our reviews are based on publisher &amp;quot;comp&amp;quot; copies, and thus may be considered largely professional, while the other 74% may or may not be.) The large community size of RPGnet applies to the Reviews System as well: currently it features 8,505 published reviews.&lt;/p&gt;
-&lt;p&gt;Looking at the RPGnet Reviews through our three filters we find the following:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Granularity.&lt;/strong&gt; The ratings from our existing reviews aren&#39;t as granular as we&#39;d like. We have a theoretical scale of 2-10, but that&#39;s based upon a Style rating of 1-5 and a Substance rating of 1-5.&lt;/p&gt;
-&lt;table cellpadding=&#34;5&#34;&gt;
-&lt;thead&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;&lt;strong&gt;Rating&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Style&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Substance&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;%&lt;/strong&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;1&lt;/td&gt;
-&lt;td&gt;81&lt;/td&gt;
-&lt;td&gt;225&lt;/td&gt;
-&lt;td&gt;1.8%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;2&lt;/td&gt;
-&lt;td&gt;732&lt;/td&gt;
-&lt;td&gt;651&lt;/td&gt;
-&lt;td&gt;8.1%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;3&lt;/td&gt;
-&lt;td&gt;2364&lt;/td&gt;
-&lt;td&gt;1777&lt;/td&gt;
-&lt;td&gt;24.3%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;4&lt;/td&gt;
-&lt;td&gt;3618&lt;/td&gt;
-&lt;td&gt;3525&lt;/td&gt;
-&lt;td&gt;42.0%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr align=&#34;right&#34;&gt;
-&lt;td&gt;5&lt;/td&gt;
-&lt;td&gt;1709&lt;/td&gt;
-&lt;td&gt;2326&lt;/td&gt;
-&lt;td&gt;23.7%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt; Approximately 90% of raters rate only with values of 3-5, and thus our scale is more limited than the 2-10 range would indicate. 42.9% of reviews further rate Style and Substance exactly the same, suggesting that not everyone sees a difference between these two elements. On the whole this scale isn&#39;t as a bad as a singular 5-point scale, but it also isn&#39;t a real 10-point scale, and the two orthogonal types of comparison don&#39;t necessarily provide a coherent description of a product.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Distinctiveness.&lt;/strong&gt; Conversely, the review ratings are fairly distinct because the Review System provides an explanation of what each rating number means. For example the five Substance ratings are: I Wasted My Money (1); Sparse (2); Average (3); Meaty (4); Excellent(5). The descriptions could be better, but hopefully they connect to some users in meaningful ways, and help them to rate consistently.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Statistics.&lt;/strong&gt; Our review ratings have no statistical basis. These values are used entirely unfiltered.&lt;/p&gt;
-&lt;p&gt;On the whole, the existing RPGnet Reviews embodied slightly less than half of what we wanted to see in a rating systems: some improvement over a simple 5-point scale; some effort put into making individual ratings distinct; and nothing statistical.&lt;/p&gt;
-&lt;p&gt;There is room for improvement, however, as we&#39;ll see when we analyze this system more fully.&lt;/p&gt;
-&lt;h3&gt;The RPGnet Gaming Index&lt;/h3&gt;
-&lt;p&gt;Our newer system is the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt;. It doesn&#39;t supersede our Reviews, but instead offers a complementary look at the roleplaying field. The Index is essentially an RPG industry database. It contains individual entries for many different gamebooks—currently 5248—and allows registered users to rate each of them. Those ratings are then turned into averages by various mathematical formulas on a nightly basis and the roleplaying games in our index are then ranked.&lt;/p&gt;
-&lt;p&gt;The large size of RPGnet has allowed us to very quickly turn our ideas of a Gaming Index into reality. Just six months after release we have:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;5248 well-written Index entries &lt;/li&gt;
-&lt;li&gt; 5908 different editions&lt;/li&gt;
-&lt;li&gt; 4240 authors&lt;/li&gt;
-&lt;li&gt; 4478 covers&lt;/li&gt;
-&lt;li&gt; 360 different game systems&lt;/li&gt;
-&lt;li&gt; 345 series&lt;/li&gt;
-&lt;li&gt; 10142 individual ratings&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;Most of the ratings are clumped around the best and worst games, with many less popular games unrated as of yet. Four different items have at least 80 ratings each (&lt;em&gt;Call of Cthulhu&lt;/em&gt;, &lt;em&gt;Exalted&lt;/em&gt;, &lt;em&gt;Nobilis&lt;/em&gt;, and &lt;em&gt;Unknown Armies&lt;/em&gt;). Our average rating is 6.79. Ratings above 7.82 are in the 99th
-percentile, ratings above 7.21 are in the 90th percentile, and ratings
-below 6.53 are beneath the 10th percentile.&lt;/p&gt;
-&lt;p&gt;(For more info on the creation of the RPG Index, and how to encourage user generated content, see Shannon&#39;s articles, &amp;quot;Managing User Creativity&amp;quot;, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_192.phtml&#34;&gt;Part One&lt;/a&gt; and &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;Part Two&lt;/a&gt;.) &lt;/p&gt;
-&lt;p&gt;The RPGnet Index also handles some unusual situations, such as when a game book contains other game books as part of an anthology or compilation. For instance, the 8-book compilation &lt;a href=&#34;http://index.rpg.net/display-entry.phtml?mainid=64&#34;&gt;In Search of Adventure&lt;/a&gt; has a composite rating of &lt;a href=&#34;http://index.rpg.net/display-entry-ratings.phtml?mainid=64&#34;&gt;6.57&lt;/a&gt; which is partially based upon the individual adventures that make it up.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Granularity:&lt;/strong&gt; The first thing we did was provide a 10-point scale for this new system.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Distinctiveness:&lt;/strong&gt; We also made sure each point of the scale was clearly defined. Currently the points of our scale are: Worthless (1), Poor (2), Some Flaws (3), Almost Average (4), Average (5), Above Average (6), Good (7), Very Good (8), Outstanding (9), and One of the Best Ever (10).&lt;/p&gt;
-&lt;p&gt;We made some mistakes in our original release of our &amp;quot;distinctive&amp;quot; titles, and we discovered this had real effects on the user input, telling us that these title labels &lt;em&gt;are&lt;/em&gt; meaningful to users.&lt;/p&gt;
-&lt;p&gt;First, we initially labeled 6 as &amp;quot;average&amp;quot;, to mirror the rating system for our existing Reviews, rather than setting 5 to be average. But as we noted in our first article, people like to be nice, and thus they tend to rate on the good side of a scale. Changing the label for our definition of average from 6 to 5 has slowly started dropping the average of all ratings down as a result (providing more breadth, a topic we&#39;ll talk about more shortly).&lt;/p&gt;
-&lt;p&gt;Second, two of our original distinctive titles were at odds with the others. Our original &amp;quot;2&amp;quot; value said that the game had &amp;quot;a few useful elements&amp;quot; and our original &amp;quot;9&amp;quot; value said that it was the &amp;quot;best of the year&amp;quot;. The 2 was much more specific than any of our other terms and the 9 created a comparative query that was very different from anything else. Overall our ratings conformed to a bell curve centered between 6 and 7, but we saw very clear dropouts in our curve at 2 and 9, telling us that we&#39;d made mistakes in those terms, and that people were less willing to use them as a result. Since we&#39;ve made the change to our current set of titles those two discontinuities have disappeared.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Statistics.&lt;/strong&gt; Finally, we fully integrated statistics into our new Index by using two main methods: bayesian weights and trust.&lt;/p&gt;
-&lt;p&gt;We explained bayesian weights pretty fully in our previous article. Here&#39;s what we said then:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;table width=&#34;90%&#34; border=&#34;1&#34; cellpading=&#34;3&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;p&gt;
-The idea behind a bayesian average is that you normalize ratings by pushing them toward the average rating for your site, and you do that more for items with fewer ratings than those with more ratings. The basic formula looks like this:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-b(r) = [ W(a) * a + W(r) * r ] / (W(a) + W(r)]&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;r = average rating for an item&lt;/p&gt;
-&lt;p&gt;W(r) = weight of that rating, which is the number of ratings&lt;/p&gt;
-&lt;p&gt;a = average rating for your collection&lt;/p&gt;
-&lt;p&gt;W(a) = weight of that average, which is an arbitrary number, but should be higher if you generally expect to have more ratings for your items; 100 is used here, for a database which expects many ratings per item&lt;/p&gt;
-&lt;p&gt;b(r) = new bayesian rating &lt;/p&gt;
-&lt;p&gt;Say three &amp;quot;shill&amp;quot; users had come onto your site and rated a brand new indie film a &amp;quot;10&amp;quot; because the producer asked them to. However, you use a bayesian average with a weight of 100, and thus 3 ratings won&#39;t move the movie very far from the average site rating of 6.50:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-b(r) = [100 * 6.50 + 3 * 10] / (100 + 3)&lt;/code&gt;&lt;code&gt;&lt;br /&gt;b(r) = 680 / 103&lt;/code&gt;&lt;code&gt;&lt;br /&gt;b(r) = 6.60
-&lt;/code&gt;
-&lt;/p&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;We implemented bayesian weights exactly as we&#39;d detailed, but with a lower weight of 25. Since then we&#39;ve accrued over 10,000 ratings in the database, and we can probably start thinking about cranking that weight up, another topic we&#39;ll return to.&lt;/p&gt;
-&lt;p&gt;Our trust-based algorithms suggest that some ratings are better than others, and should thus be more trusted (and thus more weighted when we calculate the average rating of an item). Though bayesian weights have been used before, we&#39;re not aware of other systems that weight ratings based on trust. &lt;/p&gt;
-&lt;p&gt;The calculation of trust is very simple:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-Weight = 0 if #ratings(user) &amp;lt;= 2&lt;/code&gt;&lt;code&gt;&lt;br /&gt;Otherwise Weight = #ratings(user) / 50 to a maximum of 2&lt;/code&gt;&lt;code&gt;&lt;br /&gt;Weight *= 2, to a maximum of 4, if the user included a comment
-&lt;/code&gt;
-&lt;/p&gt;
-&lt;p&gt;This was based on the idea that the average good rater would rate 25 different items and the average great rater would rate at least 50. Additionally, we believed that ratings with comments were more likely to be thoughtful than those without.&lt;/p&gt;
-&lt;p&gt;That, overall, is a quick picture of what we&#39;ve done with the RPGnet Gaming Index. Some of these ideas were laid out from the start, and others have been tuned as we progressed. &lt;/p&gt;
-&lt;p&gt;So how did we do, particularly in comparison to our existing RPGnet Reviews System?&lt;/p&gt;
-&lt;h3&gt;The Comparison&lt;/h3&gt;
-&lt;p&gt;One of our goals in improving rating systems has been to widen the range of possible input. As we noted earlier we discovered that 90% of our RPGnet Reviews Ratings were in the 3-5 range, and only 10% in the 1-2 range.&lt;/p&gt;
-&lt;p&gt;Generally, we can measure the success of widening a range by seeing whether the average rating of a database moves toward the &lt;em&gt;true&lt;/em&gt; average. For the purposes of a 10-point scale from 1-10, that&#39;s a desired value of 5.5. That generally means we&#39;re looking for our average rating to &lt;em&gt;decrease&lt;/em&gt; because people tend to rate high.&lt;/p&gt;
-&lt;p&gt;The following table compares the average results of Reviews ratings and Index ratings.&lt;/p&gt;
-&lt;center&gt;&lt;table cellpadding=&#34;3&#34; border=&#34;1&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Database&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Average&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Converted Reviews&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;7.25&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Massaged Reviews&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;7.29&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Unweighted Index&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;7.10&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;Weighted Index&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;6.78&lt;/td&gt;&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;&lt;/center&gt;
-&lt;p&gt;Here&#39;s what the categories in the above chart represent:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Converted Reviews:&lt;/strong&gt; The Style + Substance of the Reviews, converted from its 2-10 scale to a 1-10 scale: &lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-$rating = avg($style) + avg($substance);&lt;/code&gt;&lt;br /&gt;&lt;code&gt;$rating = ($rating * 1.125) - 1.25;
-&lt;/code&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Massaged Reviews:&lt;/strong&gt; The Style + Substance of the Reviews, with Substance given double weight over Style because we think that more closely reflects the intentions of the reviewer, converted from its 2-10 scale to a 1-10 scale:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-$rating = (average($style) + 2*average($substance))/1.5;&lt;/code&gt;&lt;br /&gt;&lt;code&gt;$rating = ($rating * 1.125) - 1.25;
-&lt;/code&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unweighted Index:&lt;/strong&gt; Index ratings exactly as users have entered into our Gaming Index:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-$rating = average($index-rating);
-&lt;/code&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Weighted Index:&lt;/strong&gt; Index ratings adjusted by the weight of each individual rating, which is based on user trust and inclusion of comments:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;
-$rating = average($index-rating*$index-weight)/average($index-weight);
-&lt;/code&gt;
-&lt;/p&gt;
-&lt;p&gt;Our average rating—which is our criteria for success—decreased somewhat from the Reviews System to the Gaming Index and it decreased much more dramatically when we introduced our trust systems.&lt;/p&gt;
-&lt;p&gt;The following chart shows the a typical example of how review and index ratings differ, using the venerable &lt;em&gt;Dungeons &amp;amp; Dragons Player&#39;s Handbook&lt;/em&gt; as an example:&lt;/p&gt;
-&lt;center&gt;&lt;a href=&#34;http://index.rpg.net/display-entry-ratings.phtml?mainid=72&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/dd_players_handbook_rpgnet_reviews_only.jpg&#34; title=&#34;Dd_players_handbook_rpgnet_reviews_only&#34; alt=&#34;Dd_players_handbook_rpgnet_reviews_only&#34; /&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/dd_players_handbook_index_ratings_only.jpg&#34; title=&#34;Dd_players_handbook_index_ratings_only&#34; alt=&#34;Dd_players_handbook_index_ratings_only&#34; /&gt;&lt;/a&gt;&lt;/center&gt;&lt;p&gt;For this book the median ratings from reviews-only is 8, and the median from index-only is 7. A one-to-two point drop in median rating from reviews to index was consistent in all of our most-rated games other than those which were a rated a &amp;quot;10&amp;quot; in both places.&lt;/p&gt;
-&lt;p&gt;We believe that this initial success of our unweighted Gaming Index can be attributed to the slightly better &lt;em&gt;granularity&lt;/em&gt;—a 10-point scale versus two 5-point scales—and our improved &lt;em&gt;distinctiviness&lt;/em&gt;—based on better naming of the rating levels. The veracity of this will ultimately be played out as the Index grows.&lt;/p&gt;
-&lt;p&gt;However we have no doubt that our &lt;em&gt;statistical&lt;/em&gt; approach to the index data, when we moved from our unweighted Index to our weighted Index, is providing even better results. We had theorized that users who input more and who include comments would provide &amp;quot;better&amp;quot; data, and by our criteria of the average of the ratings moving toward 5.5 that seems to be borne out. The following table looks at the information a bit more precisely, by comparing average ratings as total number of ratings increases over several ranges:&lt;/p&gt;
-&lt;center&gt;&lt;table cellpadding=&#34;3&#34; border=&#34;1&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;# of Ratings&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Average w/Comment&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Average w/o Comment&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;1-2&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;8.55&lt;/td&gt;
-&lt;td&gt;8.88&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;3-24&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;8.08&lt;/td&gt;
-&lt;td&gt;8.16&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;25-49&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;7.32&lt;/td&gt;
-&lt;td&gt;7.11&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;50-99&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;7.14&lt;/td&gt;
-&lt;td&gt;7.03&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;100+&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;6.17&lt;/td&gt;
-&lt;td&gt;6.99&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/center&gt;
-&lt;p&gt;This table fairly definitively shows that base maxim: that the breadth of the ratings, and thus their quality, increases the more ratings a user makes. The improved quality of ratings with comments is less definitive. Among the vast mass of users the two values are pretty close, and sometimes the reverse of what we expect, but for the best and the worst users, ratings with comments seem to be better than those without. This latter point is another one that we&#39;ll have to continue to monitor as the Index grows beyond its current total of 10,000 ratings.&lt;/p&gt;
-&lt;p&gt;The other major element of our &lt;em&gt;statistical&lt;/em&gt; approach to the Index is our bayesian weight. The following chart shows a top-ten chart for roleplaying games calculated via four different methodologies: our Reviews; our Index with no weighting; our Index with a 25 bayesian weighting (as it currently stands); and our Index with a 50 bayesian weighting:&lt;/p&gt;
-&lt;center&gt;&lt;table cellpadding=&#34;3&#34; border=&#34;1&#34;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;strong&gt;#&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Reviews-Only&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;0-weight Index&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;25-weight Index&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;50-weight Index&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Delta Green: Countdown&lt;/td&gt;
-&lt;td&gt;The Chronicles of Talislanta&lt;/td&gt;
-&lt;td&gt;Delta Green: Countdown&lt;/td&gt;
-&lt;td&gt;Delta Green&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Nobilis&lt;/td&gt;
-&lt;td&gt;Wildside&lt;/td&gt;
-&lt;td&gt;Spirit of the Century&lt;/td&gt;
-&lt;td&gt;Delta Green: Countdown&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Castle Falkenstein&lt;/td&gt;
-&lt;td&gt;Devil&#39;s Due&lt;/td&gt;
-&lt;td&gt;Delta Green&lt;/td&gt;
-&lt;td&gt;Unknown Armies&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Vimary Sourcebook&lt;/td&gt;
-&lt;td&gt;Lodges: The Faithful&lt;/td&gt;
-&lt;td&gt;Unknown Armies&lt;/td&gt;
-&lt;td&gt;Call of Cthulhu&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Liber Servitorum&lt;/td&gt;
-&lt;td&gt;Apocalypse&lt;/td&gt;
-&lt;td&gt;Call of Cthulhu&lt;/td&gt;
-&lt;td&gt;Nobilis&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Ork!&lt;/td&gt;
-&lt;td&gt;Earthdawn Gamemaster&#39;s Compendium&lt;/td&gt;
-&lt;td&gt;Nobilis&lt;/td&gt;
-&lt;td&gt;Spirit of the Century&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;GURPS Russia&lt;/td&gt;
-&lt;td&gt;Into the Badlands&lt;/td&gt;
-&lt;td&gt;Pendragon&lt;/td&gt;
-&lt;td&gt;Over the Edge&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;GURPS Reign of Steel&lt;/td&gt;
-&lt;td&gt;Earthdawn Player&#39;s Compendium&lt;/td&gt;
-&lt;td&gt;Over the Edge&lt;/td&gt;
-&lt;td&gt;Pendragon&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Cudgel&#39;s Compendium&lt;/td&gt;
-&lt;td&gt;Chronicle of the Black Labyrinth&lt;/td&gt;
-&lt;td&gt;Mutants &amp;amp; Masterminds&lt;/td&gt;
-&lt;td&gt;Mutants &amp;amp; Masterminds&lt;/td&gt;&lt;/tr&gt;
-&lt;tr&gt;&lt;td&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Corum&lt;/td&gt;
-&lt;td&gt;The Spell Book&lt;/td&gt;
-&lt;td&gt;Pulp Hero&lt;/td&gt;
-&lt;td&gt;Vimary Sourcebook&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/center&gt;
-&lt;p&gt;We actually &lt;em&gt;did&lt;/em&gt; do a little bit of statistical analysis on the Reviews because on our first try to produce this chart we got a random clump of reviews that were 5/5 from a much larger pool, so we further ordered them by descending total count of reviews, and as a result you&#39;re seeing a better selection of ranked reviews than a truly unstatistical sampling would allow. We did the same for the unweighted Index (which clumped a number of results at &amp;quot;10&amp;quot;), except we further ordered items at the same weight by decreasing number of views (another statistical decision).&lt;/p&gt;
-&lt;p&gt;Clearly, deciding which of these lists is &amp;quot;right&amp;quot; is a much more subjective measure than the mathematical analysis we were able to apply to earlier problems. However, most roleplayers would tell you that the unweighted Reviews and Index lists are terrible. The top 5 items in the Reviews list actually aren&#39;t bad for a starting list of good games—but only because we did the aforementioned statistical ordering. Before that we just had a random listing of gaming items. Even with our attempts at quickie statistical analysis the unweighted Index is still quite bad, with only &lt;em&gt;Talislanta&lt;/em&gt; regularly showing up on other &amp;quot;best&amp;quot; lists.&lt;/p&gt;
-&lt;p&gt;The problem is the ability of one person to come in and rate an item a &amp;quot;10&amp;quot; (or a &amp;quot;5&amp;quot;/&amp;quot;5&amp;quot;), thereby making that item more highly rated than &lt;em&gt;any&lt;/em&gt; item which has an actual consensus of ratings. Of our unweighted top Reviews only the top three had more than 2 reviews and the rest had 2. Not surprisingly those top three were the best fits to a typical top-ten list. Of the unweighted Index only the top three had more than 1 rating, and the rest had 1. Our single good pick was in those top three.&lt;/p&gt;
-&lt;p&gt;Our 25-weight Index, which is what we currently use, has been generally accepted by the RPGnet community as a good marker of what&#39;s good and what&#39;s not. However there have been two items on it which some percentage of people disagree with: &lt;em&gt;Spirit of the Century&lt;/em&gt; and &lt;em&gt;Pulp Hero&lt;/em&gt;. It&#39;s instructive to see that when we increase to a 50-weight Index &lt;em&gt;Spirit of the Century&lt;/em&gt; drops (even more notably than depicted here, because its actual rating changes from .01 from first place to .16 from first place) and &lt;em&gt;Pulp Hero&lt;/em&gt; disappears entirely.&lt;/p&gt;
-&lt;p&gt;The questions of &lt;em&gt;what&lt;/em&gt; to set your bayesian weight to, when to increase it, and what maximum value to set it to are all relatively unstudied and thus we don&#39;t have good answers to them. As we pass 10,000 ratings we&#39;re considering upping the bayesian value to 50. We expect that 100 will be our ultimate value when the Index is fully mature, however if we increase the weight too far an older, less rated game will never be able to get enough weight to get out of the doldrums.&lt;/p&gt;
-&lt;h3&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;We&#39;re by no means done with this ratings experiment. Though we&#39;ve pleased and impressed with the growth of the RPGnet Index thus far, by next year we hope that the Index will include the vast majority of all games in print (as opposed to somewhat less than half now) and that our 10,000 ratings will grow to 50,000 or more. This will allow us to offer even more definitive answers to our questions.&lt;/p&gt;
-&lt;p&gt;In the meantime we&#39;re still mucking with our statistics and facing new problems.&amp;nbsp; Some of the newest:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;strong&gt;What to do about drive-by ratings:&lt;/strong&gt; Our trust algorithm does a good job of making drive-by ratings, where a publisher points his audience to an item in our site, mostly irrelevant, but there&#39;s some concern that they could have more effect in the long run.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How to incorporate our review ratings in our index ratings:&lt;/strong&gt; It seems a shame to waste the thousands of reviews that have been written—and indeed currently they&#39;re calculated into a composite rating we use in the Index—but we&#39;re realizing that people have very different purposes for writing reviews and inputing ratings, which may result in some of the upward skew we see on the review side of things. Ultimately we need to decide whether they&#39;re just too different or whether our statistical massaging is enough to incorporate those reviews into a composite Index rating.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How to pick some of our numbers:&lt;/strong&gt; As we already noted we don&#39;t have good formulas for when to choose which bayesian weights. Likewise we&#39;ve been guessing at which values to use for the trust-based weighting of our raters. Originally we set our desired rating count to 100 for good rater and 200 for great raters, but we&#39;ve since dropped those to 50 for good and 100 for great based upon the real numbers of ratings that users were making. Again, we&#39;d prefer to derive an actual formula for this type of calculation&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;Shannon has discussed some of these issues more in his recent article &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;More Thoughts Abour Ratings&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Despite unanswered questions, we still feel good about the basic ideas we laid out in our article last year. We have no doubt that giving our ratings a &lt;em&gt;statistical&lt;/em&gt; basis has dramatically improved them and evidence thus far suggests that both &lt;em&gt;granularity&lt;/em&gt; and &lt;em&gt;distinctiveness&lt;/em&gt; have been helpful as well.&lt;br /&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_192.phtml&#34;&gt;#192: Managing User Creativity, Part One&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;#193: Managing User Creativity, Part Two&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;#198: Collective Choice: More Thoughts About Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-0-10 scale is too large for most relevant human ratings systems. maybe i should pull the psych papers, but people tend to do a 1-5 or 0-5 scale better. it&#39;s a sign of immaturity to only use the endpoints.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Grumpy&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2007-12-18T10:24:24-07:00&#34;&gt;2007-12-18T10:24:24-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2007/01/collective_choi.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>by Christopher Allen &amp;amp; Shannon Appelcline
+[This is the fourth in a series of articles on collective choice, co-written by my collegue Shannon Appelcline. It will be jointly posted in Shannon&#39;s Trials, Triumphs &amp;amp; Trivialities online games column at Skotos.]
+Last year in Collective Choice: Rating Systems we took a careful look at eBay and other websites that collect ratings, and used those systems as examples to highlight a number of theories about how to make rating systems more useful.</description>
     </item>
     
   </channel>
