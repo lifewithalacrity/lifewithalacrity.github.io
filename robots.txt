@@ -4,4 +4,8 @@ Disallow: /previous/
 User-agent: *
 Allow: /
 
+<<<<<<< HEAD
 Sitemap: https://www.lifewithalacrity.com/sitemap.xml
+=======
+Sitemap: https://www.lifewithalacrity.com/sitemap.xml
+>>>>>>> origin/master
