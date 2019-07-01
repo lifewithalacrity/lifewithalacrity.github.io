@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Behavior on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/behavior/index.xml</link>
-    <description>Recent content in Behavior on Life With Alacrity</description>
+    <title>behavior on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/behavior/</link>
+    <description>Recent content in behavior on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2006 13:07:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/behavior/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Flames: Emotional Amplification of Text</title>
@@ -14,119 +17,7 @@
       <pubDate>Mon, 13 Feb 2006 13:07:32 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2006/02/flames_emotiona.html</guid>
-      <description>&lt;p&gt;&lt;img border=&#34;0&#34; alt=&#34;Cycle_of_flames&#34; title=&#34;Cycle_of_flames&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/cycle_of_flames.jpg&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
-I&#39;ve been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.&lt;/p&gt;
-&lt;p&gt;It is &lt;a href=&#34;http://www.internet-guide.co.uk/email-flame.html&#34;&gt;commonly thought&lt;/a&gt; that flames occur because &lt;em&gt;&amp;quot;there is very little proper policing done on the Internet&amp;quot;&lt;/em&gt; but I believe this to be false. Instead, I believe that it is the consequence of the medium primarily existing as text.&lt;/p&gt;
-&lt;p&gt;In fact, what you&#39;ll observe if you study individual flames is that they typically start as an escalation of emotion, only spiraling later into passionate and personal arguments. The only way to stop flames from destroying a community is to break this cycle.&lt;/p&gt;
-&lt;p&gt;So I&#39;ve taught all my staffers over the years my ideas on what causes the cycle of flames, and how to avoid them. One particular piece of advice that I give is in regards to how emotions are amplified in the online text medium.&lt;/p&gt;
-&lt;p&gt;This happens for several different reasons:&lt;/p&gt;
-&lt;p&gt;Since text is lacking tonal and
-visual context, we have a tendency to over-interpret any emotional
-content that does exist (&lt;a href=&#34;http://citeseer.ist.psu.edu/context/1589611/0&#34;&gt;link to paper)&lt;/a&gt;. In fact, we may have &lt;a href=&#34;http://www.wired.com/news/technology/0,70179-0.html?tw=wn_index_2&#34;&gt;no better than a random chance of correctly interpreting the emotional tone&lt;/a&gt; of ironic vs sincere text in a message (&lt;a href=&#34;http://gsbwww.uchicago.edu/fac/nicholas.epley/EpleyKruger.pdf&#34;&gt;link to Epley/Kruger paper&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In addition, we tend to respond to someone&#39;s emotional state by expressions of similar intensity (this phenomenon is known as &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/0521449480/202-9000930-0565465&#34;&gt;Emotional Contagion&lt;/a&gt;). And the higher the level of intensity of our emotions, the less our ability to be empathetic (&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=8436029&amp;amp;dopt=Abstract&#34;&gt;link to paper&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;These tendencies lead into a vicious feedback cycle.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;One person starts with a very trivial or subtle emotional context, say irony.&lt;/li&gt;
-&lt;li&gt;This is interpreted at a higher level of emotions, such as sarcasm.&lt;/li&gt;
-&lt;li&gt;A reply is made at a similar level of emotion, for example being sarcastic.&lt;/li&gt;
-&lt;li&gt;This, in turn, is interpreted at an even higher level of emotion, maybe a mild insult.&lt;/li&gt;
-&lt;li&gt;In turn this is replied to at a similarly intense level.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A flame is born!&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thus I now find that now there are certain words and phrases that I avoid using when responding to people online. I have to be very careful with irony and sarcasm, and when I use them I include symbols such as smilies to such give the emotional context that is missing from the text. I find that even the slightest hint of blame will be over-interpreted. I avoid the words &amp;quot;should&amp;quot; and &amp;quot;didn&#39;t&amp;quot;, never tell someone that they forgot something, etc.&lt;/p&gt;
-&lt;p&gt;My online community staffers have found understanding this cycle an important tool in moderating the communities they lead.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;See Also:&lt;/em&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/07/extrapolative_h.html&#34;&gt;2005-07: Extrapolative Hostility in the Online Medium&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;(This is a update/rewrite of what I &lt;span style=&#34;text-decoration: underline;&#34;&gt;originally wrote&lt;/span&gt;&lt;a href=&#34;http://static.userland.com/userLandDiscussArchive/msg021566.html&#34;&gt;&amp;nbsp;&lt;/a&gt; in &lt;a href=&#34;http://www.scripting.com/&#34;&gt;Dave Winer&#39;s&lt;/a&gt; UserLand discussion group back in September of 2000).&lt;/em&gt;&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Interesting blog entry at http://joshreads.com/?p=518 on the use of quotation marks in cartoons to denote irony. Of course, this conflicts with using quotes for quotes, quotes for emphasis, and quotes for calling attention to a phrase — all common uses of quotes in text. No wonder we can&#39;t interpret irony accurately.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.LifeWithAlacrity.com&#34;&gt;Christopher Allen&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T14:04:59-07:00&#34;&gt;2006-02-13T14:04:59-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;The gents over at 37 Signals recently proposed a &#34;Troll Cap&#34; standard:
-http://37signals.com/svn/archives2/introducing_the_troll_cap.php
-Kind of tongue-in-cheek, but it almost points the way to a Microformat. Combined with a single log-on identity, being repetitively called out by one&#39;s peers as a disruptor of peace could begin to have actual consequences to one&#39;s online life ourside of one particular community or another.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://tablesturned.com&#34;&gt;Marcus&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T14:20:19-07:00&#34;&gt;2006-02-13T14:20:19-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for posting this, and for pointing out it&#39;s significance on a blogpost I sent up earlier today [1].  The seminal (I assume) Eply/Kruger paper, tho well beyone my abilities to fully assimilate, was certainly educational!
-[1]&#34;Flame wars - it&#39;s all about me!&#34; http://john.snippe.ca/journal/?p=211
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://john.snippe.ca/journal/&#34;&gt;snip&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T15:17:28-07:00&#34;&gt;2006-02-13T15:17:28-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for the visit Mr. Allen.  Something that at times helps in online forums is the use of emoticons.  They can be very helpful at steering conversations into the &#34;humor&#34; side of things.  (The use of quotations was purely intentional and trying to convey not just irony but also sarcasm.)
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.logtar.com&#34;&gt;logtar&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-14T12:06:46-07:00&#34;&gt;2006-02-14T12:06:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;It&#39;s funny because I think most people understand intuitively that the written word is limited for conveying tone, at least in practical terms. Yet, it is easy for the most mundane online conversations to devolve into flamewars. I think part of it, too, is that people overestimate their ability to overcome any disagreement by continued conversation.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.letterneversent.com&#34;&gt;chris sivori&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-14T21:35:41-07:00&#34;&gt;2006-02-14T21:35:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I find this analysis of flaming very interesting, but did not find the approach I take, so let me describe this one. Flaming, from a social psychological point of view, is a force released from the group through the individual. Compare it to the experiment on Jewish girls whose blood-pressure was taken, while casually remarking that &#34;Jewish girls could handle less pain&#34; seemingly unrelated to the action taking place. This significantly caused these girls to allow much more pain infliction. Or the athlete who runs faster when he passes the cheering fans: he feels one of them and the best of them at that time. Flaming occurs when a group is aiming for the power to steer the whole group and not just themselves. This is particularly dangerous to democracy at whichever scale you look for it: the individuals seemingly each have their private conviction and these &#39;accidentally&#39; add up to become a strong democratic force. However, like we have seen in the Hamas election, the aim might as well be to be strong as a group and not care about the individual idea, as long as power (flaming) is the result. This is mimecry, studied for a lifetime by French philosopher René Girard. It explains how societies evolve and postpone aggression, towards the scapegoat. In the end, it is exactly the way the judeo-christian society arose and how islam is now invading EU.
-Regards,
-drs Ron C. de Weijze
-research developer
-www.pmm.nl
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.pmm.nl&#34;&gt;Ron C. de Weijze&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-20T04:11:19-07:00&#34;&gt;2006-02-20T04:11:19-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Once again, very insightful and very useful.  Thank you for this one...
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.brainjams.org/&#34;&gt;Chris Heuer&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-03-07T17:34:23-07:00&#34;&gt;2006-03-07T17:34:23-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;&#34;Trolling&#34; is a relatively new cultural concept and not enough analysis has been done historically to distinguish the disruption of &#34;trolling&#34; from the legitimate act of dissent against group-think. Many forums royals wield the club of labeling others as &#34;trolls&#34; to enforce group-think. A persistence of dissent against a group is just persistence of dissent, it&#39;s ok, it&#39;s not necessarily &#34;disruptive,&#34; and suppressing such dissent in the name of some imagined Internet social harmony merely leads to stagnation and insularity. Where is the fresh perspective supposed to come from?
-Re: &#34;One person starts with a very trivial or subtle emotional context, say irony.&#34;
-Well, stop right there. By creating this cascade that leads to a flame, it appears as if you&#39;re absolving the original poster in some fashion. Why is it ok for him to be ironical? It&#39;s true that there is an acceleration and amplification of emotion, and others &#34;overract&#34; or &#34;take it out of proportion&#34; -- but is the blame for the flame them only on the shoulders of all those reacting? Why does the OP get a pass?
-Certain forums are so poisoned by bad faith, unevenly moderated, and completely held hostage by group-think that no newcomer, or even veteran with good faith, can look at the ironical any more and take them merely as &#34;trivial&#34; or &#34;subtle&#34;. They create the tiny tinder and others light the match; why are they not made responsible for their tinder?
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://secondthoughts.typepad.com&#34;&gt;Prokofy Neva&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-03-20T21:16:59-07:00&#34;&gt;2006-03-20T21:16:59-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;WHY YOU DIRTY S.O.B! HOW DARE YOU THINK YOU KNOW ABOUT FLAMING!...
-That is what I expected to see in the comments section. Of course your readers are far too sophisticated to go for the easy joke...
-One of the things that has been shown is how much of communication is conveyed by facial expression and body language. That doesn&#39;t even touch the range you have with vocal inflection, volume and pacing.
-If I don&#39;t see any feedback from my comment, I can&#39;t instantly correct myself. I can&#39;t see the look on the person&#39;s face to know that they don&#39;t get I&#39;m being sarcastic.
-I&#39;m going to be working with two people next week who have problems with monotone delivery. This is especially difficult because they will be doing most of these presentations over the phone.
-To &#34;amp up&#34; the level of information to deal with the loss of visuals, I&#39;m suggesting they do a few mechanical things (like marking the text to remind them to pause or moving to a more descriptive narrative of events so that the audience can follow along in their heads)
-When you get to text, you lose the information you can get from the voice. Unless that is replaced somehow (like  with smiley faces as you mentioned) people can misinterpet.
-So for people using text they sometimes need to be explicit in ways that is not necessary with face to face, video or audio communications.
-One other thing with flames, I&#39;ll never forget the first time I had a meeting with someone who had flamed me not knowing who I was or that he would ever met me. He was very nice in person and it surprised me that the flames came from him. No doubt the social mores kicked in that say you don&#39;t scream &#34;WHO IS THIS IDIOT WHO DOESN&#39;T KNOW WHAT COPYRIGHT IS! SHIT HE EVEN SPELLS IT COPYWRITE!&#34; in real life, but you can do it on email.
-Finally, here is another thing to add to the flame game mix. Did you ever notice that when you are reading something written by someone you know and you realise you are &#34;hearing&#34; them say it in your head while you are reading it? Because you know them and their pacing and style you can more easily detect something that is sarcastic that they have written because you can &#34;hear&#34; them saying that in your head.
-With anonymous people you don&#39;t know that until you get to know them better, either in person or over a period of time reading them and responding to them.
-Once again an excellent post and I expect that six months from now this will be the new topic in the news, &#34;Who is flaming me, and why?&#34;
-That&#39;s our Mr. A, Always six months ahead of the curve!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.spockosbrain.com&#34;&gt;spocko&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-04-21T15:30:46-07:00&#34;&gt;2006-04-21T15:30:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;At http://brudnopis.blogspot.com/2006/04/one-email-per-day-moderation-scheme.html I proposed a &#39;one email per day&#39; scheme to break the vicious circle of flame wars.  After discussing it in some email lists I am now more aware how much it depends on the mailing list nature, but still I think it might be the solution in some circumstances.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://brudnopis.blogspot.com/&#34;&gt;Zbigniew Lukasiak&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-05-19T01:50:42-07:00&#34;&gt;2006-05-19T01:50:42-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/02/flames_emotiona.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;ve been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.</description>
     </item>
     
     <item>
@@ -135,42 +26,8 @@ That&#39;s our Mr. A, Always six months ahead of the curve!
       <pubDate>Mon, 16 Aug 2004 23:42:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</guid>
-      <description>&lt;p&gt;I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.&lt;/p&gt;
-&lt;p&gt;One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.&lt;/p&gt;
-&lt;p&gt;This is how I typically explain progressive trust when I meet someone in-person at a conference:&lt;/p&gt;
-&lt;p&gt;You are now spending your most precious resource, that most unrenewable commodity -- time, in order to listen and understand what I have to say.&lt;/p&gt;
-&lt;p&gt;Why do you do so? Because by the act of us being here in this common space, at this conference, you have found a very simple credential from me--that I&#39;m willing to spend time here in a place that you are interested in as well. In turn, I&#39;m willing to spend more time chatting with you for the same reason.&lt;/p&gt;
-&lt;p&gt;Why do we continue to chat, and not move on to other people to discuss with? Because as we chat we are exchanging a number of credentials -- people we know in common, common interests, meaningful ideas, etc. We may also present credentials typically issued by others, like our business cards, or explain our relationship to the host.&lt;/p&gt;
-&lt;p&gt;As our unspoken agreement to continue discussion evolves, we typically will unconsciously check to see if others are listening, and adapt our conversation thereafter. If the discussion becomes more personal or serious, we will often find ourselves moving to a more private portion of the room. As our discussions become deeper, we may begin to speak of things that hint at a mutual respect for confidentiality.&lt;/p&gt;
-&lt;p&gt;Also early on we&#39;ll begin to scope out the nature of our time together. Is it only professional, or a potential friendship? Even intimate relationships go through this phase -- are we with someone who wants to date? Is is possible that a future date lead to something more?&lt;/p&gt;
-&lt;p&gt;If we agree to meet later to discuss more, before we meet again we may go authenticate some of the credentials given us. We&#39;ll not authenticate all of them, only enough to substantiate the level of assurance that we need for the risk we are taking (which may only be the future loss due to wasted time, but even that is a form of risk.) This authentication can consist simply of confirming information given, or it can be as complex as asking for an endorsement from a mutual colleague.&lt;/p&gt;
-&lt;p&gt;As our collaboration grows, we will find ourselves seeking more and more credentials, endorsements, etc., but they will not be enough. The next level of trust can only be established by experience of commitment -- for instance do we call back when we said we would? These tests typically start with small things, and then grow to larger things. At some point this may ultimately grow to form simple verbal contracts; over time richer, deeper social contracts are agreed upon that might not be written down.&lt;/p&gt;
-&lt;p&gt;Ultimately we may bring in third parties to witness, and thus possibly enforce our mutual obligations, whether it is just having a mutual colleague view our handshake or friends see us kiss, or whether it is having a legal, signed document.&lt;/p&gt;
-&lt;p&gt;At some point our mutual interests may be so large that we decide not just to collaborate, but to share assets, whether through a partnership, a corporation, or a marriage. Before this is complete there will be more credentials and authentication of those credentials (talk to former employees, engage in credit checks, visit each others&#39; families, take blood tests), endorsements, and less risky tests of the full contract (signing a term sheet, or a marriage engagement).&lt;/p&gt;
-&lt;p&gt;This is the way human trust works. It also very similar to the way that groups work -- a corporation will collaborate with another corporation in the same way, starting with small trust, going on to tests, and leading ultimately up to partnerships and mergers.&lt;/p&gt;
-&lt;p&gt;Computer trust rarely works the way that human trust does. It starts with mathematical proofs--that such and such a mathematical algorithm is extremely difficult, thus something built on it must also be difficult. These are then built on top of each other until a system is created. It often seeks a level of &#34;perfect trust&#34; that is rarely required by human trust.&lt;/p&gt;
-&lt;p&gt;One of the reasons why I chose to back the then nascent SSL (Secure Sockets Layer) Standard back in 1992-3, was that I felt that it much better mapped to the progressive trust model, and thus to human trust, then did its competitors.&lt;/p&gt;
-&lt;p&gt;At the time, the SET standard was backed by all the major players--Visa, Mastercard, Microsoft, etc. However, it not only required strong mutual authentication, but it also require multiple authentications. HTTPS was backed by RSA, required digital signatures, preferably by both parties. SSL was not necessarily a clear winner.&lt;/p&gt;
-&lt;p&gt;But SSL starts out very simple--first it just connects two parties, then it establishes simple confidentiality between them. If one party wants more confidentiality, they can upgrade to a stronger algorithm. Then one party can request a credential from the other, or both can. Either party has the option to request authentication of those credentials. Ultimately you could use SSL to come close to the level trust that SET tried to establish, but SSL isn&#39;t generally used that way because the market decided that only one party needed to send a credential--the merchant. SSL also proved to be more flexible then for use just with web pages or credit cards -- now it is used for things like securing email, creating VPNs, and playing online games.&lt;/p&gt;
-&lt;p&gt;Thus progressive trust is a useful conceptual model for understanding how trust might be built using online tools. Look at the tools that you are using now -- do they support various levels of trust, and a natural path between them? Or is trust more binary -- someone is only trusted, or not trusted. Are there implicit levels of progressive trust that are part of the culture of your group that might not embodied in the software itself?&lt;/p&gt;
-&lt;p&gt;Progressive trust also maps well to an user-interface design technique called &lt;a href=&#34;http://c2.com/cgi/wiki?ProgressiveDisclosure&#34;&gt;Progressive Disclosure&lt;/a&gt;. It sequences information and actions across several different windows in order not overwhelm the user. You disclose basic information and choices first, then revealing progressively more complex information and choices. Thus you help the user manage the complexity of the application. Navigating group interactions and culture is also complex, thus progressive trust allows you to hide some of initial complexity of the trust model behind your tools, and thus lower barriers of entry to your software.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Ash Maurya&#39;s thought provoking Venn diagram in &#34;Beyond Social Networking&#34; (see http://www.wiredjournal.com/archives/000008.html) lists a number of modes or contexts that enable trust buildig in a relationship.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.skmurphy.com/&#34;&gt;Sean Murphy&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-20T00:42:48-07:00&#34;&gt;2004-08-20T00:42:48-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Very cogent post, Christopher.  I think you&#39;ve hit upon what makes blogs so useful and novel in the computing world.  I wrote a response in my own blog:
-http://frassle.rura.org/christopherAllenGets
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://frassle.rura.org/Directory/index?feed=1&#34;&gt;Shimon Rura&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-26T08:39:54-07:00&#34;&gt;2004-08-26T08:39:54-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/08/progressive_tru.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
+One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.</description>
     </item>
     
   </channel>

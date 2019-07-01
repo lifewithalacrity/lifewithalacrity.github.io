@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reputation on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/reputation/index.xml</link>
-    <description>Recent content in Reputation on Life With Alacrity</description>
+    <title>reputation on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/reputation/</link>
+    <description>Recent content in reputation on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/reputation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2004 11:39:47 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/reputation/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>My Advice to Social Networking Services</title>
@@ -14,183 +17,8 @@
       <pubDate>Tue, 03 Feb 2004 11:39:47 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/02/my_advice_to_so.html</guid>
-      <description>&lt;p&gt;I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I&#39;ve not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my &lt;a href=&#34;http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html&#34;&gt;recent experiences with Orkut.com&lt;/a&gt;, and my &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/evaluating_soci.html&#34;&gt;evaluation&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/followup_to_eva.html&#34;&gt;followup&lt;/a&gt; on various social networking services in December.&lt;/p&gt;
-&lt;h4&gt;Privacy&lt;/h4&gt;
-First, be extremely careful about privacy issues. For some of you outside the US, you may not know about what has been going on in the area of identity theft, but it has become a significant problem. I am not a privacy fanatic, but I am concerned that social networking services encourage people to reveal too much information too broadly, and that this will be someday be taken advantage of by identity thieves. For instance, many services ask for birthday and reveal it to everyone. You can ask for the birthday, but don&#39;t display it -- give the person&#39;s age, or birth month, but don&#39;t give the full info. I personally am particularly wary of billing address, billing zip code, birthday, and potential common security questions like name of pet, mother&#39;s maiden name, etc. These are in addition to the obvious targets of identity theft like SSN, full name, and account numbers.
-&lt;p&gt;Orkut&#39;s interface for selectively allowing some fields to be visible &#34;only to myself&#34;, &#34;to friends&#34;, or to &#34;friends of friends&#34; is nice, but I wish it was for all fields. I also think every field by default should be set to &#34;only to myself&#34;. In fact, all security parameters should default to reveal the least information, and have the tightest limits -- allow the user to open selectively.&lt;/p&gt;
-&lt;p&gt;If you are going to support all different kinds of social networks (dating, friendships, activities, business) consider finding ways to make sure that those people who are not using the service for dating are not asked for that info, and don&#39;t see it for others who are dating. People who are only using it for dating shouldn&#39;t see business info. If someone is using a service for all types of relationships, allow people to selectively set what they reveal to each group, say two columns of &#34;only to connections who are dating&#34; or &#34;only to business connections&#34;.&lt;/p&gt;
-&lt;p&gt;Never reveal someone&#39;s email address or other critical information without them knowing about it. In particular there are issues with emails sent among members. The only safe way is to do redirection through your site (although that will cost you bandwidth.) But if you can&#39;t do that, then just tell people &#34;your email will be revealed if you do this&#34; -- that is enough.&lt;/p&gt;
-&lt;p&gt;Work hard on your TOS and Privacy terms. Don&#39;t let your lawyers rule you here too much -- find some way to get your principles out there and still cover yourself against problems. Make all the personal information that people give you be their information -- they are only leasing it to you temporarily.&lt;/p&gt;
-&lt;p&gt;Make it easy for someone to quit the system. Maybe offer to them to export their information in case they want to rejoin later, and give them an opportunity to send a last message to any connections they may have. Be friendly at all times, and as the market shakes out they may come back.&lt;/p&gt;
-&lt;h4&gt;Connections &amp; Invites&lt;/h4&gt;
-If possible, find some other way to call the connections between people &#34;friends&#34; -- maybe even use a unique trademarkable term. There is some power in the emotions behind the word friends that helps with the virus-like nature of social networking software, but I think in the long term it is a bad idea. LinkedIn and Spoke use the word connections which sounds too mechanical, but I think it is better then &#34;friends&#34;.
-&lt;p&gt;Don&#39;t encourage the &#34;how many friends do my friends have&#34; game. It sets up bad behaviors, and as you grow you don&#39;t want to have barriers of entry to new people who feel that they can&#39;t compete in that game. This means don&#39;t sort friends or groups etc. by the number of friends they have by default -- it can be an option, but just not be default.&lt;/p&gt;
-&lt;p&gt;Don&#39;t encourage people to by default upload their address book. Have that feature be off of some optional utility page. Have the default option for it to just scan for people that are already members of your system and to forget the rest -- that is effectively what I do with systems that ask for address book information, and they make it hard for me to do so. Don&#39;t store people&#39;s address information for them unless you can sync them with people&#39;s personal contact books -- save that for version 2.0, not 1.0 beta.&lt;/p&gt;
-&lt;p&gt;Don&#39;t focus on people contacting new people that are not already their connections. It is not the number of connections, but the quality. Instead, focus on helping people with their weak connections. It is &#39;reconnection&#39; that is the most powerful feature of these social network services, not new connections. You can also help with &#34;triage&#34; -- how do I maximize the value of my existing weak connections with the least effort?&lt;/p&gt;
-&lt;p&gt;Allow people to opt-out with a custom message. What this means is that if someone sends an email to someone who has opted out, they will get something like. &#34;Thanks for inviting me to Orkut -- I&#39;ve decided for now not to join, but you can find me on Tribe.&#34; However, keep a list of people who have tried to connect to that opted-out user, and if that user does change their mind later, it will make it easier for them to have an initial list of friends that may already be on the service. Yes, I know that this risks sending people to other services, but there are so many now that you can get good buzz by doing the right thing, and recovering those people later when they have confidence in you.&lt;/p&gt;
-&lt;p&gt;You need to have better methods of handling invites from unknowns without saying no. For instance &#34;I&#39;m not sure I know you, have I forgotten?&#34;&lt;/p&gt;
-&lt;p&gt;Related, don&#39;t fill out default text for invitations and other request forms -- force people to put something personal into the request, don&#39;t allow it to be blank. Never do what Orkut does and not give the opportunity to offer text when you invite someone who is already on the system.&lt;/p&gt;
-&lt;p&gt;Avoid anything beyond friends of friends as a primary part of your service. It bugs me that I see by default 3 degrees away in many services -- 2 degrees should be max by default, as that is the level that real referral can work. 3 degrees is too far for users to trust (though it can be optional for some purposes, or useful internally.)&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=6080f857- 4784-4679-8e41-c6881ed933ce&#34;&gt;Friendship Circle&lt;/a&gt; may also be a good idea, though perhaps how you classify people should be private. You may mark someone as being &#34;family&#34; &#34;intimate&#34; or &#34;acquaintance&#34; or &#34;business&#34;, or whatever, however, no one else should see that; they should just see &#34;connection&#34; unless they have named you, and you in turn should not say that.&lt;/p&gt;
-&lt;h4&gt;Profiles&lt;/h4&gt;
-Find some better way then simple lists to do profiles. Someone&#39;s profile needs to express the richness of who they are -- it also needs to change and grow and flow over time, so make it easy for people to annotate and grow over time. Consider asking for only a few things at first, not make the process of filling out the profile feel daunting, then after each login prompt them to add one small thing that is useful based on how they used the service recently. For instance &#34;You have joined the AnyoneButBush2004 group -- do you want to enter information to share with others about your political interests?&#34;.
-&lt;p&gt;Right now lots of people are experimenting on their blog sidebars how best to profile themselves -- learn from them. Look at hundreds of examples, look for patterns beyond the obvious.&lt;/p&gt;
-&lt;p&gt;Allow people to have multiple affiliations, whether they be work or play. I&#39;m a bad edge case personally, with too many hats to name, but almost everyone I know has at least two professional hats &#34;Sysadmin by day, Writer by night&#34;, &#34;Laywer on weekdays, Carpenter on weekends&#34; , as well as several affiliation hats &#34;Bay Area Costumer Guild president, member of League of Women Voters&#34;, etc.&lt;/p&gt;
-&lt;p&gt;Right now LinkedIn has the best looking professional profile, but it is still hard for some people to use. I like LinkedIn&#39;s use of multiple professional affiliations, however, I wish I could mark some as major or minor; for instance, there is a big difference between being an Advisor to MG Taylor and being CEO of Consensus. It also doesn&#39;t handle professional associations and lesser affiliations, much less non-professional affiliations and interests. Also, being able to arbitrarily order them would be nice, LinkedIn does it by date which can make for some confusing emphasis.&lt;/p&gt;
-&lt;h4&gt;Reputation &amp; Endorsements&lt;/h4&gt;
-Be very careful of the design of rating systems and reputation systems. They are extremely difficult to design well, as they too often can be gamed, or fall into reciprocity such that they are meaningless. My personal advice is just don&#39;t do it at first -- save it for a 2.0 version of the product, not 1.0 beta. If you are going to do it now, really study it -- there is a lot of good academic research on issues of reputation. It can be hard to slog through but it is worth it. Offer a grant to Danah&#39;s school for them to do research for you on the topic.
-&lt;p&gt;Endorsements are a best way of doing reputation for now. They is also is imperfect and vulnerable to reciprocity games, however, as least you can see if two people are playing that game just by looking at the endorser and endorsee. If you find too much reciprocity you can basically ignore both players.&lt;/p&gt;
-&lt;p&gt;Allow endorsements at a more granular level. For instance, if you are offering dating and professional information, segregate the endorsements. Even more ideally, do like LinkedIn and allow endorsements of relatively small things in a profile, for instance &#34;I really enjoy Chris&#39; blog&#34; against the blog profile item, and &#34;I like what Chris says about the environment&#34; against my affiliation with a group. Consider allowing endorsements of groups: &#34;Of the three groups here on Wiki, I find this one fits me the best&#34;.&lt;/p&gt;
-&lt;p&gt;If you can afford it, consider hiring a game designer from the online game industry who understands behavior incentives in online games. If you can&#39;t, study it. Part of the reason why EverQuest is the largest MMPORG is because it incentivizes certain kinds of social behaviors. In fact, it could be considered to be a type of social network service.&lt;/p&gt;
-&lt;h4&gt;Launch &amp; Support&lt;/h4&gt;
-Be careful with your beta launch -- a culture for a community forms in the first few weeks, and our experience from online games is that the nature of this culture can make or break a project. Find ways to encourage the kinds of behaviors you want, and discourage those that you don&#39;t.
-&lt;p&gt;Be very careful of labeling people who are gaming your product in ways you don&#39;t like. Being in Orkut&#39;s &#39;jail&#39; is almost becoming a badge of honor. There is no reason why people who invite too many friends to join, submit too many posts to forums, or sends too many messages to friends of friends, should be put under the same label as those people who put child pornography up on your system and thus you&#39;ve banned them. Instead, slow down the overly active people, just say in advance &#34;If you invite this number of people, you may not invite more people for 24 hours, do you want to continue?&#34;, or &#34;If you invite this person, you must wait an hour before inviting another.&#34;, etc. Also, if you do lock people out of a feature, don&#39;t lock them out of all features, just the one that they are over-using. If someone gets locked out of lots of features at the same time, then they should be looked at for possibly banning, but not if they are doing just one thing -- you want to encourage their enthusiasm.&lt;/p&gt;
-&lt;p&gt;Make sure you give feedback to anyone that tries to be helpful, for instance in reporting a bug. Ideally public reports should be encouraged public (as this encourages other people to be helpful) but even private reports should be encouraged, and as promptly as possible including &#34;Thanks for taking time to write up this, we are logged this problem and hope to get to it as soon as we can given limited resources.&#34; Find other ways to give feedback, such as a weekly report, or a group developers blog.&lt;/p&gt;
-&lt;p&gt;Create multiple stages for your beta, for instance &#34;profile features beta&#34;, &#34;group features beta&#34;, &#34;scaling beta&#34;, &#34;load beta&#34;, etc. Tell people in your beta what you want to hear about and not hear at each stage. As each stage ends, find some way to publically thank those who made the biggest difference.&lt;/p&gt;
-&lt;p&gt;Set up a bug tracking system like TypePad has (like Bugzilla but hugely simpler to use). From help menu at the top you can click to post a new report, see all open reports, or see all closed reports. Every help page can have at the bottom to open a report on that topic. If anything goes wrong there (404, various system error messages, etc) you should give you an opportunity to open a report. &lt;/p&gt;
-&lt;h4&gt;Features&lt;/h4&gt;
-Figure out how to use RSS everywhere for input and output -- if Orkut or Tribe&#39;s group features supported RSS feeds, they could be very powerful competition to the hugely funded Friendster. Figure out how to use trackbacks with your system, and make them simpler for users. Make group bookmarks and other lists available as OPML. I&#39;m not a huge fan of FOAF yet, but figure out how to use it anyhow (and maybe vCards) until something better comes along, if nothing else but allow someone to import it and export it.
-&lt;p&gt;My personal take is that if you can combine a substantial number of these &lt;br /&gt;
-features, you could have a great product that gives the others a run for the &lt;br /&gt;
-money:&lt;br /&gt;
-&lt;ul&gt;&lt;li&gt;Offering intentional groups (like Tribe and Orkut) is essential. It is Friendster&#39;s and LinkedIn&#39;s weakest link.&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;eVite/Meetup style invitations for both private functions (come to my birthday party), friend functions (anyone near 00301 want to have lunch Thursday?) and groups (Let&#39;s all meet for dinner next week to discuss this).&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Ability to import via RSS the recent items from my blog to my profile page&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Optional blogging-style home pages (FunChain &amp; Live Journal) for those who don&#39;t already have blogs&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Extended family support as an explicit type of group, grandmother, mother, child in college&lt;/a&gt;&lt;br /&gt;
-&lt;li&gt;Couples can be a form of a group also&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Better ways to organize groups of groups&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Better support for user-optional presence &#34;There are members of this group who are reading it right now who have said that they are available online to members to this group, 3 via Skype, 12 via AIM&#34;&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=94333937-ecd8-4d08-994d-7f4c96c523dd&#34;&gt;Permachat&lt;/a&gt; at a group level is an interesting idea. I hate that I can&#39;t see chat text before the point I logged in&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Lots of group management support, for instance:&lt;br /&gt;
-&lt;ul&gt;&lt;li&gt;ability to have multiple admins (eGroups, Live Journal)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Group moderation (Slashdot, Kuro5hin, Advogato, etc.)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Optional group shared links (eGroups)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Optional group shared calendar (eGroups)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Polling inside groups (no one that I know of)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Invitation or approval of entry by different methods, such as by vote, by 1 reference from existing member, etc. (none that I know of)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Ability to merge groups (none that I know of) &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Wiki-style areas available for groups (no one that I know of)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Combine all the above with good innovative RSS and optionally Atom (FunChain, SocialText)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Supports the various blog submission APIs for blogs, wiki, and groups (none that I know of)&lt;br /&gt;
-&lt;li&gt;Do a great job for those who don&#39;t use RSS and those APIs to use email instead, including email submission (you can mail pages to a SocialText wiki)&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Ability to be federated, i.e. I could still use my existing blog (you just mirror it), RSS aggregation, my FOAF file could be synced, you sync with my addressbook at Yahoo, etc.&lt;/li&gt;&lt;br /&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;h4&gt;Business Models&lt;/h4&gt;
-Business models for social networking services is going to be one of the biggest issues. Even those social networking sites with lots of money behind them are going to have difficulty because there are so many.
-&lt;p&gt;The paid subscriber model is probably dead until some of the VC funded startups go out of business. Advertising can be a good model, but be careful not to make it obtrusive -- remember, Google has made good money with very simple ads.&lt;/p&gt;
-&lt;p&gt;If you don&#39;t have VC funding, find ways to co-opt partners -- build from the beginning support for Google AdSense and Adwords, Amazon APIs, etc. If you are small, consider federating with another company. Figure out what you can do to differentiate yourself from both your competitors and partners.&lt;/p&gt;
-&lt;p&gt;Don&#39;t be evil.&lt;/p&gt;
-&lt;h4&gt;Me&lt;/h4&gt;
-I am interested in getting more professionally involved with social software. I think we are still in Apple II days of social software -- we see the promise of things to come, but we are still typing in ALL CAPS. Given the overfunding in this field, my own ability to start a company as an &lt;a href=&#34;http://www.alacrityventures.com&#34;&gt;angel investor&lt;/a&gt; is insufficient, so I&#39;m looking to partner with others. I&#39;ve been involved with online communities, groupware, collaboration, and security for over 20 years. If you are interested in an executive in this area, see my &lt;a href=&#34;http://www.linkedin.com/profile?viewProfile=&amp;key=62844&#34;&gt;profile on LinkedIn&lt;/a&gt;.
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Some notes:
-a) On privacy -- the list of people who tried to reach you is two-edged,
-you may want to point that out, because it gathers my list of friends,
-and somebody else might come and get it, but it is pretty useful.
-b) All these ideas and many others are good, and I have my own lists
-of useful features,  but there&#39;s some huge feature creep and it will
-be tough for the people doing this software to cherry pick.
-c) I have notes in the orkut forum (I presume you posted this there)
-about dealing with people you don&#39;t remember.  It doesn&#39;t work to force
-me to send them a note saying &#34;where do I know you from?&#34; because if
-you forgot them it&#39;s still embarassing.   You need to establish a principle
-in advance that people doing an invite include where they know you from.
-Unless they are intimate friends.
-d) On dating/non-dating, I agree that we don&#39;t want to see that our
-business associate is in an open marriage.  However I am not sure the
-moded UI (you are either in biz mode or dating mode) will fly.  I had
-big plans for such modes, on backburner for now.
-A better idea would be to only show you dating info on people who are
-potential dates.   Ie. if you are an M seeking F, you only see dating
-info of F seeking Ms.  People want the serendipity of knowing, &#34;Oh, that
-women I met at the conference is single and looking?&#34;
-Best of all it doesn&#39;t require new UI.
-The other big thing with Orkut is going to be the FoF spam.  The mail
-volume must be limited some way.  We&#39;ve got many thousands of FoF it
-seems.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ideas.4brad.com&#34;&gt;Brad Templeton&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-03T14:24:34-07:00&#34;&gt;2004-02-03T14:24:34-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Good advice overall.  You might want to take a fast look at how phpbb does polls (re your &#34;polling inside groups&#34; note).  It&#39;s integrated into the comment posting interface so you can very quickly turn any entry into a poll, with a few simple options.
-I&#39;d also be interested in seeing your comments on pay vs. free membership options.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://web.media.mit.edu/~wex/&#34;&gt;Alan Wexelblat&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-04T07:40:54-07:00&#34;&gt;2004-02-04T07:40:54-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Fantastic post, Christopher.  I&#39;ll never again claim you only flog Orkut; you&#39;re very fair and constructive with your observations, too!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://ifindkarma.typepad.com/relax/&#34;&gt;Adam Rifkin&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-07T13:38:38-07:00&#34;&gt;2004-02-07T13:38:38-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;What do you think about the political applications of friendster-like sites?  Think how it helps solve the problems associated with the ghetto email petitions of the past, and how it could create a non-intrusive, viral fundraising medium.  Do you agree with me?
-Given the multiple kinds of ways that people want to use social software (e.g., business networking, dating, politics), will there be specific sites for each kind of activity or will there be some sharing model?
-Anyway, we&#39;re thinking about leveraging this trend and it would be helpful to get your thoughts as we consider build vs. partnering, etc.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.e-thePeople.org&#34;&gt;Michael Weiksner&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-09T14:54:23-07:00&#34;&gt;2004-02-09T14:54:23-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;FriendBlend is another new social networking site you might want to take a look at - it combines match-making with blogs, moblogs, online photo sharing and a lot of the group features such as polling and quizes that you mention. Great post!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.friendblend.com&#34;&gt;David Jenness&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-06-20T18:04:23-07:00&#34;&gt;2004-06-20T18:04:23-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;another cool site to check out is for College &lt;a href=&#34;http://www.collegester.com&#34;&gt; Social Networking&lt;/a&gt; is http://www.collegester.com . Also a hip site for &lt;a href=&#34;http://www.lloydbankster.com&#34;&gt;Lloyd Banks&lt;/a&gt; is worth peaking at..... I&#39;ve seen the &lt;a href=&#34;http://www.bestnetsoftware.com&#34;&gt;Social Networking Software&lt;/a&gt; for sell at http://www.bestnetsoftware.com for those interested in starting their own social networking site or community!!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.collegester.com&#34;&gt;Social Networking&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-09T07:42:54-07:00&#34;&gt;2004-07-09T07:42:54-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;my friend http://www.ryanleslie.com is planning a social networking site for musicians
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.tcgss.org&#34;&gt;ricky&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-21T10:50:50-07:00&#34;&gt;2004-10-21T10:50:50-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-http://www.egrupos.com/
-is virtually unknown in the US but becoming very popular in Spain and Latin America, and they&#39;re becoming a trend-setter, integrating email groups (a la YahooGroup but perhaps even more customizable), social networking tools and online auctions. A weird combination that however it seems to be working ok so far.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Pepe B.&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-11-15T12:01:36-07:00&#34;&gt;2004-11-15T12:01:36-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;This is kind of a neat personals site that&#39;s looking to add in social network functionality. Email through the site if you&#39;re interested in partnerships.
-http://www.itsjustcoffee.com
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.itsjustcoffee.com&#34;&gt;ItsJustCoffee&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-12-03T16:48:10-07:00&#34;&gt;2004-12-03T16:48:10-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Hi...I put up a site dedicated to the social networking niche of gated online communities at
-http://www.gatedonlinecommunities.com
-Any comments on the subject are appreciated!
-Thanks Marc
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.gatedonlinecommunities.com&#34;&gt;Marc L GatedOnlineCommunities.com&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-24T14:24:11-07:00&#34;&gt;2005-10-24T14:24:11-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Eerst Europa Doelstellingen: De Ci2i Verzekering (Ci2i) zal het nummer een gebrandmerkte pan Europese commoditized online verzekeringsmakelaar door 2010 zijn.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.firsteuropa.nl&#34;&gt;Alice Mike&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-12-03T22:37:07-07:00&#34;&gt;2006-12-03T22:37:07-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for posting this your section about privacy is very useful. There are some issues regarding privacy and social networking sites that have not been addressed properly and may cause the downfall of social networking sites such as stalkers and identity fraudsters.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://scribblesheet.co.uk/article/can_i_have_my_life_back_please&#34;&gt;Vince&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2008-02-27T14:15:18-07:00&#34;&gt;2008-02-27T14:15:18-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/my_advice_to_so.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I&#39;ve not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my recent experiences with Orkut.com, and my evaluation and followup on various social networking services in December.
+Privacy First, be extremely careful about privacy issues.</description>
     </item>
     
   </channel>

@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Html on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/html/index.xml</link>
-    <description>Recent content in Html on Life With Alacrity</description>
+    <title>html on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/html/</link>
+    <description>Recent content in html on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 May 2004 14:58:39 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Simple Yet Sophisticated Group Page Editing</title>
@@ -14,34 +17,9 @@
       <pubDate>Thu, 13 May 2004 14:58:39 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/05/simple_yet_soph.html</guid>
-      <description>&lt;p&gt;I have been leading the design of a new Open Source collaboration tool called &lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index.php&#34;&gt;EditThisPagePHP&lt;a&gt;, which started &lt;a href=&#34;http://www.lifewithalacrity.com/2003/12/editthispagephp.html&#34;&gt;six months ago&lt;/a&gt; and now is in beta.&lt;/p&gt;
-&lt;p&gt;My goal with EditThisPagePHP attempt to come close to &lt;a href=&#34;http://www.scripting.com/&#34;&gt;Dave Winer&#39;s&lt;/a&gt; &lt;a href=&#34;http://davenet.scripting.com/discuss/msgReader$641?mode=topic&#34;&gt;visionary statement&lt;/a&gt; back in May of 1999:&lt;/p&gt;
-&lt;blockquote&gt;&lt;i&gt;When I&#39;m writing for the web, and I&#39;m browsing my own site, every bit of text that I create has a button that says Edit This Page when I view it. When I click the button, a new page opens with the text in an HTML textarea. I edit. Click on Submit. The original page displays with the change. Three easy steps. The essential element is that *every* bit of text has this button. There can be no exceptions.&lt;/i&gt;&lt;/blockquote&gt;
-&lt;p&gt;At the fundamental level, EditThisPagePHP basically just let you remotely edit a single page. There are many situations where existing Wiki or Blog software is too complicated, or imposes too much structure. EditThisPagePHP lets you have total control over the HTML -- you can use sophisticated CSS layouts, or very simple HTML -- the software does not get in the way.&lt;/p&gt;
-&lt;p&gt;Yet in spite of this simplicity, EditThisPagePHP also uses ideas drawn from various Wiki, Blog, and CMS (content management system) technologies. Like Wikis, it supports an edit-this-page button, page history, page diffs, and can email users when pages change. Like Blogs, it supports optional user comments, trackbacks (both send and receive), and delivers two RSS feeds -- one for the current version of the page, and one with diffs. Like a CMS, it supports multiple roles, by default a reader, an editor, and a super-editor -- each with different privileges.&lt;/p&gt;
-&lt;p&gt;I personally plan to use it for standards documents, lists, game rules, and home pages for various groups I collaborate with. I expect that others will use it anytime a group of people want to maintain a publicly accessible page together.&lt;/p&gt;
-&lt;p&gt;Some screenshots:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index-images/editpage.png&#34; title=&#34;Edit Page&#34;&gt;&lt;img src=&#34;http://editthispagephp.sourceforge.net/home/index-images/tn_editpage.png&#34; border=&#34;0&#34; width=&#34;150&#34; height=&#34;128&#34; alt=&#34;Edit Page&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index-images/history.png&#34; title=&#34;View History&#34;&gt;&lt;img src=&#34;http://editthispagephp.sourceforge.net/home/index-images/tn_history.png&#34; border=&#34;0&#34; width=&#34;150&#34; height=&#34;128&#34; alt=&#34;View History&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index-images/diffs.png&#34; title=&#34;Page Diffs&#34;&gt;&lt;img src=&#34;http://editthispagephp.sourceforge.net/home/index-images/tn_diffs.png&#34; border=&#34;0&#34; width=&#34;150&#34; height=&#34;128&#34; alt=&#34;Page Diffs&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index-images/trackbacks_comments.png&#34; title=&#34;Trackbacks and Comments&#34;&gt;&lt;img src=&#34;http://editthispagephp.sourceforge.net/home/index-images/tn_trackbacks_comments.png&#34; border=&#34;0&#34; width=&#34;150&#34; height=&#34;128&#34; alt=&#34;Trackbacks and Comments&#34; /&gt;&lt;/a&gt;&lt;a href=&#34;http://editthispagephp.sourceforge.net/home/index-images/auth_msg.png&#34; title=&#34;Edit Authorization Message&#34;&gt;&lt;img src=&#34;http://editthispagephp.sourceforge.net/home/index-images/tn_auth_msg.png&#34; border=&#34;0&#34; width=&#34;150&#34; height=&#34;128&#34; alt=&#34;Edit Authorization Message&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Technical Details:&lt;/b&gt; EditThisPagePHP is written solely in PHP, and it currently works with PHP 4 and 5, and does not require SQL. Every revision makes a backup of itself, so no data can be lost. PHP is not allowed in the HTML text itself, to minimize security risks. Only two files are required: the core PHP script (editthispage.php) and a data file for your page. The core file can support as many pages as desired. The current version is &lt;a href=&#34;http://prdownloads.sourceforge.net/editthispagephp/editthispage-0.5b2.zip?download&#34;&gt;0.5b2&lt;/a&gt;, is licensed under a BSD-style license, and there is a &lt;a href=&#34;http://editthispagephp.sourceforge.net/demo_05b2/index.php&#34;&gt;working sandbox demo&lt;/a&gt; available to play with.&lt;/p&gt;
-&lt;p&gt;Future goals are to support more technical features, without losing the elegance and simplicity of the implementation. This may include limited Wiki TextFormatting or a simple WYSIWYG editor, HTML-tidy, some user-interface enhancements, etc. A complete list is available on our &lt;a href=&#34;http://editthispagephp.sourceforge.net/home/wishlist.php&#34;&gt;wishlist&lt;/a&gt; page.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I&#39;m amused at the talk of prior art and 1999 visions, the very first web client (1990) had EditThisPage built in - the browser was the editor. The same approach is still taken by browsers like Amaya.
-http://www.w3.org/People/Berners-Lee/WorldWideWeb.html
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://dannyayers.com&#34;&gt;Danny&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-06-02T05:23:56-07:00&#34;&gt;2004-06-02T05:23:56-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I&#39;m amused at the talk of prior art and 1999 visions, the very first web client (1990) had EditThisPage built in - the browser was the editor. The same approach is still taken by browsers like Amaya.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;alex&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-12-06T10:59:45-07:00&#34;&gt;2005-12-06T10:59:45-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/05/simple_yet_soph.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I have been leading the design of a new Open Source collaboration tool called EditThisPagePHP, which started six months ago and now is in beta.
+My goal with EditThisPagePHP attempt to come close to Dave Winer&#39;s visionary statement back in May of 1999:
+When I&#39;m writing for the web, and I&#39;m browsing my own site, every bit of text that I create has a button that says Edit This Page when I view it.</description>
     </item>
     
   </channel>

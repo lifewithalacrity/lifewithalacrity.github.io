@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/blog/index.xml</link>
-    <description>Recent content in Blog on Life With Alacrity</description>
+    <title>blog on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/blog/</link>
+    <description>Recent content in blog on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2004 14:37:38 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Sexism, Social Software &amp; the Blogospher</title>
@@ -14,28 +17,8 @@
       <pubDate>Thu, 05 Feb 2004 14:37:38 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/02/sexism_social_s.html</guid>
-      <description>&lt;p&gt;A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:&lt;/p&gt;
-&lt;p&gt;In &lt;a href=&#34;http://www.misbehaving.net/2004/02/sexist_jokes_an.html&#34;&gt;misbehaving.net: &#34;sexist jokes and Orkut invites&#34;&lt;/a&gt;, Dana Boyd writes:&lt;blockquote&gt;When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.&lt;/blockquote&gt;At &lt;a href=&#34;http://radiofreeblogistan.com/2004/02/04/this_social_software_stuff_is_tricky.html&#34;&gt;Radio Free Blogistan: &#34;This social software stuff is tricky&#34;&lt;/a&gt; Christian Crumlish apologizes:&lt;blockquote&gt;In my mind, I was cracking on the phenomenon of me being linked to so many other men. I wasn&#39;t sure if this had something to do with the population of Orkut or with my own subnetwork there.&lt;/p&gt;
-&lt;p&gt;However, by using language that divided up men and women in terms of visual appeal or attractiveness, I totally slipped over the line. What might be taken as irreverant and ironic by my &#34;real&#34; friends, who are probably somewhat likely to give me the benefit of the doubt and have other inputs to use in order to judge my character or values, in this context managed to hurt danah&#39;s feelings: the last thing I would have wanted to do.&lt;/p&gt;
-&lt;p&gt;What I crossed over into was that &#34;unwelcome gaze&#34; issue, not unlike in one of danah&#39;s earliest posts to misbehaving in which she wrote about being invited to a coed hot-tub party by a professional colleague and finding that uncomfortable as well.&lt;/blockquote&gt;&lt;br /&gt;
-In &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/05/publicly_processing_hurt.html&#34;&gt;Apophenia &#34;Publically Processing Hurt&lt;/a&gt;, Dana responds:&lt;blockquote&gt;Don&#39;t get me wrong: i&#39;m not screamingly upset. Frankly, i was far more nervous and concerned about posting the damn thing than going through the situation. But i wanted to lay out the experience, the emotions for others to read and understand. Not because i had worried myself sick or magnified the situation out of proportion. It was a situation, it would pass, but maybe some good would come out of posting it for others to see. It is the raw emotions, the logic in our heads that bring us to a situation. We rarely make this visible. For those who don&#39;t understand, the goal isn&#39;t to give you fodder to attack. Instead, try understanding what life from my perspective might look like. &lt;/p&gt;
-&lt;p&gt;And then the unexpected happened. Bless his heart, the owner of said comment made a public apology. He didn&#39;t need to own up to that statement, but he did. And he went on to offer his emotional reaction to my tinge of hurt. And he continued on to defend both me, my post and my sense of humor (ah, yes, public support is the quickest way to make me respect someone). So, i&#39;m floored. And surprised. And terribly appreciative.&lt;/blockquote&gt;I have some understanding of Christian -- I consider myself a conscious feminist, but sometimes our male world-view sets us up for a clash. I could easily see myself in his situation, realizing that there are so few women among my connections, trying to fix that, and then falling flat on my face.&lt;/p&gt;
-&lt;p&gt;I&#39;ve run into this type of thing before at &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt; -- one of our games &lt;a href=&#34;http://www.skotos.net/games/marrach/&#34;&gt;Castle Marrach&lt;/a&gt; is notable as a commercial game that has probably more women involved in it then men. This was a deliberate part of the game design, but when I talk about how and why we designed it that way it is easy for me to come across as sexist.&lt;/p&gt;
-&lt;p&gt;Also, the context is important. If this &#39;joke&#39; had been spoken and in a semi-private medium where everyone knows and trusts each other, it would have come across very differently. Instead, it was sent to a circle of friends where everyone knew Christian, but not everyone knew each other. This is more proof that even &#39;friends of friends&#39; can be a pretty distant connection. If the joke had been told at &lt;a href=&#34;http://www.livejournal.com&#34;&gt;Live Journal&lt;/a&gt;, which is also dominated by women (64%), it also would have come across differently.&lt;/p&gt;
-&lt;p&gt;I&#39;m even uncomfortable writing this blog entry, because no matter what I do, there is no way I can precisely understand what it is like to be in Dana&#39;s place, or any women&#39;s place for that matter. All I can do is empathize with Dana discomfort and try to not make such mistakes myself.&lt;br /&gt;
-&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Also, how differently would it come across if women started a &#34;cute geek guy&#34; ratings discussion.
-Would guys just like it, or feel objectified also?
-Personally, I wouldn&#39;t want to, I feel really uncomfortable with the Halley Suitt pro-flirtation model.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.alevin.com/weblog&#34;&gt;Adina Levin&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-07T10:18:33-07:00&#34;&gt;2004-02-07T10:18:33-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/sexism_social_s.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:
+In misbehaving.net: &#34;sexist jokes and Orkut invites&#34;, Dana Boyd writes:When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.At Radio Free Blogistan: &#34;This social software stuff is tricky&#34; Christian Crumlish apologizes:In my mind, I was cracking on the phenomenon of me being linked to so many other men.</description>
     </item>
     
   </channel>

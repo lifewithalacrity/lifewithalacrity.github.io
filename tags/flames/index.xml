@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flames on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/flames/index.xml</link>
-    <description>Recent content in Flames on Life With Alacrity</description>
+    <title>flames on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/flames/</link>
+    <description>Recent content in flames on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/flames/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2006 13:07:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/flames/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Flames: Emotional Amplification of Text</title>
@@ -14,119 +17,7 @@
       <pubDate>Mon, 13 Feb 2006 13:07:32 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2006/02/flames_emotiona.html</guid>
-      <description>&lt;p&gt;&lt;img border=&#34;0&#34; alt=&#34;Cycle_of_flames&#34; title=&#34;Cycle_of_flames&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/cycle_of_flames.jpg&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
-I&#39;ve been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.&lt;/p&gt;
-&lt;p&gt;It is &lt;a href=&#34;http://www.internet-guide.co.uk/email-flame.html&#34;&gt;commonly thought&lt;/a&gt; that flames occur because &lt;em&gt;&amp;quot;there is very little proper policing done on the Internet&amp;quot;&lt;/em&gt; but I believe this to be false. Instead, I believe that it is the consequence of the medium primarily existing as text.&lt;/p&gt;
-&lt;p&gt;In fact, what you&#39;ll observe if you study individual flames is that they typically start as an escalation of emotion, only spiraling later into passionate and personal arguments. The only way to stop flames from destroying a community is to break this cycle.&lt;/p&gt;
-&lt;p&gt;So I&#39;ve taught all my staffers over the years my ideas on what causes the cycle of flames, and how to avoid them. One particular piece of advice that I give is in regards to how emotions are amplified in the online text medium.&lt;/p&gt;
-&lt;p&gt;This happens for several different reasons:&lt;/p&gt;
-&lt;p&gt;Since text is lacking tonal and
-visual context, we have a tendency to over-interpret any emotional
-content that does exist (&lt;a href=&#34;http://citeseer.ist.psu.edu/context/1589611/0&#34;&gt;link to paper)&lt;/a&gt;. In fact, we may have &lt;a href=&#34;http://www.wired.com/news/technology/0,70179-0.html?tw=wn_index_2&#34;&gt;no better than a random chance of correctly interpreting the emotional tone&lt;/a&gt; of ironic vs sincere text in a message (&lt;a href=&#34;http://gsbwww.uchicago.edu/fac/nicholas.epley/EpleyKruger.pdf&#34;&gt;link to Epley/Kruger paper&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In addition, we tend to respond to someone&#39;s emotional state by expressions of similar intensity (this phenomenon is known as &lt;a href=&#34;http://www.amazon.co.uk/exec/obidos/ASIN/0521449480/202-9000930-0565465&#34;&gt;Emotional Contagion&lt;/a&gt;). And the higher the level of intensity of our emotions, the less our ability to be empathetic (&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;amp;db=PubMed&amp;amp;list_uids=8436029&amp;amp;dopt=Abstract&#34;&gt;link to paper&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;These tendencies lead into a vicious feedback cycle.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;One person starts with a very trivial or subtle emotional context, say irony.&lt;/li&gt;
-&lt;li&gt;This is interpreted at a higher level of emotions, such as sarcasm.&lt;/li&gt;
-&lt;li&gt;A reply is made at a similar level of emotion, for example being sarcastic.&lt;/li&gt;
-&lt;li&gt;This, in turn, is interpreted at an even higher level of emotion, maybe a mild insult.&lt;/li&gt;
-&lt;li&gt;In turn this is replied to at a similarly intense level.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A flame is born!&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Thus I now find that now there are certain words and phrases that I avoid using when responding to people online. I have to be very careful with irony and sarcasm, and when I use them I include symbols such as smilies to such give the emotional context that is missing from the text. I find that even the slightest hint of blame will be over-interpreted. I avoid the words &amp;quot;should&amp;quot; and &amp;quot;didn&#39;t&amp;quot;, never tell someone that they forgot something, etc.&lt;/p&gt;
-&lt;p&gt;My online community staffers have found understanding this cycle an important tool in moderating the communities they lead.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;See Also:&lt;/em&gt;
-&lt;/p&gt;&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/07/extrapolative_h.html&#34;&gt;2005-07: Extrapolative Hostility in the Online Medium&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;(This is a update/rewrite of what I &lt;span style=&#34;text-decoration: underline;&#34;&gt;originally wrote&lt;/span&gt;&lt;a href=&#34;http://static.userland.com/userLandDiscussArchive/msg021566.html&#34;&gt;&amp;nbsp;&lt;/a&gt; in &lt;a href=&#34;http://www.scripting.com/&#34;&gt;Dave Winer&#39;s&lt;/a&gt; UserLand discussion group back in September of 2000).&lt;/em&gt;&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Interesting blog entry at http://joshreads.com/?p=518 on the use of quotation marks in cartoons to denote irony. Of course, this conflicts with using quotes for quotes, quotes for emphasis, and quotes for calling attention to a phrase — all common uses of quotes in text. No wonder we can&#39;t interpret irony accurately.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.LifeWithAlacrity.com&#34;&gt;Christopher Allen&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T14:04:59-07:00&#34;&gt;2006-02-13T14:04:59-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;The gents over at 37 Signals recently proposed a &#34;Troll Cap&#34; standard:
-http://37signals.com/svn/archives2/introducing_the_troll_cap.php
-Kind of tongue-in-cheek, but it almost points the way to a Microformat. Combined with a single log-on identity, being repetitively called out by one&#39;s peers as a disruptor of peace could begin to have actual consequences to one&#39;s online life ourside of one particular community or another.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://tablesturned.com&#34;&gt;Marcus&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T14:20:19-07:00&#34;&gt;2006-02-13T14:20:19-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for posting this, and for pointing out it&#39;s significance on a blogpost I sent up earlier today [1].  The seminal (I assume) Eply/Kruger paper, tho well beyone my abilities to fully assimilate, was certainly educational!
-[1]&#34;Flame wars - it&#39;s all about me!&#34; http://john.snippe.ca/journal/?p=211
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://john.snippe.ca/journal/&#34;&gt;snip&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-13T15:17:28-07:00&#34;&gt;2006-02-13T15:17:28-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Thanks for the visit Mr. Allen.  Something that at times helps in online forums is the use of emoticons.  They can be very helpful at steering conversations into the &#34;humor&#34; side of things.  (The use of quotations was purely intentional and trying to convey not just irony but also sarcasm.)
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.logtar.com&#34;&gt;logtar&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-14T12:06:46-07:00&#34;&gt;2006-02-14T12:06:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;It&#39;s funny because I think most people understand intuitively that the written word is limited for conveying tone, at least in practical terms. Yet, it is easy for the most mundane online conversations to devolve into flamewars. I think part of it, too, is that people overestimate their ability to overcome any disagreement by continued conversation.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.letterneversent.com&#34;&gt;chris sivori&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-14T21:35:41-07:00&#34;&gt;2006-02-14T21:35:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I find this analysis of flaming very interesting, but did not find the approach I take, so let me describe this one. Flaming, from a social psychological point of view, is a force released from the group through the individual. Compare it to the experiment on Jewish girls whose blood-pressure was taken, while casually remarking that &#34;Jewish girls could handle less pain&#34; seemingly unrelated to the action taking place. This significantly caused these girls to allow much more pain infliction. Or the athlete who runs faster when he passes the cheering fans: he feels one of them and the best of them at that time. Flaming occurs when a group is aiming for the power to steer the whole group and not just themselves. This is particularly dangerous to democracy at whichever scale you look for it: the individuals seemingly each have their private conviction and these &#39;accidentally&#39; add up to become a strong democratic force. However, like we have seen in the Hamas election, the aim might as well be to be strong as a group and not care about the individual idea, as long as power (flaming) is the result. This is mimecry, studied for a lifetime by French philosopher René Girard. It explains how societies evolve and postpone aggression, towards the scapegoat. In the end, it is exactly the way the judeo-christian society arose and how islam is now invading EU.
-Regards,
-drs Ron C. de Weijze
-research developer
-www.pmm.nl
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.pmm.nl&#34;&gt;Ron C. de Weijze&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-02-20T04:11:19-07:00&#34;&gt;2006-02-20T04:11:19-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Once again, very insightful and very useful.  Thank you for this one...
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.brainjams.org/&#34;&gt;Chris Heuer&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-03-07T17:34:23-07:00&#34;&gt;2006-03-07T17:34:23-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;&#34;Trolling&#34; is a relatively new cultural concept and not enough analysis has been done historically to distinguish the disruption of &#34;trolling&#34; from the legitimate act of dissent against group-think. Many forums royals wield the club of labeling others as &#34;trolls&#34; to enforce group-think. A persistence of dissent against a group is just persistence of dissent, it&#39;s ok, it&#39;s not necessarily &#34;disruptive,&#34; and suppressing such dissent in the name of some imagined Internet social harmony merely leads to stagnation and insularity. Where is the fresh perspective supposed to come from?
-Re: &#34;One person starts with a very trivial or subtle emotional context, say irony.&#34;
-Well, stop right there. By creating this cascade that leads to a flame, it appears as if you&#39;re absolving the original poster in some fashion. Why is it ok for him to be ironical? It&#39;s true that there is an acceleration and amplification of emotion, and others &#34;overract&#34; or &#34;take it out of proportion&#34; -- but is the blame for the flame them only on the shoulders of all those reacting? Why does the OP get a pass?
-Certain forums are so poisoned by bad faith, unevenly moderated, and completely held hostage by group-think that no newcomer, or even veteran with good faith, can look at the ironical any more and take them merely as &#34;trivial&#34; or &#34;subtle&#34;. They create the tiny tinder and others light the match; why are they not made responsible for their tinder?
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://secondthoughts.typepad.com&#34;&gt;Prokofy Neva&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-03-20T21:16:59-07:00&#34;&gt;2006-03-20T21:16:59-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;WHY YOU DIRTY S.O.B! HOW DARE YOU THINK YOU KNOW ABOUT FLAMING!...
-That is what I expected to see in the comments section. Of course your readers are far too sophisticated to go for the easy joke...
-One of the things that has been shown is how much of communication is conveyed by facial expression and body language. That doesn&#39;t even touch the range you have with vocal inflection, volume and pacing.
-If I don&#39;t see any feedback from my comment, I can&#39;t instantly correct myself. I can&#39;t see the look on the person&#39;s face to know that they don&#39;t get I&#39;m being sarcastic.
-I&#39;m going to be working with two people next week who have problems with monotone delivery. This is especially difficult because they will be doing most of these presentations over the phone.
-To &#34;amp up&#34; the level of information to deal with the loss of visuals, I&#39;m suggesting they do a few mechanical things (like marking the text to remind them to pause or moving to a more descriptive narrative of events so that the audience can follow along in their heads)
-When you get to text, you lose the information you can get from the voice. Unless that is replaced somehow (like  with smiley faces as you mentioned) people can misinterpet.
-So for people using text they sometimes need to be explicit in ways that is not necessary with face to face, video or audio communications.
-One other thing with flames, I&#39;ll never forget the first time I had a meeting with someone who had flamed me not knowing who I was or that he would ever met me. He was very nice in person and it surprised me that the flames came from him. No doubt the social mores kicked in that say you don&#39;t scream &#34;WHO IS THIS IDIOT WHO DOESN&#39;T KNOW WHAT COPYRIGHT IS! SHIT HE EVEN SPELLS IT COPYWRITE!&#34; in real life, but you can do it on email.
-Finally, here is another thing to add to the flame game mix. Did you ever notice that when you are reading something written by someone you know and you realise you are &#34;hearing&#34; them say it in your head while you are reading it? Because you know them and their pacing and style you can more easily detect something that is sarcastic that they have written because you can &#34;hear&#34; them saying that in your head.
-With anonymous people you don&#39;t know that until you get to know them better, either in person or over a period of time reading them and responding to them.
-Once again an excellent post and I expect that six months from now this will be the new topic in the news, &#34;Who is flaming me, and why?&#34;
-That&#39;s our Mr. A, Always six months ahead of the curve!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.spockosbrain.com&#34;&gt;spocko&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-04-21T15:30:46-07:00&#34;&gt;2006-04-21T15:30:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;At http://brudnopis.blogspot.com/2006/04/one-email-per-day-moderation-scheme.html I proposed a &#39;one email per day&#39; scheme to break the vicious circle of flame wars.  After discussing it in some email lists I am now more aware how much it depends on the mailing list nature, but still I think it might be the solution in some circumstances.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://brudnopis.blogspot.com/&#34;&gt;Zbigniew Lukasiak&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-05-19T01:50:42-07:00&#34;&gt;2006-05-19T01:50:42-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/02/flames_emotiona.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;ve been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.</description>
     </item>
     
     <item>
@@ -135,67 +26,8 @@ That&#39;s our Mr. A, Always six months ahead of the curve!
       <pubDate>Mon, 18 Jul 2005 14:13:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</guid>
-      <description>&lt;p&gt;&lt;blockquote&gt;&lt;dl&gt;&lt;dt&gt;&lt;em&gt;&lt;strong&gt;Extrapolate&lt;/strong&gt;&lt;/em&gt;&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;To infer an unknown from something that is known; conjecture.&lt;/em&gt;&lt;span style=&#34;font-size: 0.6em;&#34;&gt;&lt;br /&gt;&amp;ndash; The Random House College Dictionary&lt;/span&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:mlasalle@sfchronicle.com&#34;&gt;Mick LaSalle&lt;/a&gt;, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s &lt;a href=&#34;http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/17/PKGJNCETV81.DTL&#34;&gt;column&lt;/a&gt; he says something that I find very accurate to my experience with the online medium:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred. He says that people love that which they think reinforces their survival and hate that which they think threatens their survival. I believe &amp;ndash; this is just my humble theory, now &amp;ndash; that when people hear an opinion that counters theirs, their minds extrapolate from that one opinion to imagine a whole philosophical system. And then they imagine how they would fare in a world run according to that imagined system. So they go from disagreeing to feeling threatened in a matter of seconds, and they lash out. Often they write letters that begin, &amp;quot;You are obviously,&amp;quot; and that&amp;rsquo;s where they identify, not you, but the phantom they feel threatened by.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Over the years, I&amp;rsquo;ve been &amp;quot;obviously&amp;quot; liberal, conservative, gay, straight, humorless, frivolous, angry and deeply jealous of Tom Hanks. When I was 30, I remember getting accused of being a 45-year-old former hippie who drove a BMW, wore a Rolex and had done acid in the &amp;lsquo;60s. I&amp;rsquo;m not sure if I wrote back, but if I did, I would have said, &amp;quot;Wrong. Wrong. Wrong. Wrong. Wrong.&amp;quot; But, of course, that kind of letter is your key to acquiring distance. It lets you know that the person&amp;rsquo;s real quarrel is with some middle-aged former hippie &amp;ndash; probably known as Dad &amp;ndash; and that you&amp;rsquo;re just the vehicle for that day&amp;rsquo;s projection.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I think that Mick LaSalle is exactly right &amp;ndash; I&amp;rsquo;ve seen this type of hostility based on extrapolation regularly in online mediums: in emails, newsgroups, wikis, blogs, etc. I&amp;rsquo;ve been guilty of it a few times myself, though usually for me the result is that I don&amp;rsquo;t respond at all &amp;ndash; &amp;quot;Oh, he is just a flaming liberal&amp;quot;, &amp;quot;She&amp;rsquo;s an arch-conservative&amp;quot; or &amp;quot;He is a just a technophobe.&amp;quot; I can then feel comfortable in ignoring the rest of his or her point of view rather then trying to understand it.&lt;/p&gt;
-&lt;p&gt;I doubt if explaining this theory to someone who writes a hostile message is useful &amp;ndash; they will take it as yet another attack, which will likely contribute to another cycle of flamage. But I do find Mick&amp;rsquo;s theory useful as another way to read and understand hostile messages, and respond more appropriately.&lt;/p&gt;
-&lt;p&gt;Understanding this lets me add another widget to my social software toolbox: when a group process results in a hostile message, try to determine if the author is actually reacting to what you said or if their hostility is based on extrapolating to &amp;quot;obvious&amp;quot; generalities. This may not allow you to directly address the hostility, but it may help you better understand it and thus not contribute to the cycle of flames.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;This is another limitation of our subjectivity.
-I find that too much self-consciousness, self-thought reinforces a distorted, subjective view of reality. The solution is true involvement with the external world, through attempted REAL intimacy with the people and world around us. I do think impersonal means of communication like writing and reading function to distance, which could reinforce this same subjectivity.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.letterneversent.com&#34;&gt;chris sivori&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-19T11:09:41-07:00&#34;&gt;2005-07-19T11:09:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Chris, we see a lot of this sort of thing in the Indian online world - at social networks, at blogs and forums.  Its probably got a lot to do with how we are coping with this relatively new medium.  I come from a society that&amp;rsquo;s so hierarchical in nature, that has very strong rules and sets of do&amp;rsquo;s and don&amp;rsquo;ts, that has power balances rooted in tradition, that has little concept or value for personal space, and that doesnot always encourage team play.
-The online world is toppling and threatening many of our traditional structures, giving open voice and power to many who hitherto had none.  It&amp;rsquo;s a world that is not hierarchical, one that encourages an even-playing field for free speech and debate no matter what gender or age or race or religion you belong to, it does not have many pre-ordained rules and prescriptions, it is one where we need to learn to respect personal space, and where team play can be so rewarding.
-Maybe we&amp;rsquo;re in a state of Anomie as we transition - we&amp;rsquo;re all learning &amp;hellip; the way i deal with it is to simply ignore obvious &amp;lsquo;flamers&amp;rsquo;, and not engage in a debate.  When you don&amp;rsquo;t engage someone, they may knock harder for a while, but soon, they will go away.  Maybe the system self-corrects too?
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://dinamehta.com/&#34;&gt;Dina Mehta&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-21T00:53:53-07:00&#34;&gt;2005-07-21T00:53:53-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;(I found you via Sharon Boggon&amp;rsquo;s &lt;a href=&#34;http://www.inaminuteago.com/mindtracks/&#34;&gt;http://www.inaminuteago.com/mindtracks/&lt;/a&gt; blog)&amp;hellip;I like Spinoza&amp;rsquo;s theory, and would just simplify it:  where there is heat, there is personal projection of some kind of unfinished business.  Sometimes it is worth deciphering, sometimes not.
-I loved what Dina Mehta said about the online world &amp;ldquo;encourages an even-playing field for free speech&amp;rdquo;.  It has got to be a force for increased understanding among all people, flammage along the way or not.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.allisonaller.com&#34;&gt;Allison Aller&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-24T07:21:31-07:00&#34;&gt;2005-07-24T07:21:31-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Hey, Chris, your post reminded me of the concept of &amp;ldquo;egocasting&amp;rdquo; which I blogged about earlier this year.
-&amp;ldquo;egocasting: the act of using your ability to personalize and filter intermediated experience to make your world match who you already are&amp;rdquo;
-As our technology continues to get better at helping us filter the world to fit our preferences, does our ability to understand and tolerate difference atrophy?
-Are there ways to teach and encourage appreciation of difference through design of technology?  Or expand online messages to increase comprehension?
-I agree with the comment above that this part of the nature of our subjective experience.  We all face the challenge of understanding each other regardless of the communication medium.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.whatbox.biz/?p=3&#34;&gt;Owen Davis&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-27T14:16:57-07:00&#34;&gt;2005-07-27T14:16:57-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I suspect I may find a reference to Cialdini&amp;rsquo;s book, &amp;ldquo;Influence: the Psychology of Persuasion&amp;rdquo; someplace on this blog, but I haven&amp;rsquo;t yet, so I am going to throw it out there as good reading on the psychology of all this (&amp;ldquo;an innocent association with either bad things or good things will influence how people feel about us&amp;rdquo;).
-Pete
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Pete&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-10T12:43:46-07:00&#34;&gt;2005-08-10T12:43:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Christopher,
-I got to your blog from an endorsement on your LinkedIn profile. Thank you for sharing this wonderful piece from Mick LaSalle. I blogged about it too on my business networking blog.
-I also noticed that in your list of Social Networks on the sidebar, you haven&amp;rsquo;t mentioned openBC - &lt;a href=&#34;http://www.openbc.com&#34;&gt;http://www.openbc.com&lt;/a&gt; , which is one of my two favorites for online networking [ the other being LinkedIn ].
-Best Regards,
-Naina Redhu
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.aside.in/blog/networking&#34;&gt;Naina Redhu&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-30T23:07:18-07:00&#34;&gt;2005-11-30T23:07:18-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/07/extrapolative_h.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.&amp;ndash; The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s column he says something that I find very accurate to my experience with the online medium:
+As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred.</description>
     </item>
     
   </channel>

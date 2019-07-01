@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/web/index.xml</link>
-    <description>Recent content in Web on Life With Alacrity</description>
+    <title>web on Life With Alacrity</title>
+    <link>http://www.lifewithalacrity.com/tags/web/</link>
+    <description>Recent content in web on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Dec 2004 08:44:31 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Google Suggest Dissected</title>
@@ -14,71 +17,7 @@
       <pubDate>Sat, 18 Dec 2004 08:44:31 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</guid>
-      <description>&lt;p&gt;As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.&lt;/p&gt;
-&lt;p&gt;So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on &lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/map_mashup.html&#34;&gt;Map Mashup&lt;/a&gt; and &lt;a href=&#34;http://www.lifewithalacrity.com/2004/09/tiddlywiki.html&#34;&gt;TiddlyWiki&lt;/a&gt; offer some interesting web UI exemplars.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;&lt;img width=&#34;200&#34; height=&#34;79&#34; border=&#34;0&#34; alt=&#34;Logo_google_suggest&#34; title=&#34;Logo_google_suggest&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/logo_google_suggest.gif&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;To this list of exemplars I now add &lt;a href=&#34;http://www.google.com/webhp?hl=en&amp;amp;complete=1&#34;&gt;Google Suggest&lt;/a&gt; by Google programmer &lt;a href=&#34;http://www.google.com/googleblog/2004/12/ive-got-suggestion.html&#34;&gt;Kevin Gibbs&lt;/a&gt;, who wrote this as part of Google employee&#39;s ability to work 20% of the time on their own projects.
-Google Suggest replaces the browser&#39;s default auto-complete with one specific to Google searching. As you type each letter of your search request, you are shown the most popular requests for that term, and how many search hits are available for that search term. You really have to try out to understand how amazing and intuitive it is.&lt;/p&gt;
-&lt;p&gt;Blogger &lt;a href=&#34;http://serversideguy.blogspot.com/&#34;&gt;Chris Justus&lt;/a&gt; has &lt;a href=&#34;http://serversideguy.blogspot.com/2004/12/google-suggest-dissected.html&#34;&gt;dissected and documented&lt;/a&gt; how Google Suggest works. If you are a web developer, I recommend you read his analysis and I hope it will inspire you.&lt;/p&gt;
-&lt;p&gt;This specific technique is probably not useful for all web sites -- the amount of load that even a small number of users can place on a database using this technique requires a large server infrastructure, as basically every time you type a letter a database is being hit. Google can do this as they understand server farms and how to scale large loads. However, as inspiration for other ideas, I think it is marvelous.&lt;/p&gt;
-&lt;p&gt;For instance, I didn&#39;t know you could take control over your browsers auto-complete functionality by setting autocomplete=&amp;quot;off&amp;quot; in your input field. Given this and the other techniques for display and cursor control, you could create dynamic auto-complete functionality on your own web pages, but skip the bandwidth intensive XMLHttpRequest by either caching the data in your web page, or in a user&#39;s cookie, or both. An example of this is &lt;a href=&#34;http://blog.bitflux.ch/&#34;&gt;BitFlux&lt;/a&gt; blog&#39;s &lt;a href=&#34;http://blog.bitflux.ch/archive/livesearch_roundup.html&#34;&gt;LiveSearch&lt;/a&gt; functionality (which is also documented &lt;a href=&#34;http://blog4.bitflux.ch/wiki/LiveSearch&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;The technique for retrieving the data using XMLHttpRequest is also marvelous. This functionality has been &lt;a href=&#34;http://developer.apple.com/internet/webcontent/xmlhttpreq.html&#34;&gt;around for a while&lt;/a&gt; but this is one of the cleanest examples of how to do it on the client side.&lt;/p&gt;
-&lt;p&gt;I&#39;ve got some other ideas on how to apply some of these techniques to Wiki pages -- hopefully in the next few months I&#39;ll have some proof-of-concept examples for you to play around with.&lt;/p&gt;
-&lt;p&gt;In addition, Google Suggest is now, in a sense, a new web service from google that can be used independently. For instance Adam Stiles has &lt;a href=&#34;http://www.adamstiles.com/adam/2004/12/hacking_google_.html&#34;&gt;written&lt;/a&gt; about a &lt;a href=&#34;http://www.netcaptor.net/adsense/suggest.php&#34;&gt;hack&lt;/a&gt; to help suggest keywords for AdSense.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Google Suggest is definitely interesting, and Kevin Gibbs is to be congratulated for putting it together. It&#39;s an elegant piece of work.
-I think the most intersting things, though, aren&#39;t about the ability to use RPC calls from Javascript. This is pretty old stuff. Brent Ashley released the JSRS library (http://www.ashleyit.com/rs/main.htm) some years ago (cf. these two articles at IBM from 2001: http://www-106.ibm.com/developerworks/library/wa-resc/?dwzone=web, http://www-128.ibm.com/developerworks/web/library/wa-rich/). The technique is somewhat different, using a hidden Iframe as a buffer, but the effect is the same.
-On the technical side, making this workable in real time is impressive. Rather than triggering actions with they onkeypress event, the input field is checked periodically with a timer. This means you don&#39;t have to wait from a response from google when you type something - if you get three letters entered in between checks, it will still appear nearly instant. (The above referenced article by Chris Justus may cover this, I can&#39;t recall at the moment). And the server side stuff required to be able to return search result counts so quickly has to be very well put together.
-On the non-developer side, what I find intersting is that something that has been possible for over three years is hitting the mainstream because Google&#39;s done it. There are tremendous boosts in usability possible using RPC calls, but in my somewhere over six years of web consulting, usability has always been the hardest sell. Now that there&#39;s a high profile application of this technique, I expect it will become as popular as CNET&#39;s orange menu bar was. (If only they had put that on the right side...).
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://iconys.com&#34;&gt;dwayne&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-12-21T17:56:03-07:00&#34;&gt;2004-12-21T17:56:03-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;dwayne&#39;s exactly right - interest in Javascript RPC has increased exponentially since GMail and now Google Suggest.  I&#39;ve seen hits to my remote scripting pages go crazy, with the side effect that my referrer spam has spiralled as well.
-I first started building rich UIs with MS Remote Scripting in 1998, and I haven&#39;t done any development on JSRS for a couple of years now.  If I had the time or inclination to redo it now, I would definitely use XMLHTTP.  I had to use iframe/layer at the time for wide compatibility.
-The image/cookie method is a great one for smaller stuff - I use ut to great effect at http://www.blogchat.com
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.ashleyit.com/rs&#34;&gt;Brent Ashley&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-01-04T11:20:28-07:00&#34;&gt;2005-01-04T11:20:28-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;If you like Google Suggest you will love this french tool called Pertimm. Take a look at this technology. It&#39;s really worth it. in order to access to a demo contact them at :
-http://www.pertimm.com/en/contact/index.htm
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://pouncha.typepad.com&#34;&gt;Pierre Vesoul&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-02-22T07:35:30-07:00&#34;&gt;2005-02-22T07:35:30-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;You might appreciate my &#34;Zuggest&#34; tool.
-It uses &#34;Ajax&#34; concepts and works similarly to Google Suggest but searches against the Amazon Product database as you&#39;re typing.
-Check it out: http://www.FrancisShanahan.com/zuggest.aspx
-It&#39;s built with Javascript, Amazon Web Services, SOAP, XMLHttp, XML, C# and ASP.NET and SQL Server.
-Would love to get some feedback on it.
--fs
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.FrancisShanahan.com&#34;&gt;Francis&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-04T19:21:34-07:00&#34;&gt;2005-03-04T19:21:34-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I noticed that google suggest does not show same number of results as google.com itself:
-http://www.nirendra.net/cms/google/suggest
--Nirendra
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.nirendra.net&#34;&gt;Nirendra Awasthi&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-11T13:38:36-07:00&#34;&gt;2005-05-11T13:38:36-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;This is another case where people are astonished to learn that there isn&#39;t any black magic going on here and that the functionality is there. it just takes quite a lot of fiddling to get right and in a form that is reusable. This is why I think that there is still a component market for these kinds of things. the google suggest and gmail suggest functionality has been commercialized already here:
-http://developer.ebusiness-apps.com/technologies/webdevelopment/codeandcomponents/ebawebcombov3/media/demos.htm
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.alexeiwhite.com&#34;&gt;alexei&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-06-12T22:31:34-07:00&#34;&gt;2005-06-12T22:31:34-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/12/google_suggest_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.</description>
     </item>
     
     <item>
@@ -87,24 +26,9 @@ http://developer.ebusiness-apps.com/technologies/webdevelopment/codeandcomponent
       <pubDate>Wed, 06 Oct 2004 00:12:46 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/10/map_mashup.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/mapmashup_1.gif&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=495,height=298,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img alt=&#34;Mapmashup_1&#34; title=&#34;Mapmashup_1&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/mapmashup_1.gif&#34; width=&#34;247&#34; height=&#34;149&#34; border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; /&gt;&lt;/a&gt;I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.&lt;/p&gt;
-&lt;p&gt;MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.&lt;/p&gt;
-&lt;p&gt;However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map. For instance, take a look at this map of &lt;a href=&#34;http://www.multimap.com/map/photo.cgi?client=public&amp;X=533258&amp;Y=180057&amp;width=500&amp;height=310&amp;gride=529090&amp;gridn=179645&amp;srec=0&amp;coordsys=gb&amp;db=pc&amp;pc=&amp;zm=0&amp;scale=10000&amp;up.x=186&amp;up.y=3&#34;&gt;the Tower of London and the Tower Bridge&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This trick is done completely in Javascript, located in &lt;a href=&#34;http://www.multimap.com/static/global.js&#34;&gt;global.js&lt;/a&gt;, and uses the overlay.style.* properties that I&#39;ve really only seen used in Javascript-based menus before. I&#39;m a bit confused on how this works in IE, as it does not support alpha tranparency as this posting &lt;a href=&#34;http://persistent.info/archives/2004/04/27/overlays&#34;&gt;semi-transparent image overlays&lt;/a&gt; discusses, but I suspect they accomplished it through careful use of transparency in the .gif overlay image. I&#39;ll have to investigate more.&lt;/p&gt;
-&lt;p&gt;There are probably many more other innovative uses of this type of transparency overlay tracking to the cursor that can be helpful in other web tools.&lt;/p&gt;
-&lt;p&gt;[original link via &lt;a href=&#34;http://www.futurismic.com/2004/10/magical-maps.html&#34;&gt;Futurismic&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;[&lt;a href=&#34;http://www.thingsthemselves.com/&#34;&gt;Jeffery To&lt;/a&gt; adds some more detail about this Javascript technique in this post&#39;s &lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/map_mashup.html#comments&#34;&gt;comments&lt;/a&gt;.]&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;The Javascript in http://www.multimap.com/static/global.js only sets the clipping for the overlay layer, since it changes everytime the user moves the mouse. The layer transparency (for overDiv) is set in http://www.multimap.com/static/ps_new.css . No need for transparent GIFs.
-IE does support alpha transparency for layers, using their filter:alpha(opacity=x) declaration. As the posting on semi-transparent image overlays points out, IE doesn&#39;t support alpha transparency for PNG images.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.thingsthemselves.com/&#34;&gt;Jeffery To&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-10-10T11:31:41-07:00&#34;&gt;2004-10-10T11:31:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/10/map_mashup.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
+MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
+However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map.</description>
     </item>
     
   </channel>

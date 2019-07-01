@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblogs on Life With Alacrity</title>
-    <link>http://www.lifewithalacrity.com/tags/weblogs/index.xml</link>
+    <link>http://www.lifewithalacrity.com/tags/weblogs/</link>
     <description>Recent content in Weblogs on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.lifewithalacrity.com/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Oct 2012 17:21:44 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.lifewithalacrity.com/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Introduction to the Social Web (Reading List #SW4SX)</title>
@@ -14,366 +17,8 @@
       <pubDate>Thu, 18 Oct 2012 17:21:44 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</guid>
-      <description>&lt;p&gt;These are the initial required readings for the first two weeks of my &lt;a href=&#34;http://www.bgi.edu/changing-business/social-web-for-social-change/&#34; target=&#34;_self&#34;&gt;Using the Social Web for Social Change&lt;/a&gt; class (hashtag #SW4SX) that I teach in the &lt;a href=&#34;http://www.bgi.edu/academics/mbas/hybrid-mba/&#34; target=&#34;_self&#34;&gt;MBA in Sustainable Systems&lt;/a&gt;&amp;#0160;program at &lt;a href=&#34;http://www.bgi.edu&#34; target=&#34;_self&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The goal of this portion of the class is to&amp;#0160;cover an introduction and overview of the landscape of the Social Web, establish among the students the beginning of a shared language about the medium, and introduce a process toward a collaborative culture that we will use for the rest of the course. Students are also kicking off their Beat blogs on sustainability topics, with the goal of helping them move toward having an authentic online voice.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: New Ways of Learning&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;When I designed this class four years ago, I was inspired by Michael Wesch&amp;#39;s class at Kansas State University. This is a shared artifact created by his class that I use to set the stage for my own students.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Wesch, Michael + Students “A Vision of Students Today”, Digital Ethnography. 12 Oct 2007
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=dGCJ46vyR9o&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=dGCJ46vyR9o&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://mediatedcultures.net/ksudigg/?p=119&#34;&gt;&amp;#0160;http://mediatedcultures.net/ksudigg/?p=119&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;HI-RES VIDEO:&lt;a href=&#34;http://www.mediafire.com/?3xbhmdmsfmd&#34;&gt;&amp;#0160;http://www.mediafire.com/?3xbhmdmsfmd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “This video was created by me and the 200 students enrolled in ANTH 200: Introduction to Cultural Anthropology at Kansas State University, Spring 2007. It began as a brainstorming exercise, thinking about how students learn, what they need to learn for their future, and how our current educational system fits in.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: Shared Language&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Every time a new group of people meet together — whether in a team, in a marketplace, or in a community — one of the first activities they must do together is create a shared language. They do this in order to communicate more effectively together, to put a context on the words that they have in common, to construct a shared understanding in their minds based both on available information and their individual diversity of experience.&lt;/em&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher. “Creating Shared Language and Shared Artifacts”, Life With Alacrity. 2009-09-17
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2009/09/creating-shared-language-and-shared-artiifacts.html&#34;&gt;&amp;#0160;/2009/09/creating-shared-language-and-shared-artiifacts.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “Without a shared language there will be no clarity on mutual goals — whether it involves working together, transacting a trade, or creating something…However, some facilitators have learned that one of the best ways to help a group form a shared language is by having the group create together a shared artifact…It allows the individuals participating to ask the questions: &amp;quot;Is this what you mean when…&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Pinker, Steven &amp;quot;Book Excerpt: Steven Pinker: Words Don&amp;#39;t Mean What They Mean&amp;quot; Time Magazine, 2007-09-06
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&amp;#0160;&lt;a href=&#34;http://www.time.com/time/magazine/article/0,9171,1659772,00.html&#34;&gt;http://www.time.com/time/magazine/article/0,9171,1659772,00.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Why don&amp;#39;t people just say what they mean? The reason is that conversational partners are not modems downloading information into each other&amp;#39;s brains. People are very, very touchy about their relationships. Whenever you speak to someone, you are presuming the two of you have a certain degree of familiarity--which your words might alter. So every sentence has to do two things at once: convey a message and continue to negotiate that relationship.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Kim, Eugene Eric &amp;quot;Developing Shared Language&amp;quot; eeKim.com, 2006-06-09
-&lt;ul&gt;
-&lt;li&gt;BLOG:&amp;#0160;&lt;a href=&#34;http://eekim.com/blog/2006/06/developing-shared-language/&#34;&gt;http://eekim.com/blog/2006/06/developing-shared-language/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Shared Language is a prerequisite to collaboration. Without Shared Language, we can’t collaborate. It’s as simple as that. When a group tries to collaborate without having Shared Language, the group will try to create it, whether it’s aware of it or not. This creation process is often frustrating and painful, and as a result, people sometimes try to skip this step or belittle the process. This is a problem. You can’t skip this step.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: Introduction to the Social Web&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;So what is the Social Web? It is Social Networks of people having conversations; Who are sharing Social Media; It functions using Social Software applications; And takes advantage of the toolchest of open technologies called Web 2.0.&lt;/em&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher “Intro to the Social Web Slidecast ” Slideshare 2010-09
-&lt;ul&gt;
-&lt;li&gt;SLIDECAST:&lt;a href=&#34;http://www.slideshare.net/ChristopherA/introduction-to-the-social-web-2010-0714final-5299817&#34;&gt;&amp;#0160;http://www.slideshare.net/ChristopherA/introduction-to-the-social-web-2010-0714final-5299817&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “There is only one way to manage this rapid change — JOIN THE CONVERSATION”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;strong&gt;SUB-TOPIC: Social Web - Social Networking&lt;/strong&gt;&lt;br /&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;So what are Social Networks? A web of interconnected people who directly or indirectly interact with or influence each other.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lefever, Lee “Social Networking in Plain English”, CommonCraft, 2007-06-27
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=6a_KF7TYKVc&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=6a_KF7TYKVc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(ABSTRACT:&lt;a href=&#34;http://commoncraft.com/video-social-networking&#34;&gt;&amp;#0160;http://commoncraft.com/video-social-networking&lt;/a&gt;&amp;#0160;)&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “Social Networking in Plain English introduces the basic ideas behind Social Networking. The video focuses on the role of social networking in solving real-world problems. The video includes: The role of people networks in business and personal life; The hidden nature of real-world people networks; How social networking sites reveal hidden connections; The basic features of social networking websites.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Levin, Adina &amp;quot;Social Networks Will Enhance Productivity&amp;quot; Ideas Project, 2009-09-04
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=PuCo5zgW5PU&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=PuCo5zgW5PU (00:04:58 in length)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;TRANSCRIPT:&lt;a href=&#34;http://www.ideasproject.com/transcript.webui?id=4538&#34;&gt;&amp;#0160;http://www.ideasproject.com/transcript.webui?id=4538&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(ABSTRACT:&lt;a href=&#34;http://www.ideasproject.com/idea_person.webui?id=4537&#34;&gt;http://www.ideasproject.com/idea_person.webui?id=4537&lt;/a&gt;&amp;#0160;)&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;The big trend I&amp;#39;m seeing in the future of communications is actually using the social network to share, to be more productive in the work environment, and to do more expression, organizing, creativity, in social and civic context. We&amp;#39;re just in the early stages of the enabling technology to make that happen, how to make that happen technically, and how to make it happen socially so that we can use our social networks and use our groups as a foundation for doing really interesting, productive, and creative things.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Social Web - Social Media&lt;/strong&gt;&lt;/p&gt;
-&lt;div title=&#34;Page 32&#34;&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;What is Social Media: The online technologies and practices that people use to share opinions, insights, experiences, and perspectives with each other.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Qualman, Erik “Social Media Revolution 2 (refresh)”, YouTube, 2010-05-27
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://youtu.be/omSKo1OW6CU&#34;&gt;&amp;#0160;http://youtu.be/omSKo1OW6CU&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ABSTRACT: “Social Media Revolution 2 is a refresh of the original video with new and updated social media &amp;amp; mobile statistics that are hard to ignore. Based on the book Socialnomics by Erik Qualman.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Shirky, Clay &amp;quot;How Social Media can Make History&amp;quot;, TEDed 2009-06
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&amp;#0160;&lt;a href=&#34;http://ed.ted.com/lessons/clay-shirky-how-social-media-can-make-history&#34;&gt;http://ed.ted.com/lessons/clay-shirky-how-social-media-can-make-history&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ABSTRACT: &amp;quot;While news from Iran streams to the world, Clay Shirky shows how Facebook, Twitter and TXTs help citizens in repressive regimes to report on real news, bypassing censors (however briefly). The end of top-down control of news is changing the nature of politics.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Social Web - Social Software&lt;/strong&gt;&lt;/p&gt;
-&lt;div title=&#34;Page 38&#34;&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;What is Social Software? Software that supports, extends,&amp;#0160;or derives value from human&amp;#0160;social behavior.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher &amp;quot;Tracing the Evolution of Social Software.&amp;quot; Life With Alacrity. 13 Oct 2004
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&amp;#0160;&lt;a href=&#34;http://www.lifewithalacrity.com/2004/10/tracing_the_evo.html&#34;&gt;/2004/10/tracing_the_evo.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;The term &amp;#39;social software&amp;#39;, which is now used to define software that supports group interaction, has only become relatively popular within the last two or more years. However, the core ideas of social software itself enjoy a much longer history, running back to Vannevar Bush&amp;#39;s ideas about &amp;#39;memex&amp;#39; in 1945, and traveling through terms such as Augmentation, Groupware, and CSCW in the 1960s, 70s, 80s, and 90s. By examining the many terms used to describe today&amp;#39;s &amp;#39;social software&amp;#39; we can also explore the origins of social software itself, and see how there exists a very real life cycle concerning the use of technical terminology.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Social Web - Web 2.0&lt;/strong&gt;&lt;/p&gt;
-&lt;div title=&#34;Page 47&#34;&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;So what is Web 2.0?&amp;#0160;The technology and web design to enhance creativity, information sharing, and collaboration among users&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Welsch, Michael “The Machine is Us/ing Us (Final Version)”, Digital Ethnography
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=NLlGopyXT_g&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=NLlGopyXT_g&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;HI-RES VIDEO:&lt;a href=&#34;http://www.mediafire.com/?6hqygitsy0v&#34;&gt;&amp;#0160;http://www.mediafire.com/?6hqygitsy0v&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SUMMARY: “Web 2.0 in under 5 minutes”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Strickland, Jonathan &amp;quot;How Web 2.0 Works&amp;quot; How Stuff Works, 2010-01
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&amp;#0160;&lt;a href=&#34;http://computer.howstuffworks.com/web-20.htm&#34;&gt;http://computer.howstuffworks.com/web-20.htm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE &amp;quot;In September 2005, Tim O&amp;#39;Reilly posted a&amp;#0160;&lt;a href=&#34;http://computer.howstuffworks.com/internet/social-networking/information/blog.htm&#34;&gt;blog&lt;/a&gt;entry that defined Web 2.0. The explanation spanned five pages of text and graphics illustrating O&amp;#39;Reilly&amp;#39;s take on what the term meant.&amp;#0160;O&amp;#39;Reilly&amp;#39;s philosophy of Web 2.0 included these ideas:
-&lt;ul&gt;
-&lt;li&gt;Using the Web as an applications platform&lt;/li&gt;
-&lt;li&gt;Democratizing the Web&lt;/li&gt;
-&lt;li&gt;Employing new methods to distribute information&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: History of the Social Web&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Chapman, Cameron &amp;quot;The History and Evolution of Social Media&amp;quot; Web Designer Depot, 2009-10-07
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&amp;#0160;&lt;a href=&#34;http://www.webdesignerdepot.com/2009/10/the-history-and-evolution-of-social-media/&#34;&gt;http://www.webdesignerdepot.com/2009/10/the-history-and-evolution-of-social-media/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;QUOTE: &amp;quot;Social media has become an integral part of modern society.&amp;#0160;There are general social networks with user bases larger than the population of most countries. There are niche sites for virtually every special interest out there. There are sites to share photos, videos, status updates, sites for meeting new people and sites to connect with old friends. It seems there are social solutions to just about every need. In this article, we’ll review the history and evolution of social media from its humble beginnings to the present day.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: Best Practices&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Best Practices — Passwords&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher &amp;quot;Password Best Practices&amp;quot; Life With Alacrity, 2009-09-25
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2009/09/password-best-practices.html&#34;&gt;&amp;#0160;/2009/09/password-best-practices.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Be Safe: None of these approaches is perfect, but they significantly raise the bar against any but the most determined cracker from breaking into one of your accounts. The domain letter technique will also make it very difficult for a cracker to break into your more important financial accounts if he gets access to your password from a poorly secured website or masquerades as a legitimate website or email by using a phishing attack.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Best Practices — Information &amp;#0160;and Time Management&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher “Scan, Focus, Act” Slideshare 2010-20111
-&lt;ul&gt;
-&lt;li&gt;SLIDECAST:&lt;a href=&#34;http://www.slideshare.net/easleyme/scan-focus-act&#34;&gt;&amp;#0160;http://www.slideshare.net/easleyme/scan-focus-act&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “My advice is that you break what it is you’re doing into these phases: Scan, Focus, Act. This is going to allow you to filter information more effectively.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Best-Practices — Backchannels&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Guernsy, Lisa &amp;quot;In the Lecture Hall, a Geek Chorus&amp;quot; New York Times: Circuits, 2003-07-24
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&lt;a href=&#34;http://www.nytimes.com/2003/07/24/technology/circuits/24mess.html&#34;&gt;http://www.nytimes.com/2003/07/24/technology/circuits/24mess.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;But others are genuinely interested in a lecturer&amp;#39;s topic and want to talk concurrently about what is being said. They may also like to pass around links to Web sites that relate to, and may refute, a speaker&amp;#39;s point. For them, wireless technology allows a back channel of communication, a second track that reveals their thoughts and feedback and records it all for future reference.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Mitchell, Olivia &amp;quot;How to Present While People are Twittering&amp;quot; Pistachio, 2009-02-23
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://pistachioconsulting.com/twitter-presentations/&#34;&gt;&amp;#0160;http://pistachioconsulting.com/twitter-presentations/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;The back-channel blurs the line between the presenter and the audience. Now everyone can be an active participant.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: The Social Era&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Merchant, Nilofer &amp;quot;Rules for the Social Era&amp;quot; Harvard Business Review Blog Network, 2012-02-14
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST: Part One: &amp;quot;Rules for the Social Era&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/02/rules_for_the_social_era.html&#34;&gt;http://blogs.hbr.org/cs/2012/02/rules_for_the_social_era.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part Two: &amp;quot;Social Means Freedom, for Better or Worse&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/02/social_means_freedom_for_bette.html&#34;&gt;http://blogs.hbr.org/cs/2012/02/social_means_freedom_for_bette.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part Three: &amp;quot;Why Porter&amp;#39;s Model No Longer Works&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/02/why_porters_model_no_longer_wo.html&#34;&gt;http://blogs.hbr.org/cs/2012/02/why_porters_model_no_longer_wo.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part Four: &amp;quot;Why Social Marketing is So Hard&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/03/why_social_marketing_is_so_har.html&#34;&gt;http://blogs.hbr.org/cs/2012/03/why_social_marketing_is_so_har.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part Five: &amp;quot;Stop Talking about Social and Do It&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/03/stop_talking_about_social_and_do_it.html&#34;&gt;http://blogs.hbr.org/cs/2012/03/stop_talking_about_social_and_do_it.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Part Six: &amp;quot;Traditional Strategy is Dead. Welcome to the #SocialEra&amp;quot;&amp;#0160;&lt;a href=&#34;http://blogs.hbr.org/cs/2012/09/traditional_strategy_is_dead_w.html&#34;&gt;http://blogs.hbr.org/cs/2012/09/traditional_strategy_is_dead_w.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Companies cannot survive (let alone prosper) without recognizing that Social as a phenomenon can allow us to redefine our organizations to be inherently more fast fluid and flexible by its very design. Not by doing a little bit more, or slimming down a bit here or there, or by doing a few things a little bit faster. No. We will not tweak our way into the future.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: The Dark Side&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: The Dark Side: Information Overload, Attention, Multitasking&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shirky, Clay &amp;quot;It&amp;#39;s Not Information Overload. It&amp;#39;s Filter Failure&amp;quot; Web 2.0 Expo
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://web2expo.blip.tv/file/1277460/&#34;&gt;&amp;#0160;http://web2expo.blip.tv/file/1277460/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(ALTVIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=LabqeJEOQyI&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=LabqeJEOQyI&lt;/a&gt;&amp;#0160;)&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;What we&amp;#39;re dealing with now is not the problem of information overload, because we&amp;#39;re always dealing (and always have been dealing) with information overload...Thinking about information overload isn&amp;#39;t accurately describing the problem; thinking about filter failure is.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Baer, Jay “Social Media, Pretend Friends, and the Lie of False Intimacy”, Jay Baer’s Convince and Convert
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&lt;a href=&#34;http://www.convinceandconvert.com/social-networks/social-media-pretend-friends-and-the-lie-of-false-intimacy/&#34;&gt;&amp;#0160;http://www.convinceandconvert.com/social-networks/social-media-pretend-friends-and-the-lie-of-false-intimacy/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: “Fundamentally, technology and our use of it isn’t – as we’ve all hoped – bringing us closer together. In fact, it may be driving us farther apart, as we know more and more people, but know less and less about each of them.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Richtel, Matt &amp;quot;Attached to Technology and Paying a Price: Your Brain on Computers&amp;quot; New York Times, 2010-06-10
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&lt;a href=&#34;http://www.nytimes.com/2010/06/07/technology/07brain.html&#34;&gt;&amp;#0160;http://www.nytimes.com/2010/06/07/technology/07brain.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SINGLEPAGE:&lt;a href=&#34;http://www.nytimes.com/2010/06/07/technology/07brain.html?_r=1&amp;amp;pagewanted=all&#34;&gt;&amp;#0160;http://www.nytimes.com/2010/06/07/technology/07brain.html?_r=1&amp;amp;pagewanted=all&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot; Scientists say juggling e-mail, phone calls and other incoming information can change how people think and behave. They say our ability to focus is being undermined by bursts of information. These play to a primitive impulse to respond to immediate opportunities and threats. The stimulation provokes excitement — a dopamine squirt — that researchers say can be addictive. In its absence, people feel bored.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: The Dark Side: Privacy&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shirky, Clay &amp;quot;Facebook Killed the Private Life&amp;quot; Switched, 2007-11-06
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=azIW1xjSTCo&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=azIW1xjSTCo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p dir=&#34;ltr&#34;&gt;KEYQUOTE: &amp;quot;You live your life online -- and anyone can read it. Should employers be able to troll your Facebook or MySpace page? Or should everything that you put online be accessible to anyone, anywhere?&amp;quot;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Allen, Christopher &amp;quot;Four Kinds of Privacy&amp;quot; Life With Alacrity, 2004-04-22
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.lifewithalacrity.com/2004/04/four_kinds_of_p.html&#34;&gt;/2004/04/four_kinds_of_p.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;My thoughts have now gelled sufficiently to make some observations about privacy. When people speak about privacy, they may actually be talking about very different forms of privacy: defensive privacy, human-rights privacy, personal privacy, and contextual privacy.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Madden, Mary &amp;quot;Privacy management on social media sites: Summary of Findings&amp;quot; Pew Internet 2012-02-24
-&lt;ul&gt;
-&lt;li&gt;SUMMARY OF FINDINGS:&amp;#0160;&lt;a href=&#34;http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx&#34;&gt;http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Social media users who are college graduates are significantly more likely than those with lower levels of education to say that they experience some difficulty in managing the privacy controls on their profiles.&amp;#0160;…&amp;#0160;11% of SNS users have posted content they regret.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Consumer Reports &amp;quot;Facebook &amp;amp; your privacy —&amp;#0160;Who sees the data you share on the biggest social network?&amp;quot; Consumer Reports Magazone, 2012-06
-&lt;ul&gt;
-&lt;li&gt;ARTICLE:&amp;#0160;&lt;a href=&#34;http://www.consumerreports.org/cro/magazine/2012/06/facebook-your-privacy/index.htm&#34; target=&#34;_self&#34;&gt;http://www.consumerreports.org/cro/magazine/2012/06/facebook-your-privacy/index.htm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ABSTRACT: &amp;quot;How much information is really being collected about you? How is it being used? And could it fall into the wrong hands?&amp;#0160;To find out, we queried Facebook and interviewed some two dozen others, including security experts, privacy lawyers, app developers, and victims of security and privacy abuse. We dug into private, academic, and government research, as well as Facebook’s labyrinthian policies and controls. And we surveyed 2,002 online households, including 1,340 that are active on Facebook, for our annual State of the Net report. We then projected those data to estimate national totals.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Thompson, Clive &amp;quot;Brave New World of Digital Intimacy&amp;quot; New York Tim&lt;a href=&#34;http://www.youtube.com/watch?v=JWCKmh6aTII&#34;&gt;es, 2008-09-07&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=JWCKmh6aTII&#34;&gt;ARTICLE: http://www.nytimes.com/2008/09/07/magazine/07aw&lt;/a&gt;&lt;a href=&#34;http://www.nytimes.com/2008/09/07/magazine/07awareness-t.html&#34;&gt;areness-t.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;(SINGLEPAGE:&lt;a href=&#34;http://www.nytimes.com/2008/09/07/magazine/07awareness-t.html?_r=2&amp;amp;oref=slogin&amp;amp;pagewanted=all&#34;&gt;&amp;#0160;http://www.nytimes.com/2008/09/07/magazine/07awareness-t.html?_r=2&amp;amp;oref=slogin&amp;amp;pagewanted=all&lt;/a&gt;&amp;#0160;)&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;It is easy to become unsettled by privacy-eroding aspects of awareness tools. But there is another — quite different — result of all this incessant updating: a culture of people who know much more about themselves. Many of the avid Twitterers, Flickrers and Facebook users I interviewed described an unexpected side-effect of constant self-disclosure. The act of stopping several times a day to observe what you’re feeling or thinking can become, after weeks and weeks, a sort of philosophical act. It’s like the Greek dictum to “know thyself,” or the therapeutic concept of mindfulness. (Indeed, the question that floats eternally at the top of Twitter’s Web site — “What are you doing?” — can come to seem existentially freighted. What are you doing?) Having an audience can make the self-reflection even more acute, since, as my interviewees noted, they’re trying to describe their activities in a way that is not only accurate but also interesting to others: the status update as a literary form.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: The Dark Side: Power &amp;amp; Class&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;#0160;Boyd, Danah &amp;quot;The Not-So-Hidden Politics of Class Online&amp;quot; Personal Democracy Forum (YouTube) 2009-07-09
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=qGL09x76MGQ&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=qGL09x76MGQ&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=JWCKmh6aTII&#34;&gt;Boyd, Danah “class divisions &amp;amp; social networks” YouTube 2009-07-05&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=JWCKmh6aTII&#34;&gt;VIDEO:&lt;/a&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=1CaK0GAT6A0&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=1CaK0GAT6A0 (00:01:13 in length)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;TOPIC: Authentic Voice:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Authentic Voice — Introduction to Blogging&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lefever, Lee “Blogging in Plain English”, CommonCraft 2008-03-05
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&lt;a href=&#34;http://www.youtube.com/watch?v=NN2I1pWXjXI&#34;&gt;&amp;#0160;http://www.youtube.com/watch?v=NN2I1pWXjXI&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ABSTRACT: “A video for people who wonder why blogs are such a big deal. This is a short introduction to blogs - how they work and why they matter.”&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Lefever, Lee &amp;quot;RSS in Plain English&amp;quot;, CommonCraft 2007-04-23
-&lt;ul&gt;
-&lt;li&gt;VIDEO:&amp;#0160;&lt;a href=&#34;http://www.youtube.com/watch?v=0klgLsSxGsU&#34; target=&#34;_self&#34;&gt;http://www.youtube.com/watch?v=0klgLsSxGsU&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ABSTRACT: &amp;quot;A short explanation of RSS and how it helps you save time reading the web. This video comes in an unbranded &amp;quot;presentation quality&amp;quot; version that can be licensed for use in the workplace.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Bernstein, Mark &amp;quot;10 Tips on Writing the Living Web&amp;quot; 2002-08-16
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.alistapart.com/articles/writeliving&#34;&gt;&amp;#0160;http://www.alistapart.com/articles/writeliving&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;QUOTE: &amp;quot;Writing for the Living Web is a tremendous challenge. Here are ten tips that can help.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Patel, Neil &amp;quot;The First 7 Days of Blogging&amp;quot; Pronet Advertising, 2006-10-17
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.pronetadvertising.com/articles/the-first-7-days-of-blogging.html&#34;&gt;&amp;#0160;http://www.pronetadvertising.com/articles/the-first-7-days-of-blogging.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYPOINTS: &amp;quot;Don&amp;#39;t launch until the blog is properly setup. Pick a topic and stick with it. Be consistent. Don&amp;#39;t leave your readers stranded. Get to the point. Spice it up. Don&amp;#39;t expect the world.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Rowse, Darren &amp;quot;Declaring War on Blogger Apathy&amp;quot; ProBlogger, 2005-08-08
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.problogger.net/archives/2005/08/08/1362/&#34;&gt;http://www.problogger.net/archives/2005/08/08/1362/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;QUOTE: &amp;quot;So I’ve decided it’s time to declare war on Blog Apathy and want to share a number of the things that have helped me keep my motivation up in blogging. Feel free to add your own experience and tips in comments.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;SUB-TOPIC: Authentic Voice — Writing for Your Audience&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;VanFossen, Lorelle &amp;quot;Are You Really Writing For Your Blog Audience?&amp;quot; The Blog Herald, 2007-05-04
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&lt;a href=&#34;http://www.blogherald.com/2007/05/04/are-you-really-writing-for-your-blog-audience/&#34;&gt;&amp;#0160;http://www.blogherald.com/2007/05/04/are-you-really-writing-for-your-blog-audience/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;Think about how the trendy, jargon, national, and regional references you use in your blog may be misunderstood or even confuse your blog readers. It’s critical for bloggers to be “understood”, so take time to look at what you write and how your writing may create a disconnect with your readers.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Finney, Hal &amp;quot;Writing for the Future&amp;quot; extropy-chat 2004-11-19
-&lt;ul&gt;
-&lt;li&gt;BLOGPOST:&amp;#0160;&lt;a href=&#34;http://lists.extropy.org/pipermail/extropy-chat/2004-November/011224.html&#34;&gt;http://lists.extropy.org/pipermail/extropy-chat/2004-November/011224.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;KEYQUOTE: &amp;quot;One thing we should keep in mind when writing here or in any online forum is that we are writing not only for the present, but for the future. Our words may well be read many times, even far into the future. They are recorded in public and private archives and will be available indefinitely. Given the likely increase in future levels of intelligence and attention, it may even turn out that more eyes see our writings in the far future than in the near present.&amp;quot;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I welcome your thoughts for additional or replacement Social Web introductory readings that we can use in the next class in the Spring of 2013.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>These are the initial required readings for the first two weeks of my Using the Social Web for Social Change class (hashtag #SW4SX) that I teach in the MBA in Sustainable Systems&amp;#0160;program at Bainbridge Graduate Institute.
+The goal of this portion of the class is to&amp;#0160;cover an introduction and overview of the landscape of the Social Web, establish among the students the beginning of a shared language about the medium, and introduce a process toward a collaborative culture that we will use for the rest of the course.</description>
     </item>
     
     <item>
@@ -382,36 +27,8 @@
       <pubDate>Sun, 16 Oct 2011 17:35:27 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2011/10/bgiedu-students-post-for-blog-action-day.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-pi&#34; style=&#34;float: right;&#34;&gt;&lt;img alt=&#34;Blog-action-day-food-500x250&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef0154362c6f5f970c&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef0154362c6f5f970c-320wi&#34; style=&#34;margin: 0px 0px 5px 5px;&#34; title=&#34;Blog-action-day-food-500x250&#34; /&gt;&lt;/a&gt;Today is &lt;a href=&#34;http://blogactionday.org/&#34; target=&#34;_self&#34; title=&#34;Blog Action Day Website&#34;&gt;Blog Action Day&lt;/a&gt;, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags &lt;a href=&#34;http://twitter.com/search/%23food&#34; target=&#34;_self&#34;&gt;#FOOD&lt;/a&gt; and&amp;#0160;&lt;a href=&#34;http://twitter.com/search/%23bad11&#34; target=&#34;_self&#34;&gt;#BAD11&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This year&amp;#39;s topic is &lt;a href=&#34;http://blogactionday.org/why-food/&#34; target=&#34;_self&#34; title=&#34;Blog Action Day — Why Food?&#34;&gt;Food&lt;/a&gt;, and this year many of my students of my &lt;a href=&#34;http://www.bgi.edu&#34; target=&#34;_self&#34;&gt;BGIedu&lt;/a&gt; class &lt;a href=&#34;http://www.bgi.edu/voice-of-bgi/social-web-for-social-change/&#34; target=&#34;_self&#34;&gt;Using the Social Web for Social Change&lt;/a&gt;&amp;#0160;are using the day to help kick off their &amp;quot;Beat Blog&amp;quot; assignments. The goal of Beat Blogs is for each student to choose a topic they are passionate about and blog about it at least weekly for two and a half months. Many students decide to keep their blogs going afterwards, am I&amp;#39;m always tickled when that happens.&lt;/p&gt;
-&lt;p&gt;Some of the blog posts by my students on the topic of Food:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localfoods-localeconomy.blogspot.com/2011/10/make-connection-for-blog-action-day.html&#34; target=&#34;_self&#34;&gt;Make a Connection for Blog Action Day&lt;/a&gt; (from&amp;#0160;Building Stronger Communities Through Sustainable Agriculture, a blog on &lt;a href=&#34;http://localfoods-localeconomy.blogspot.com/2011/10/we-all-gotta-eat.html&#34; target=&#34;_self&#34;&gt;sustainable agriculture&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://daveaculture.blogspot.com/2011/10/blog-action-day-permaculture-out-of.html&#34; target=&#34;_self&#34;&gt;Blog Action Day &amp;amp; Permaculture&lt;/a&gt;&amp;#0160;(from Dave-A-Culture, a blog on &lt;a href=&#34;http://daveaculture.blogspot.com/2011/10/permaculture-ancient-wisdom-modern.html&#34; target=&#34;_self&#34;&gt;permaculture&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://nearthelevel.wordpress.com/2011/10/16/to-meat-or-not-to-meat/&#34; target=&#34;_self&#34;&gt;to Meat or not to Meat&lt;/a&gt; (from Near the Level, a moderate&amp;#39;s blog on &lt;a href=&#34;http://nearthelevel.wordpress.com/2011/10/01/whats-in-store/&#34; target=&#34;_self&#34;&gt;polarities&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://liztoots.blogspot.com/2011/10/learning-what-to-eat-and-what-to.html&#34; target=&#34;_self&#34;&gt;Learning What to Eat and What to Believe&lt;/a&gt; (from Liz Toots, a blog on &lt;a href=&#34;http://liztoots.blogspot.com/2011/10/first-little-nibble.html&#34; target=&#34;_self&#34;&gt;digestive health&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://attentiontochange.com/2011/10/food-attention-and-leadership/&#34; target=&#34;_self&#34;&gt;Food, Attention &amp;amp; Leadership&lt;/a&gt; (from Attention to Change, a blog on a&lt;a href=&#34;http://attentiontochange.com/2011/10/welcome/&#34; target=&#34;_self&#34;&gt;ttention&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://appsforchange.blogspot.com/2011/10/food-and-dignity.html&#34; target=&#34;_self&#34;&gt;Food and Dignity&lt;/a&gt;&amp;#0160;(from Apps for Change, a blog on &lt;a href=&#34;http://appsforchange.blogspot.com/&#34; target=&#34;_self&#34;&gt;web-based and mobile applications for good&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cultivatingbridges.wordpress.com/2011/10/16/blog-action-day-food-security-stewardship-and-cross-cultural-bridge-building/&#34; target=&#34;_self&#34;&gt;Food Security, Stewardship, and Cross-Cultural Bridge Building&lt;/a&gt;&amp;#0160;(Cultivating Bridges, a blog on &lt;a href=&#34;http://cultivatingbridges.wordpress.com/2011/10/05/welcome-to-cultivating-bridges/&#34; target=&#34;_self&#34;&gt;intersection of economic community development &amp;amp; faith&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://cacaoforacause.wordpress.com/2011/10/16/blog-action-day-world-food-day-the-importance-of-fair-trade-chocolate-bad11/&#34; target=&#34;_self&#34;&gt;The Importantance of Fair Trade Chocolate&lt;/a&gt; (from Cacao for a Cause, a blog on&amp;#0160;&lt;a href=&#34;http://cacaoforacause.wordpress.com/2011/10/05/hello-world/&#34; target=&#34;_self&#34;&gt;cacao, sustainability, and conscious consumption&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://patrick-rost-sounds-and-silences.blogspot.com/2011/10/2011-10-16-listen-to-your-stomach.html&#34; target=&#34;_self&#34;&gt;Listen to Your Stomach&lt;/a&gt; (from Sounds &amp;amp; Silences, a blog on &lt;a href=&#34;http://patrick-rost-sounds-and-silences.blogspot.com/2011/10/2011-10-09-mgt-566sx-week-3-beat.html&#34; target=&#34;_self&#34;&gt;sound, silence and holding space&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.ceurvorst.com/2011/10/16/blog-action-day-a-solution-for-food-deserts/&#34; target=&#34;_self&#34;&gt;A Solution for Food Deserts&lt;/a&gt; (from Rhizome Design Blog, a blog on &lt;a href=&#34;http://blog.ceurvorst.com/2011/10/11/social-web-learning-journal-post-1/&#34; target=&#34;_self&#34;&gt;designing solutions to empower people to radiate joy&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://socialignition.blogspot.com/2011/10/social-ignition-via-food-blog-action.html&#34; target=&#34;_self&#34;&gt;Social Ignition via Food&lt;/a&gt; (from Social Ignition, a &lt;a href=&#34;http://socialignition.blogspot.com/2011/10/start-your-engines.html&#34; target=&#34;_self&#34;&gt;blog on empowering non-profits&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://opportunityknocksforcleantech.blogspot.com/2011/10/local-organic-food-is-clean-technology.html&#34; target=&#34;_self&#34;&gt;Local Organic Food IS Clean Technology&lt;/a&gt; (from Opportunity Knocks for Cleantech, a blog on &lt;a href=&#34;http://opportunityknocksforcleantech.blogspot.com/2011/10/clean-energy-unreliable-subsidies.html&#34; target=&#34;_self&#34;&gt;opportunities in clean tech&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://tamarasparkinthedark.blogspot.com/2011/10/blog-action-day-good-food-good-business.html&#34; target=&#34;_self&#34;&gt;Good Food. Good Business.&lt;/a&gt; (from Spark in the Dark, a &lt;a href=&#34;http://tamarasparkinthedark.blogspot.com/2011/10/welcome-to-spark-in-dark.html&#34; target=&#34;_self&#34;&gt;blog on living well while living lighter&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://gmobeat.blogspot.com/2011/10/monsantos-perfect-pumpkin.html&#34; target=&#34;_self&#34;&gt;Monsanto&amp;#39;s Perfect Pumpkin&lt;/a&gt; (from Taryn&amp;#39;s GMO Beat, a blog on &lt;a href=&#34;http://gmobeat.blogspot.com/2011/10/stay-tuned.html&#34; target=&#34;_self&#34;&gt;GMO genetically modified foods&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://irrational-minds.blogspot.com/2011/10/we-interrupt-our-regularly-scheduled.html&#34; target=&#34;_self&#34;&gt;We Interrupt Our Regularly Scheduled Programming...&lt;/a&gt; (from (ir)Rational minds, a blog on &lt;a href=&#34;http://irrational-minds.blogspot.com/2011/10/fitting.html&#34; target=&#34;_self&#34;&gt;schizophrenia and mental health&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://systemsdiva.blogspot.com/2011/10/redesignin-food-systems-redefining.html&#34; target=&#34;_self&#34;&gt;Redesigning food systems. Redefining impacts.&lt;/a&gt; (from Systems Diva (in the Making), a blog on systems thinking)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://oceanheartbeat.blogspot.com/2011/10/can-oceans-continue-to-feed-our-growing.html&#34; target=&#34;_self&#34;&gt;Can The Oceans Continue to Feed our Growing Population?&lt;/a&gt; (from Follow the Ocean&amp;#39;s Heartbeat, a blog on &lt;a href=&#34;http://oceanheartbeat.blogspot.com/2011/10/listen-to-rhythm-of-ocean-its-calling.html&#34; target=&#34;_self&#34;&gt;ocean conservation&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://bodyworkeconomics.wordpress.com/2011/10/17/food-and-health-care/&#34; target=&#34;_self&#34;&gt;Food and health (care)&lt;/a&gt; (from&amp;#0160;Bodywork Economics, a blog on a &lt;a href=&#34;http://bodyworkeconomics.wordpress.com/2011/09/30/hello-world/&#34; target=&#34;_self&#34;&gt;business case for health, wellness and preventative therapies&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ticsnow.wordpress.com/&#34; target=&#34;_self&#34;&gt;Blog Action Day on Food&lt;/a&gt; (from ticsnow, a blog on &lt;a href=&#34;http://ticsnow.wordpress.com/2011/10/15/ticsnow-demystified/&#34; target=&#34;_self&#34;&gt;technology innovation creativity and sustainability now&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All of these bloggers are new to the blogosphere, but if you appreciate what they have to say, give a quick comment — it goes a long way to encourage them to continue.&lt;/p&gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01539258a42d970b-pi&#34; style=&#34;display: inline;&#34;&gt;&lt;img alt=&#34;BGI-Logo-Print Small_0&#34; border=&#34;0&#34; class=&#34;asset  asset-image at-xid-6a00d8341d8bc053ef01539258a42d970b&#34; src=&#34;http://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01539258a42d970b-800wi&#34; title=&#34;BGI-Logo-Print Small_0&#34; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;/ul&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2011/10/bgiedu-students-post-for-blog-action-day.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Today is Blog Action Day, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags #FOOD and&amp;#0160;#BAD11.
+This year&amp;#39;s topic is Food, and this year many of my students of my BGIedu class Using the Social Web for Social Change&amp;#0160;are using the day to help kick off their &amp;quot;Beat Blog&amp;quot; assignments.</description>
     </item>
     
     <item>
@@ -420,13 +37,7 @@
       <pubDate>Sun, 13 Jul 2008 13:22:55 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2008/07/new-blog-for-ep.html</guid>
-      <description>&lt;p&gt;This blog has been quiet lately as I&#39;ve been doing a lot of work in the last year on the iPhone. I&#39;ve been speaking at conferences like eComm 2008 (&lt;a href=&#34;http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008&#34;&gt;presentation&lt;/a&gt;, &lt;a href=&#34;http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html&#34;&gt;video from panel&lt;/a&gt;), writing an book on the iPhone with my co-author Shannon Appelcline called &lt;a href=&#34;http://www.manning.com/callen&#34;&gt;iPhone in Action: Introduction to Web and SDK Development&lt;/a&gt; (first &lt;a href=&#34;http://www.manning-source.com/books/callen/callen_meapch1-2.pdf&#34;&gt;two chapters&lt;/a&gt; free&lt;/a&gt;), and I am one of the organizers for the upcoming &lt;a href=&#34;http://www.iPhoneDevCamp.org&#34;&gt;iPhoneDevCamp 2&lt;/a&gt;, a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.&lt;/p&gt;
-&lt;p&gt;I&#39;ve been reluctant to post too many of these off posts on this blog, as I like the length, quality and high-signal-to-noise ratio of the posts that I&#39;ve written for this blog. I do plan to continue to offer more social software and social media posts, including followups to my &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;Collective Choice&lt;/a&gt; articles, as well as updates on my popular &lt;a href=&#34;http://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html&#34;&gt;Dunbar Number&lt;/a&gt; posts. But I don&#39;t want to spam my readers here with notes on iPhone Apps, my thoughts on movies, circuses, the odd conferences I speak at, etc.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com&#34;&gt;&lt;img alt=&#34;Ephemerablogthumb&#34; title=&#34;Ephemerablogthumb&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/2008/07/13/ephemerablogthumb.png&#34; border=&#34;0&#34; style=&#34;float: right; margin: 0px 0px 5px 5px;&#34; /&gt;&lt;/a&gt;So I&#39;ve been trying to figure out how to cover some of the other things that I am up to without loosing my readers here, so decided to a create a new blog for my shorter and more transitory thoughts: &lt;a href=&#34;http://ephemera.LifeWithAlacrity.com&#34;&gt;Christopher Allen&#39;s Ephemera Blog&lt;/a&gt;. So far I have posted:&lt;p&gt;&lt;ul &gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/max-9-pages-thu.html&#34;&gt;Max 9 pages, thus Max 144 Apps on iPhone OS 2.0&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/first-look-at-a.html&#34;&gt;First Look at AirMe App for iPhone&lt;/a&gt;&lt;/li&gt;&lt;li &gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/trying-out-type.html&#34;&gt;Trying Out TypePad&#39;s Blog It Web App&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepa-1.html&#34;&gt;iPhone TypePad App Second Pass&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/iphone-typepad.html&#34;&gt;iPhone TypePad App First Look&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;http://ephemera.lifewithalacrity.com/2008/07/ephemera-blog.html&#34;&gt;Ephemera Blog&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;The RSS feed for this blog is here &lt;a href=&#34;http://feeds.feedburner.com/ChristopherAllensEphemeraBlog&#34; rel=&#34;alternate&#34; type=&#34;application/rss+xml&#34;&gt;&lt;img src=&#34;http://www.feedburner.com/fb/images/pub/feed-icon16x16.png&#34; alt=&#34;&#34; style=&#34;vertical-align:middle;border:0&#34;/&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you are interested in some of the other things I am looking at, you can follow my &lt;a href=&#34;http://del.icio.us/ChristopherA&#34;&gt;del.icio.us&lt;/a&gt; bookmarks, or read my &lt;a href=&#34;http://www.google.com/reader/shared/user/02324944907197224037/state/com.google/broadcast&#34;&gt;Google Shared Items&lt;/a&gt;, watch my &lt;a href=&#34;http://twitter.com/ChristopherA&#34;&gt;Twitter&lt;/a&gt; posts, or see them all combined together in either &lt;a href=&#34;http://friendfeed.com/christophera&#34;&gt;FriendFeed&lt;/a&gt; or &lt;a href=&#34;http://pulse.plaxo.com/pulse/profile/show/93189?pk=5c10c629b99e837f0bc276c0e24ffffe1aed8799&#34;&gt;Plaxo Pulse&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2008/07/new-blog-for-ep.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>This blog has been quiet lately as I&#39;ve been doing a lot of work in the last year on the iPhone. I&#39;ve been speaking at conferences like eComm 2008 (presentation, video from panel), writing an book on the iPhone with my co-author Shannon Appelcline called iPhone in Action: Introduction to Web and SDK Development (first two chapters free), and I am one of the organizers for the upcoming iPhoneDevCamp 2, a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.</description>
     </item>
     
     <item>
@@ -435,15 +46,8 @@
       <pubDate>Wed, 25 Jun 2008 01:18:39 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2008/06/in-seoul-for-th.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/christophera/2610236112/&#34; title=&#34;Downtown Seoul, South Korea, from Hotel Window by ChristopherA, on Flickr&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3067/2610236112_a59ce2f7b5_m.jpg&#34; width=&#34;240&#34; height=&#34;180&#34; alt=&#34;Downtown Seoul, South Korea, from Hotel Window&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;I&#39;m in Seoul, South Korea this week for the &lt;a href=&#34;http://www.globalforumactionlearning.com/&#34;&gt;13th Global Forum on Business Driven Action Learning and Executive Development&lt;/a&gt;, where I&#39;m presenting on the topic of the how to get involved with the Social Web.&lt;/p&gt;
-&lt;p&gt;My presentation is an offshoot of an odd sideline of mine, executive blog and social web coaching. Basically, many times over the last couple of years I&#39;ve been asked by colleagues and friends to help them with the social web. I&#39;ve always been honored to spend the time to teach them how to blog, better manage the noise of the web by using a feed reader, how to participate in social networks, and how to improve their personal brand.&lt;/p&gt;
-&lt;p&gt;Increasingly, the social network of their peers is now asking me to help them to do the same for them. So I&#39;ve been doing this more and more over the last year on a consulting basis as their social networks appear to be saying saying that I have a lot to offer.&lt;/p&gt;
-&lt;p&gt;I&#39;ve twice now been out to Cincinnati where I&#39;ve been working with &lt;a href=&#34;http://www.linkedin.com/pub/5/3a9/480&#34;&gt;Drew Boyd&lt;/a&gt; at Johnson &amp; Johnson, where I&#39;ve been coaching him on his blog and personal brand. He has been blogging now for almost six months at &lt;a href=&#34;http://www.innovationinpractice.com/&#34;&gt;Innovation in Practice&lt;/a&gt; with some success. Now he is referring me to other executives at Johnson &amp; Johnson who need similar coaching, or need strategic advice on how to deal with specific social web initiatives within Johnson &amp; Johnson.&lt;/p&gt;
-&lt;p&gt;Most recently, Drew has asked me to join him in Seoul to speak at the Global Forum, which is a worldwide gathering of executive trainers. There I am presenting a synopsis of what I teach, and how they can begin to learn how to teach their staff how to do the same. My trip has been sponsored by Johnson &amp; Johnson, so it has been a lot of fun to be here. I get to both dive into deep discussions of methodologies for teaching inside business, as well as learn about the Korean and other international business cultures and how they are different from the United States.&lt;/p&gt;
-&lt;p&gt;During the evenings I&#39;ve had a chance to wander the streets of downtown Seoul. It is very different then wandering though streets in Europe, not only because of the different culture and language, but also because all of the signs are in Hangul, the korean character set. Very few signs use the roman alphabet, so it is often very difficult to figure out what is what without walking in. Like Japan, there are some signs in English to represent a brand or a style, but not many. Even China has more signs in English then Korean&#39;s do -- the last time I was there I was surprised by how almost every important sign was in both Chinese and English, so much so I was beginning to learn Chinese language characters just by association! Despite the language problems everyone is nice and it feels safe to wander in these neighborhoods.&lt;/p&gt;
-&lt;p&gt;I return on Monday, and I&#39;ll make a copy of my final presentation available here.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2008/06/in-seoul-for-th.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m in Seoul, South Korea this week for the 13th Global Forum on Business Driven Action Learning and Executive Development, where I&#39;m presenting on the topic of the how to get involved with the Social Web.
+My presentation is an offshoot of an odd sideline of mine, executive blog and social web coaching. Basically, many times over the last couple of years I&#39;ve been asked by colleagues and friends to help them with the social web.</description>
     </item>
     
     <item>
@@ -452,75 +56,8 @@
       <pubDate>Thu, 14 Sep 2006 16:28:58 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2006/09/ratings_who_do_.html</guid>
-      <description>&lt;p&gt;My colleague, &lt;a href=&#34;http://www.skotos.net/about/staff/shannon_appelcline.php&#34;&gt;Shannon Appelcline&lt;/a&gt;, has been working on a game rating system for &lt;a href=&#34;http://www.rpg.net&#34;&gt;RPGnet&lt;/a&gt;. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our &lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;Collective Choice&lt;/a&gt; articles. Shannon&#39;s newest article, &lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;Ratings,
-Who Do You Trust?&lt;/a&gt; offers a look at weighting ratings based on reliability.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/shannon_appelcline.jpg&#34; title=&#34;Shannon_appelcline&#34; alt=&#34;Shannon_appelcline&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;On the &lt;a href=&#34;http://index.rpg.net/&#34;&gt;RPGnet Gaming Index&lt;/a&gt; we&#39;ve put this all together to form a tree of weighted ratings that answer the question, &lt;em&gt;who do you trust&lt;/em&gt;?&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Here&#39;s how we measured each type of trust, and what we did about it:&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings for an Item.&lt;/strong&gt; Introduce a bayesian weight to offset the variability of items with low-volume ratings.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Volume of Ratings by a User.&lt;/strong&gt; Give each user a weight based on his volume of contribution which is applied to his ratings.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Depth of Content by a User.&lt;/strong&gt; Give each rating a weight based on the depth of thought implicit in the rating which is applied to that rating.&lt;/em&gt;&lt;/p&gt;
-&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;These all get put together to create our final ratings for
-the Gaming Index, with each user&#39;s individual rating for an item
-getting multiplied by its user weight and its content weight, and then
-all of that averaged with the other user ratings and the bayesian
-weight too. The result is in no way intuitive, but users don&#39;t really
-need to understand the back end of a rating system. Conversely we hope
-it&#39;s accurate, or at least more accurate than would otherwise be true
-given the relatively low volume of ratings we&#39;ve collected thus far.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Here are some of Shannon&#39;s earlier discussions about the design behind the new &amp;quot;user content&amp;quot; based &lt;a href=&#34;http://index.rpg.net&#34;&gt;RPGnet Gaming Index&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_191.phtml&#34;&gt;Encouraging
-User Creativity&lt;/a&gt; - A look at the &amp;quot;XP&amp;quot; system which has helped to incentivize the creation of the database at the heart of the ratings.
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_193.phtml&#34;&gt;Managing User Creativity, Part Two&lt;/a&gt; - An examination of the nuts and bolts of RPGnet&#39;s Gaming Index database.
-&lt;/li&gt;&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;em&gt;Related articles from this blog:&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/systems_for_col.html&#34;&gt;2005-12: Systems for Collective Choice&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2005/12/collective_choi.html&#34;&gt;2005-12: Collective Choice: Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/01/ranking_systems.html&#34;&gt;2006-01: Collective Choice: Competitive Ranking Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2006/08/using_5star_rat.html&#34;&gt;2006-08: Using 5-Star Rating Systems&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/2007/01/collective_choi.html&#34;&gt;2007-01: Experimenting with Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Related articles from Shannon Appelcline&#39;s &lt;a href=&#34;http://www.skotos.net/articles/show-column.phtml?colname=TTnT_&#34;&gt;Trials, Triumphs &amp;amp; Trivialities:&lt;/a&gt;
-&lt;/p&gt;&lt;blockquote&gt;&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_196.phtml&#34;&gt;#196: Collective Choice: Ratings, Who Do You Trust?&lt;/a&gt;&lt;/em&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;a href=&#34;http://www.skotos.net/articles/TTnT_/TTnT_198.phtml&#34;&gt;#198: Collective Choice: More Thoughts About Ratings&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;/blockquote&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-Hmm, interesting on the weighting system.
-Can you explain with more detail how the rating by depth of content is generated?
-I&#39;m looking through the other articles, so hopefully I find the info there.
-Frank
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;magicback (Frank)&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-12T01:30:32-07:00&#34;&gt;2006-10-12T01:30:32-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-My first pass system just used a different multiplier for weight based on the type of content:
-1x for just a raw rating
-2x for a rating with a non-blank comment
-5x for a review (which goes through a different, approved content system)
-My second pass system also included &#34;volume of ratings by user&#34; and thus applied a variable multiplier depending on how many ratings the user has made:
-(0-2x) for a raw rating
-2x(0-2x) for a rating with comment
-5x for a review
-The 0-2x is calculated as (# of ratings by user)/50, to 2 max.
-I&#39;m pretty sure that the core weighting system by depth is producing better results, though I haven&#39;t done any studies of that yet. The additional weighting for volume by users has definitely prevented bias by hit-and-run raters who just stop by to rate one game that they&#39;ve been asked to.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Shannon Appelcline&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2006-10-16T15:39:53-07:00&#34;&gt;2006-10-16T15:39:53-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2006/09/ratings_who_do_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>My colleague, Shannon Appelcline, has been working on a game rating system for RPGnet. This has resulted in real-world application of the principles for designing rating systems which we&#39;ve previously discussed in our Collective Choice articles. Shannon&#39;s newest article, Ratings, Who Do You Trust? offers a look at weighting ratings based on reliability.
+On the RPGnet Gaming Index we&#39;ve put this all together to form a tree of weighted ratings that answer the question, who do you trust?</description>
     </item>
     
     <item>
@@ -529,35 +66,8 @@ I&#39;m pretty sure that the core weighting system by depth is producing better 
       <pubDate>Sat, 08 Oct 2005 16:04:17 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/10/for_the_last_se.html</guid>
-      <description>&lt;p&gt;For the last several months I&#39;ve been working on a new open source project that I&#39;ve been calling &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit&lt;/a&gt;. SynchroEdit is a browser-based simultaneous multiuser editor, useful for &lt;a href=&#34;http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html&#34;&gt;&amp;quot;same-time&amp;quot; collaboration&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/synchroeditmac.png&#34; onclick=&#34;window.open(this.href, &#39;_blank&#39;, &#39;width=640,height=493,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39;); return false&#34;&gt;&lt;img width=&#34;262&#34; height=&#34;202&#34; border=&#34;0&#34; alt=&#34;Synchroeditmac&#34; title=&#34;Synchroeditmac&#34; src=&#34;http://www.lifewithalacrity.com/previous/images/synchroeditmac.png&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;&lt;/a&gt;The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.&lt;/p&gt;
-&lt;p&gt;SynchroEdit is a tool for &amp;quot;same-time&amp;quot; collaboration, either &amp;quot;same-time, different-place&amp;quot;, as in teleconference calls, or &amp;quot;same-time, same-place&amp;quot;, during a meeting or a conference. If you&#39;ve ever used &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; on Mac OS X, or &lt;a href=&#34;http://www.moonedit.com&#34;&gt;MoonEdit&lt;/a&gt; for Windows or Linux, or the cross-platform &lt;a href=&#34;http://gobby.0x539.de/&#34;&gt;Gobby&lt;/a&gt;, this is a similar experience. The difference is that unlike those tools you are not limited to just plain text -- character styles (bold, italic, etc.) and paragraph styles (rulers, headers, blockquotes, etc) are synchronized as well. And of course, it all works inside your browser.&lt;/p&gt;
-&lt;p&gt;SynchroEdit is inspired by my frustration with the lack of an easily accessible cross-platform simultaneous editor. Many times when I&#39;ve been on the phone with a colleague discussing a draft blog entry, or demonstrating some code, or on a teleconference call with others to discuss a proposal or a standard, or at a conference taking notes with others, I&#39;ve wanted to have this tool. The rare occasions that we all have been on the same platform and have been able to use an existing tool have demonstrated to me the value of having a good simultaneous editor. Having SynchroEdit available will make it easier for people to have these positive collaborative experiences.&amp;nbsp; &lt;/p&gt;
-&lt;p&gt;I have a long history with &amp;quot;same-time&amp;quot; collaboration tools -- back in 1988 I was briefly executive producer at Broderbund for a same-time groupware product called &lt;a href=&#34;http://www.google.com/search?q=cache:1cDDTqwlqGoJ:www.the-scientist.com/yr1988/jul/software_p22_880725.html+%2Bbroderbund+%2B%22for+comment%22+groupware&#34;&gt;For Comment&lt;/a&gt;. Unfortunately, the success of the Nintendo game console forced Broderbund to drop all of their non-consumer product efforts. In the early 90&#39;s I worked on several different &amp;quot;same-time same-place&amp;quot; groupware tools for live meetings. Most recently, my game company &lt;a href=&#34;http://www.skotos.net&#34;&gt;Skotos Tech&lt;/a&gt;, created several browser-based &amp;quot;enhanced chat&amp;quot; clients for playing in MUSH-like storytelling games, which are also &amp;quot;same-time&amp;quot;.&lt;/p&gt;
-&lt;p&gt;I personally believe that that this capability should be a fundamental feature of the web, sort of the obvious extension of &lt;a href=&#34;http://en.wikipedia.org/wiki/Tim_Berners-Lee&#34;&gt;Tim Berners-Lee&#39;s&lt;/a&gt; &lt;a href=&#34;http://news.bbc.co.uk/1/hi/technology/4132752.stm&#34;&gt;vision&lt;/a&gt; of the editable web. Thus my desire to offer this tool as open source, allowing anyone to add this capability to their own software (unlike proprietary editor services such as &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt; or &lt;a href=&#34;http://www.writely.com/&#34;&gt;Writely&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;The challenge with offering SynchroEdit as open source is finding a business model -- unlike an application like &lt;a href=&#34;http://www.codingmonkeys.de/subethaedit/&#34;&gt;SubEthaEdit&lt;/a&gt; or a service like &lt;a href=&#34;http://www.jotlive.com&#34;&gt;JotLive&lt;/a&gt;, it is difficult to get revenues from individual users. Instead, we ask for contributions from companies that might find the tool useful, we offer consulting to customize it for specific purposes, and we give these companies public credit for their contributions to the common good.&lt;/p&gt;
-&lt;p&gt;The first company to step up to the plate is &lt;a href=&#34;http://www.socialtext.com&#34;&gt;SocialText&lt;/a&gt;, an enterprise wiki company. Clearly, being able to offer this capability to their customers will give them added value, and they already have a history of using open source with their support of &lt;a href=&#34;http://www.kwiki.org/&#34;&gt;Kwiki&lt;/a&gt; and &lt;a href=&#34;http://www.wikiwyg.net/&#34;&gt;Wikiwyg&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The second supporter is venture capitalist and blogger &lt;a href=&#34;http://joi.ito.com/&#34;&gt;Joichi Ito&lt;/a&gt;. He is is particularly well known for his own experiments with &amp;quot;same-time&amp;quot; collaboration. He runs a continuous #joiito IRC chat room, active 24 hours a day with hundreds of his friends. He also has done many live &amp;quot;same-time&amp;quot; experiments with chat backchannel during his talks at various conferences.&lt;/p&gt;
-&lt;p&gt;In addition to to financial support of SocialText and Joichi Ito, I have some offers of help from the &lt;a href=&#34;http://www.bgiedu.org&#34;&gt;Bainbridge Graduate Institute&lt;/a&gt;, who plan to use it in its socially responsible and environmentally sustainable MBA program, and we&#39;ve also taken advantage of some code developed by &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder I met when he was creating an online game at Skotos. Skotos has long had the vision of having games created by its members, and Kalle Alm was the first member to create a game completely from scratch using Skotos&#39; tools.&lt;/p&gt;
-&lt;p&gt;We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we&#39;ll need more partners to help.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/christopher_allen_web2point1_brainjam.png&#34; title=&#34;Christopher_allen_web2point1_brainjam&#34; alt=&#34;Christopher_allen_web2point1_brainjam&#34; style=&#34;margin: 0px 5px 5px 0px; float: left;&#34; /&gt;I did a demo of last year&#39;s open source project, &lt;a href=&#34;http://www.EditThisPage.net&#34;&gt;EditThisPage&lt;/a&gt;, and of the SynchroEdit alpha at &lt;a href=&#34;http://www.web2point1.org/&#34;&gt;Web 2.1 BrainJam&lt;/a&gt; last week; there are two videos available from Enric Teller&#39;s vBlog: &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/&#34;&gt;Presentation&lt;/a&gt; and &lt;a href=&#34;http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/&#34;&gt;Q&amp;amp;A&lt;/a&gt;.&amp;nbsp; &lt;/p&gt;
-&lt;p&gt;If you are interested in learning more, visit the &lt;a href=&#34;http://www.synchroedit.com&#34;&gt;SynchroEdit website&lt;/a&gt;. We have additional information on the program, a &lt;a href=&#34;http://wiki.synchroedit.com&#34;&gt;developers wiki&lt;/a&gt;, as well as a sandbox that you can play in to demonstrate SynchroEdit in use.&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I&#39;m curious about what ways you think this could be useful as a teaching aid? Have you looked into particular implementations or studied existing case studies?
-(I have studied this a fair amount and I don&#39;t think there are existing case studies, especially in the classroom, which is why I ask.. I&#39;m looking at ways in which chatrooms could be incorporated into classroom environments as a backchannel)
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;yardi&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-16T11:00:54-07:00&#34;&gt;2005-11-16T11:00:54-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/10/for_the_last_se.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>For the last several months I&#39;ve been working on a new open source project that I&#39;ve been calling SynchroEdit. SynchroEdit is a browser-based simultaneous multiuser editor, useful for &amp;quot;same-time&amp;quot; collaboration.
+The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others&#39; changes as they type, see where each user is currently editing, and see each others&#39; changes by color.</description>
     </item>
     
     <item>
@@ -566,67 +76,8 @@ I&#39;m curious about what ways you think this could be useful as a teaching aid
       <pubDate>Mon, 18 Jul 2005 14:13:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</guid>
-      <description>&lt;p&gt;&lt;blockquote&gt;&lt;dl&gt;&lt;dt&gt;&lt;em&gt;&lt;strong&gt;Extrapolate&lt;/strong&gt;&lt;/em&gt;&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;To infer an unknown from something that is known; conjecture.&lt;/em&gt;&lt;span style=&#34;font-size: 0.6em;&#34;&gt;&lt;br /&gt;&amp;ndash; The Random House College Dictionary&lt;/span&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:mlasalle@sfchronicle.com&#34;&gt;Mick LaSalle&lt;/a&gt;, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s &lt;a href=&#34;http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/07/17/PKGJNCETV81.DTL&#34;&gt;column&lt;/a&gt; he says something that I find very accurate to my experience with the online medium:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred. He says that people love that which they think reinforces their survival and hate that which they think threatens their survival. I believe &amp;ndash; this is just my humble theory, now &amp;ndash; that when people hear an opinion that counters theirs, their minds extrapolate from that one opinion to imagine a whole philosophical system. And then they imagine how they would fare in a world run according to that imagined system. So they go from disagreeing to feeling threatened in a matter of seconds, and they lash out. Often they write letters that begin, &amp;quot;You are obviously,&amp;quot; and that&amp;rsquo;s where they identify, not you, but the phantom they feel threatened by.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Over the years, I&amp;rsquo;ve been &amp;quot;obviously&amp;quot; liberal, conservative, gay, straight, humorless, frivolous, angry and deeply jealous of Tom Hanks. When I was 30, I remember getting accused of being a 45-year-old former hippie who drove a BMW, wore a Rolex and had done acid in the &amp;lsquo;60s. I&amp;rsquo;m not sure if I wrote back, but if I did, I would have said, &amp;quot;Wrong. Wrong. Wrong. Wrong. Wrong.&amp;quot; But, of course, that kind of letter is your key to acquiring distance. It lets you know that the person&amp;rsquo;s real quarrel is with some middle-aged former hippie &amp;ndash; probably known as Dad &amp;ndash; and that you&amp;rsquo;re just the vehicle for that day&amp;rsquo;s projection.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I think that Mick LaSalle is exactly right &amp;ndash; I&amp;rsquo;ve seen this type of hostility based on extrapolation regularly in online mediums: in emails, newsgroups, wikis, blogs, etc. I&amp;rsquo;ve been guilty of it a few times myself, though usually for me the result is that I don&amp;rsquo;t respond at all &amp;ndash; &amp;quot;Oh, he is just a flaming liberal&amp;quot;, &amp;quot;She&amp;rsquo;s an arch-conservative&amp;quot; or &amp;quot;He is a just a technophobe.&amp;quot; I can then feel comfortable in ignoring the rest of his or her point of view rather then trying to understand it.&lt;/p&gt;
-&lt;p&gt;I doubt if explaining this theory to someone who writes a hostile message is useful &amp;ndash; they will take it as yet another attack, which will likely contribute to another cycle of flamage. But I do find Mick&amp;rsquo;s theory useful as another way to read and understand hostile messages, and respond more appropriately.&lt;/p&gt;
-&lt;p&gt;Understanding this lets me add another widget to my social software toolbox: when a group process results in a hostile message, try to determine if the author is actually reacting to what you said or if their hostility is based on extrapolating to &amp;quot;obvious&amp;quot; generalities. This may not allow you to directly address the hostility, but it may help you better understand it and thus not contribute to the cycle of flames.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;This is another limitation of our subjectivity.
-I find that too much self-consciousness, self-thought reinforces a distorted, subjective view of reality. The solution is true involvement with the external world, through attempted REAL intimacy with the people and world around us. I do think impersonal means of communication like writing and reading function to distance, which could reinforce this same subjectivity.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.letterneversent.com&#34;&gt;chris sivori&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-19T11:09:41-07:00&#34;&gt;2005-07-19T11:09:41-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Chris, we see a lot of this sort of thing in the Indian online world - at social networks, at blogs and forums.  Its probably got a lot to do with how we are coping with this relatively new medium.  I come from a society that&amp;rsquo;s so hierarchical in nature, that has very strong rules and sets of do&amp;rsquo;s and don&amp;rsquo;ts, that has power balances rooted in tradition, that has little concept or value for personal space, and that doesnot always encourage team play.
-The online world is toppling and threatening many of our traditional structures, giving open voice and power to many who hitherto had none.  It&amp;rsquo;s a world that is not hierarchical, one that encourages an even-playing field for free speech and debate no matter what gender or age or race or religion you belong to, it does not have many pre-ordained rules and prescriptions, it is one where we need to learn to respect personal space, and where team play can be so rewarding.
-Maybe we&amp;rsquo;re in a state of Anomie as we transition - we&amp;rsquo;re all learning &amp;hellip; the way i deal with it is to simply ignore obvious &amp;lsquo;flamers&amp;rsquo;, and not engage in a debate.  When you don&amp;rsquo;t engage someone, they may knock harder for a while, but soon, they will go away.  Maybe the system self-corrects too?
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://dinamehta.com/&#34;&gt;Dina Mehta&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-21T00:53:53-07:00&#34;&gt;2005-07-21T00:53:53-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;(I found you via Sharon Boggon&amp;rsquo;s &lt;a href=&#34;http://www.inaminuteago.com/mindtracks/&#34;&gt;http://www.inaminuteago.com/mindtracks/&lt;/a&gt; blog)&amp;hellip;I like Spinoza&amp;rsquo;s theory, and would just simplify it:  where there is heat, there is personal projection of some kind of unfinished business.  Sometimes it is worth deciphering, sometimes not.
-I loved what Dina Mehta said about the online world &amp;ldquo;encourages an even-playing field for free speech&amp;rdquo;.  It has got to be a force for increased understanding among all people, flammage along the way or not.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.allisonaller.com&#34;&gt;Allison Aller&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-24T07:21:31-07:00&#34;&gt;2005-07-24T07:21:31-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Hey, Chris, your post reminded me of the concept of &amp;ldquo;egocasting&amp;rdquo; which I blogged about earlier this year.
-&amp;ldquo;egocasting: the act of using your ability to personalize and filter intermediated experience to make your world match who you already are&amp;rdquo;
-As our technology continues to get better at helping us filter the world to fit our preferences, does our ability to understand and tolerate difference atrophy?
-Are there ways to teach and encourage appreciation of difference through design of technology?  Or expand online messages to increase comprehension?
-I agree with the comment above that this part of the nature of our subjective experience.  We all face the challenge of understanding each other regardless of the communication medium.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://blog.whatbox.biz/?p=3&#34;&gt;Owen Davis&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-07-27T14:16:57-07:00&#34;&gt;2005-07-27T14:16:57-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I suspect I may find a reference to Cialdini&amp;rsquo;s book, &amp;ldquo;Influence: the Psychology of Persuasion&amp;rdquo; someplace on this blog, but I haven&amp;rsquo;t yet, so I am going to throw it out there as good reading on the psychology of all this (&amp;ldquo;an innocent association with either bad things or good things will influence how people feel about us&amp;rdquo;).
-Pete
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Pete&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-10T12:43:46-07:00&#34;&gt;2005-08-10T12:43:46-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Christopher,
-I got to your blog from an endorsement on your LinkedIn profile. Thank you for sharing this wonderful piece from Mick LaSalle. I blogged about it too on my business networking blog.
-I also noticed that in your list of Social Networks on the sidebar, you haven&amp;rsquo;t mentioned openBC - &lt;a href=&#34;http://www.openbc.com&#34;&gt;http://www.openbc.com&lt;/a&gt; , which is one of my two favorites for online networking [ the other being LinkedIn ].
-Best Regards,
-Naina Redhu
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.aside.in/blog/networking&#34;&gt;Naina Redhu&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-11-30T23:07:18-07:00&#34;&gt;2005-11-30T23:07:18-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/07/extrapolative_h.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-</description>
+      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.&amp;ndash; The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s column he says something that I find very accurate to my experience with the online medium:
+As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred.</description>
     </item>
     
     <item>
@@ -635,42 +86,8 @@ Naina Redhu
       <pubDate>Fri, 08 Apr 2005 11:40:41 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/04/if_you_read_my_.html</guid>
-      <description>&lt;p&gt;If you read my blog through an aggregator, you may not have noticed my new sidebar &amp;quot;Recent Bookmarks&amp;quot;. It is a list of web pages that I&#39;ve found interesting enough to annotate using the &lt;a href=&#34;http://del.icio.us/&#34;&gt;del.icio.us&lt;/a&gt; service. It is useful if you want to have an insight into what future blog entries I&#39;m working on, as links will often show up there before my actual blog posting is out.&lt;/p&gt;
-&lt;p&gt;You alternatively can &lt;a href=&#34;http://del.icio.us/ChristopherA?setcount=10&#34;&gt;view my last 10 del.icio.us postings&lt;/a&gt;, or subscribe to my &lt;a href=&#34;http://del.icio.us/rss/ChristopherA&#34;&gt;del.icio.us RSS feed&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you are interested in offering this feature in your own blog, I used the &lt;a href=&#34;http://www.bigbold.com/rssdigest/&#34;&gt;RSS Digest&lt;/a&gt; webservice to create a javascript applet that formats information from my del.icio.us RSS feed into a format suitable for my sidebar. There are a lot of other cool things that are possible with this service.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;BTW it is also possible to use feedburner.com, with which you can add to your feed, your delicious posts, flickr posts in addition to the regular blog posts...
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://amit.chakradeo.net/&#34;&gt;Amit Chakradeo&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-08T17:31:57-07:00&#34;&gt;2005-04-08T17:31:57-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I hadn&#39;t seen that addition to the site!  Thanks for writing about it.  I do the same thing on my blog, only with my Furl.net selections (similar tool, more options I think, more friendly UI).  I do use RSS Digest as well to run the del.icio.us/tag/wiki RSS feed on my blog. (Marshall&#39;s New Web Tool Blog http://marshallk.blogspot.com)
-You might enjoy checking out the folks over at http://marketingstudies.net too.  They first alerted me to the possibility of using RSS like this, and though they are all about corporate marketing, they come up with many good ideas.
-Thanks for your blog, allways a pleasure to read.
-Speaking of wikis (I see you intend to write about the editing dichotomy, great, have you checked out wikalong.org ?  It&#39;s great.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://marshallk.blogspot.com&#34;&gt;Marshall&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-12T15:49:54-07:00&#34;&gt;2005-04-12T15:49:54-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;As Amit says, it is possible to splice your links and your pictures through a FeedBurner feed. Now that Buzznet is supported like Flickr, I have create an Extended feed for people for people to subscribe to in addition to my main feed. You might want to consider doing the same.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://softtechvc.blogs.com/&#34;&gt;Jeff Clavier&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-14T01:02:33-07:00&#34;&gt;2005-04-14T01:02:33-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I was delighted to see that your first del.icio.us posting linked to W. Ross Ashby&#39;s An Introduction to Cybernetics. I devoured that book when it was first published in 1956, and I was a 28 year old ad copywriter. I worked through all the examples and laughed like mad over ex. 4/15, the letter which begins, &#34;Dear Friend, some years ago I bought this old house, but found it to be haunted by two ghostly noises -- a ribald Singing and a sardonic Laughter ... &#34;. I copied it out by hand and sent copies round my friends as an Xmas card that year. I don&#39;t think any of them had the faintest idea what I was on about. I still have the sixth impression of that book beside me now.
-My first acquaintance with the subject must have been with Norbert Wiener&#39;s Cybernetics in 1948, while I was still an undergraduate. I understood little of it, but it did introduce me to Russell&#39;s Paradox.
-I must add these to my own del.icio.us collection plus a couple of other books on symbolic logic, which deeply impressed me at the time. I&#39;ve only just discovered your blog, through John Robb, and I will add your site to my own blog Junkyard Whirlwind. You have led me to a most interesting cluster of concepts, and must explore further. Many thanks.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.woccam.com/&#34;&gt;woccam&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-04T16:53:14-07:00&#34;&gt;2005-08-04T16:53:14-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/if_you_read_my_.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>If you read my blog through an aggregator, you may not have noticed my new sidebar &amp;quot;Recent Bookmarks&amp;quot;. It is a list of web pages that I&#39;ve found interesting enough to annotate using the del.icio.us service. It is useful if you want to have an insight into what future blog entries I&#39;m working on, as links will often show up there before my actual blog posting is out.
+You alternatively can view my last 10 del.</description>
     </item>
     
     <item>
@@ -679,55 +96,8 @@ I must add these to my own del.icio.us collection plus a couple of other books o
       <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/04/future_topics.html</guid>
-      <description>&lt;p&gt;I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Office Architecture for Innovation&lt;/em&gt;&lt;/strong&gt; -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses. These include some of the obvious suggestions such as fresh air and natural light, but also include not so obvious ideas such as using magnetic paint and providing a small washer-dryer.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Requisite Variety&lt;/em&gt;&lt;/strong&gt; -- This concept from cybernetics applies to social systems as well. &amp;quot;The larger the variety of actions available to a control system, the larger the variety of perturbations it is able to compensate.&amp;quot; More people, as well as a diversity of thinking styles and experience, give social software more &amp;quot;variety of actions&amp;quot;, thus this is part of the reason why social software can be so effective.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Art and Craft of Meme Design&lt;/em&gt;&lt;/strong&gt; -- We are learning more about how to create an effective meme. Creating memes has always been an art performed by publicists, marketers, politicians, the press, and to a lesser extent by scientists and other academics. Have we learned enough to turn this art into an explicit craft?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Wiki Editing Dichotomy&lt;/em&gt;&lt;/strong&gt; -- One interesting possible barrier of entry to active participation in a wiki is what I call the &amp;quot;wiki editing dichotomy&amp;quot;. You have to be proud enough to believe what you are contributing is generally worthwhile to others (or at least worth your effort), but you also have to be humble enough to understand that others can improve it. I don&#39;t know of many other collaborative media that requires both pride and humility.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Choice &amp;amp; Neuroeconomics&lt;/em&gt;&lt;/strong&gt; -- There are some that say at the root of every decision is emotion. Even a &#39;rational&#39; decision appeals to a sense of balance or beauty. Recent studies using PET are establishing a neurological basis for emotions, and some reveal interesting facts about how we make choices.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Assessing Risk&lt;/em&gt;&lt;/strong&gt; -- There are a variety of areas where we as humans have a difficult time being completely rational. One of these is risk assessment. It turns out we may be hard-wired to not be able toeasily understand risk that is greater then one in a hundred or so. Thus a very rare risk, say one in a thousand, will often be emotionally interpreted as having a much higher risk.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Persuasive Computing&lt;/em&gt;&lt;/strong&gt; -- BJ Fogg&#39;s group at Stanford has done some interesting research on how computers can persuade you to do something. There are a number of useful ideas that come from this research. There are also some ethical considerations that should be discussed.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Cognitive Dissonance&lt;/em&gt;&lt;/strong&gt; -- This technique is central to many forms of persuasion intended to change beliefs, values, attitudes and behaviors. It is used by facilitators, businesses, military organizations, and even cults. It can be used positively or negatively. How might it be used in social software?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Dark Side of the Force&lt;/em&gt;&lt;/strong&gt; -- The same social tools that we use for good, can also be used for harm. How do we ethically use what we are learning about social software? Some say that almost by definition social software attracts spammers, trolls, and innappropriate sexuality. What can we do to prevent these misuses of social software?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversation vs Communication&lt;/em&gt;&lt;/strong&gt; -- Update and rewrite of my &lt;a href=&#34;http://www.alacritymanagement.com/GCnC.html&#34;&gt;1990 essay&lt;/a&gt; on how social software design needs to balance conversation vs communication.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Social Emotions&lt;/em&gt;&lt;/strong&gt; -- We appear to have evolved a number of emotions that appear primarily to exist to support a common good, rather then to ensure our individual success. These include schadenfreude, mirth, naches, revenge, shame, pride, outrage, approbation, admiration, elevation, etc. Studies by Eckman on unconscious facial gestures, studies on the neurological basis for emotions, and studies on emotions in games, are proving that these social emotions exist. A number of them have interesting implications on social software.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Glances &amp;amp; Strokes&lt;/em&gt;&lt;/strong&gt; -- There is some old work on the amount of eye contact we make with others in small groups, as well as some research from transactional analysis on strokes, which are the amount of recognition given to others through words and deeds. Is there a neurological basis for needing a certain number of glances and strokes each day? How does this concept apply to social software?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Weak Links&lt;/em&gt;&lt;/strong&gt; -- There are some interesting social implications behind what we&#39;ve learned about weak links in social networks. How do we identify and encourage weak links in our social software systems?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Negativity vs Positivity&lt;/em&gt;&lt;/strong&gt; -- It is far easier for someone to respond negativel than positively. In political systems it is far easier to say no rather then yes. What social software encourages positivity, and is it possible to design social software to do so?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Time Economy&lt;/em&gt;&lt;/strong&gt; -- Our ultimate most unrenewable resource is time. How time and attention are a basic economic unit that should be considered when looking at social software.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Group Life Cycle&lt;/em&gt;&lt;/strong&gt; -- We often focus on how groups form, emerge, and grow. Yet there are many lessons to be learned from how groups die, including that it isn&#39;t necessarily a bad thing and that keeping a group from death can be dysfunctional.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Groupthink&lt;/em&gt;&lt;/strong&gt; -- What causes groupthink? When is it good and when is it bad?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Two Thresholds in the Value of Knowledge&lt;/em&gt;&lt;/strong&gt; -- In order for knowledge to be valuable, it must at minimum be more valuable then the costs to find and absorb it (costs which include bandwidth and attention). Tools like Google have tremendously increased the amount of knowledge that is worth the time and attention to find it. What types of knowledge fall below this threshold of value? Is there a limit to how much we can lower this line? Furthermore, there is another threshold where the knowledge is significantly more valuable than only bandwidth and attention. How much have internet tools impacted this second threshold? Many internet business models, in particular content models, require some ability to offer value in this upper threshold -- can they survive as this upper threshold changes?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Intimacy and Social Networks&lt;/em&gt;&lt;/strong&gt; -- Social Networks Analysis tends to focus on the connections between people, either explicitly through acknowledgement of connections (LinkedIn, Friendster) or implicitly through analysis of your communication (Spoke). None are able to measure intimacy. Yet our intimate social networks are an important component of our overall happiness and contentment within both our professional and personal lives. How does intimacy work in social networks? Also there are some concepts in psychology known as communal vs exchange relationships by Clark &amp;amp; Mills from late 70&#39;s that may apply here.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Social Games&lt;/em&gt;&lt;/strong&gt; -- A recap of Shannon Appelcline&#39;s and my analysis of the basic forms of social games types. These include relatively well understood ones like majority control, voting, meta-voting (Nomic), auctioning, etc., but also include less well understood games like playing of roles, dominance and submission, etc. There are also links to social emotions, such as mirth and schadenfraude.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from Castle Marrach&lt;/em&gt;&lt;/strong&gt; -- We released the Castle Marrach online game in September of 2000, and it was designed from the beginning to be a game for the Bartle-type known as &amp;quot;the socializer&amp;quot;. What lessons did we learn in the five years since the release of the game? What tools are in my social software toolbox today that might have helped with the design?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from F2F Facilitation&lt;/em&gt;&lt;/strong&gt; -- There are many skilled practitioners of face-to-face facilitation, some of which are paid very high fees for their skills. What lessons can we learn from their experience that we can apply to social software? Why have so many of these facilitators failed to have success online?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;More Human vs More Than Human&lt;/em&gt;&lt;/strong&gt; -- Many futurists seek to offer us augmentation of our minds and bodies through technology. Many of these ideas may fundamentally change what it is to be human, and may even have unforeseen complications unanticipated by their creators. One interesting approach to looking at these technologies is to examine which make us &amp;quot;more human&amp;quot;, rather then &amp;quot;more than human&amp;quot;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Lessons from Mental Disorders&lt;/em&gt;&lt;/strong&gt; -- Most, if not all, mental disorders have their roots in survival strategies; however, they are over-expressed because of genetic or other causes. Examining the healthy behaviors hiding behind depression, autism, mania, schizophrenia, paranoia, etc. offer a number of insights on how we think.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Joy of being a Primate&lt;/em&gt;&lt;/strong&gt; -- If you scan the surface of my writing, you may observe that I have a strong belief that our animal nature and genetics form an essential and often unconscious part of what it is to be human. You could interpret these &amp;quot;nature&amp;quot; over &amp;quot;nurture&amp;quot; ideas as limiting us to being just animals. Instead, I believe that by becoming aware of our primate nature, and choosing to leverage it or suppress it by conscious choice rather then letting it drive us unaware, is what makes us more powerful.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Smart Contracts&lt;/em&gt;&lt;/strong&gt; -- Nick Szabo popularized the idea of using some of the primitives of cryptography in unique ways to create what he calls &amp;quot;smart contracts&amp;quot;. He hypothesized approaches to cryptographic handling of collateral, bonding, delineation of property, bearer certificates, and much more. Others have proposed various auction protocols using these concepts. One of the fundamental atomic elements of many of these smart contracts is something called a &amp;quot;reusable proof of work&amp;quot;, which Hal Finney recently demoed a version of at CodeCon 2005. What are the possibilities offered by smart contracts? What are the barriers to implementation?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Club System&lt;/em&gt;&lt;/strong&gt; -- In the 80&#39;s, development of Ted Nelson&#39;s Xanadu vision was being financed by Autodesk. Unfortunately, for a variety of reasons Xanadu failed to deliver any technology. However, a couple of their ideas could be valuable today, one of which is the concept of an alternative to the &amp;quot;user and groups&amp;quot; metaphor for computer security. Xanadu turned that idea upside down and called the result the &amp;quot;club system&amp;quot;. The club system approach is particularly suited to the internet based collaboration tools, in particular wikis. I also have some insights to offer a cryptographic approach to the club system, which might allow P2P distribution of collaborative documents, while preserving group privileges.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Edges of Cryptographic Security&lt;/em&gt;&lt;/strong&gt; -- The SSL cryptographic protocol offers a choice of a number of security properties: integrity, confidentiality, encryption, one-party authentication, and two-party authentication. But there are a number of security properties that very few deployed cryptographic protocols offer. These include perfect forward secrecy, undeniability, deniability, authorization, delegation, multi-party authentication, shared secrets, etc. What are these security properties and how are they useful? Why have they not been successfully broadly deployed?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;The SSL Story&lt;/em&gt;&lt;/strong&gt; -- When SSL was first proposed it was broken within an hour. Even when Netscape fixed those problems, it wasn&#39;t clear that SSL was going to win the battle of security protocols. SSL was competing against SHTTP which had backing of RSA and an industry consortium. The credit card companies merged their standards and were backing SET. The internet community was moving toward SSH. Microsoft was doing its own embrace and extend protocol PCT. So how did SSL win to become the broadest deployed cryptographic security protocol? The answers may surprise you.&lt;/p&gt;
-&lt;p&gt;I welcome any comments or suggestions for links on these topics, or any new topics that you feel are closely related.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-Get to work! Soon!
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Phil Mitchell&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-05T12:22:04-07:00&#34;&gt;2005-04-05T12:22:04-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-The SSL story would be interesting..
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;cyberhill&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-05-13T08:10:30-07:00&#34;&gt;2005-05-13T08:10:30-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/04/future_topics.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.
+Office Architecture for Innovation -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses.</description>
     </item>
     
     <item>
@@ -736,80 +106,9 @@ The SSL story would be interesting..
       <pubDate>Mon, 28 Feb 2005 11:20:01 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/02/voluntary_healt.html</guid>
-      <description>&lt;p&gt;I&#39;m a keynote speaker for the &lt;a href=&#34;http://www.nvhainnovations.org/2005/index.htm&#34;&gt;FVHA (Future of Voluntary Health Associations) Conference&lt;/a&gt;
-in Atlanta today. My job is to give to this community a gentle
-introduction and overview of concepts and products related to Social
-Software and Social Networking. (&lt;a href=&#34;http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf&#34;&gt;My slides are here - 6.6MB .pdf&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;
-In my research about this community, I find that they have some unique and interesting problems.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/acsrelay.jpg&#34; title=&#34;Acsrelay&#34; alt=&#34;Acsrelay&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
-The attendees of this conference are a collection of VPs and national
-directors from major Voluntary Health Associations such as American
-Cancer Society, American Heart Association, American Diabetes Association, March of
-Dimes, etc. In turn, these Voluntary Health Associations organize
-communities in order to raise funds for, and inform the public about
-the medical implications for the different health problems that each are
-concerned with. These associations have an organized volunteer base of
-over five million people and raise in excess of two billion dollars
-annually. They all have dedicated and diverse volunteer communities
-which include practicing MDs, scientific researchers, health educators,
-business executives, and working and nonworking mothers.&lt;/p&gt;
-&lt;p&gt;
-I think it is the quantity of people served, the diversity of their
-communities, and in particular, the need to dive deep into information
-that makes these Voluntary Health Associations interesting. A women diagnosed
-with breast cancer will need to make educated decisions about her own
-health care in order to give informed consent. Yet she may not have the
-education experience or background to understand the care decisions she
-must make. She may not even have a current era computer. There are
-few other online communities that need their members to understand so
-deeply such difficult problems.&lt;/p&gt;
-&lt;p&gt;
-Thus the desire of these associations to look deeper in to Social
-Software. Of course, their key interest is in better understanding,
-motivating, and expanding their volunteer networks. They are already
-experts in the business of organizing traditional communities, but now
-they have to deal with the changing nature of communities as their
-members are now using the internet as the primary source of
-information.&lt;/p&gt;
-&lt;p&gt;
-Ideally Social Software can help increase their sense of touch with
-their volunteers, it can empower volunteers to collaborate and work
-harder and in new ways, it can increase information sharing and
-innovation, and it can help drive fund-raising numbers higher.&lt;/p&gt;
-&lt;p&gt;But the
-openness of social software comes with a price. For instance, many of
-these associations are afraid of enabling even simple unmoderated
-discussion lists, in fear that bad or inappropriate information would be shared. There are also legitimate concerns about the quality, audience level, and attributation for even correct information. In the Q&amp;amp;A after my presentation I tried to explain how, when looking at individual blogs, or individual events of info vandalism, it is not really relevant if the communities and processes behind the Social Software are able to correct or filter those events. This is a difficult point to get across, as it requires people to learn to trust a system where the squeaky wheels and trolls are the loudest.&lt;/p&gt;
-&lt;p&gt;&lt;img border=&#34;0&#34; src=&#34;http://www.lifewithalacrity.com/previous/photos/uncategorized/acslogowhite.gif&#34; title=&#34;Acslogowhite&#34; alt=&#34;Acslogowhite&#34; style=&#34;margin: 0px 0px 5px 5px; float: right;&#34; /&gt;
-One particular interesting thing about this conference is that
-it is one of the first between multiple associations. I know from some
-other non-profits that I&#39;m working with that they often feel in
-competition for funds and resources from other non-profits, so I
-applaud the American Cancer Society for sponsoring this cross-pollination effort.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-You did a great job. This will help us serve the mission of voluntary health.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Mike Mitchell&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-03-03T10:21:55-07:00&#34;&gt;2005-03-03T10:21:55-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I think this blog is very nice one and I appreciate the purpose for which it has been made. Yes Mike, it will definetly help us, continuing the mission of voluntrary health.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.safemeds.com&#34;&gt;Matthew&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-08-17T07:00:42-07:00&#34;&gt;2005-08-17T07:00:42-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;This is something very beneficial for humanity. Helping people voluntrary is not an easy job but  FVHA (Future of Voluntary Health Associations) is doing it easily and people are helping this association.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.safehealthdirect.com&#34;&gt;Stacy&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-10-13T07:20:15-07:00&#34;&gt;2005-10-13T07:20:15-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2005/02/voluntary_healt.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I&#39;m a keynote speaker for the FVHA (Future of Voluntary Health Associations) Conference in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. (My slides are here - 6.6MB .pdf)
+ In my research about this community, I find that they have some unique and interesting problems.
+The attendees of this conference are a collection of VPs and national directors from major Voluntary Health Associations such as American Cancer Society, American Heart Association, American Diabetes Association, March of Dimes, etc.</description>
     </item>
     
     <item>
@@ -818,77 +117,8 @@ You did a great job. This will help us serve the mission of voluntary health.
       <pubDate>Fri, 23 Jul 2004 12:13:21 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/07/too_high_a_stan.html</guid>
-      <description>&lt;p&gt;I have for some time told people that one way that my blog was different was because I was focused on offering a &lt;a href=&#34;http://en.wikipedia.org/wiki/Signal-to-noise_ratio&#34;&gt;high signal-to-noise ratio&lt;/a&gt;. I told them that they could subscribe to my blog safely, as I&#39;d not inundate them with anything but the highest quality posts.&lt;/p&gt;
-&lt;p&gt;At first, this meant that I&#39;d not post unless I had something significant to add to the topic. No simple pointers to interesting ideas, no simple rephrasing, or simple agreement -- I had to add value.&lt;/p&gt;
-&lt;p&gt;For some time I think I succeeded -- I received a lot of praise for my posts on social networking, on internet security, on FOAF, on the Dunbar number, and on my tool EditThisPagePHP. However, I&#39;ve found that for each post my standards were growing higher. My most recent posts took significantly more time to write, and I believe were much more like articles then they are like the typical blog post.&lt;/p&gt;
-&lt;p&gt;I haven&#39;t posted now for a couple of months, and I realized this week that part of the problem is that I&#39;ve become intimidated by my own standard. For every new post to meet the quality of some of my best posts is too difficult.&lt;/p&gt;
-&lt;p&gt;So I&#39;m lowering my standards somewhat -- I will be posting some more small, pithy topics, rather then my longer rants. However, I do hope to continue to offer a good signal-to-noise ratio, and still add value.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;I love your long posts, Chris. They are definitely authoritative and well thought out. But, I&#39;d also like to know what you are thinking more often, so blog away.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://worcester.typepad.com/pc4media&#34;&gt;Peter Caputa&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-23T14:11:12-07:00&#34;&gt;2004-07-23T14:11:12-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Another advantage of posting shorter, less developed thoughts is that you can involve your audience in exploring your ideas.  It becomes a discussion with the community.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://glinden.blogspot.com&#34;&gt;Greg Linden&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-23T14:36:59-07:00&#34;&gt;2004-07-23T14:36:59-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-When my RSS tagged your blog as having something new, my first thought was, &#34;I haven&#39;t read anything by Chris in a while, let&#39;s see what he&#39;s got&#34;.
-I am not disappointed that it was this announcement. Looking forward to reading more of your insights.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Scott Moore&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-23T14:37:03-07:00&#34;&gt;2004-07-23T14:37:03-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-I found the same thing when I started an email newsletter for my Stanford lab in 1998 or so. At first I thought the newsletter would contain unpolished ideas and simple pointers. But as time went on, I got pickier. I eventually starting writing 8 or 10 articles and then pre-testing those articles on willing readers in order to select the final 5 or 6 articles for the issue. As you can imagine, it took longer and longer to do each issue, making it harder to get them out the door.
-So now my lab is doing a blog. I&#39;m hoping we can keep it fast and loose. But there is pressure from readers, even if it&#39;s just one person. For example, last month we deleted one of our posted article, and one reader wrote us with nasty things to say, as if we had violated some unwritten rule of blog culture.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;BJ Fogg&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-23T16:29:49-07:00&#34;&gt;2004-07-23T16:29:49-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;You may want to check out Barry Schwartz&#39; commencement address to Swarthmore this year which talks about the idea of wanting &#34;the best&#34; vs. &#34;good enough&#34;.
-&lt;a href=&#34;http://www.swarthmore.edu/news/commencement/2004/schwartz.html&#34;&gt;http://www.swarthmore.edu/news/commencement/2004/schwartz.html&lt;/a&gt;
-Not all of it applies to your situation, but it is, I believe, powerful and important stuff he&#39;s talking about.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.schafer.com/opinions/&#34;&gt;Ken Schafer&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-24T20:47:01-07:00&#34;&gt;2004-07-24T20:47:01-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-First of all, let me point out that I just found your blog today, and I was really impressed by the quality of your comments. Having searched for good social networking articles for a while, I think that I found much more than I ever antecipated.
-As for your &#39;confession&#39;, well, I understand it - I never posted anything before on a blog, because I was always afraid that I could not post good content. But in a world where any 15-seconds-of-fame celebrity can discuss the latest controversy with the same authority as a Ph.D on the topic, I think that I can lower my standards a little bit too. As for yourself, don&#39;t worry - your standards are already very, very high, lowering them a little bit will do no harm. In this muddy world, better to have a few rough gems than no gems at all.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Carlos Ribeiro&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-26T20:22:23-07:00&#34;&gt;2004-07-26T20:22:23-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;The Blog thought police don&#39;t notice if you intersperse long, creative posts and tiny, copycat bits of fluff. Do both.
-Emerson wrote, &#34;A foolish consistency is the hobgoblin of small minds,&#34; or something like that.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.internettime.com&#34;&gt;Jay Cross&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-07-31T19:50:07-07:00&#34;&gt;2004-07-31T19:50:07-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;When I first started paying serious attention to blogs I thought they were blogging for themselves, and their subscribers were interested in what they had to say, entertained, or a friend/family member.  I started my blog as a test to see if I liked it compared to old-fashioned HTML, which I&#39;d done for a few years already.  I found out I loved blogging.  If I read something that moved me, or heard some news on the tv, or something special happened to me, I&#39;d tell my blog.  Most times, it was news reports, or internet stuff that I blogged about.  If I wished I had someone around to tell, then it went in.  Sometimes I post a book, like this comment, while others might be just a few lines, with a link.
-I&#39;ve been getting about one comment a month recently (I&#39;ve been blogging for 13 months); over half the time it&#39;s from people I&#39;ve never heard of, but are very interested in whatever topic I posted about.  I still get excited if someone comments LOL; I got a new one today that brought tears to my eyes it was so beautiful.
-A few months after I started blogging, I noticed  that some bloggers seemed to &#39;blog for an audience&#39;.  Well, if they had an average of 10+ comments on most posts, I&#39;d consider that a large enough audience to consider writing &#39;for&#39;.  But me, I don&#39;t think I&#39;d care for writing &#39;for an audience&#39;.
-But what really made me giggle is that some bloggers seemed to write for a large audiance as their main goal, even if there weren&#39;t many comments at all.  I&#39;d wonder if they wanted something to make themselves feel special, bragging rights in RL, or just plain lonely.  Next I noticed many of the more popular posts instructed people on &#39;how to blog&#39;, promote blogs, ect  Ok, well maybe more people than I thought wanted a huge honking audience LOL.   I&#39;ve noticed a recent trend to &#39;market blogs&#39;, so I guess that might be some bloggers goal, unless they&#39;re just trying to offset bandwidth costs.
-My favorite types of posts were when someone had important knowledge to share like &#39;blogging journalism&#39;, discovery, or specialized instruction like nanotechnology or server software. I also enjoy reviews of products, software, or services, whether they&#39;re good or bad reviews.  Pets and food rate high too LOL
-Have fun with your blog, be passionate about your topics (that&#39;s why I subbed to you when you were looking into Orkut so closely), and I&#39;ll certainly enjoy your posts, short AND long.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://shreela.f2o.org/blog/&#34;&gt;Sherri&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-08-09T04:19:16-07:00&#34;&gt;2004-08-09T04:19:16-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/07/too_high_a_stan.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>I have for some time told people that one way that my blog was different was because I was focused on offering a high signal-to-noise ratio. I told them that they could subscribe to my blog safely, as I&#39;d not inundate them with anything but the highest quality posts.
+At first, this meant that I&#39;d not post unless I had something significant to add to the topic. No simple pointers to interesting ideas, no simple rephrasing, or simple agreement -- I had to add value.</description>
     </item>
     
     <item>
@@ -897,113 +127,7 @@ Have fun with your blog, be passionate about your topics (that&#39;s why I subbe
       <pubDate>Thu, 19 Feb 2004 16:25:05 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</guid>
-      <description>&lt;p&gt;While at &lt;a href=&#34;http://etech.weblogsinc.com/&#34;&gt;eTech&lt;/a&gt;, I attended a number of &#34;social software&#34; sessions. One thing I heard was a persistent call from folk like &lt;a href=&#34;http://blogs.it/0100198/&#34;&gt;Marc Canter&lt;/a&gt; for all the vendors to support something called &lt;a href=&#34;http://xmlns.com/foaf/0.1/&#34;&gt;FOAF&lt;/a&gt;. FOAF is a standard for &#34;Friend of a Friend&#34; files, and is an attempt to make &lt;em&gt;machine readable&lt;/em&gt; information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.&lt;/p&gt;
-&lt;p&gt;If you are using the blog service &lt;a href=&#34;http://www.typepad.com&#34;&gt;TypePad&lt;/a&gt; or the social networking service &lt;a href=&#34;http://www.ecademy.com&#34;&gt;Ecademy&lt;/a&gt; you may already have a FOAF file without knowing it, and &lt;a href=&#34;http://www.tribe.net&#34;&gt;Tribe.Net&lt;/a&gt; announced at eTech that they were promising to support it as well for their social networking service.&lt;/p&gt;
-&lt;p&gt;FOAF as a standard is still in a fairly primitive state -- to me it feels like HTML did during the days of the early Mosaic browser, when every good web page had to be hand-crafted in a text editor and uploaded to a server. However, like HTML, it may have great promise.&lt;/p&gt;
-&lt;p&gt;The first thing that FOAF may offer us is a way to exchange information between various social networking services. For instance, I just exported all my &lt;a href=&#34;http://www.orkut.com&#34;&gt;Orkut&lt;/a&gt; friends into my own FOAF file by hand, but there are those who are working on tools to do this automatically, and once Tribe offers FOAF, services like Orkut may be forced to do the same.&lt;/p&gt;
-&lt;p&gt;Probably more important in the long run is that FOAF may decentralize the data that you make public about yourself -- to put the data under your own control. Owned by you rather then owned by the services you use. For instance, many people have &lt;a href=&#34;http://www.theregister.co.uk/content/6/35375.html&#34;&gt;complained about Orkut&#39;s ownership of information&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The biggest problem with FOAF right now is that it doesn&#39;t support very much &#34;progressive disclosure&#34; or privacy. Progressive disclosure is how people typically handle private information -- they disclose information about themselves a bit at a time, and as trust builds, offer more. The only small measure of privacy that FOAF has is that it has a way to obscure email addresses so that they can&#39;t easily be harvested by spammers. But all your other information is totally public. Theoretically you can &lt;a href=&#34;http://usefulinc.com/foaf/encryptingFoafFiles&#34;&gt;encrypt your FOAF&lt;/a&gt; file, but this method requires external PGP-based encrypted files. There is also the possibility of &lt;a href=&#34;http://www.w3.org/Signature/&#34;&gt;XML-DSIG&lt;/a&gt;, however, I find this standard to also be extremely cumbersome right now. &lt;a href=&#34;http://www.plaxo.com&#34;&gt;Plaxo&lt;/a&gt; is a major social networking service that has some excellent &lt;a href=&#34;http://blog.plaxo.com/archives/000007.html&#34;&gt;comments on FOAF privacy&lt;/a&gt; and other issues.&lt;/p&gt;
-&lt;p&gt;What I want is something that allows people to make &#39;local&#39; assertions about themselves and their friends, and be able to have those friends be able to &#39;discover&#39; more information by using those assertions. Ron Rivest came out with an interesting method for this in an old project called &lt;a href=&#34;http://theory.lcs.mit.edu/~rivest/sdsi10.html&#34;&gt;SDSI - A Simple Distributed Security Infrastructure&lt;/a&gt; that I hope will inspire a few FOAF architects someday. To adopt his method for FOAF requires everyone to have a FOAF service script somewhere and not just a data file. But we&#39;ve seen broad adoption of personal RSS and Trackback services, so I don&#39;t think this is a huge obstacle to overcome.&lt;/p&gt;
-&lt;p&gt;In the meantime, if you want to play around with FOAF take over control of your own public data, I&#39;ve included detailed information on how to get started in hand-crafting your own FOAF file.&lt;/p&gt;
-&lt;h4&gt;Hand-Crafting your own FOAF&lt;/h4&gt;
-&lt;p&gt;First, start with &lt;a href=&#34;http://www.ldodds.com/foaf/foaf-a-matic.html&#34;&gt;FOAF-a-Matic&lt;/a&gt;. This is a web form page that will create a very simple starting FOAF file for you. Don&#39;t put any information in it that you don&#39;t want to be public, and skip the section on &#34;people you know&#34;. When it asks for your email address, make sure to enter it in all lower-case. When completed, it will look something like this:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;rdf:RDF
-xmlns:rdf=&#34;http://www.w3.org/1999/02/22-rdf-syntax-ns#&#34;
-xmlns:rdfs=&#34;http://www.w3.org/2000/01/rdf-schema#&#34;
-xmlns:foaf=&#34;http://xmlns.com/foaf/0.1/&#34;&gt;
-&amp;lt;foaf:Person&gt;
-&amp;lt;foaf:name&gt;Christopher Allen&amp;lt;/foaf:name&gt;
-&amp;lt;foaf:title&gt;Mr&amp;lt;/foaf:title&gt;
-&amp;lt;foaf:firstName&gt;Christopher&amp;lt;/foaf:firstName&gt;
-&amp;lt;foaf:surname&gt;Allen&amp;lt;/foaf:surname&gt;
-&amp;lt;foaf:nick&gt;Chris&amp;lt;/foaf:nick&gt;
-&amp;lt;foaf:mbox_sha1sum&gt;9ee1c03552f22e89592ce583be0ab8db0c4f2c59&amp;lt;/foaf:mbox_sha1sum&gt;
-&amp;lt;foaf:homepage rdf:resource=&#34;http://www.alacrityventures.com/allen.html&#34;/&gt;
-&amp;lt;foaf:depiction
-rdf:resource=&#34;http://web.lifewithalacrity.com/christophera/images/ChristopherAllen(100x100).gif&#34;/&gt;
-&amp;lt;foaf:workplaceHomepage rdf:resource=&#34;http://www.alacrityventures.com&#34;/&gt;
-&amp;lt;foaf:workInfoHomepage rdf:resource=&#34;http://www.alacrityventures.com/allen.html&#34;/&gt;
-&amp;lt;/foaf:Person&gt;
-&amp;lt;/rdf:RDF&gt;&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;The next thing is to add pointers to any other FOAF files that you might have on other services, for instance, I have a profile on Marc Canter&#39;s &lt;a href=&#34;http://peopleaggregator.com/&#34;&gt;People Aggregator&lt;/a&gt; service. You should also list the place where you plan on making your FOAF file available -- you might think that this is a circular reference, but it is OK. My convention is to put the most &#34;authoritative&#34; FOAF file last, so that if there is a conflict the last one might override earlier ones. However, in practice I&#39;ve not found that any FOAF tool I&#39;ve used supports this convention. Put these right above the closing &lt;code&gt;&amp;lt;/foaf:Person&gt;&lt;code&gt; tag.&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;  &amp;lt;rdfs:seeAlso rdf:resource=&#34;http://peopleaggregator.com/profile?id=102&#34; /&gt;
-&amp;lt;rdfs:seeAlso rdf:resource=&#34;http://www.ecademy.com/module.php?mod=network&amp;amp;amp;op=foafrdf&amp;amp;amp;uid=42230&#34; /&gt;
-&amp;lt;rdfs:seeAlso rdf:resource=&#34;http://web.lifewithalacrity.com/christophera/foaf.rdf&#34; /&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;Now upload your file to your own web site, and then run your FOAF file through two different validators, the first being the &lt;a href=&#34;http://www.w3.org/RDF/Validator/&#34;&gt;W3C RDF Validation Service&lt;/a&gt;. It will tell you if you&#39;ve made any mistakes with the RDF aspect of the file. Then use &lt;a href=&#34;http://sw1.ilrt.org/discovery/2003/08/validation/&#34;&gt;Rosco&lt;/a&gt; which will also look at your schema and make recommendations as to missing items. Unfortunately, neither validator is very good at telling you what the problem is if it finds one -- again, it is like the old hand-coding HTML days when you are debugging your web pages.&lt;/p&gt;
-&lt;p&gt;Once you&#39;ve got your basic FOAF file working, now to enter your friends. First, add to your &lt;code&gt;foaf:Person&lt;/code&gt; the following:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;foaf:knows rdf:nodeID=&#34;MarcCanter&#34;/&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;This is a pointer that says &#34;look in this document for a person with the &lt;code&gt;rdf:nodeID&lt;/code&gt; of MarcCanter&#34;. You can invent any value you want for this ID, mcanter, mark, canter, etc., however, it must be a unique ID on this page.&lt;/p&gt;
-&lt;p&gt;Then fill out the following template for each person, putting below your own &lt;code&gt;foaf:Person&lt;/code&gt; but above the closing &lt;code&gt;rdf:RDF&lt;/code&gt; tag:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;foaf:Person rdf:nodeID=&#34;&#34;&gt;
-&amp;lt;foaf:name&gt;&amp;lt;/foaf:name&gt;
-&amp;lt;foaf:firstname&gt;&amp;lt;/foaf:name&gt;
-&amp;lt;foaf:surname&gt;&amp;lt;/foaf:name&gt;
-&amp;lt;foaf:nick&gt;&amp;lt;/foaf:nick&gt;
-&amp;lt;foaf:mbox_sha1sum&gt;&amp;lt;/foaf:mbox_sha1sum&gt;
-&amp;lt;rdfs:seeAlso rdf:resource=&#34;&#34; /&gt;
-&amp;lt;/foaf:Person&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;So for instance with Marc Canter:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;foaf:Person rdf:nodeID=&#34;MarcCanter&#34;&gt;
-&amp;lt;foaf:name&gt;Marc Canter&amp;lt;/foaf:name&gt;
-&amp;lt;foaf:mbox_sha1sum&gt;41e872618d70ba18a7af715083f522afe7fc3238&amp;lt;/foaf:mbox_sha1sum&gt;
-&amp;lt;rdfs:seeAlso rdf:resource=&#34;http://peopleaggregator.com/profile?id=4&#34; /&gt;
-&amp;lt;/foaf:Person&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;Now &lt;code&gt;foaf:firstname&lt;/code&gt;, &lt;code&gt;foaf:surname&lt;/code&gt;, and &lt;code&gt;foaf:nick&lt;/code&gt; are not absolutely essential -- you can remove them if they are not needed. I tend to only use them when there might be some confusion, for instance, for &#34;Arthur De Boies&#34; has &#34;De Boise&#34; is a surname, and &#34;Lori Ann Miller&#34; has &#34;Lori Ann&#34; as a firstname. &lt;code&gt;foaf:nick&lt;/code&gt; is useful in situatations where there is a dimunitive involved, for instance &#34;Christopher Allen&#34; has &#34;Chris&#34; as a nick, and &lt;code&gt;foaf:nick&lt;/code&gt; is also used by some programs online personas or for IRC chat, such as &#34;ChristopherA&#34;.&lt;/p&gt;
-&lt;p&gt;Now where did the &lt;code&gt;foaf:mbox_sha1sum&lt;/code&gt; come from? The purpose of this number is to obscure the email address so that it can&#39;t be harvested by spammers, yet is unique enough that it can FOAF-based applications can find people. To convert an email address to a &lt;code&gt;foaf:mbox_sha1sum&lt;/code&gt; you can use &lt;a href=&#34;http://xml.mfd-consult.dk/foaf/&#34;&gt;sha1ify&lt;/a&gt;. Just enter the email address that you want converted in all lower case, and copy the string it generates to the &lt;code&gt;foaf:mbox_sha1sum&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;Finally, you can search and see if any existing FOAF profiles exist for your friend at &lt;a href=&#34;http://eikeon.com/foaf/&#34;&gt;FOAF: Web View&lt;/a&gt;, using their email address. If the friend does have a FOAF file, add it to &lt;code&gt;rdfs:seeAlso&lt;/code&gt; tag.&lt;/p&gt;
-&lt;p&gt;When you are done, test your FOAF file with the two validators, and if it works. One common problem that the validators will fail to give you a good error message about is if any of the URLs you use contain any improper characters like &amp;amp; - in particular, Ecademy&#39;s FOAF files use this character. Just substitute &amp;amp;amp; for every occurrence of &amp;amp; and it should work fine. Another problem is if any of your friends have international characters in their names, for instance &#34;Sébastien&#34;. To avoid this problem, put the following at the top of your FOAF file above your &lt;code&gt;rdf:RDF&lt;/code&gt; tag.&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;?xml version=&#34;1.0&#34; encoding=&#34;iso-8859-1&#34;?&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;Once everything is working you can submit it to services like &lt;a href=&#34;http://eikeon.com/foaf/&#34;&gt;FOAF: Web View&lt;/a&gt;. You can also browse your FOAF file directly by using &lt;a href=&#34;http://xml.mfd-consult.dk/foaf/explorer/&#34;&gt;FOAF Explorer&lt;/a&gt;, or import it into services like &lt;a href=&#34;http://peopleaggregator.com&#34;&gt;People Aggregator&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Once your FOAF file is working and submitted, you&#39;ll want to add an &#34;auto-discovery&#34; meta-tag to your blog or home page. This is placed in the &lt;code&gt;head&lt;/code&gt; portion of your HTML code:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;link rel=&#34;meta&#34; type=&#34;application/rdf+xml&#34;
-title=&#34;FOAF&#34; href=&#34;http://web.lifewithalacrity.com/christophera/foaf.rdf&#34;/&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;If you are using TypePad, it forces you to use their FOAF file for you unless you used an Advanced Template. With an Advanced Template you can remove the following tags and replace it with the above:&lt;/p&gt;
-&lt;blockquote&gt;&lt;pre&gt;&amp;lt;MTUserIfShow field=&#34;foaf&#34;&gt;
-&amp;lt;link rel=&#34;meta&#34; type=&#34;application/rdf+xml&#34; title=&#34;FOAF&#34; href=&#34;&amp;lt;$MTUserSiteURL$&gt;foaf.rdf&#34; /&gt;
-&amp;lt;/MTUserIfShow&gt;
-&lt;/pre&gt;&lt;/blockquote&gt;
-&lt;p&gt;From this point on it is just a matter of looking at other people&#39;s FOAF files and seeing if you want to add any of the other profile properties that they use. I&#39;m trying to keep a well documented foaf at &lt;a href=&#34;http://web.lifewithalacrity.com/christophera/foaf.rdf&#34;&gt;http://web.lifewithalacrity.com/christophera/foaf.rdf&lt;/a&gt;, and I also recommend looking at Morten Frederiksen&#39;s FOAF at &lt;a href=&#34;http://xml.mfd-consult.dk/foaf/morten.rdf&#34;&gt;http://xml.mfd-consult.dk/foaf/morten.rdf&lt;/a&gt; which supports far more profile information then my FOAF does.&lt;/p&gt;
-&lt;p&gt;Also useful is the IRC chat channel at irc.freenode.net #foaf -- I got a lot of useful tips and advice there.&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Please add some notes about how to say that &#34;This foaf file is about this person&#34;. See these for detail about PPD, topic, maker, made.
-Discussion rdfweb.org/pipermail/rd...-dev/2004-February/thread.html
-The post that kicked it off rdfweb.org/pipermail/rd...-dev/2004-February/012546.html
-An example www.ecademy.com/module.php
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.ecademy.com&#34;&gt;Julian Bond&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-22T01:07:49-07:00&#34;&gt;2004-02-22T01:07:49-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;On the encryption issue: FOAFbot supports encrypted FOAF files (per the link), and I&#39;ve just set up a service for hosting these types of files, so you don&#39;t have to encrypt them yourself: &lt;a href=&#34;http://foaf.dk/hosting/&#34;&gt;http://foaf.dk/hosting/&lt;/a&gt;
-Of course, that means you have to trust me...
-On the ordering of seeAlso: RDF/XML doesn&#39;t have a sense of order (unless you use rdf:Seq, as in RSS). In short, you&#39;re simply making statements of fact (hopefully!), statements that could stand on their own. There&#39;s no default or primary.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://purl.org/net/morten/&#34;&gt;Morten Frederiksen&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-25T10:20:15-07:00&#34;&gt;2004-02-25T10:20:15-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;URL:
-And as with the old html days - there will be end user tools created. My take on an foaf-generation tool for non-technical users is at zopto.com
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;#&#34;&gt;Ben Nolan&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-03-16T04:19:37-07:00&#34;&gt;2004-03-16T04:19:37-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Blogharbor.com also has a FOAF file.  I didn&#39;t know it was its own protocol.  My FOAF is through Blogware.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://elamb.blogharbor.com&#34;&gt;elamb&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2005-04-24T10:10:12-07:00&#34;&gt;2005-04-24T10:10:12-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/handcrafting_my.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>While at eTech, I attended a number of &#34;social software&#34; sessions. One thing I heard was a persistent call from folk like Marc Canter for all the vendors to support something called FOAF. FOAF is a standard for &#34;Friend of a Friend&#34; files, and is an attempt to make machine readable information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.</description>
     </item>
     
     <item>
@@ -1012,28 +136,8 @@ And as with the old html days - there will be end user tools created. My take on
       <pubDate>Thu, 05 Feb 2004 14:37:38 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/02/sexism_social_s.html</guid>
-      <description>&lt;p&gt;A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:&lt;/p&gt;
-&lt;p&gt;In &lt;a href=&#34;http://www.misbehaving.net/2004/02/sexist_jokes_an.html&#34;&gt;misbehaving.net: &#34;sexist jokes and Orkut invites&#34;&lt;/a&gt;, Dana Boyd writes:&lt;blockquote&gt;When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.&lt;/blockquote&gt;At &lt;a href=&#34;http://radiofreeblogistan.com/2004/02/04/this_social_software_stuff_is_tricky.html&#34;&gt;Radio Free Blogistan: &#34;This social software stuff is tricky&#34;&lt;/a&gt; Christian Crumlish apologizes:&lt;blockquote&gt;In my mind, I was cracking on the phenomenon of me being linked to so many other men. I wasn&#39;t sure if this had something to do with the population of Orkut or with my own subnetwork there.&lt;/p&gt;
-&lt;p&gt;However, by using language that divided up men and women in terms of visual appeal or attractiveness, I totally slipped over the line. What might be taken as irreverant and ironic by my &#34;real&#34; friends, who are probably somewhat likely to give me the benefit of the doubt and have other inputs to use in order to judge my character or values, in this context managed to hurt danah&#39;s feelings: the last thing I would have wanted to do.&lt;/p&gt;
-&lt;p&gt;What I crossed over into was that &#34;unwelcome gaze&#34; issue, not unlike in one of danah&#39;s earliest posts to misbehaving in which she wrote about being invited to a coed hot-tub party by a professional colleague and finding that uncomfortable as well.&lt;/blockquote&gt;&lt;br /&gt;
-In &lt;a href=&#34;http://www.zephoria.org/thoughts/archives/2004/02/05/publicly_processing_hurt.html&#34;&gt;Apophenia &#34;Publically Processing Hurt&lt;/a&gt;, Dana responds:&lt;blockquote&gt;Don&#39;t get me wrong: i&#39;m not screamingly upset. Frankly, i was far more nervous and concerned about posting the damn thing than going through the situation. But i wanted to lay out the experience, the emotions for others to read and understand. Not because i had worried myself sick or magnified the situation out of proportion. It was a situation, it would pass, but maybe some good would come out of posting it for others to see. It is the raw emotions, the logic in our heads that bring us to a situation. We rarely make this visible. For those who don&#39;t understand, the goal isn&#39;t to give you fodder to attack. Instead, try understanding what life from my perspective might look like. &lt;/p&gt;
-&lt;p&gt;And then the unexpected happened. Bless his heart, the owner of said comment made a public apology. He didn&#39;t need to own up to that statement, but he did. And he went on to offer his emotional reaction to my tinge of hurt. And he continued on to defend both me, my post and my sense of humor (ah, yes, public support is the quickest way to make me respect someone). So, i&#39;m floored. And surprised. And terribly appreciative.&lt;/blockquote&gt;I have some understanding of Christian -- I consider myself a conscious feminist, but sometimes our male world-view sets us up for a clash. I could easily see myself in his situation, realizing that there are so few women among my connections, trying to fix that, and then falling flat on my face.&lt;/p&gt;
-&lt;p&gt;I&#39;ve run into this type of thing before at &lt;a href=&#34;http://www.skotos.net/&#34;&gt;Skotos&lt;/a&gt; -- one of our games &lt;a href=&#34;http://www.skotos.net/games/marrach/&#34;&gt;Castle Marrach&lt;/a&gt; is notable as a commercial game that has probably more women involved in it then men. This was a deliberate part of the game design, but when I talk about how and why we designed it that way it is easy for me to come across as sexist.&lt;/p&gt;
-&lt;p&gt;Also, the context is important. If this &#39;joke&#39; had been spoken and in a semi-private medium where everyone knows and trusts each other, it would have come across very differently. Instead, it was sent to a circle of friends where everyone knew Christian, but not everyone knew each other. This is more proof that even &#39;friends of friends&#39; can be a pretty distant connection. If the joke had been told at &lt;a href=&#34;http://www.livejournal.com&#34;&gt;Live Journal&lt;/a&gt;, which is also dominated by women (64%), it also would have come across differently.&lt;/p&gt;
-&lt;p&gt;I&#39;m even uncomfortable writing this blog entry, because no matter what I do, there is no way I can precisely understand what it is like to be in Dana&#39;s place, or any women&#39;s place for that matter. All I can do is empathize with Dana discomfort and try to not make such mistakes myself.&lt;br /&gt;
-&lt;/p&gt;
-&lt;footer&gt;&lt;h3&gt;Comments&lt;/h3&gt;
-&lt;div class=&#34;u-comment h-cite&#34;&gt;
-&lt;p class=&#34;p-content p-name&#34;&gt;Also, how differently would it come across if women started a &#34;cute geek guy&#34; ratings discussion.
-Would guys just like it, or feel objectified also?
-Personally, I wouldn&#39;t want to, I feel really uncomfortable with the Halley Suitt pro-flirtation model.
-&lt;/p&gt;
-&lt;a class=&#34;u-author h-card&#34; href=&#34;http://www.alevin.com/weblog&#34;&gt;Adina Levin&lt;/a&gt;
-&lt;time class=&#34;dt-published&#34; datetime=&#34;2004-02-07T10:18:33-07:00&#34;&gt;2004-02-07T10:18:33-07:00&lt;/time&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/02/sexism_social_s.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:
+In misbehaving.net: &#34;sexist jokes and Orkut invites&#34;, Dana Boyd writes:When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.At Radio Free Blogistan: &#34;This social software stuff is tricky&#34; Christian Crumlish apologizes:In my mind, I was cracking on the phenomenon of me being linked to so many other men.</description>
     </item>
     
     <item>
@@ -1042,11 +146,8 @@ Personally, I wouldn&#39;t want to, I feel really uncomfortable with the Halley 
       <pubDate>Fri, 30 Jan 2004 12:30:00 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/01/for_the_last_fe.html</guid>
-      <description>&lt;p&gt;For the last few weeks I&#39;ve been moving my blog from Blogger Pro over to the TypePad service, after a frustrating try to get WordPress to work. While I was at it, I moved my blog from my business server to this new domain.&lt;/p&gt;
-&lt;p&gt;I finally have it all working here now, but all of my old permalinks are broken. In progress is a utility that will redirect people from the old permalinks to the new. I&#39;ll report progress on that later.&lt;br /&gt;
-&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2004/01/for_the_last_fe.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>For the last few weeks I&#39;ve been moving my blog from Blogger Pro over to the TypePad service, after a frustrating try to get WordPress to work. While I was at it, I moved my blog from my business server to this new domain.
+I finally have it all working here now, but all of my old permalinks are broken. In progress is a utility that will redirect people from the old permalinks to the new.</description>
     </item>
     
     <item>
@@ -1055,12 +156,39 @@ Personally, I wouldn&#39;t want to, I feel really uncomfortable with the Halley 
       <pubDate>Tue, 09 Dec 2003 19:22:42 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2003/12/wbloggar.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.henshall.com/blog/&#34;&gt;Stuart Henshal&lt;/a&gt; recommended that I try out &lt;a href=&#34;http://wbloggar.com/&#34;&gt;w.Bloggar&lt;/a&gt; for creating blog posts. I&#39;m giving it a try here.&lt;/p&gt;
-&lt;p&gt;So far seems interesting -- in addition to spell checking and handling some html related tasks, it appears to also have the ability to work with various plugins, for instance, a Windows Media Player plugin to display what music I&#39;m playing right now.&lt;/p&gt;
-&lt;p&gt; &lt;div class=&#34;media&#34;&gt;[Listening to: Crimson (4-4) - Solace - Ahsas (04:15)]&lt;/div&gt;&lt;br /&gt;
-Stuart says that one of his favorite features is that the tool will post to multiple blogs at once, which is useful if you are maintaining a business and a non-business blog and yet some items will go into both.&lt;/p&gt;
-&lt;p class=&#34;previous&#34;&gt;&lt;a href=&#34;http://www.lifewithalacrity.com/previous/2003/12/wbloggar.html&#34; rel=&#34;syndication&#34; class=&#34;u-syndication&#34; &gt;orginal layout&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Stuart Henshal recommended that I try out w.Bloggar for creating blog posts. I&#39;m giving it a try here.
+So far seems interesting -- in addition to spell checking and handling some html related tasks, it appears to also have the ability to work with various plugins, for instance, a Windows Media Player plugin to display what music I&#39;m playing right now.
+ [Listening to: Crimson (4-4) - Solace - Ahsas (04:15)]</description>
+    </item>
+    
+    <item>
+      <title>RSS &amp; Blogger</title>
+      <link>http://www.lifewithalacrity.com/2003/12/rss_blogger.html</link>
+      <pubDate>Mon, 08 Dec 2003 12:45:19 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2003/12/rss_blogger.html</guid>
+      <description>RSS is finally available to Blogger members, so as soon as I&#39;ve figured it out I&#39;ll be adding it here.
+original layout</description>
+    </item>
+    
+    <item>
+      <title>Blogger Pro Free, but Where is RSS Syndication?</title>
+      <link>http://www.lifewithalacrity.com/2003/09/blogger_pro_fre.html</link>
+      <pubDate>Thu, 11 Sep 2003 13:29:53 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2003/09/blogger_pro_fre.html</guid>
+      <description>I have been hesitating on committing to Blogger because ever time I check into availability of Blogger Pro, it was not available. Apparently now Blogger Pro is Free.
+My remaining concern is that the new feature list for Blogger Pro does not mention RSS syndication at all, nor does it mention if it will be available in the future. There is a help item for for Syndication, however, it refers to a &#34;</description>
+    </item>
+    
+    <item>
+      <title>“Life With Alacrity” Blog, using Blogger</title>
+      <link>http://www.lifewithalacrity.com/2003/07/life_with_alacr.html</link>
+      <pubDate>Thu, 03 Jul 2003 12:49:02 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2003/07/life_with_alacr.html</guid>
+      <description>I decided after years of reading blogs that it was time to start blogging.
+Why Blogger? I wanted an easy web interface, but also I wanted it hosted on my site (which is Debian based). A couple of blog tools offer this. I wanted something really simple and I didn&#39;t want to host my own tools (keeping my own TWiki&#39;s up-to-date has been a pain) so I wanted the tools hosted elsewere.</description>
     </item>
     
   </channel>
