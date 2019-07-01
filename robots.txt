@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /previous/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lifewithalacrity.com/sitemap.xml
