@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>american cancer society. on Life With Alacrity</title>
     <link>http://www.lifewithalacrity.com/tags/american-cancer-society./</link>
     <description>Recent content in american cancer society. on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 28 Feb 2005 11:20:01 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/american-cancer-society./index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://www.lifewithalacrity.com/tags/american-cancer-society./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Voluntary Health Associations &amp; Social Software</title>
       <link>http://www.lifewithalacrity.com/2005/02/voluntary_healt.html</link>

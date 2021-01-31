@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iPhoneWebDev on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in iPhoneWebDev on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jun 2007 20:06:45 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/iphonewebdev/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 Jun 2007 20:06:45 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/iphonewebdev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Ready for the iPhone</title>
       <link>http://www.lifewithalacrity.com/2007/06/getting_ready_f.html</link>

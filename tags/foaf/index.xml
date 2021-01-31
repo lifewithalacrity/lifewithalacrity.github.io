@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FOAF on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in FOAF on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2004 16:25:05 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/foaf/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 19 Feb 2004 16:25:05 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/foaf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hand-Crafting My FOAF</title>
       <link>http://www.lifewithalacrity.com/2004/02/handcrafting_my.html</link>

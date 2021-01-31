@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elemental diversity on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in elemental diversity on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Apr 2013 14:16:52 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/elemental-diversity/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Apr 2013 14:16:52 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/elemental-diversity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dyads &amp; Triads — The Smallest Teams</title>
       <link>http://www.lifewithalacrity.com/2013/04/dyads-triads-the-smallest-teams.html</link>

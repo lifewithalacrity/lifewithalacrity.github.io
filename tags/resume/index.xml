@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>resume on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in resume on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2015 23:55:42 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Mar 2015 23:55:42 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mini Resume Card for Conference Season</title>
       <link>http://www.lifewithalacrity.com/2015/03/mini-resume-card-for-conference-season.html</link>

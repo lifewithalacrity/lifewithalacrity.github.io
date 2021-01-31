@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kalle alm on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in kalle alm on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/kalle-alm/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/kalle-alm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SynchroEdit: Simultaneous Editing for the Web</title>
       <link>http://www.lifewithalacrity.com/2005/10/for_the_last_se.html</link>

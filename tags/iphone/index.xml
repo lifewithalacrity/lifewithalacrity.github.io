@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iPhone on Life With Alacrity</title>
+    <title>iphone on Life With Alacrity</title>
     <link>http://www.lifewithalacrity.com/tags/iphone/</link>
-    <description>Recent content in iPhone on Life With Alacrity</description>
+    <description>Recent content in iphone on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jul 2008 13:22:55 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 13 Jul 2008 13:22:55 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Blog for Ephemera</title>
       <link>http://www.lifewithalacrity.com/2008/07/new-blog-for-ep.html</link>
@@ -29,27 +25,6 @@
       <description>I feel privileged and honored to have been part of the iPhoneDevCamp this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.
 I was the keynote speaker on Saturday and Master of Ceremonies for the MacHack-style Hack-a-Thon Demo on Sunday.
 At the Hack-a-Thon almost 50 iPhone web applications were demonstrated to an enthusiastic audience.</description>
-    </item>
-    
-    <item>
-      <title>iPhoneDevCamp and Hack-a-Thon</title>
-      <link>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</link>
-      <pubDate>Sun, 08 Jul 2007 23:19:52 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</guid>
-      <description>I feel privileged and honored to have been part of the iPhoneDevCamp this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.
-I was the keynote speaker on Saturday and Master of Ceremonies for the MacHack-style Hack-a-Thon Demo on Sunday.
-At the Hack-a-Thon almost 50 iPhone web applications were demonstrated to an enthusiastic audience.</description>
-    </item>
-    
-    <item>
-      <title>Getting Ready for the iPhone</title>
-      <link>http://www.lifewithalacrity.com/2007/06/getting_ready_f.html</link>
-      <pubDate>Fri, 15 Jun 2007 20:06:45 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2007/06/getting_ready_f.html</guid>
-      <description>I&#39;ve been excited about the web capabilities of the upcoming iPhone for some time. As a reluctant laptop user (&amp;quot;oh, my aching shoulders&amp;quot;), there is real appeal to me in a better portable web browser. I have tried most of the PDA and cellphone browsers to date, and none offer more then a poor cousin to the web that we experience on the desktop.
-Instead, the iPhone offers a desktop-class browser.</description>
     </item>
     
     <item>

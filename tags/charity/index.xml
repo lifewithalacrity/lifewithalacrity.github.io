@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>charity on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in charity on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Mar 2005 11:38:19 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/charity/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 17 Mar 2005 11:38:19 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/charity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dunbar, Altruistic Punishment, and Meta-Moderation</title>
       <link>http://www.lifewithalacrity.com/2005/03/dunbar_altruist.html</link>

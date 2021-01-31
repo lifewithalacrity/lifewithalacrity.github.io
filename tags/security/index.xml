@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Security on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2016 23:07:58 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Apr 2016 23:07:58 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!</title>
       <link>http://www.lifewithalacrity.com/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html</link>
@@ -47,18 +43,6 @@ My own personal definition for the commons is broader — any regenerative, self
       <guid>http://www.lifewithalacrity.com/2015/09/speaking-at-consensus-2015.html</guid>
       <description>I&amp;#39;m heading out today to New York City to speak at Consensus 2015, where I am speaking on the panel ‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’:
 Bitcoin is far from the first attempt at creating a form of digital money with the potential to upend existing systems. Our panelists will look at bitcoin&amp;#39;s predecessors and close cousins. Nathaniel Popper wrote the book Digital Gold, which delves into bitcoin&amp;#39;s genesis; Christopher Allen is an internet security expert who has been involved in digital cash systems including Digicash for decades, while Garrick Hileman is CoinDesk&amp;#39;s lead analyst and an economic historian at the LSE, specializing in alternative and private monies.</description>
-    </item>
-    
-    <item>
-      <title>The Four Kinds of Privacy</title>
-      <link>http://www.lifewithalacrity.com/2015/04/the-four-kinds-of-privacy.html</link>
-      <pubDate>Mon, 20 Apr 2015 22:30:30 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2015/04/the-four-kinds-of-privacy.html</guid>
-      <description>(This article has been cross-posted in Medium)
-
-Privacy is hitting the headlines more than ever. As computer users are asked to change their passwords again and again in the wake of exploits like Heartbleed and Shellshock, they&amp;#39;re becoming aware of the vulnerability of their online data — a susceptibility that was recently verified by scores of celebrities who had their most intimate photographs stolen.
-Any of us could have our privacy violated at any time… but what does that mean exactly?</description>
     </item>
     
     <item>
@@ -130,16 +114,6 @@ My firm Consensus Development was the only one offering these reviews, largely b
     </item>
     
     <item>
-      <title>Some History of SSL Security Reviews</title>
-      <link>http://www.lifewithalacrity.com/2014/04/some-history-of-ssl-security-reviews.html</link>
-      <pubDate>Fri, 11 Apr 2014 12:01:00 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2014/04/some-history-of-ssl-security-reviews.html</guid>
-      <description>Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.
-My firm Consensus Development was the only one offering these reviews, largely because other security firms were scared of liability issues. Over 50% of the products failed in less then 8 hours of review, typically for very stupid mistakes. The CAs stopped asking us for reviews because it was slowing down sales of certificates.</description>
-    </item>
-    
-    <item>
       <title>Trusted Traveler: Convenience over Privacy &lt;sigh&gt;</title>
       <link>http://www.lifewithalacrity.com/2014/04/trusted-traveler-convenience-over-privacy-.html</link>
       <pubDate>Thu, 10 Apr 2014 12:00:00 -0700</pubDate>
@@ -173,119 +147,6 @@ My firm Consensus Development was the only one offering these reviews, largely b
       
       <guid>http://www.lifewithalacrity.com/2014/04/world-backup-day.html</guid>
       <description>Post by Christopher Allen. original layout</description>
-    </item>
-    
-    <item>
-      <title>Password Best Practices</title>
-      <link>http://www.lifewithalacrity.com/2009/09/password-best-practices.html</link>
-      <pubDate>Fri, 25 Sep 2009 01:29:32 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2009/09/password-best-practices.html</guid>
-      <description>Passwords are very important for maintaining your online identity, because they ensure that no one else can access your accounts and do things that you wouldn&amp;#39;t do. As such, you should make sure that your online passwords are as strong as possible. This article will provide some general guidelines for doing so.
-Multiple Passwords Note that I said that you want to ensure your passwords, plural, are strong. That&amp;#39;s because you&amp;#39;ll want at least two.</description>
-    </item>
-    
-    <item>
-      <title>Future Topics</title>
-      <link>http://www.lifewithalacrity.com/2005/04/future_topics.html</link>
-      <pubDate>Mon, 04 Apr 2005 01:08:16 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2005/04/future_topics.html</guid>
-      <description>I&#39;ve been working on an ambitious list of topics that I&#39;d like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.
-Office Architecture for Innovation -- Over the years I&#39;ve built or converted three offices to my specifications. From this I have learned a number of things about about how to create a productive environment innovation-oriented businesses.</description>
-    </item>
-    
-    <item>
-      <title>Intimacy Gradient and Other Lessons from Architecture</title>
-      <link>http://www.lifewithalacrity.com/2004/08/intimacy_gradie.html</link>
-      <pubDate>Thu, 26 Aug 2004 16:56:26 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/08/intimacy_gradie.html</guid>
-      <description>A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found The Dunbar Number in sociology, and both Four Kinds of Privacy and Progressive Trust come from my work in the cryptography field. The topic of this post comes from the field of architecture.
-In order to provide for Progressive Trust, you need to establish what is known as an &#34;</description>
-    </item>
-    
-    <item>
-      <title>Progressive Trust</title>
-      <link>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</link>
-      <pubDate>Mon, 16 Aug 2004 23:42:15 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</guid>
-      <description>I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
-One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.</description>
-    </item>
-    
-    <item>
-      <title>Post RSA Conference Wrapup</title>
-      <link>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</link>
-      <pubDate>Fri, 05 Mar 2004 03:50:41 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</guid>
-      <description>I spent most of last week at the RSA Conference in San Francisco.
-Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting The Bad Business of Fear.
-I asked a number of random people what they thought of the conference.</description>
-    </item>
-    
-    <item>
-      <title>Post RSA Conference Wrapup</title>
-      <link>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</link>
-      <pubDate>Fri, 05 Mar 2004 03:50:41 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</guid>
-      <description>I spent most of last week at the RSA Conference in San Francisco.
-Like last year, I found little that excited me. I overheard from a convention staffer that they had 30% more attendees, so the conference is growing again, but my week there also reinforced my opinions regarding the industry as a whole as I describe in my previous blog posting The Bad Business of Fear.
-I asked a number of random people what they thought of the conference.</description>
-    </item>
-    
-    <item>
-      <title>Security &amp; Cryptography: The Bad Business of Fear</title>
-      <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>
-      <pubDate>Sun, 22 Feb 2004 14:12:29 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/02/security_crypto.html</guid>
-      <description>As I head out next week to the RSA Conference I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.
-After 8 more years I left the compujter security industry on March 15, 1999. The computer security industry also seemed to be filled with as much potential as it did back in 1991.</description>
-    </item>
-    
-    <item>
-      <title>Security &amp; Cryptography: The Bad Business of Fear</title>
-      <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>
-      <pubDate>Sun, 22 Feb 2004 14:12:29 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/02/security_crypto.html</guid>
-      <description>As I head out next week to the RSA Conference I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.
-After 8 more years I left the compujter security industry on March 15, 1999. The computer security industry also seemed to be filled with as much potential as it did back in 1991.</description>
-    </item>
-    
-    <item>
-      <title>Confirmed Email Privacy Hole at Orkut</title>
-      <link>http://www.lifewithalacrity.com/2004/02/confirmed_email.html</link>
-      <pubDate>Sun, 01 Feb 2004 17:12:22 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/02/confirmed_email.html</guid>
-      <description>Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.
-For instance, whenever I send a message to anyone in the system that is forwarded by email, in the message headers it will read:
- From: &#34;Christopher Allen&#34; &amp;lt;member@orkut.com&amp;gt; Reply-To: &#34;Christopher Allen&#34; &amp;lt;christophera@alacritymanagement.com; When someone reads the message in their email software, the &#34;From:&#34; line will be my name but the fake email of &amp;lt;member@orkut.</description>
-    </item>
-    
-    <item>
-      <title>Insecurity at Orkut</title>
-      <link>http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html</link>
-      <pubDate>Sat, 31 Jan 2004 13:58:38 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/01/insecurity_at_o.html</guid>
-      <description>Like many others, I&#39;ve been paying attention to Orkut in the last couple of weeks. I&#39;ve answered more requests to be &amp;quot;friends&amp;quot; on Orkut then I have of any of the other half-dozen Social Networking Services I&#39;ve tried, and I&#39;ve looking at other people&#39;s friends to see if I know anyone. I&#39;ve yet to ask someone to join Orkut that wasn&#39;t already a member, and I&#39;ve been careful to not have anyone as a &amp;quot;friend&amp;quot; that I didn&#39;t know reasonably well and I thought knew me.</description>
-    </item>
-    
-    <item>
-      <title>Evaluating Social Network Services</title>
-      <link>http://www.lifewithalacrity.com/2003/12/evaluating_soci.html</link>
-      <pubDate>Tue, 16 Dec 2003 15:11:56 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2003/12/evaluating_soci.html</guid>
-      <description>After a week where I met a number of bloggers and social network / social software people, I decided to try to update my various networks at Ryze, Tribe.Net, LinkedIn, and Friendster.
-These are my observations of these social network services after a few weeks of work.
-Overview of Social Network Services ChristopherA @ Ryze This was the first social network service that I signed up that seemed to already have some of my friends on it.</description>
     </item>
     
   </channel>

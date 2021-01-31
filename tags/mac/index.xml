@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mac on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in mac on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Aug 2012 16:27:42 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 12 Aug 2012 16:27:42 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/mac/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tools for Ignition &amp; HyperCard’s 25th Anniversary</title>
       <link>http://www.lifewithalacrity.com/2012/08/tools-for-ignition-hypercards-25th-anniversary.html</link>

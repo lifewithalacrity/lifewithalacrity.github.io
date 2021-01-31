@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on Life With Alacrity</title>
@@ -6,29 +6,146 @@
     <description>Recent content in web on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2004 08:44:31 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 05 Apr 2016 23:07:58 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Google Suggest Dissected</title>
-      <link>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</link>
-      <pubDate>Sat, 18 Dec 2004 08:44:31 -0700</pubDate>
+      <title>Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!</title>
+      <link>http://www.lifewithalacrity.com/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html</link>
+      <pubDate>Tue, 05 Apr 2016 23:07:58 -0700</pubDate>
       
-      <guid>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</guid>
-      <description>As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.</description>
+      <guid>http://www.lifewithalacrity.com/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html</guid>
+      <description>As part of being a&amp;#0160;member of the sustainable MBA community at Pinchot University, I have been trying to articulate what I like about the kinds of collaboration that are possible even inside a competitive industry. In our MBA program, we don&amp;#39;t just teach about competitive strategy&amp;#0160;(using classic&amp;#39;s like Porter&amp;#39;s book), but we also teach about the nature of&amp;#0160;coopetition. These practices&amp;#0160;are more&amp;#0160;likely to lead to sustainable businesses (not only sustainable=green, but sustainable=enduring).</description>
     </item>
     
     <item>
-      <title>Map Mashup</title>
-      <link>http://www.lifewithalacrity.com/2004/10/map_mashup.html</link>
-      <pubDate>Wed, 06 Oct 2004 00:12:46 -0700</pubDate>
+      <title>A Revised “Ostrom’s Design Principles for Collective Governance of the Commons”</title>
+      <link>http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html</link>
+      <pubDate>Thu, 05 Nov 2015 15:23:09 -0700</pubDate>
       
-      <guid>http://www.lifewithalacrity.com/2004/10/map_mashup.html</guid>
-      <description>I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
-MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
-However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map.</description>
+      <guid>http://www.lifewithalacrity.com/2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html</guid>
+      <description>The traditional economic definition of “the commons” are those resources that are held in common and not privately owned. This is closely related to economic concept of public goods, which are goods that are both non-excludable (in that individuals cannot be effectively excluded from use) and non-rivalrous (where use by one individual does not reduce availability to others).
+My own personal definition for the commons is broader — any regenerative, self-organizing complex system that can be drawn upon for deep wealth.</description>
+    </item>
+    
+    <item>
+      <title>A Spectrum of Consent</title>
+      <link>http://www.lifewithalacrity.com/2015/09/a-spectrum-of-consent.html</link>
+      <pubDate>Wed, 09 Sep 2015 09:28:29 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2015/09/a-spectrum-of-consent.html</guid>
+      <description>I have made understanding of consent and consensus, in both their human and technological forms, a major part of my career. I have explored them through my work in cryptographic technologies, but also in human terms at the&amp;#0160;Group Pattern Language Project, by co-authoring with Shannon Appecline forthcoming book on the design of collaborative games, and another book in progress on the patterns of cooperative play. My business management style is also more collaborative and inclusive.</description>
+    </item>
+    
+    <item>
+      <title>Speaking at Consensus 2015</title>
+      <link>http://www.lifewithalacrity.com/2015/09/speaking-at-consensus-2015.html</link>
+      <pubDate>Mon, 07 Sep 2015 23:54:30 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2015/09/speaking-at-consensus-2015.html</guid>
+      <description>I&amp;#39;m heading out today to New York City to speak at Consensus 2015, where I am speaking on the panel ‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’:
+Bitcoin is far from the first attempt at creating a form of digital money with the potential to upend existing systems. Our panelists will look at bitcoin&amp;#39;s predecessors and close cousins. Nathaniel Popper wrote the book Digital Gold, which delves into bitcoin&amp;#39;s genesis; Christopher Allen is an internet security expert who has been involved in digital cash systems including Digicash for decades, while Garrick Hileman is CoinDesk&amp;#39;s lead analyst and an economic historian at the LSE, specializing in alternative and private monies.</description>
+    </item>
+    
+    <item>
+      <title>The Four Kinds of Privacy</title>
+      <link>http://www.lifewithalacrity.com/2015/04/the-four-kinds-of-privacy.html</link>
+      <pubDate>Mon, 20 Apr 2015 22:30:30 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2015/04/the-four-kinds-of-privacy.html</guid>
+      <description>(This article has been cross-posted in Medium)
+
+Privacy is hitting the headlines more than ever. As computer users are asked to change their passwords again and again in the wake of exploits like Heartbleed and Shellshock, they&amp;#39;re becoming aware of the vulnerability of their online data — a susceptibility that was recently verified by scores of celebrities who had their most intimate photographs stolen.
+Any of us could have our privacy violated at any time… but what does that mean exactly?</description>
+    </item>
+    
+    <item>
+      <title>Mini Resume Card for Conference Season</title>
+      <link>http://www.lifewithalacrity.com/2015/03/mini-resume-card-for-conference-season.html</link>
+      <pubDate>Sun, 22 Mar 2015 23:55:42 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2015/03/mini-resume-card-for-conference-season.html</guid>
+      <description>Between the business of the March/April conference season and leaving Blackphone, I&#39;ve run out of business cards. Rather than rush to print a bunch of new ones, I&#39;m created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.
+Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.</description>
+    </item>
+    
+    <item>
+      <title>Kathy Sierra of Serious Pony on Trolls</title>
+      <link>http://www.lifewithalacrity.com/2014/10/kathy-sierra-of-serious-pony-on-trolls.html</link>
+      <pubDate>Wed, 08 Oct 2014 11:47:43 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/10/kathy-sierra-of-serious-pony-on-trolls.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”</title>
+      <link>http://www.lifewithalacrity.com/2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend.html</link>
+      <pubDate>Thu, 05 Jun 2014 00:35:51 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>“The Really Big Questions” Podcast Asks “Why Do We Share?”</title>
+      <link>http://www.lifewithalacrity.com/2014/04/the-really-big-questions-podcast-asks-why-do-we-share.html</link>
+      <pubDate>Thu, 24 Apr 2014 10:39:49 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/the-really-big-questions-podcast-asks-why-do-we-share.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>Is the Sharing Economy Changing Our Culture of Trust?</title>
+      <link>http://www.lifewithalacrity.com/2014/04/is-the-sharing-economy-changing-our-culture-of-trust.html</link>
+      <pubDate>Wed, 23 Apr 2014 12:01:00 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/is-the-sharing-economy-changing-our-culture-of-trust.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>Advice to SysAdmins &amp; Managers about Heartbleed Bug in SSL</title>
+      <link>http://www.lifewithalacrity.com/2014/04/advice-to-sysadmins-managers-about-heartbleed-bug-in-ssl.html</link>
+      <pubDate>Wed, 09 Apr 2014 11:15:24 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/advice-to-sysadmins-managers-about-heartbleed-bug-in-ssl.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>General Advice about the Heartbleed Bug in SSL</title>
+      <link>http://www.lifewithalacrity.com/2014/04/general-advice-about-the-heartbleed-bug-in-ssl.html</link>
+      <pubDate>Wed, 09 Apr 2014 11:00:00 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/general-advice-about-the-heartbleed-bug-in-ssl.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>World Backup Day…</title>
+      <link>http://www.lifewithalacrity.com/2014/04/world-backup-day.html</link>
+      <pubDate>Mon, 07 Apr 2014 11:30:00 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/world-backup-day.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>Countries Learning to Manipulate Social Media</title>
+      <link>http://www.lifewithalacrity.com/2014/04/countries-learning-to-manipulate-social-media.html</link>
+      <pubDate>Fri, 04 Apr 2014 12:02:00 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/countries-learning-to-manipulate-social-media.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
+    </item>
+    
+    <item>
+      <title>Justine Musk says “If you don’t tell your story, someone else will tell it for you.”</title>
+      <link>http://www.lifewithalacrity.com/2014/04/justine-musk-says-if-you-dont-tell-your-story-someone-else-will-tell-it-for-you.html</link>
+      <pubDate>Fri, 04 Apr 2014 11:41:00 -0700</pubDate>
+      
+      <guid>http://www.lifewithalacrity.com/2014/04/justine-musk-says-if-you-dont-tell-your-story-someone-else-will-tell-it-for-you.html</guid>
+      <description>Post by Christopher Allen. original layout</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weblogs on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Weblogs on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2012 17:21:44 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 18 Oct 2012 17:21:44 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/weblogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to the Social Web (Reading List #SW4SX)</title>
       <link>http://www.lifewithalacrity.com/2012/10/introduction-to-the-social-web-reading-list-sw4sx.html</link>
@@ -76,8 +72,8 @@ The basic concept is that it allows multiple users to WYSIWYG edit a single web-
       <pubDate>Mon, 18 Jul 2005 14:13:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</guid>
-      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.&amp;ndash; The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s column he says something that I find very accurate to my experience with the online medium:
-As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred.</description>
+      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.-- The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&#39;s column he says something that I find very accurate to my experience with the online medium:
+As for why people get hostile when they hear a differing opinion, I go back to Spinoza&#39;s definition of love and hatred.</description>
     </item>
     
     <item>
@@ -159,36 +155,6 @@ I finally have it all working here now, but all of my old permalinks are broken.
       <description>Stuart Henshal recommended that I try out w.Bloggar for creating blog posts. I&#39;m giving it a try here.
 So far seems interesting -- in addition to spell checking and handling some html related tasks, it appears to also have the ability to work with various plugins, for instance, a Windows Media Player plugin to display what music I&#39;m playing right now.
  [Listening to: Crimson (4-4) - Solace - Ahsas (04:15)]</description>
-    </item>
-    
-    <item>
-      <title>RSS &amp; Blogger</title>
-      <link>http://www.lifewithalacrity.com/2003/12/rss_blogger.html</link>
-      <pubDate>Mon, 08 Dec 2003 12:45:19 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2003/12/rss_blogger.html</guid>
-      <description>RSS is finally available to Blogger members, so as soon as I&#39;ve figured it out I&#39;ll be adding it here.
-original layout</description>
-    </item>
-    
-    <item>
-      <title>Blogger Pro Free, but Where is RSS Syndication?</title>
-      <link>http://www.lifewithalacrity.com/2003/09/blogger_pro_fre.html</link>
-      <pubDate>Thu, 11 Sep 2003 13:29:53 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2003/09/blogger_pro_fre.html</guid>
-      <description>I have been hesitating on committing to Blogger because ever time I check into availability of Blogger Pro, it was not available. Apparently now Blogger Pro is Free.
-My remaining concern is that the new feature list for Blogger Pro does not mention RSS syndication at all, nor does it mention if it will be available in the future. There is a help item for for Syndication, however, it refers to a &#34;</description>
-    </item>
-    
-    <item>
-      <title>“Life With Alacrity” Blog, using Blogger</title>
-      <link>http://www.lifewithalacrity.com/2003/07/life_with_alacr.html</link>
-      <pubDate>Thu, 03 Jul 2003 12:49:02 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2003/07/life_with_alacr.html</guid>
-      <description>I decided after years of reading blogs that it was time to start blogging.
-Why Blogger? I wanted an easy web interface, but also I wanted it hosted on my site (which is Debian based). A couple of blog tools offer this. I wanted something really simple and I didn&#39;t want to host my own tools (keeping my own TWiki&#39;s up-to-date has been a pain) so I wanted the tools hosted elsewere.</description>
     </item>
     
   </channel>

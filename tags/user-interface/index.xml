@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>User Interface on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in User Interface on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2015 23:55:42 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Mar 2015 23:55:42 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/user-interface/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mini Resume Card for Conference Season</title>
       <link>http://www.lifewithalacrity.com/2015/03/mini-resume-card-for-conference-season.html</link>
@@ -157,113 +153,12 @@ Office Architecture for Innovation -- Over the years I&#39;ve built or converted
     </item>
     
     <item>
-      <title>Google Suggest Dissected</title>
-      <link>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</link>
-      <pubDate>Sat, 18 Dec 2004 08:44:31 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/12/google_suggest_.html</guid>
-      <description>As a former Macintosh developer, I&#39;ve always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.</description>
-    </item>
-    
-    <item>
       <title>JotSpot: Application Wiki</title>
       <link>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</link>
       <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</guid>
       <description>Joe Kraus, one of the co-founders of Excite, and new blogger has long been rumored to be working on a new wiki tool. Today at the Web 2.0 conference Joe finally unveiled JotSpot, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.</description>
-    </item>
-    
-    <item>
-      <title>Map Mashup</title>
-      <link>http://www.lifewithalacrity.com/2004/10/map_mashup.html</link>
-      <pubDate>Wed, 06 Oct 2004 00:12:46 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/10/map_mashup.html</guid>
-      <description>I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
-MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
-However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map.</description>
-    </item>
-    
-    <item>
-      <title>Map Mashup</title>
-      <link>http://www.lifewithalacrity.com/2004/10/map_mashup.html</link>
-      <pubDate>Wed, 06 Oct 2004 00:12:46 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/10/map_mashup.html</guid>
-      <description>I&#39;m a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
-MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
-However, for certain regions, they have this fabulous capability to show you the aerial photo of the place, then display hovering around the cursor a slightly transparent map.</description>
-    </item>
-    
-    <item>
-      <title>TiddlyWiki</title>
-      <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
-      <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</guid>
-      <description>I keep an eye out for new ideas in Wiki technology (see my post from February Looking at Wiki), and I recently became fascinated by TiddlyWiki. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my EditThisPagePHP, it appears to be an elegant experiment to look into the future of this medium of user-editable content.
-The key feature of TiddlyWiki is that instead of WikiName links leading to new pages, it displays a new set of microcontent at the top of the current page, pushing your previous content toward the bottom of the page.</description>
-    </item>
-    
-    <item>
-      <title>TiddlyWiki</title>
-      <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
-      <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</guid>
-      <description>I keep an eye out for new ideas in Wiki technology (see my post from February Looking at Wiki), and I recently became fascinated by TiddlyWiki. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my EditThisPagePHP, it appears to be an elegant experiment to look into the future of this medium of user-editable content.
-The key feature of TiddlyWiki is that instead of WikiName links leading to new pages, it displays a new set of microcontent at the top of the current page, pushing your previous content toward the bottom of the page.</description>
-    </item>
-    
-    <item>
-      <title>Progressive Trust</title>
-      <link>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</link>
-      <pubDate>Mon, 16 Aug 2004 23:42:15 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/08/progressive_tru.html</guid>
-      <description>I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
-One useful concept I use I call &#34;Progressive Trust&#34;. The basic idea is to model how trust works in the real world, between real people, rather then solely relying on mathematical or cryptographic trust.</description>
-    </item>
-    
-    <item>
-      <title>Simple Yet Sophisticated Group Page Editing</title>
-      <link>http://www.lifewithalacrity.com/2004/05/simple_yet_soph.html</link>
-      <pubDate>Thu, 13 May 2004 14:58:39 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/05/simple_yet_soph.html</guid>
-      <description>I have been leading the design of a new Open Source collaboration tool called EditThisPagePHP, which started six months ago and now is in beta.
-My goal with EditThisPagePHP attempt to come close to Dave Winer&#39;s visionary statement back in May of 1999:
-When I&#39;m writing for the web, and I&#39;m browsing my own site, every bit of text that I create has a button that says Edit This Page when I view it.</description>
-    </item>
-    
-    <item>
-      <title>Looking at Wiki</title>
-      <link>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</link>
-      <pubDate>Mon, 02 Feb 2004 05:57:48 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</guid>
-      <description>I&#39;ve not just been spending time looking at social networking services, I&#39;ve also been digging deeper into wiki. I&#39;ve still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.
-Zwiki is based on Zope, and thus has a very interesting feature set. One of the more popular features is the topic mappings that it creates.</description>
-    </item>
-    
-    <item>
-      <title>Robots Dancing in the Uncanny Valley, Knowledge Navigator and UI Design</title>
-      <link>http://www.lifewithalacrity.com/2004/01/robots_dancing_.html</link>
-      <pubDate>Tue, 13 Jan 2004 15:21:07 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/01/robots_dancing_.html</guid>
-      <description>At a recent unofficial gathering of Future Salon&#39;ers, there was a discussion about a demonstration of four robots doing a japanese fan dance to music (I think it was seen at CES in Las Vegas last week). The remark was that it was vaguely disturbing because your intellect knows that they are just robots, but someplace deep in your brain you know that they are alive because of the way that they move.</description>
-    </item>
-    
-    <item>
-      <title>Reinventing Email</title>
-      <link>http://www.lifewithalacrity.com/2003/12/reinventing_ema.html</link>
-      <pubDate>Tue, 09 Dec 2003 16:00:56 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2003/12/reinventing_ema.html</guid>
-      <description>As a user-interface designer in the 80&#39;s for companies like Apple Computer, and as old &#39;groupware&#39; professional in the early 90&#39;s, I&#39;ve been quite disappointed with how design of collaborative apps appears to have practically ceased since the introduction of the web.
-It is not that there haven&#39;t been lots of new features added in the last 10 years, it is that they are often too complex, or are pure eye-candy and not particular useful.</description>
     </item>
     
   </channel>

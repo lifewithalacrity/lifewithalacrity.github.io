@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>caller-id on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in caller-id on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Mar 2004 03:50:41 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/caller-id/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 05 Mar 2004 03:50:41 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/caller-id/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post RSA Conference Wrapup</title>
       <link>http://www.lifewithalacrity.com/2004/03/post_rsa_confer.html</link>

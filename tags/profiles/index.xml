@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>profiles on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in profiles on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Feb 2004 11:39:47 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Feb 2004 11:39:47 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/profiles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Advice to Social Networking Services</title>
       <link>http://www.lifewithalacrity.com/2004/02/my_advice_to_so.html</link>

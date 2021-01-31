@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wiki on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Wiki on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 08 Oct 2005 16:04:17 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SynchroEdit: Simultaneous Editing for the Web</title>
       <link>http://www.lifewithalacrity.com/2005/10/for_the_last_se.html</link>
@@ -27,8 +23,8 @@ The basic concept is that it allows multiple users to WYSIWYG edit a single web-
       <pubDate>Mon, 18 Jul 2005 14:13:15 -0700</pubDate>
       
       <guid>http://www.lifewithalacrity.com/2005/07/extrapolative_h.html</guid>
-      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.&amp;ndash; The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&amp;rsquo;s column he says something that I find very accurate to my experience with the online medium:
-As for why people get hostile when they hear a differing opinion, I go back to Spinoza&amp;rsquo;s definition of love and hatred.</description>
+      <description>ExtrapolateTo infer an unknown from something that is known; conjecture.-- The Random House College Dictionary Mick LaSalle, an acerbic movie reviewer for the San Francisco Chronicle, writes a regular column &amp;quot;Ask Mick LaSalle&amp;quot; in the Sunday paper, where he sometimes allows others to vent their displeasure at his movie reviews. In this week&#39;s column he says something that I find very accurate to my experience with the online medium:
+As for why people get hostile when they hear a differing opinion, I go back to Spinoza&#39;s definition of love and hatred.</description>
     </item>
     
     <item>
@@ -81,25 +77,6 @@ By examining the many terms used to describe today&#39;s &#39;social software&#3
     </item>
     
     <item>
-      <title>JotSpot: Application Wiki</title>
-      <link>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</link>
-      <pubDate>Thu, 07 Oct 2004 00:39:29 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/10/jotspot_applica.html</guid>
-      <description>Joe Kraus, one of the co-founders of Excite, and new blogger has long been rumored to be working on a new wiki tool. Today at the Web 2.0 conference Joe finally unveiled JotSpot, a new type of wiki that they have named an &#34;Application Wiki&#34;. JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.</description>
-    </item>
-    
-    <item>
-      <title>TiddlyWiki</title>
-      <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
-      <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</guid>
-      <description>I keep an eye out for new ideas in Wiki technology (see my post from February Looking at Wiki), and I recently became fascinated by TiddlyWiki. It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my EditThisPagePHP, it appears to be an elegant experiment to look into the future of this medium of user-editable content.
-The key feature of TiddlyWiki is that instead of WikiName links leading to new pages, it displays a new set of microcontent at the top of the current page, pushing your previous content toward the bottom of the page.</description>
-    </item>
-    
-    <item>
       <title>TiddlyWiki</title>
       <link>http://www.lifewithalacrity.com/2004/09/tiddlywiki.html</link>
       <pubDate>Mon, 27 Sep 2004 20:28:46 -0700</pubDate>
@@ -117,26 +94,6 @@ The key feature of TiddlyWiki is that instead of WikiName links leading to new p
       <guid>http://www.lifewithalacrity.com/2004/08/intimacy_gradie.html</guid>
       <description>A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found The Dunbar Number in sociology, and both Four Kinds of Privacy and Progressive Trust come from my work in the cryptography field. The topic of this post comes from the field of architecture.
 In order to provide for Progressive Trust, you need to establish what is known as an &#34;</description>
-    </item>
-    
-    <item>
-      <title>Intimacy Gradient and Other Lessons from Architecture</title>
-      <link>http://www.lifewithalacrity.com/2004/08/intimacy_gradie.html</link>
-      <pubDate>Thu, 26 Aug 2004 16:56:26 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/08/intimacy_gradie.html</guid>
-      <description>A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found The Dunbar Number in sociology, and both Four Kinds of Privacy and Progressive Trust come from my work in the cryptography field. The topic of this post comes from the field of architecture.
-In order to provide for Progressive Trust, you need to establish what is known as an &#34;</description>
-    </item>
-    
-    <item>
-      <title>Looking at Wiki</title>
-      <link>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</link>
-      <pubDate>Mon, 02 Feb 2004 05:57:48 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2004/02/looking_at_wiki.html</guid>
-      <description>I&#39;ve not just been spending time looking at social networking services, I&#39;ve also been digging deeper into wiki. I&#39;ve still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.
-Zwiki is based on Zope, and thus has a very interesting feature set. One of the more popular features is the topic mappings that it creates.</description>
     </item>
     
     <item>

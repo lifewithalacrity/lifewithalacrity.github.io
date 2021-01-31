@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in software on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2004 14:12:29 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 22 Feb 2004 14:12:29 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Security &amp; Cryptography: The Bad Business of Fear</title>
       <link>http://www.lifewithalacrity.com/2004/02/security_crypto.html</link>

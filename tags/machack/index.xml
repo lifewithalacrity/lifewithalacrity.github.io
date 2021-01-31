@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machack on Life With Alacrity</title>
@@ -6,22 +6,7 @@
     <description>Recent content in machack on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jul 2007 23:19:52 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/machack/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>iPhoneDevCamp and Hack-a-Thon</title>
-      <link>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</link>
-      <pubDate>Sun, 08 Jul 2007 23:19:52 -0700</pubDate>
-      
-      <guid>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</guid>
-      <description>I feel privileged and honored to have been part of the iPhoneDevCamp this last weekend. Over 380 iPhone developers came out to the Adobe Campus in San Francisco to help each other make the best possible web pages and webapps for the iPhone.
-I was the keynote speaker on Saturday and Master of Ceremonies for the MacHack-style Hack-a-Thon Demo on Sunday.
-At the Hack-a-Thon almost 50 iPhone web applications were demonstrated to an enthusiastic audience.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 08 Jul 2007 23:19:52 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/machack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iPhoneDevCamp and Hack-a-Thon</title>
       <link>http://www.lifewithalacrity.com/2007/07/iphonedevcamp-a.html</link>

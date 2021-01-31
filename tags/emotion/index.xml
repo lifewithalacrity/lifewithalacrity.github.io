@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emotion on Life With Alacrity</title>
@@ -6,11 +6,7 @@
     <description>Recent content in emotion on Life With Alacrity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Feb 2006 13:07:32 -0700</lastBuildDate>
-    
-	<atom:link href="http://www.lifewithalacrity.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 13 Feb 2006 13:07:32 -0700</lastBuildDate><atom:link href="http://www.lifewithalacrity.com/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flames: Emotional Amplification of Text</title>
       <link>http://www.lifewithalacrity.com/2006/02/flames_emotiona.html</link>
